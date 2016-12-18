@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "index": {
+      "analysis": {
+        "filter": {
+          "custom_word_delimiter": {
+            "split_on_numerics": "false",
+            "generate_word_parts": "true",
+            "type": "word_delimiter",
+            "stem_english_possessive": "true",
+            "generate_number_parts": "true"
+          },
+          "my_stopwords": {
+            "type": "stop",
+            "stopwords": ["a", "about", "above", "after",…]
+          },
+        },
+        "analyzer": {
+		      "custom_analyzer": {
+            "filter": ["custom_word_delimiter", "lowercase", "my_stopwords"],
+            "type": "custom",
+            "tokenizer": "classic"
+          }
+        }
+      },
+      "number_of_shards": "1",
+      "version": {
+        "created": "1030299"
+      },
+      "uuid": "yKuZZBclSAKWk13kGQzdhg",
+      "number_of_replicas": "1"
+    }
+  }
+}

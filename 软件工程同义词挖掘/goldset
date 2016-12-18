@@ -1,0 +1,8 @@
+Project: iReport   Concern: Add Textfield
+
+Gold Set:
+jReportFrame.dropNewTextField(Point, String, String, String)
+jReportFrame.dropNewTextField(Point, String, String)
+jReportPanel.drop(DropTargetDropEvent)
+TextFieldReportElement.TextFieldReportElement(int, int, int, int)
+TextReportElement.TextReportElement(int, int, int, int)

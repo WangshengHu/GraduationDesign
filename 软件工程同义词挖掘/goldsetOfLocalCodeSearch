@@ -1,0 +1,12 @@
+Project: iReport   Query: Initialize chart dialog
+
+ChartPropertiesDialog.initAll()   
+ChartPropertiesDialog.initComponents()   
+ChartSelectionJDialog.initAll()   
+ChartSelectionJDialog.initComponents()   
+IReportChartDialog.initAll()   
+IReportChartDialog.initComponents()
+
+
+
+

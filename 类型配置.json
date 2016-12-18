@@ -1,0 +1,37 @@
+{
+  "snippet": {
+    "properties": {
+      "methodname": {
+        "type": "string",
+        "analyzer": "custom_analyzer"
+      },
+      "classname": {
+        "type": "string",
+        "analyzer": "custom_analyzer"
+      },
+      "body": {
+        "type": "string",
+        "analyzer": "custom_analyzer"
+      },
+	    "comment": {
+        "type": "string",
+        "analyzer": "custom_analyzer_stopwords"
+      },
+      "filepath": {
+        "type": "string"
+      },
+      "projectLink": {
+        "type": "string"
+      },
+      "projectName": {
+        "type": "string"
+      },
+      "license": {
+        "type": "string"
+      },
+      "repositoryOrigin": {
+        "type": "string"
+      },
+    }
+  }
+}
