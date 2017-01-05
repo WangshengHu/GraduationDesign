@@ -1,0 +1,144 @@
+fontarial,fontserif, 0.75,1,font font new fontarial,font font new fontserif
+intermediate_thumbnail_width,initial_string_buffer_size, 0.75,1,public static int intermediate_thumbnail_width,public static final int initial_string_buffer_size
+thumbnail_width,fullscreen_width, 0.75,1,public static int thumbnail_width,public static int fullscreen_width
+albumfilename,photosfilename, 0.777777777777778,1,string albumfilename directory + file separator + album dat,string photosfilename directory + file separator + photos dat
+fullscreen_height,initial_string_buffer_size, 0.75,1,public static int fullscreen_height,public static final int initial_string_buffer_size
+fullscreen_width,low_frequency_delay, 0.75,1,public static int fullscreen_width,public static int low_frequency_delay
+intermediate_thumbnail_width,intermediate_thumbnail_height, 0.75,1,public static int intermediate_thumbnail_width,public static int intermediate_thumbnail_height
+audio,media, 0.75,1,interface to represent a playlist of audio files,base container interface to represent a containercollection of media files
+type,title, 0.8,1,comparator that sorts by type,comparator that sorts by title
+tivo_port,thumbnail_width, 0.75,1,public static int tivo_port,public static int thumbnail_width
+image,backgroundimage, 0.75,1,image image imagetracker getimage,image backgroundimage imagetracker getimage
+main,base, 0.714285714285714,1,main class to handle incoming tivo requests,base class to represent all incoming tivo requests
+albumtext,phototext, 0.75,1,string albumtext bufreader readline,string phototext bufreader readline
+month,duration, 0.833333333333333,1,find key for sorting by month,find key for sorting by duration
+png,jpg, 0.8,1,outputstream baos new fileoutputstreamcjavahmotest png,outputstream baos new fileoutputstreamcjavahmotest jpg
+tivo_port,high_frequency_period, 0.75,1,public static int tivo_port,public static int high_frequency_period
+albumtext,lineoftext, 0.75,1,string albumtext bufreader readline,string lineoftext bufreader readline
+allow,restrict, 0.833333333333333,1,find a rule that allows downloads,find a rule that restricts downloads
+thumbnail_height,high_frequency_delay, 0.75,1,public static int thumbnail_height,public static int high_frequency_delay
+album,photos, 0.777777777777778,1,string albumfilename directory + file separator + album dat,string photosfilename directory + file separator + photos dat
+tivo_port,thumbnail_height, 0.75,1,public static int tivo_port,public static int thumbnail_height
+decade,duration, 0.833333333333333,1,find key for sorting by decade,find key for sorting by duration
+prefix,suffix, 0.875,3,one of the supplied prefixes,one of the supplied suffixes,file does not match list of accepted prefixes,file does not match list of accepted suffixes,copy the array of suffixes,copy the array of prefixes
+dh,part, 0.75,1,inputstream is dh getinputstream,inputstream is part getinputstream
+listing,internet, 0.75,1,container for listing images,container for internet images
+position,classloader, 0.75,1,use the default position,use the default classloader
+mu,pls, 0.857142857142857,1,mu playlists of audio files and urls,pls playlists of audio files and urls
+low_frequency_delay,high_frequency_delay, 0.75,1,public static int low_frequency_delay,public static int high_frequency_delay
+fullscreen_height,intermediate_thumbnail_width, 0.75,1,public static int fullscreen_height,public static int intermediate_thumbnail_width
+image,represents, 0.833333333333333,1,image meta data required by tivo,represents meta data required by tivo
+thumbnail_width,low_frequency_delay, 0.75,1,public static int thumbnail_width,public static int low_frequency_delay
+thumbnail_width,intermediate_thumbnail_height, 0.75,1,public static int thumbnail_width,public static int intermediate_thumbnail_height
+high_frequency_delay,initial_string_buffer_size, 0.75,1,public static int high_frequency_delay,public static final int initial_string_buffer_size
+year,duration, 0.833333333333333,1,find key for sorting by year,find key for sorting by duration
+child,mstati, 0.75,1,iterator i children iterator,for iterator i mstations iterator
+store,session, 0.75,1,get a store object,get a session object
+black,white, 0.75,1,the image for black,the image for white
+fullscreen_height,high_frequency_period, 0.75,1,public static int fullscreen_height,public static int high_frequency_period
+thumbnail_height,intermediate_thumbnail_width, 0.75,1,public static int thumbnail_height,public static int intermediate_thumbnail_width
+thumbnail_width,fullscreen_height, 0.75,1,public static int thumbnail_width,public static int fullscreen_height
+audio,image, 0.9,5,the audio organizer cache is persisted in an xml file,the image organizer cache is persisted in an xml file,interface to represent a playlist of audio files,interface to represent a container of image files,interface for image plugins,interface for audio plugins,request from tivo for an image document,request from tivo for an audio document,container for image organizer,container for audio organizer
++,munknowngraphicfile, 0.833333333333333,1,+ system getpropertyroot + imagesunknown png,munknowngraphicfile system getpropertyroot + imagesunknown png
+albumfilename,fileabsolutepath, 0.75,1,string albumfilename directory + file separator + album dat,string fileabsolutepath directory + file separator + dirtouse
+tivo_port,initial_string_buffer_size, 0.75,1,public static int tivo_port,public static final int initial_string_buffer_size
+textvaluecolor,color, 0.75,2,color textvaluecolor new color,very light blue color color new color,color color new color,color textvaluecolor new color
+fullscreen_height,intermediate_thumbnail_height, 0.75,1,public static int fullscreen_height,public static int intermediate_thumbnail_height
+type,date, 0.8,1,comparator that sorts by type,comparator that sorts by date
+end,start, 0.75,1,end of an element,start of an element
+filter,sort, 0.875,2,return a filter filter that matches a tivo filter parameter,return a chainedcomparator that matches a tivo sort parameter,the tivo sort param can contain multiple types,the tivo filter param can contain multiple types
+fullscreen_width,intermediate_thumbnail_width, 0.75,1,public static int fullscreen_width,public static int intermediate_thumbnail_width
+fullscreen_width,fullscreen_height, 0.75,1,public static int fullscreen_width,public static int fullscreen_height
+params,parameters, 0.75,1,get params from url,get parameters from the request url
+year,decade, 0.833333333333333,1,find key for sorting by year,find key for sorting by decade
+year,month, 0.833333333333333,1,find key for sorting by year,find key for sorting by month
+p,dh, 0.75,1,inputstream is p getinputstream,inputstream is dh getinputstream
+textlabelcolor,color, 0.75,2,color textlabelcolor new color,very light blue color color new color,color color new color,color textlabelcolor new color
+thumbnail_height,high_frequency_period, 0.75,1,public static int thumbnail_height,public static int high_frequency_period
+correct,null, 0.75,1,if we play an image getpath is correct,todo if we play an audio item getpath is null
+tivo_port,high_frequency_delay, 0.75,1,public static int tivo_port,public static int high_frequency_delay
+parameter_format,parameter_filter, 0.833333333333333,1,public static final string parameter_format_audio audio,public static final string parameter_filter_audio audio
+icon,imagetracker, 0.75,1,image image icon getimage,image image imagetracker getimage
+high_frequency_delay,high_frequency_period, 0.75,1,public static int high_frequency_delay,public static int high_frequency_period
+albums,photos, 0.888888888888889,1,if log isdebugenabled log debuggot + numentries + albums,if log isdebugenabled log debuggot + numentries + photos
+fullscreen_height,low_frequency_delay, 0.75,1,public static int fullscreen_height,public static int low_frequency_delay
+fileimagename,filesubalbumpath, 0.75,1,file file resolvelinknew fileimagename,file file resolvelinknew filesubalbumpath
+vertically,horizontally, 0.9,1,place the original image inside the new image vertically centered,place the original image inside the new image horizontally centered
+low_frequency_delay,initial_string_buffer_size, 0.75,1,public static int low_frequency_delay,public static final int initial_string_buffer_size
+high_frequency_period,initial_string_buffer_size, 0.75,1,public static int high_frequency_period,public static final int initial_string_buffer_size
+directoryurl +,+ subalbumname, 0.75,1,directoryurl + directoryurl +,string urltouse directoryurl + + subalbumname
+negative,positive, 0.75,1,when itemcount is negative,when itemcount is positive
+sorted results,proxy instances, 0.8,1,utility wrapper class to store sorted results in the cache,utility wrapper class to store proxy instances in the cache
+details,temperature, 0.8,1,current details font new fonthelvetica,current temperature font new fonthelvetica
+p,part, 0.75,1,inputstream is p getinputstream,inputstream is part getinputstream
+network_mask,broadcast_address, 0.75,1,public static string network_mask,public static string broadcast_address
+ip,mac, 0.833333333333333,1,see if line contains ip address,see if line contains mac address
+modifying,modification, 0.75,1,modifying or distributing the software or its derivatives,modification or distribution of the software or its derivatives
+galleryalbum gatherdirectory,gallery gatherdirectoryfromfilesystem, 0.75,1,galleryalbum gatherdirectory not a directory + directory getpath,gallery gatherdirectoryfromfilesystem not a directory + directory getpath
+createjpegencoderbaos,createjpegencoderoutput, 0.75,1,jpegimageencoder encoder jpegcodec createjpegencoderbaos,jpegimageencoder encoder jpegcodec createjpegencoderoutput
+annie,mpannie, 0.833333333333333,1,annie lennox - little bird mp,mpannie lennox - little bird mp
+thumbnail_width,initial_string_buffer_size, 0.75,1,public static int thumbnail_width,public static final int initial_string_buffer_size
+fullscreen_width,initial_string_buffer_size, 0.75,1,public static int fullscreen_width,public static final int initial_string_buffer_size
+phototext,lineoftext, 0.75,1,string phototext bufreader readline,string lineoftext bufreader readline
+tivo_port,low_frequency_delay, 0.75,1,public static int tivo_port,public static int low_frequency_delay
+thumbnail_width,high_frequency_period, 0.75,1,public static int thumbnail_width,public static int high_frequency_period
+decimal,alphabetical, 0.857142857142857,1,find key for sorting by decimal value,find key for sorting by alphabetical value
+unescapexmlcharsmusicall,unescapexmlcharstivoconnectcommandquerycontainercontainermusicall, 0.888888888888889,1,system out printlnhmotools unescapexmlcharsmusicall my songsvarious artists - joostaposs,system out printlnhmotools unescapexmlcharstivoconnectcommandquerycontainercontainermusicall my songsvarious artists - joostaposs
+month,surname, 0.833333333333333,1,find key for sorting by month,find key for sorting by surname
+mp,image, 0.833333333333333,3,background thread to organize mp files,background thread to organize image files,utility class to track mp tags,utility class to track image tags,collect all mp files,collect all image files
+year,surname, 0.833333333333333,1,find key for sorting by year,find key for sorting by surname
+matcherphototext,matcherlineoftext, 0.75,1,matcher numentriesmatcher numentriespattern matcherphototext,matcher numentriesmatcher numentriespattern matcherlineoftext
+jpg,internet, 0.833333333333333,1,proxy class to load jpg images,proxy class to load internet images
+thumbnail_height,initial_string_buffer_size, 0.75,1,public static int thumbnail_height,public static final int initial_string_buffer_size
+high_frequency_delay,intermediate_thumbnail_height, 0.75,1,public static int high_frequency_delay,public static int intermediate_thumbnail_height
+titleweather,titlemovies, 0.75,1,reload statenh titleweather zip,reload searchradius statenh titlemovies zip
+fileoutputstreamdtext,fileoutputstreamcjavahmotest, 0.8,1,outputstream baos new fileoutputstreamdtext jpg,outputstream baos new fileoutputstreamcjavahmotest jpg
+fullscreen_height,high_frequency_delay, 0.75,1,public static int fullscreen_height,public static int high_frequency_delay
+directoryurl +,+ dirtouse, 0.75,1,directoryurl + directoryurl +,string urltouse directoryurl + + dirtouse
+decade,surname, 0.833333333333333,1,find key for sorting by decade,find key for sorting by surname
+thumbnail_height,low_frequency_delay, 0.75,1,public static int thumbnail_height,public static int low_frequency_delay
+multipartp,multipartpart, 0.75,1,multipart mp multipartp getcontent,multipart mp multipartpart getcontent
+tivo_port,fullscreen_height, 0.75,1,public static int tivo_port,public static int fullscreen_height
+thumbnail_width,intermediate_thumbnail_width, 0.75,1,public static int thumbnail_width,public static int intermediate_thumbnail_width
+high_frequency_period,intermediate_thumbnail_height, 0.75,1,public static int high_frequency_period,public static int intermediate_thumbnail_height
+thumbnail_height,fullscreen_width, 0.75,1,public static int thumbnail_height,public static int fullscreen_width
+photosfilename,albumdbfilename, 0.777777777777778,1,string photosfilename directory + file separator + photos dat,string albumdbfilename directory + file separator + albumdb dat
+playlist,container, 0.75,1,interface to represent a playlist of audio files,interface to represent a container of image files
+tivo_port,fullscreen_width, 0.75,1,public static int tivo_port,public static int fullscreen_width
+precede,follow, 0.875,1,the items immediately preceding the anchor are described,the items immediately following the anchor are described
+thumbnail_height,intermediate_thumbnail_height, 0.75,1,public static int thumbnail_height,public static int intermediate_thumbnail_height
+high_frequency_delay,intermediate_thumbnail_width, 0.75,1,public static int high_frequency_delay,public static int intermediate_thumbnail_width
+photos,albumdb, 0.875,2,if log isdebugenabled log debugbefore matching photos dat,if log isdebugenabled log debugbefore matching albumdb dat,string photosfilename directory + file separator + photos dat,string albumdbfilename directory + file separator + albumdb dat
+warning,error, 0.833333333333333,1,receive notification of a parser warning,receive notification of a recoverable parser error
+url,file, 0.833333333333333,1,proxy class to load mp urls,proxy class to load mp files
+class,servlet, 0.714285714285714,2,main class to handle incoming tivo requests,main servlet to handle all tivo streaming requests,main servlet to handle all tivo requests,main class to handle incoming tivo requests
+albumfilename,albumdbfilename, 0.777777777777778,1,string albumfilename directory + file separator + album dat,string albumdbfilename directory + file separator + albumdb dat
+intermediate_thumbnail_height,initial_string_buffer_size, 0.75,1,public static int intermediate_thumbnail_height,public static final int initial_string_buffer_size
+required,non-required, 0.75,1,check for required attributes,check for non-required attributes
+fullscreen_width,high_frequency_period, 0.75,1,public static int fullscreen_width,public static int high_frequency_period
+fullscreen_width,high_frequency_delay, 0.75,1,public static int fullscreen_width,public static int high_frequency_delay
+organizer,files, 0.75,1,container for audio organizer,container for listing audio files
+fullscreen_width,intermediate_thumbnail_height, 0.75,1,public static int fullscreen_width,public static int intermediate_thumbnail_height
+low_frequency_delay,high_frequency_period, 0.75,1,public static int low_frequency_delay,public static int high_frequency_period
+tivoconnecturl,tivoconnectcommandquerycontainercontainerurl, 0.857142857142857,1,this will be of the form tivoconnecturl,this will be of the form tivoconnectcommandquerycontainercontainerurl
+fileabsolutepath,photosfilename, 0.75,1,string fileabsolutepath directory + file separator + dirtouse,string photosfilename directory + file separator + photos dat
+thumbnail_height,fullscreen_height, 0.75,1,public static int thumbnail_height,public static int fullscreen_height
+dirtouse,subalbumname, 0.833333333333333,1,string urltouse directoryurl + + dirtouse,string urltouse directoryurl + + subalbumname
+low_frequency_delay,intermediate_thumbnail_width, 0.75,1,public static int low_frequency_delay,public static int intermediate_thumbnail_width
+thumbnail_width,high_frequency_delay, 0.75,1,public static int thumbnail_width,public static int high_frequency_delay
+fileabsolutepath,albumdbfilename, 0.75,1,string fileabsolutepath directory + file separator + dirtouse,string albumdbfilename directory + file separator + albumdb dat
+thumbnail_width,thumbnail_height, 0.75,1,public static int thumbnail_width,public static int thumbnail_height
+playlist,containercollection, 0.75,1,interface to represent a playlist of audio files,base container interface to represent a containercollection of media files
+low_frequency_delay,intermediate_thumbnail_height, 0.75,1,public static int low_frequency_delay,public static int intermediate_thumbnail_height
+tivo_port,intermediate_thumbnail_width, 0.75,1,public static int tivo_port,public static int intermediate_thumbnail_width
+albums,titles, 0.75,1,private hashtable albums null,private static hashtable titles null
+tivo_port,intermediate_thumbnail_height, 0.75,1,public static int tivo_port,public static int intermediate_thumbnail_height
+files,folders, 0.875,2,when paging through a big list of files,when paging through a big list of folders,when paging through a big list of files,or if paging through a big list of folders
+textvaluecolor,textlabelcolor, 0.75,1,color textvaluecolor new color,color textlabelcolor new color
+end,front, 0.888888888888889,1,itemstart has wrapped past the end of the list,itemstart has wrapped past the front of the list
+month,decade, 0.833333333333333,1,find key for sorting by month,find key for sorting by decade
+surname,duration, 0.833333333333333,1,find key for sorting by surname,find key for sorting by duration
+date,title, 0.8,1,comparator that sorts by date,comparator that sorts by title
+high_frequency_period,intermediate_thumbnail_width, 0.75,1,public static int high_frequency_period,public static int intermediate_thumbnail_width
+album,albumdb, 0.777777777777778,1,string albumfilename directory + file separator + album dat,string albumdbfilename directory + file separator + albumdb dat
+mp,audio, 0.833333333333333,1,proxy class to load mp files,proxy class to load audio files

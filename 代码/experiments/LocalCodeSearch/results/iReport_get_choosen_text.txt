@@ -1,0 +1,42 @@
+PROJECT : iReport  QUERY : get choosen text
+****************************SWordNet****************************
+
+----------expansion num : 25 ----------
+----------expansion----------
+text : textfield rectangle image static barcode line hyperlinkable graphic shapes find only legend object frame labels field element band chart area sub grid lines volume ellipse
+----------search hits----------
+----------total 0 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 120 ----------
+----------expansion----------
+choosen : selected chosen choose chooses selecting selects select optgroup chose cbx dropdown choosing jlist2 recuperate combobox preselected preselect subitems item spinner1 clicked radiobutton graduacao spinner selection spinner2 treeview deselect option2 deselected combo2 pick choosed profil unselect dropdownlist clothing repopulated combox texfields
+get : obtain retrieve retreive grab getting return receive returns pass retrive assign gives fetch returned reassign obtained obtaining display returning extract throws print set recieve recover find gets extarct append got parse remove giving gettting obtains show initialize spit send correlate
+text : textarea texts jtext textfield label editorpane textbox edittext area jtextpane jtextarea content contents textpane textview labels field multiline textedit textareas texfield area2 pdf cell italic bold editor styled formatted caption urdu jeditorpane unformatted word editable edit lable richtext arabic uneditable
+----------search hits----------
+JEditTextArea.getSelectedText()  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\JEditTextArea.java 1160 1214
+JEditTextArea.setSelectedText(String)  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\JEditTextArea.java 1216 1311
+JEditTextArea.overwriteSetSelectedText(String)  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\JEditTextArea.java 1367 1408
+JEditTextArea.setSelectionStart(int)  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\JEditTextArea.java 956 965
+JEditTextArea.setSelectionEnd(int)  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\JEditTextArea.java 1006 1015
+JEditTextArea.getSelectionEndLine()  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\JEditTextArea.java 998 1004
+TextAreaPainter.setSelectionColor(Color)  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\TextAreaPainter.java 124 132
+JEditTextArea.setSelectionRectangular(boolean)  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\JEditTextArea.java 1437 1446
+PasteStyledElementItem.setNewStyle(ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\undo\PasteStyledElementItem.java 49 55
+PasteStyledElementItem.getElement()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\undo\PasteStyledElementItem.java 25 31
+PasteStyledElementItem.getNewStyle()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\undo\PasteStyledElementItem.java 41 47
+JEditTextArea.getSelectionStart()  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\JEditTextArea.java 917 923
+JEditTextArea.getSelectionStart(int)  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\JEditTextArea.java 925 946
+SimpleComboBoxEditor.setItem(Object)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\sheet\SimpleComboBoxEditor.java 53 56
+JEditTextArea.getSelectionStartLine()  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\JEditTextArea.java 948 954
+PasteStyledElementItem.setOriginalStyle(ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\undo\PasteStyledElementItem.java 65 71
+JEditTextArea.getSelectionEnd()  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\JEditTextArea.java 967 973
+TextAreaPainter.getSelectionColor()  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\TextAreaPainter.java 116 122
+SimpleComboBoxEditor.getItem()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\sheet\SimpleComboBoxEditor.java 43 45
+PasteStyledElementItem.setElement(ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\undo\PasteStyledElementItem.java 33 39
+JEditTextArea.getSelectionEnd(int)  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\JEditTextArea.java 975 996
+PasteStyledElementItem.getOriginalStyle()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\undo\PasteStyledElementItem.java 57 63
+----------total 22 hits----------
+
+

@@ -1,0 +1,42 @@
+PROJECT : javaHMO  QUERY : get music category
+****************************SWordNet****************************
+
+----------expansion num : 19 ----------
+----------expansion----------
+music : stocks internet empty playlist jukebox email shoutcast file web weather nntp desktop organizer movie rss images games playlists gallery
+----------search hits----------
+----------total 0 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 120 ----------
+----------expansion----------
+music : mp3 song karaoke audio sound midis video songs winamp m4a ogg mediaplayer wav brainz metronome mp3s plays soundfile playback audiotrack playlist equalizer piano soundpool song1 audios media clips audiofile bgm javazoom tracks tempo aac musics chords game tunes mp artist
+get : obtain retrieve retreive grab getting return receive returns pass retrive assign gives fetch returned reassign obtained obtaining display returning extract throws print set recieve recover find gets extarct append got parse remove giving gettting obtains show initialize spit send correlate
+category : categories subcategory subcategories category1 categories0 product genre catagory jlt item desig dish subgenres products ourinternalpackage dessert belonging article2 group categorized food salon clothing price sub id taxonomy department squery libelle column flg listmenu corresponding affiliate items quantity subcategory2 indiv anews
+----------search hits----------
+AudioProxy.setGenre(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\AudioProxy.java 116 118
+AudioTiVoItem.getArtist()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\AudioTiVoItem.java 30 30
+PlaylistProxy.getItems(TiVoQueryContainerRequest)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlaylistProxy.java 172 179
+AudioTiVoItem.getAlbumYear()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\AudioTiVoItem.java 40 40
+AudioTiVoItem.getAlbum()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\AudioTiVoItem.java 34 34
+AudioTiVoItem.getSong()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\AudioTiVoItem.java 32 32
+AudioTiVoItem.getGenre()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\AudioTiVoItem.java 36 36
+PlaylistProxy.setGroup(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlaylistProxy.java 232 234
+Mp3Wrapper.setGenre(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 161 163
+Mp3Wrapper.getGenre()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 157 159
+Mp3Proxy.getGenre(int)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\Mp3Proxy.java 82 87
+Mp3Proxy.getGenre(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\Mp3Proxy.java 89 98
+PlaylistContainer.getItemByUrl(ArrayList, String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlaylistProxy.java 163 167
+PlaylistProxy.getItem(TiVoDocumentRequest)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlaylistProxy.java 181 192
+PlaylistProxy.getGroup()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlaylistProxy.java 228 230
+AudioTiVoItem.getSeek()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\AudioTiVoItem.java 46 46
+AudioTiVoItem.getTrack()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\AudioTiVoItem.java 42 42
+AudioProxy.getGenre()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\AudioProxy.java 111 114
+Mp3UrlProxy.getGenre()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\Mp3UrlProxy.java 55 57
+AudioTiVoItem.getDuration()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\AudioTiVoItem.java 38 38
+AudioTiVoItem.getBitrate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\AudioTiVoItem.java 44 44
+PlaylistProxy.findItem(ArrayList, String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlaylistProxy.java 194 218
+----------total 22 hits----------
+
+

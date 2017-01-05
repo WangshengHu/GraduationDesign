@@ -1,0 +1,5 @@
+per,tied,0.666666666666667,3,per Map Entry getValue,Tied Map Entry,per Map Entry getKey,Tied Map Entry,per Map Entry setValue,Tied Map Entry
+per,default,0.666666666666667,9,per Map Entry getValue,Default Map Entry,per Map Entry getValue,Default Map Entry,per Map Entry getValue,Default Map Entry,per Map Entry getKey,Default Map Entry,per Map Entry getKey,Default Map Entry,per Map Entry getKey,Default Map Entry,per Map Entry setValue,Default Map Entry,per Map Entry setValue,Default Map Entry,per Map Entry setValue,Default Map Entry
+gets,put,0.666666666666667,1,Gets key value,put key value
+validates,put,0.666666666666667,1,Validates key value pair,put key value
+per,unmodifiable,0.666666666666667,6,per Map Entry getValue,Unmodifiable Map Entry,per Map Entry getValue,Unmodifiable Map Entry,per Map Entry getKey,Unmodifiable Map Entry,per Map Entry getKey,Unmodifiable Map Entry,per Map Entry setValue,Unmodifiable Map Entry,per Map Entry setValue,Unmodifiable Map Entry

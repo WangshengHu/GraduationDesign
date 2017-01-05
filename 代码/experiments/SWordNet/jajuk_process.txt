@@ -1,0 +1,215 @@
+dj stop
+add register
+view refresh device unmount
+font colour
+style device
+device refresh playlist change
+unmount synchronization
+select request
+token used
+device mount playlist refresh
+one perspective
+transitions proportions
+$non-nls-$ $non-nls-$ $non-nls-$$non-nls-$$non-nls-$ $non-nls-$
+display refresh
+cover property
+remove request
+take select
+manages current
+new corrupted
+item playlist
+play resume
+device unmount playlist refresh
+file style
+info-level warning-level
+history fifo
+give play
+refresh change
+visible planned
+tracks playlists
+change increase
+dj novelties
+track playlist
+def wai
+unmount refresh
+limit maximum
+data audio
+proportion transaction
+standard absolute
+album author
+device mount playlist change
+device playlist
+intro mode repeat status
+model property
+author playlistfile
+pause resume
+mount synchronize
+fifo repeat
+end start
+class variable
+name type
+width height
+create request
+take return
+file directory
+request make
+mount refresh
+track device
+image thumbnails
+property device
+jajuk system
+remove return
+continue mode repeat status
+data tracks
+shuffle continue
+cach pixels
+album device
+current selection existing transitions
+refresh synchronization
+style album
+current register
+view refresh playlist change
+bflorat administrateur
+item album
+file author
+play stop
+delete create
+style directory
+refreshing sychronizing
+path directories
+item transition
+new device playlist change
+local local-standard
+next album previous track
+show close
+show launch
+program library
+track style
+play pause
+view model
+remove add
+local defautl
+logical physical
+manages register
+next current
+refresh compare
+view refresh device mount
+delete remove
+request add
+file item
+worse better
+rate score
+refresh synchronize
+file album
+range domain
+track album
+device directory
+novelties stop
+intro continue
+playlist change device synchronization
+style author
+help cover
+play delete
+name property
+dj play
+given repeat
+new device view refresh
+next previous
+directory session
+styles proportion
+track author
+current selected
+change decrease
+mount unmount
+method call
+delete add
+try propose
+stop pauseresume
+rewind fast-forward
+novelties play
+pause stop
+check means
+history ambience
+dj pause
+show display
+track playlistfile
+new custom
+end panel
+dj resume
+plan fifo
+dj references
+need perform
+dir file
+new device playlist refresh
+styles authors
+icon name
+given right
+album medium
+file playlistfile
+path extension
+bflorat fdutron
+sync synchronize
+ms secs
+create add
+stop resume
+track directory
+command information
+file device
+increase decrease
+pdf html
+mounted accessible
+author directory
+selection file
+current previous
+device unmount playlist change
+novelties pause
+exist exit
+end begin
+up down
+dj factory
+album playlist
+album playlistfile
+view playlist
+droping clicking
+garbager autocommit
+view device
+row column
+views perspectives
+-jan- -dec-
+debug-level warning-level
+create remove
+nothing perspective
+medium author
+next track previous album
+persisted official
+file track
+playlist refresh device synchronization
+info-level debug-level
+parse delete
+play parse
+fdutron administrateur
+config history
+djs jajuk
+rate name
+album directory
+view refresh device synchronization
+mount synchronization
+give change
+finish album global shuffle
+shuffle mode repeat status
+author device
+intro shuffle
+ambiance ambience
+novelties resume
+propose change
+check change
+style ambience
+current Properties
+need void
+id Ambience
+propose change
+check change
+style ambience
+current Properties
+need void
+id Ambience

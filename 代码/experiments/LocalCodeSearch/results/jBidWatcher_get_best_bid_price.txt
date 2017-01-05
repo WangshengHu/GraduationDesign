@@ -1,0 +1,24 @@
+PROJECT : jBidWatcher  QUERY : get best bid price
+****************************SWordNet****************************
+
+----------expansion num : 51 ----------
+----------expansion----------
+best : minimum
+bid : action buy info date row about load delete search value name copy item channel token new snipe save edit faq print periodic table update padding entry repeat affiliate command disable add information auction stats comment help comparator status qobject serialize enable time sum single configure execute shipping rss quantity column
+----------search hits----------
+----------total 0 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 160 ----------
+----------expansion----------
+price : quantity prices discount qty sold taxes stock tax discounts cocaine mileage fee subtotal retail taxable price1 discounted rent surcharge product charges vat beverages meal sku cost bid goods inventory salesperson pounds commission shops totalcost depreciation sales score sale expenses calories
+get : obtain retrieve retreive grab getting return receive returns pass retrive assign gives fetch returned reassign obtained obtaining display returning extract throws print set recieve recover find gets extarct append got parse remove giving gettting obtains show initialize spit send correlate
+best : easiest better simplest good cleanest fastest recommended quickest proper safest optimal efficient ideal sensible elegant smartest easy optimum reasonable neatest convenient feasible alternate sane easier viable simpler advisable preferable systematic general nicest neater algorithmic alternative nice effective idiomatic practical cleaner
+bid : bids bidder price discount qty prices quantity auction stock equities seller bidders inapp buyer applicant fares price1 sale tax priced auctions buys librarian pricing goods bname mileage product retail procurement taxable itemcode income groceries sell promo shops discounted orderrecor0 shipment
+----------search hits----------
+AuctionsUIModel.getBestBidValue(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionsUIModel.java 154 181
+JBidMouse.getBestBidValue(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 351 378
+----------total 2 hits----------
+
+

@@ -1,0 +1,111 @@
+post,log, 0.75,1,this should be posted,this should be logged
+soldicon,boughticon, 0.8,1,private final static imageicon soldicon new imageiconauctiontablemodel class getresourceiconsgreen_check_ball gif,private final static imageicon boughticon new imageiconauctiontablemodel class getresourceiconsblue_check_ball gif
+logged,encodesearch, 0.75,1,this should be logged,this should be encodesearch
+auctioninfo,auctionentry, 0.875,1,throw new runtimeexceptionunexpected value when handling auctioninfo tags,throw new runtimeexceptionunexpected value when handling auctionentry tags
+compress,uncompress, 0.75,1,we cant compress null,we cant uncompress null
+jan,mar, 0.8,1,user morgan schweers date jan,user morgan schweers date mar
+to,into, 0.8,1,this calls back to here,this calls back into here
+inputstream,outputstream, 0.75,1,end inner class inputstream,end inner class outputstream
+logged,impossible, 0.75,1,this should be logged,this should be impossible
+cool,time-critical, 0.75,1,a very cool feature,because searching isnt a very time-critical feature
+there,identical, 0.75,1,if its not there,if its not identical
+jul,oct, 0.8,1,user morgan schweers date jul,user morgan schweers date oct
+exact,ignore_case, 0.833333333333333,1,private static final boolean exact true,private static final boolean ignore_case true
+dec,mar, 0.8,1,user morgan schweers date dec,user morgan schweers date mar
+odd,even, 0.833333333333333,5,point idct on odd indices,point idct on even indices,point idct on even indices,end point idct on odd indices,point idct on even indices,point idct on odd indices for point idct,point idct on odd indices,end point idct on even indices,end point idct on odd indices,end point idct on even indices
+exit,enter, 0.857142857142857,1,invoked when the mouse exits a component,invoked when the mouse enters a component
+blueicon,boughticon, 0.8,1,private final static imageicon blueicon new imageiconauctiontablemodel class getresourceiconsblue_ball gif,private final static imageicon boughticon new imageiconauctiontablemodel class getresourceiconsblue_check_ball gif
+token,auction, 0.75,1,iterate over the tokens,iterate over the auctions
+point idct,input aliasing, 0.75,1,point idct on odd indices for point idct,input aliasing on odd indices for point idct
+read,written, 0.8,1,end for each byte read,end for each byte written
+c,o, 0.857142857142857,1,errormanagement logmessagethread currentthread getname + rcvpage c,errormanagement logmessagethread currentthread getname + rcvpage o
+mrs,administrator, 0.75,1,user mrs date dec,user administrator date dec
+getresourceiconsblue_ball,getresourceiconsgreen_check_ball, 0.8,1,private final static imageicon blueicon new imageiconauctiontablemodel class getresourceiconsblue_ball gif,private final static imageicon soldicon new imageiconauctiontablemodel class getresourceiconsgreen_check_ball gif
+space,attribute, 0.8,1,if there are no spaces,if there are no attributes
+dec,oct, 0.8,1,user morgan schweers date dec,user morgan schweers date oct
+hour,second, 0.75,1,one hour in microseconds,one second in microseconds
+hour,minute, 0.75,1,one hour in microseconds,one minute in microseconds
+getresourceiconsblue_ball,getresourceiconsblue_check_ball, 0.8,1,private final static imageicon blueicon new imageiconauctiontablemodel class getresourceiconsblue_ball gif,private final static imageicon boughticon new imageiconauctiontablemodel class getresourceiconsblue_check_ball gif
+aug,jan, 0.8,1,user morgan schweers date aug,user morgan schweers date jan
+nov,dec, 0.75,1,user mrs date nov,user mrs date dec
+mac,filename, 0.75,1,if its a mac,if its just a filename
+getfiletype,getfilecreator, 0.875,1,the getfiletype method of com apple mrj mrjfileutils,the getfilecreator method of com apple mrj mrjfileutils
+dec,jul, 0.8,1,user morgan schweers date dec,user morgan schweers date jul
+encodesearch,synchronized, 0.75,1,this should be encodesearch,this should probably be synchronized
+makeostype,sendnoreply, 0.75,1,the makeostype method of com apple macos osutils,the sendnoreply method of com apple macos appleevent
+dec,aug, 0.8,1,user morgan schweers date dec,user morgan schweers date aug
+long,short, 0.857142857142857,1,find region boundary for long block case,find region boundary for short block case
+posted,impossible, 0.75,1,this should be posted,this should be impossible
+array,others, 0.75,1,clear out the array,clear out the others
+makeostype,putparameter, 0.75,1,the makeostype method of com apple macos osutils,the putparameter method of com apple macos appleevent
+n,m, 0.75,1,letters a through n,letters a through m
+jul,mar, 0.8,1,user morgan schweers date jul,user morgan schweers date mar
+line,stream, 0.8,2,end if end of line,end if not end of stream,if end of stream,end if end of line
+windows,identical, 0.75,1,if its not windows,if its not identical
+jan,oct, 0.8,1,user morgan schweers date jan,user morgan schweers date oct
+findfolder,getfilecreator, 0.875,1,the findfolder method of com apple mrj mrjfileutils,the getfilecreator method of com apple mrj mrjfileutils
+inexact,not_regex, 0.833333333333333,1,private static final boolean inexact false,private static final boolean not_regex false
+exact,is_regex, 0.833333333333333,1,private static final boolean exact true,private static final boolean is_regex true
+there,windows, 0.75,1,if its not there,if its not windows
+impossible,encodesearch, 0.75,1,this should be impossible,this should be encodesearch
+but,just, 0.75,1,but to be safe,just to be safe
+is_regex,ignore_case, 0.833333333333333,1,private static final boolean is_regex true,private static final boolean ignore_case true
+aug,mar, 0.8,1,user morgan schweers date aug,user morgan schweers date mar
+field,method, 0.75,1,description of the field,description of the method
+enumerate,return, 0.833333333333333,1,enumerates the subobjects of the object,returns the number of subobjects of the object
+jun,mar, 0.8,1,user morgan schweers date jun,user morgan schweers date mar
+getresourceiconsgreen_check_ball,getresourceiconsblue_check_ball, 0.8,1,private final static imageicon soldicon new imageiconauctiontablemodel class getresourceiconsgreen_check_ball gif,private final static imageicon boughticon new imageiconauctiontablemodel class getresourceiconsblue_check_ball gif
+there,available, 0.75,1,if its not there,if its not available
+down,selected, 0.8,1,if the button is down,if the radio button is selected
+left,right, 0.9,1,flag to indicate output should include the left channel only,flag to indicate output should include the right channel only
+day,hour, 0.75,1,one day in microseconds,one hour in microseconds
+point idct,twiddle factors, 0.75,2,point idct on odd indices for point idct,twiddle factors on odd indices for point idct,point idct on odd indices for point idct,twiddle factors on indices for point idct
+set,return, 0.833333333333333,1,sets a property of the object,returns a property of the object
+jun,jan, 0.8,1,user morgan schweers date jun,user morgan schweers date jan
+scan,return, 0.833333333333333,1,scans the content of the object,returns the pcdata content of the object
+post,synchronize, 0.75,1,this should be posted,this should probably be synchronized
+plus,equals, 0.75,1,plus sign at decimal,equals sign at decimal
+blueicon,soldicon, 0.8,1,private final static imageicon blueicon new imageiconauctiontablemodel class getresourceiconsblue_ball gif,private final static imageicon soldicon new imageiconauctiontablemodel class getresourceiconsgreen_check_ball gif
+inside,win, 0.833333333333333,1,nodes can be embedded inside themselves,i e nodes can be embedded win themselves
+false,null, 0.75,1,and just return false,and should just return null
+true,null, 0.75,1,this will be true,this value will not be null
+jul,jan, 0.8,1,user morgan schweers date jul,user morgan schweers date jan
+windows,available, 0.75,1,if its not windows,if its not available
+occur,happen, 0.75,1,this should never occur,this should never happen
+major,minor, 0.75,1,major version of nanoxml,minor version of nanoxml
+nov,sep, 0.75,1,user mrs date nov,user mrs date sep
+aug,jun, 0.8,1,user morgan schweers date aug,user morgan schweers date jun
+osutils,appleevent, 0.75,2,the makeostype method of com apple macos osutils,the sendnoreply method of com apple macos appleevent,the makeostype method of com apple macos osutils,the putparameter method of com apple macos appleevent
+mar,oct, 0.8,1,user morgan schweers date mar,user morgan schweers date oct
+content,attributes, 0.833333333333333,1,scans the content of the object,scans the attributes of the object
+available,identical, 0.75,1,if its not available,if its not identical
+sep,dec, 0.75,1,user mrs date sep,user mrs date dec
+file type,creator code, 0.777777777777778,1,the file type of the finder on a macintosh,the creator code of the finder on a macintosh
+lesser,library, 0.9,1,see the gnu lesser general public license for more details,see the gnu library general public license for more details
+dec,jun, 0.8,2,user administrator date dec,user administrator date jun,user morgan schweers date dec,user morgan schweers date jun
+findfolder,getfiletype, 0.875,1,the findfolder method of com apple mrj mrjfileutils,the getfiletype method of com apple mrj mrjfileutils
+program version,configuration settings, 0.75,1,allow validating individual configuration settings by program version,allow validating individual configuration settings by configuration settings
+aug,oct, 0.8,1,user morgan schweers date aug,user morgan schweers date oct
+day,second, 0.75,1,one day in microseconds,one second in microseconds
+forty,thirty, 0.75,1,forty minutes in microseconds,thirty minutes in microseconds
+openurl,getfiletype, 0.875,1,the openurl method of com apple mrj mrjfileutils,the getfiletype method of com apple mrj mrjfileutils
+ping,filename, 0.75,1,its just a ping,if its just a filename
+impossible,synchronized, 0.75,1,this should be impossible,this should probably be synchronized
+jul,aug, 0.8,1,user morgan schweers date jul,user morgan schweers date aug
+jun,oct, 0.8,1,user morgan schweers date jun,user morgan schweers date oct
+jul,jun, 0.8,1,user morgan schweers date jul,user morgan schweers date jun
+sendnoreply,putparameter, 0.875,1,the sendnoreply method of com apple macos appleevent,the putparameter method of com apple macos appleevent
+parents,content, 0.75,1,set the parents size,set the content size that gets returned
+second,minute, 0.75,2,thirty seconds in microseconds,thirty minutes in microseconds,one second in microseconds,one minute in microseconds
+dec,jan, 0.8,1,user morgan schweers date dec,user morgan schweers date jan
+create,use, 0.75,1,try to create it,so they dont try to use it
+day,minute, 0.75,1,one day in microseconds,one minute in microseconds
+kanytransactionid,kautogeneratereturnid, 0.75,1,the kanytransactionid appleevent code,the kautogeneratereturnid appleevent code
+openurl,getfilecreator, 0.875,1,the openurl method of com apple mrj mrjfileutils,the getfilecreator method of com apple mrj mrjfileutils
+pt,point, 0.8,2,input aliasing for pt idct,input aliasing on odd indices for point idct,input aliasing for pt idct,input aliasing for point idct
+third,second, 0.875,1,the third parameter for runtime exec on windows,the second parameter for runtime exec on windows
+openurl,findfolder, 0.875,1,the openurl method of com apple mrj mrjfileutils,the findfolder method of com apple mrj mrjfileutils
+posted,encodesearch, 0.75,1,this should be posted,this should be encodesearch
+log,synchronize, 0.75,1,this should be logged,this should probably be synchronized
+n,o, 0.75,1,letters n through z,letters o through z
+input aliasing,twiddle factors, 0.75,2,input aliasing on odd indices for point idct,twiddle factors on odd indices for point idct,twiddle factors on indices for point idct,input aliasing on odd indices for point idct

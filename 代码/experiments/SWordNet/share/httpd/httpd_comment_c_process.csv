@@ -1,0 +1,1428 @@
+eos,transient, 0.75,1,the eos bucket type,the transient bucket type
+apr_unkfile,valid, 0.75,1,the value is apr_unkfile,and that the provided value is valid
+apr_dbd_pbquery query,apr_dbd_pbselect select, 0.777777777777778,1,apr_dbd_pbquery query using a prepared statement + binary args,apr_dbd_pbselect select using a prepared statement + binary args
+checked-out resource,locknull resource, 0.857142857142857,2,if the resource is a checked-out resource,if the resource exists or is a locknull resource,if the resource is a checked-out resource,the resource is no longer a locknull resource
+fixed,unknown, 0.8,1,if the length is fixed,if the length is unknown
+ajp,utility, 0.8,1,ajp routines for apache proxy,utility routines for apache proxy
+thread,directory, 0.857142857142857,1,apr was not given a thread structure,apr was not given a directory structure
+at,past, 0.8,1,ptr is pointing at the,ptr is pointing past the bracket character
+transaction_mode_set,apr_dbd_transaction_mode_get, 0.833333333333333,1,transaction_mode_set get the mode of transaction,apr_dbd_transaction_mode_get get the mode of transaction
+select,apr_dbd_select, 0.9,1,select execute an sql query that returns a result set,apr_dbd_select execute an sql query that returns a result set
+log handler,writer initialization, 0.714285714285714,1,callback function prototype for a external log handler,callback function prototype for external writer initialization
+comment,description, 0.75,3,add a higher-level comment,maybe add a higher-level description,add a higher-level comment,add a higher-level description,add a higher-level comment,maybe add in a higher-level description
+root,bind, 0.75,1,if the root fails,if the bind fails
+apr_dbd_open open,apr_dbd_close close, 0.714285714285714,1,apr_dbd_open open a connection to a backend,apr_dbd_close close a connection to a backend
+resource walk,report delivery, 0.75,1,if an error occurred during the resource walk,if an error occurred during the report delivery
+apr_dbd_pselect,apr_dbd_pvselect, 0.875,1,apr_dbd_pselect select using a prepared statement + args,apr_dbd_pvselect select using a prepared statement + args
+first,somewhere, 0.75,1,run this hook first,run this hook somewhere
+suexec,ldap, 0.75,1,when suexec is enabled,handle the case when ldap is enabled
+time,branch, 0.75,2,this is first time,if this is not the first branch,this is first time,if this is the first branch
+sigterm,sigbreak, 0.833333333333333,1,is used for sigterm on windows,is used for sigbreak on windows
+send,parse, 0.75,1,send the request body,parse the request body
+appropriate,overwrite, 0.75,1,get the appropriate header,get and parse the overwrite header value
+url,port, 0.75,1,must be a url,there must be a port
+null,equivalent, 0.75,1,if both are null,if both ports are equivalent
+per-dir,per-directory, 0.75,1,merge per-dir config structures,merge per-directory config structures
+heap,flush, 0.75,1,the heap bucket type,the flush bucket type
+mod_ident,mod_logio, 0.8,1,optional function coming from mod_ident,optional function coming from mod_logio
+davsupported-report-set,davsupported-live-property-set, 0.75,1,generate davsupported-report-set options response,generate davsupported-live-property-set options response
+uri,file, 0.714285714285714,1,create a subrequest from the given uri,create a subrequest for the given file
+uschar,events, 0.75,1,so use uschar instead,so we use events instead
+literal,single-byte, 0.75,1,handle a literal character,handle a single-byte character
+current,first, 0.8,1,the current piece of text,the first piece of text in the list
+subject,script, 0.8,1,the length of the subject,find_content_length would return the length of the script
+null,modified, 0.75,1,it will be null,since it will be modified
+amount,length, 0.714285714285714,1,the amount of data in the mmap,the length of the data in the bucket
+pvbselect select,apr_dbd_pbquery query, 0.777777777777778,1,pvbselect select using a prepared statement + binary args,apr_dbd_pbquery query using a prepared statement + binary args
+make,made, 0.833333333333333,1,if we make it this far,if we made it this far
+workspace,locknull, 0.75,1,create a workspace resource,if this will create a locknull resource
+multiple,list, 0.833333333333333,2,this should be a multiple of,this should be a list of null-terminated strings,should be a multiple of,this should be a list of null-terminated strings
+total,current, 0.75,1,total number of items stored by this server,current number of items stored by the server
+uschar,spaces, 0.75,1,so use uschar instead,so use spaces instead
+pbselect,apr_dbd_pvbselect, 0.888888888888889,1,pbselect select using a prepared statement + binary args,apr_dbd_pvbselect select using a prepared statement + binary args
+completely,actually, 0.75,1,if we completely fail,if we actually fail here
+apr_dbd_pquery,pvbquery, 0.875,1,apr_dbd_pquery query using a prepared statement + args,pvbquery query using a prepared statement + binary args
+load,function, 0.75,1,if the load fails,if the function fails for this case
+logformat,transferlog, 0.857142857142857,1,if it doesnt have its own logformat,if it doesnt have its own transferlog
+is_subject,use_checked_in, 0.75,1,if is_subject is true,if use_checked_in is true
+apr_egeneral,apr_ebusy, 0.8,1,the function will return apr_egeneral,in which case the function will return apr_ebusy
+attributes,ownerperms, 0.75,1,modify the files attributes,modify the files ownerperms
+pool,server, 0.75,2,the pool to use,the server to use if this matches,the pool to use,the server to use on a match
+der,base, 0.857142857142857,4,client cert key file in der format,client cert key file in base format,client cert file in base format,client cert key file in der format,client cert file in der format,client cert key file in base format,client cert file in der format,client cert file in base format
+uri,pathname, 0.888888888888889,1,make sure the uri does not have a trailing,make sure the pathname does not have a trailing
+string,code, 0.75,1,returns an error string,otherwise it returns an error code
+inside,outside, 0.75,1,inside a character class,outside a character class
+stream,bigstring, 0.75,1,hit end of stream,hit the end of bigstring
+one,state_list, 0.8,1,we try the next one,we bust out and try the next state_list
+zero,extract_basic_max, 0.714285714285714,1,if the minimum is greater than zero,if the bracket number is greater than extract_basic_max
+give,save, 0.75,1,give the lock back,save the resolved direct lock back
+parent,resource, 0.833333333333333,1,remember that parent was checked out,remember that resource was checked out
+write,concatenate, 0.75,1,the strings to write,the strings to concatenate
+serve,cache, 0.714285714285714,1,add cache_out filter to serve this request,add cache_save filter to cache this request
+remote_name,remote_host, 0.75,1,remote_name returns the hostname,remote_host returns the hostname
+user,key, 0.75,1,reuse of user variable,reuse of key variable as result
+sigabrt,sigpoll, 0.833333333333333,1,is used for sigabrt on netware,is used for sigpoll on netware
+minor,major, 0.8,1,minor part of http protocol,major part of http protocol
+pvquery query,apr_dbd_pbselect select, 0.75,1,pvquery query using a prepared statement + args,apr_dbd_pbselect select using a prepared statement + binary args
+string,integer, 0.75,1,current string error code,current integer error code
+flush,socket, 0.75,1,the flush bucket type,the socket bucket type
+load,request, 0.75,1,if the load fails,if the request fails
+null,possible, 0.75,1,should not be null,should not be possible
+match,compile, 0.833333333333333,1,handle matching via the posix interface,handle compiling via the posix interface
+result,maximum, 0.8,2,if the result is zero,if the maximum is also zero,if the result is zero,and if the maximum is greater than zero
+rewritecond,rewriterule, 0.75,1,apply a single rewritecond,apply a single rewriterule
+full,empty, 0.857142857142857,4,returning immediately if the queue is full,returning immediately if the queue is empty,blocking if the queue is already full,blocking if the queue is already empty,detects when the fd_queue_t is full,detects when the fd_queue_t is empty,it may be empty,since it may only be full
+data,coordinates, 0.8,1,so if we dont have valid data,we dont have valid coordinates
+dav,http-defined, 0.857142857142857,1,these are the dav methods we handle,these are the http-defined methods that we handle directly
+desc,comment, 0.75,3,add a higher-level desc,add a higher-level comment,add a higher-level comment,maybe add a higher-level desc,add a higher-level comment,return err maybe add a higher-level desc
+legitimately,legitiamately, 0.9,1,server has legitimately shut down an idle keep alive request,server has legitiamately shut down an idle keep alive request
+pvselect select,pvbquery query, 0.75,1,pvselect select using a prepared statement + args,pvbquery query using a prepared statement + binary args
+bad,relative, 0.8,2,the given path was bad,the given path was relative,the given path was bad,apr_erelative the given path was relative
+end_transaction,apr_dbd_transaction_end, 0.857142857142857,1,end_transaction end a transaction commit on success,apr_dbd_transaction_end end a transaction commit on success
+pselect select,pvbquery query, 0.75,1,pselect select using a prepared statement + args,pvbquery query using a prepared statement + binary args
+sigint,sigterm, 0.833333333333333,2,is used for sigint on netware,is used for sigterm on netware,is used for sigint on windows,is used for sigterm on windows
+code,cases, 0.8,1,also separate the ucp code,and also separate the ucp cases
+headers,basename, 0.833333333333333,1,make a copy of the headers,make a copy of the basename
+wrong,appropriate, 0.75,1,data in the wrong order,in the appropriate order
+dbm,bucket, 0.833333333333333,2,the type of dbm,the type of bucket,the name of the dbm type,the name of the bucket type
+do,initiate, 0.8,1,now do the internal redirect,now initiate the internal redirect
+nickname,database, 0.75,1,netscapemozilla client certificate nickname,netscapemozilla key db client certificate database
+datum_get,apr_dbd_datum_get, 0.875,1,datum_get get a binary entry from a row,apr_dbd_datum_get get a binary entry from a row
+here,replaced, 0.75,1,should not be here,then it should not be replaced
+push,insert, 0.75,2,push a higher-level description,insert a higher-level error description,push a higher-level description,insert a higher-level description
+file,flush, 0.75,1,the file bucket type,the flush bucket type
+lock,alternative, 0.75,2,there are no locks,if there are no alternatives,there are no locks,if there are no alternatives
+args,headers-only, 0.75,1,now if we have args,now we have headers-only
+pbquery query,apr_dbd_pvselect select, 0.75,1,pbquery query using a prepared statement + binary args,apr_dbd_pvselect select using a prepared statement + args
+core,user, 0.75,1,let the core know,let the user know when were successful
+put,checkout, 0.75,1,handle the put method,handle the checkout method
+pvselect,apr_dbd_pselect, 0.875,1,pvselect select using a prepared statement + args,apr_dbd_pselect select using a prepared statement + args
+comment,name, 0.8,1,bit set file comment present,bit set original file name present
+pquery query,apr_dbd_pbselect select, 0.75,1,pquery query using a prepared statement + args,apr_dbd_pbselect select using a prepared statement + binary args
+proxy-sendcl,force-proxy-request-, 0.8,1,and the administrator has setenv proxy-sendcl,the administrator has setenv force-proxy-request-
+flag,no_args, 0.833333333333333,1,command handler for a flag directive,command handler for a no_args directive
+user,username, 0.75,1,if theres no user,if theres no username
+pattern,world, 0.75,1,end of the pattern,this isnt the end of the world
+header,readme, 0.857142857142857,2,if theres a header file,if theres a readme file,readme file emitted if found and able,header file emitted if found and able
+ctrl,write, 0.75,1,ctrl is never called,write is never called
+sigfpe,sigill, 0.833333333333333,2,is used for sigfpe on netware,is used for sigill on netware,is used for sigill on windows,is used for sigfpe on windows
+property,scheme, 0.75,1,name of the property,the name of the scheme
+pbselect select,apr_dbd_pbquery query, 0.777777777777778,1,pbselect select using a prepared statement + binary args,apr_dbd_pbquery query using a prepared statement + binary args
+apr_pool_clear,apr_pool_create_ex, 0.888888888888889,1,if you do not have apr_pool_clear in a wrapper,if you do not have apr_pool_create_ex in a wrapper
+init,match, 0.75,1,for the init function,flag bits for the match function
+forward,lookbehind, 0.75,1,for a forward assertion,or for a lookbehind assertion
+apr_dbd_pvquery query,pbselect select, 0.75,1,apr_dbd_pvquery query using a prepared statement + args,pbselect select using a prepared statement + binary args
+pvquery query,pvselect select, 0.75,1,pvquery query using a prepared statement + args,pvselect select using a prepared statement + args
+pselect select,apr_dbd_pvbquery query, 0.75,1,pselect select using a prepared statement + args,apr_dbd_pvbquery query using a prepared statement + binary args
+error,description, 0.75,3,add a higher-level error,maybe add a higher-level description,add a higher-level error,add a higher-level description,add a higher-level error,maybe add in a higher-level description
+file,trailer, 0.875,1,skip over any file data which was written,skip over any trailer data which was written
+search,delete, 0.75,1,handle the search method,handle the delete method
+big,small, 0.833333333333333,1,if the test character is bigger,if the test character is smaller
+checksumsetc,content-lengthetc, 0.833333333333333,1,filter changes contents so invalidating checksumsetc,filter changes length of contents so invalidating content-lengthetc
+apr_dbd_pquery,apr_dbd_pbquery, 0.875,1,apr_dbd_pquery query using a prepared statement + args,apr_dbd_pbquery query using a prepared statement + binary args
+found,see, 0.75,1,we found a newline,if we see a newline
+ship,send, 0.833333333333333,1,ship the data up the stack,send the data up the stack
+flush,new, 0.75,1,create a flush bucket,create a new bucket brigade
+dont,didnt, 0.8,1,if we dont do this,if we didnt do this
+other,apr_eagain, 0.75,1,but what about other errors,what about apr_eagain errors
+single-byte,single-character, 0.857142857142857,1,common code for all repeated single-byte matches,common code for all repeated single-character matches
+establish,find, 0.833333333333333,1,establish a lock on the specified,find a lock on the specified resource
+get_row,apr_dbd_get_row, 0.875,1,get_row get a row from a result set,apr_dbd_get_row get a row from a result set
+aprs,apr-utils, 0.888888888888889,1,return aprs version information information in a numeric form,return apr-utils version information information in a numeric form
+length,end, 0.8,1,the length of ajp message,mark the end of an ajp message
+plus,var, 0.75,1,is there a plus,is there such a var
+checkin,checkout, 0.75,1,handle the checkin method,handle the checkout method
+newline,locktoken, 0.8,1,if we see a newline,if we did not see a locktoken
+ket,region, 0.75,2,fill in the ket,fill in the region,fill in the ket,fill in the region
+assertion,attempt, 0.75,1,start of match assertion,start of this match attempt
+bindings,versioning, 0.833333333333333,4,if there is a bindings provider,if there is a versioning provider,if no bindings provider,if no versioning provider,if no bindings provider,if no versioning provider,if no bindings provider,if there is no versioning provider
+apr_dbd_pvselect,apr_dbd_pbselect, 0.875,1,apr_dbd_pvselect select using a prepared statement + args,apr_dbd_pbselect select using a prepared statement + binary args
+thread,process, 0.857142857142857,2,opaque thread attributes structure,opaque process attributes structure,apr was not given a thread structure,apr was not given a process structure
+required,relative, 0.8,1,if the map is required,but if the map url is relative
+branch,non-comma, 0.75,1,advance to next branch,advance field pointer to the next non-comma
+address,protocol, 0.75,1,address family not supported,protocol family not supported
+err,apr_enoent, 0.75,1,do something with err,we can do something with apr_enoent
+assertion,string, 0.75,1,start of subject assertion,start of the subject string
+reset,recopy, 0.75,1,reset an ajp message,recopy an ajp message to another
+file,buffer, 0.8,1,the size of the file,the size of the buffer
+string,compilation, 0.75,1,the regexp pattern string,the regexp pattern compilation
+read,posted, 0.8,2,total number of bytes read,total number of bytes posted,number of bytes read,total number of bytes posted
+puts,ctrl, 0.75,1,puts is never called,ctrl is never called
+divide,division, 0.75,1,avoid divide by zero,avoid division by zero if done
+apr_pool_clear,apr_pool_destroy, 0.888888888888889,1,if you do not have apr_pool_clear in a wrapper,if you do not have apr_pool_destroy in a wrapper
+current,next, 0.8,1,the current piece of text,a pointer to the next piece of text
+lookbehinds,conditionals, 0.833333333333333,1,lookbehinds are in perl from version,conditionals are in perl from version
+writability,modifiability, 0.888888888888889,1,restore writability of parent back to what it was,restore modifiability of parent back to what it was
+current,maximum, 0.8,1,current number of cache entries,maximum number of cache entries
+type,encoding, 0.8,5,content type starting point position,content encoding starting point position,content type starting point fragment,content encoding starting point fragment,non-space begin mime type,non-space begin mime encoding,non-space adds to type,non-space adds to encoding,whitespace end of mime type,whitespace end of mime encoding
+pool,attributes, 0.75,1,opaque thread pool structure,opaque thread attributes structure
+file,pipe, 0.75,1,the file bucket type,the pipe bucket type
+record,remove, 0.75,1,dav_lock_walker walker callback function to record indirect locks,dav_unlock_walker walker callback function to remove indirect locks
+sigfpe,sigbreak, 0.833333333333333,1,is used for sigfpe on windows,is used for sigbreak on windows
+phase,second, 0.75,1,for the current phase,the + is for the current second
+own,allow, 0.75,1,we dont own it,so we dont allow it
+body,hdrs, 0.875,4,max timeout for req body in secs,timeout for reading the req hdrs in secs,timeout for reading the req body in secs,timeout for reading the req hdrs in secs,max timeout for req hdrs in secs,max timeout for req body in secs,max timeout for req hdrs in secs,timeout for reading the req body in secs
+dump_vhosts,dump_modules, 0.75,1,setting -d dump_vhosts is equivalent to setting -s,setting -d dump_modules is equivalent to setting -m
+add,push, 0.8,4,maybe add a higher-level description,maybe push a higher-level description,push a higher-level description,add a higher-level description to err,add a higher-level description,push a higher-level description,add a higher-level desc,push a higher-level desc
+stream,physical, 0.8,2,this stream bucket was consumed,only part of this physical bucket was consumed,this stream bucket was consumed,this physical bucket was consumed
+ap_declare,ap_declare_nonstd, 0.875,1,stuff marked ap_declare is part of the api,stuff marked ap_declare_nonstd is part of the api
+process,brigade, 0.8,1,this is a single process,this is all a single brigade
+merge,create, 0.75,2,merge per-dir config structures,create per-dir config structures,merge per-server config structures,create per-server config structures
+place,append, 0.777777777777778,1,place a string on the end of the buffer,append a string to the end of the buffer
+apr_dbd_pquery query,apr_dbd_pvselect select, 0.75,1,apr_dbd_pquery query using a prepared statement + args,apr_dbd_pvselect select using a prepared statement + args
+connection,version, 0.75,1,create a new connection,the provider should create a new version
+version,destination, 0.75,1,get the version uri,get the destination uri
+dont,to, 0.75,1,dont set the header,to set the author header
+force,is_subject, 0.75,1,if force is true,if is_subject is true
+key,http_filter, 0.75,1,the key is removed,if the http_filter is removed
+inode,name, 0.8,3,the inode of the file,the name of the mime types file,the inode of the file,the name of the modules c file,the inode of the file,the name of the server config file
+free,name_vhost, 0.75,1,terminate the free list,terminate the name_vhost list
+handler,core_hook, 0.75,2,if the handler returns,if the core_hook returns ok,the handler returns ok,if the core_hook returns ok
+pbquery query,apr_dbd_pbselect select, 0.777777777777778,1,pbquery query using a prepared statement + binary args,apr_dbd_pbselect select using a prepared statement + binary args
+free,size, 0.75,1,free in shared memory,size in bytes of shared memory cache
+amount,refcount, 0.714285714285714,1,the amount of data in the mmap,decrement the refcount of the data in the bucket
+one,address, 0.75,1,we try the next one,try the next address
+new,content, 0.75,1,set the new length,set the content length if known
+options,interim, 0.75,1,send the options response,send the interim response
+heap,output, 0.75,1,its on the heap,dont give its name on the output
+character,coordinate, 0.8,1,if there are no characters,or if there are no coordinates
+socket,new, 0.75,1,we got a socket,we just got a new
+x,variant, 0.857142857142857,1,fall through to the normal x handling,and fall through to the normal variant handling
+structure,correctly, 0.833333333333333,1,macro to declare the hook structure,macro to declare the hook correctly
+cs,secs, 0.75,1,time limit in cs,time limit in secs
+initialise,rebind_add, 0.75,1,apr ldap initialise function,apr ldap rebind_add function
+just,now, 0.75,1,just copy the string to the userdir string,now copy the input string to the output string
+bucket,lock, 0.75,1,a list of buckets,for managing a list of locks
+pbselect,apr_dbd_pselect, 0.875,1,pbselect select using a prepared statement + binary args,apr_dbd_pselect select using a prepared statement + args
+err_free_strings,crypto_cleanup_all_ex_data, 0.75,1,dont call err_free_strings here,also dont call crypto_cleanup_all_ex_data here
+obtained,store, 0.75,1,we obtained the lock,when we store the lock more directly
+gzip,raw_args, 0.75,1,so we use gzip,so we have to use raw_args
+data,date, 0.75,1,data for each request,date for each request
+add,apache, 0.75,1,if add is or,if apache is not terminating or restarting
+request,function, 0.75,1,if the request fails,if the function fails for this case
+workspace,collection, 0.75,1,create a workspace resource,create a collection resource
+initialise,rebind_remove, 0.75,1,apr ldap initialise function,apr ldap rebind_remove function
+puts-type,printf-type, 0.8,1,rsl hook for puts-type functions,rsl hook for printf-type functions
+destination,strtoul, 0.75,1,destination does not exist,strtoul does not exist on sunos
+apr_success,http_method_not_allowed, 0.75,1,if we return apr_success,hrm if we return http_method_not_allowed
+subject,format, 0.8,1,end of the subject string,the end position of the format string
+host,domain, 0.833333333333333,2,return true if host represents a host name,return true if addr represents a domain name,ignore trailing dots in host comparison,ignore trailing dots in domain comparison
+anchoring,circumflex, 0.75,1,check for explicit anchoring,check for explicit circumflex
+get_entry,apr_dbd_get_name, 0.714285714285714,1,get_entry get an entry from a row,apr_dbd_get_name get an entry name from a result set
+read,written, 0.8,4,number of bytes read,the number of bytes written,number of bytes read,apr_vformatter returns the number of bytes written,the number of bytes read,the number of bytes written,the number of bytes read,apr_vformatter returns the number of bytes written
+main,try_next, 0.75,1,end of main loop,end of try_next loop
+member,locknull, 0.8,1,called for a member resource,called for a locknull resource
+hit,entry, 0.75,2,number of cache hits,maximum number of cache entries,number of cache hits,current number of cache entries
+apr_dbd_pvquery query,apr_dbd_pvselect select, 0.75,1,apr_dbd_pvquery query using a prepared statement + args,apr_dbd_pvselect select using a prepared statement + args
+specified,equivalent, 0.75,1,if both are specified,if both ports are equivalent
+put,uncheckout, 0.75,1,handle the put method,handle the uncheckout method
+pvbselect select,apr_dbd_pvbquery query, 0.777777777777778,1,pvbselect select using a prepared statement + binary args,apr_dbd_pvbquery query using a prepared statement + binary args
+authorization,depth, 0.75,1,parse the authorization header,get and parse the depth header value
+jan,sunday, 0.75,1,- days since jan,- days since sunday
+type,handle, 0.75,1,the type of file,the handle of the file mapping
+callback,liveprop, 0.714285714285714,1,if a particular callback is not needed,if a particular liveprop is not defined for this resource
+null,inserted, 0.75,1,should not be null,then it should not be inserted
+lock,directory, 0.857142857142857,1,apr was not given a lock structure,apr was not given a directory structure
+sigfpe,sigsegv, 0.833333333333333,2,is used for sigfpe on netware,is used for sigsegv on netware,is used for sigfpe on windows,is used for sigsegv on windows
+apr_dbd_pselect,pvbselect, 0.875,1,apr_dbd_pselect select using a prepared statement + args,pvbselect select using a prepared statement + binary args
+host,dns, 0.75,1,the remote host name,either the remote dns name
+tech,doctech, 0.909090909090909,1,see the file tech notes for some information on the internals,see the file doctech notes for some information on the internals
+eos,flush, 0.75,1,the eos bucket type,the flush bucket type
+space,blank, 0.75,1,the space before the,the blank before the storm er
+socket,transient, 0.75,1,the socket bucket type,the transient bucket type
+versioned,multithreaded, 0.8,1,or may not be versioned,the mpm may or may not be multithreaded
+worker,runtime, 0.8,1,increase the total worker count,increase the total runtime count
+status,apr_enoent, 0.75,1,do something with status,we can do something with apr_enoent
+alternative,coordinate, 0.8,1,if there are no alternatives,or if there are no coordinates
+pvselect select,apr_dbd_pbquery query, 0.75,1,pvselect select using a prepared statement + args,apr_dbd_pbquery query using a prepared statement + binary args
+pbquery query,pbselect select, 0.777777777777778,1,pbquery query using a prepared statement + binary args,pbselect select using a prepared statement + binary args
+entry,version, 0.75,1,create a new entry,the provider should create a new version
+der,pkcs, 0.857142857142857,4,client cert key file in der format,client cert key file in pkcs format,client cert file in pkcs format,client cert key file in der format,client cert file in der format,client cert file in pkcs format,client cert file in der format,client cert key file in pkcs format
+output vector,structure unique_id_rec, 0.714285714285714,1,number of elements in the output vector,number of elements in the structure unique_id_rec
+cache,script, 0.875,1,if the cache gave us a last-modified header,if the script gave us a last-modified header
+pool,immortal, 0.75,1,the pool bucket type,the immortal bucket type
+cgi-binprintenv,cgid-binprintenv, 0.8,1,wed jun get cgi-binprintenv http,wed jun get cgid-binprintenv http
+pvbquery query,pbselect select, 0.777777777777778,1,pvbquery query using a prepared statement + binary args,pbselect select using a prepared statement + binary args
+dav_declaretype,cache_declaretype, 0.8,1,create a set of dav_declaretype,create a set of cache_declaretype
+activity,workspace, 0.8,2,if activity creation is succesful,if workspace creation is succesful,attempt to create the activity,attempt to create the workspace
+author,cache-control, 0.75,1,to set the author header,set the cache-control header
+pquery,pvquery, 0.875,1,pquery query using a prepared statement + args,pvquery query using a prepared statement + args
+dav,davlockdb, 0.833333333333333,1,command handler for the dav directive,command handler for the davlockdb directive
+read,nicely, 0.8,2,number of bytes read,format the number of bytes nicely,the number of bytes read,format the number of bytes nicely
+charset,content-type, 0.75,1,looking for a match with this variants charset,looking for the best match with this variants content-type
+apr_dbd_pvquery,apr_dbd_pvbquery, 0.875,1,apr_dbd_pvquery query using a prepared statement + args,apr_dbd_pvbquery query using a prepared statement + binary args
+unknown,locale-dependent, 0.833333333333333,1,the filepath character encoding is unknown,the filepath character encoding is locale-dependent
+sigint,sigsegv, 0.833333333333333,2,is used for sigint on netware,is used for sigsegv on netware,is used for sigint on windows,is used for sigsegv on windows
+search,compare, 0.833333333333333,2,size in entries of search cache,size in entries of compare cache,ttl for search cache,ttl for compare cache
+implement,declare, 0.8,2,macro to implement the hook,macro to declare the hook correctly,macro to implement the hook,macro to declare the hook structure
+user,system, 0.833333333333333,1,accumulated user time for this process,accumulated system time for this process
+address,length, 0.75,1,address of the table,length of the cbits table
+if-headers,properties, 0.75,1,if there are if-headers,if there are properties
+region,defaults, 0.75,2,fill in the region,now fill in the defaults,fill in the region,now fill in the defaults
+utf-,locale-dependent, 0.833333333333333,1,the filepath character encoding is utf-,the filepath character encoding is locale-dependent
+set_dbname,apr_dbd_set_dbname, 0.75,1,set_dbname select database name,apr_dbd_set_dbname select database name
+transparent,repository-independent, 0.75,1,this module is transparent,this module is repository-independent
+fork,thread, 0.75,1,mpm can do forking,mpm can do threading
+pass,return, 0.75,1,if null is passed,if null is returned
+pquery query,pselect select, 0.75,1,pquery query using a prepared statement + args,pselect select using a prepared statement + args
+report,methods, 0.833333333333333,1,check for support of specific report,check for support of specific methods
+pr,ap_rgetline, 0.75,1,see pr for example,see ap_rgetline for an example
+limited,xlimited, 0.75,1,methods which are limited,methods which are xlimited
+search,bindings, 0.833333333333333,2,if there is a search provider,if there is a bindings provider,if no search provider,if no bindings provider
+node,property, 0.8,1,move to the next node,property added move on to the next property
+apr_stringify,apu_stringify, 0.75,1,helper macro for apr_stringify,helper macro for apu_stringify
+find_best_bytraffic,find_best_byrequests, 0.888888888888889,1,the idea behind the find_best_bytraffic scheduler is the following,the idea behind the find_best_byrequests scheduler is the following
+defaults,string, 0.8,1,now fill in the defaults,now actually fill in the string
+replace,insert, 0.833333333333333,1,then it should not be replaced,then it should not be inserted
+ap_init_takedirective,ap_init_raw_argsdirective, 0.857142857142857,1,declared in the command_rec list with ap_init_takedirective,declared in the command_rec list with ap_init_raw_argsdirective
+two,reqbyte, 0.75,1,so we take the two,we take the reqbyte
+null,replaced, 0.75,1,should not be null,then it should not be replaced
+four,three, 0.8,1,step four send the request,step three send the request
+pvselect select,apr_dbd_pvquery query, 0.75,1,pvselect select using a prepared statement + args,apr_dbd_pvquery query using a prepared statement + args
+apr_pool_destroy_debug,apr_pool_create_ex_debug, 0.875,1,trust the macro and dont call apr_pool_destroy_debug directly,trust the macro and dont call apr_pool_create_ex_debug directly
+partial_ok,make_indirect, 0.8,1,if partial_ok is true non-zero,if make_indirect is true non-zero
+pvquery query,apr_dbd_pvselect select, 0.75,1,pvquery query using a prepared statement + args,apr_dbd_pvselect select using a prepared statement + args
+balancer,connection, 0.75,1,balancer timeout in seconds,connection timeout in seconds
+write,nice, 0.8,1,the number of bytes written,format the number of bytes nicely
+root,function, 0.75,1,if the root fails,if the function fails for this case
+char,byte, 0.833333333333333,1,remove caseless flag for non-caseable chars,remove the caseless flag for non-caseable bytes
+ket,string, 0.75,1,fill in the ket,now actually fill in the string
+first,common, 0.75,1,in the first case,avoid sscanf in the common case
+milliseconds,second, 0.714285714285714,2,acquire in given unit default is milliseconds,pingpong timeout in given unit default is second,acquire in given unit default is milliseconds,request timeout in given unit default is second
+minimum,maximum, 0.857142857142857,7,when the minimum is greater than zero,and if the maximum is greater than zero,if the minimum is greater than zero,if the maximum is greater than and limited,if the maximum is greater than,if the minimum is greater than zero,if the minimum is greater than zero,and if the maximum is greater than zero,if the minimum is zero,if the maximum is also zero,if the minimum is zero,and if the maximum is greater than zero,minimum file size for cached files,maximum file size for cached files
+do,write, 0.8,1,we have nothing to do,then we have nothing to write
+file,bucket, 0.75,1,the type of file,the type of bucket
+getmsgprocint,callwndprocint, 0.75,1,lresult callback getmsgprocint hc,lresult callback callwndprocint hc
+proxy,ssl, 0.75,1,proxy extension to mod_status,ssl extension to mod_status _________________________________________________________________
+depth,overwrite, 0.857142857142857,1,get and parse the depth header value,get and parse the overwrite header value
+track,use, 0.75,1,we dont track this,we dont use this fiddle
+find,get, 0.75,1,we just found a,we just got a new
+gets,write, 0.75,1,gets is never called,write is never called
+byte array,string value, 0.714285714285714,1,get a byte array from ajp message,get a string value from ajp message
+type,number, 0.75,2,the type of bucket,the number of functions this bucket understands,the type of bucket,the number of references to this bucket
+need,put, 0.75,1,need a description here,put a description in here
+ftp,utility, 0.8,1,ftp routines for apache proxy,utility routines for apache proxy
+match,newline, 0.75,2,we found a match,we found a newline,we found a match,we found a newline
+use_checked_in,resolve_locks, 0.75,1,if use_checked_in is true,if resolve_locks is true non-zero
+chain,apr_bucket_read_notimpl, 0.75,1,but there is no chain,there is no apr_bucket_read_notimpl
+storage,retrieval, 0.8,1,cumulative number of storage requests,cumulative number of retrieval requests
+zero-initialized,replaced, 0.75,1,it should be zero-initialized,then it should not be replaced
+options,uncheckout, 0.75,1,handle the options method,handle the uncheckout method
+scheme,argument, 0.8,1,the name of the scheme,someone forgot the name of the argument
+file,path, 0.75,1,file name too long,path name is too long
+create,checkout, 0.8,1,try to create the collection,try to checkout the parent collection
+error,comment, 0.75,1,add a higher-level error,add a higher-level comment
+read,ctrl, 0.75,1,read is never called,ctrl is never called
+pquery query,pvbselect select, 0.75,1,pquery query using a prepared statement + args,pvbselect select using a prepared statement + binary args
+mpmwinnt,mpmnetware, 0.75,1,mpmwinnt generated on unix,mpmnetware generated on unix
+do,handle, 0.75,1,this is done by,this is handled by branch_extra
+escape,root, 0.8,1,or the escape is invalid,or apr_ebadpath if the root is simply invalid
+long,short, 0.8,1,bytes of a fixed-endian long,bytes of a fixed-endian short
+off,ascii, 0.75,1,the default is off,the default is ascii
+header,trailer, 0.875,3,skip over any header data which was written,skip over any trailer data which was written,an iovec to store the headers sent before the file,an iovec to store the trailers sent after the file,number of headers in the iovec,number of trailers in the iovec
+pbselect,pvbselect, 0.888888888888889,1,pbselect select using a prepared statement + binary args,pvbselect select using a prepared statement + binary args
+sigill,sigabrt, 0.833333333333333,2,is used for sigill on netware,is used for sigabrt on netware,is used for sigill on windows,is used for sigabrt on windows
+function,variable, 0.75,1,apache core dso functions are declared with ap_declare,apache core dso variables are declared with ap_module_declare_data
+start,service, 0.75,1,number of requests started,the number of requests serviced
+logged,empty, 0.75,1,the error is logged,ensure that the error stack is empty
+provide,supply, 0.75,1,if one is provided,only set if one is supplied
+apr_general,apr_release, 0.8,1,and also in apr_general h,and also in apr_release h
+callbacks,proxy, 0.75,1,set up the callbacks,someone has already set up the proxy
+acceptable,exported, 0.75,1,so all are acceptable,so that all public symbols are exported
+detach,resolve_locks, 0.75,1,if detach is non-zero,if resolve_locks is true non-zero
+kernel,os, 0.75,1,use the kernel default,we use the os default window size
+ap_init_takedirective,ap_init_flagdirective, 0.857142857142857,1,declared in the command_rec list with ap_init_takedirective,declared in the command_rec list with ap_init_flagdirective
+search,options, 0.75,1,handle the search method,handle the options method
+line,location, 0.75,1,copy the new line,just copy it to the new location
+attribute,extension, 0.75,1,bad or missing attributes,bad or missing extensions
+main,listener, 0.8,1,wake up the main thread,wake up the listener thread
+pvbquery query,apr_dbd_pbselect select, 0.777777777777778,1,pvbquery query using a prepared statement + binary args,apr_dbd_pbselect select using a prepared statement + binary args
+removebind,removecopymove, 0.833333333333333,1,check for error from removebind operations,check for error from removecopymove operations
+normal,speculative, 0.833333333333333,1,when we are in normal mode,when we are in speculative mode
+worker,prefork, 0.888888888888889,1,the worker open_logs phase must run before the cores,the prefork open_logs phase must run before the cores
+child,single, 0.8,1,this is a child process,this is a single process
+versioned,bogus, 0.8,1,or may not be versioned,this may or may not be bogus
+pasv,buffered, 0.75,1,stuff for pasv mode,stuff for buffered mode
+detach,make_indirect, 0.75,1,if detach is non-zero,if make_indirect is true non-zero
+root,exec, 0.75,1,if the root fails,if the exec fails
+newline,mispelling, 0.75,1,we found a newline,wow we found us a mispelling
+listener,provider, 0.833333333333333,1,the next listener in the list,the next provider in the list
+pbselect select,apr_dbd_pvbquery query, 0.777777777777778,1,pbselect select using a prepared statement + binary args,apr_dbd_pvbquery query using a prepared statement + binary args
+file,network, 0.857142857142857,1,system headers the file io library needs,system headers the network io library needs
+dbm,filter, 0.75,1,the type of dbm,the type of filter
+datum,apr_dbd, 0.714285714285714,1,datum_get get a binary entry from a row,apr_dbd_get_entry get an entry from a row
+provider,regex, 0.75,1,cant use this provider,cant use partial with this regex
+cacheignoreheader,cacheignoreurlsessionidentifiers, 0.833333333333333,1,flag if cacheignoreheader has been set,flag if cacheignoreurlsessionidentifiers has been set
+cr,select, 0.75,1,create a new url entity in the cache,select a specific url entity in the cache
+retrieve,register, 0.75,1,retrieve an optional function,register an optional function
+pvselect select,apr_dbd_pquery query, 0.75,1,pvselect select using a prepared statement + args,apr_dbd_pquery query using a prepared statement + args
+content-encoding,content-languages, 0.75,1,set content-encoding as negotiated,set content-languages as negotiated
+info,rebind_remove, 0.75,1,apr ldap info function,apr ldap rebind_remove function
+dav_inherit_walker,dav_lock_walker, 0.714285714285714,1,dav_inherit_walker walker callback function to inherit locks,dav_lock_walker walker callback function to record indirect locks
+buffer,context, 0.8,1,we dont have a buffer,if we dont have a context
+ftp,http, 0.8,2,ftp routines for apache proxy,http routines for apache proxy,only interested in ftp,only interested in http
+pquery,pvbquery, 0.875,1,pquery query using a prepared statement + args,pvbquery query using a prepared statement + binary args
+file,resource, 0.8,4,the file creation was successful,the resource creation was successful,the file does not exist,if the resource does not exist,if creating a new resource,if were not creating a new file,create a subrequest for the given file,create a direct lock structure for the given resource
+apr_thread_rwlock_wrlock,apr_thread_rwlock_rdlock, 0.833333333333333,1,this is the same as apr_thread_rwlock_wrlock,this is the same as apr_thread_rwlock_rdlock
+path,cookie, 0.75,1,session path was found,session cookie was found
+ap_init_takedirective,ap_init_no_argsdirective, 0.857142857142857,1,declared in the command_rec list with ap_init_takedirective,declared in the command_rec list with ap_init_no_argsdirective
+force,use_checked_in, 0.75,1,if force is true,if use_checked_in is true
+file,immortal, 0.75,1,the file bucket type,the immortal bucket type
+void,ucp_lu, 0.75,1,the type is void,the detailed character type is ucp_lu
+detach,partial_ok, 0.75,1,if detach is non-zero,if partial_ok is true non-zero
+accept,reset, 0.833333333333333,1,so we have to accept this,so we have to reset this value
+keepalives,coordinates, 0.8,1,if there are no keepalives,or if there are no coordinates
+global,thread-local, 0.75,1,opaque global mutex structure,opaque thread-local mutex structure
+time,lock, 0.857142857142857,1,apr was not given a time structure,apr was not given a lock structure
+mkworkspace,version-control, 0.777777777777778,1,parse the request body must be a mkworkspace element,parse the request body may be a version-control element
+false,signaled, 0.8,1,if the condition is false,if the condition is signaled
+flush,immortal, 0.75,1,the flush bucket type,the immortal bucket type
+size,handle, 0.8,1,the size of the file,the handle of the file mapping
+possible,replaced, 0.75,1,should not be possible,then it should not be replaced
+pcre_get_substring,pcre_get_substring_list, 0.888888888888889,1,argument the result of a previous pcre_get_substring returns nothing,argument the result of a previous pcre_get_substring_list returns nothing
+link,declare, 0.833333333333333,1,macro to link the hook structure,macro to declare the hook structure
+repetition,http, 0.75,1,set up for repetition,set up the environment for http
+poll,directory, 0.857142857142857,1,apr was not given a poll structure,apr was not given a directory structure
+string,occurs, 0.75,1,returns an error string,returns dav_resource_error if an error occurs
+null,encoded, 0.75,1,should not be null,characters which should not be encoded
+epsv,pasv, 0.833333333333333,1,set up data connection - epsv,set up data connection - pasv
+positive,latter, 0.75,1,in the positive case,in the latter case it contains dispatch
+parent,apr_bucket_read_notimpl, 0.75,1,then there is no parent,there is no apr_bucket_read_notimpl
+redirection,recursion, 0.75,1,now do the redirection,now we can do the recursion
+program,machine, 0.75,1,this bucket represents a pipe to another program,this bucket represents a socket to another machine
+start,block, 0.714285714285714,1,the start of the data actually allocated,the block of data actually allocated from the pool
+apr_pool_destroy_clear,apr_pool_create_core_ex_debug, 0.875,1,trust the macro and dont call apr_pool_destroy_clear directly,trust the macro and dont call apr_pool_create_core_ex_debug directly
+eos,pool, 0.75,1,the eos bucket type,the pool bucket type
+apr_dbd_pvquery,apr_dbd_pbquery, 0.875,1,apr_dbd_pvquery query using a prepared statement + args,apr_dbd_pbquery query using a prepared statement + binary args
+off,byrequests, 0.75,1,the default is off,note the default method is byrequests
+property,mutex, 0.75,1,name of the property,display the name of the mutex
+ping,cping, 0.875,1,serialize in an ajp message a ping command,serialize in an ajp message a cping command
+hour,second, 0.75,1,time is in hours,time is in seconds
+dir,resource, 0.8,1,the dir creation was successful,the resource creation was successful
+ap_init_iteratedirective,ap_init_no_argsdirective, 0.857142857142857,1,declared in the command_rec list with ap_init_iteratedirective,declared in the command_rec list with ap_init_no_argsdirective
+location_walk,directory_walk, 0.857142857142857,1,we can skip rewalking the location_walk entries,we can skip rewalking the directory_walk entries
+read,gets, 0.75,1,read is never called,gets is never called
+insvalue,is_subject, 0.75,1,if insvalue is true,if is_subject is true
+apr_dbd_pquery query,apr_dbd_pvbselect select, 0.75,1,apr_dbd_pquery query using a prepared statement + args,apr_dbd_pvbselect select using a prepared statement + binary args
+fast-path,accelerate, 0.75,1,fast-path the common case,accelerate the common case ap_set_last_modifiedr
+file_walk,directory_walk, 0.857142857142857,1,we can skip rewalking the file_walk entries,we can skip rewalking the directory_walk entries
+add,continue, 0.75,1,no need to add,no need to continue
+hook,implementation, 0.75,1,this hook is optional,use of this implementation is optional
+pattern,token, 0.75,1,end of the pattern,find end of the token
+pvbselect,apr_dbd_pvselect, 0.875,1,pvbselect select using a prepared statement + binary args,apr_dbd_pvselect select using a prepared statement + args
+common,no-locks, 0.75,1,fast-path the common case,fast-path the no-locks case
+scoreboard,proxy, 0.75,1,set up the scoreboard,someone has already set up the proxy
+eliminate,read, 0.833333333333333,1,eliminate the if there is one,read the maximum value if there is one
+always,unknown, 0.75,1,the length is always,if the length is unknown
+dummy_stderr,make_indirect, 0.75,1,if dummy_stderr is non-zero,if make_indirect is true non-zero
+body,headers, 0.75,1,body file modification time,headers file modification time
+date,checksum, 0.8,1,if the date is bad,return if the checksum is bad i e
+info,initialise, 0.75,1,apr ldap info function,apr ldap initialise function
+pipe,mmap, 0.75,1,the pipe bucket type,the mmap bucket type
+url,pathname, 0.75,2,its an absolute url,make sure its an absolute pathname,its an absolute url,make sure its an absolute pathname
+info,rebind_add, 0.75,1,apr ldap info function,apr ldap rebind_add function
+mime types,server config, 0.714285714285714,1,the name of the mime types file,the name of the server config file
+order,format, 0.75,1,in the appropriate order,in the appropriate format
+use_checked_in,make_indirect, 0.75,1,if use_checked_in is true,if make_indirect is true non-zero
+apr,apu, 0.888888888888889,4,it is undefined for released versions of apr,it is undefined for released versions of apu,apu version numbering follows the guidelines specified in,apr version numbering follows the guidelines specified in,development copies of apr,development copies of apu,these constants are the authoritative version numbers for apr,these constants are the authoritative version numbers for apu
+process,connection, 0.833333333333333,1,a structure that represents one process,a structure that represents one connection
+strrchr,strrstr, 0.8,1,use this instead of strrchr,use this instead of strrstr
+die,exit, 0.875,1,if the child died due to a resource shortage,the child exited due to a resource shortage
+now,already, 0.75,2,operation now in progress,operation already in progress,operation now in progress,operation already in progress
+resource shortage,fatal error, 0.75,1,the child exited due to a resource shortage,the child process exited prematurely due to a fatal error
+apr_hash_get,cache_hash_get, 0.75,1,when passing a key to apr_hash_set or apr_hash_get,when passing a key to cache_hash_set or cache_hash_get
+dav_declaretype,proxy_declaretype, 0.8,1,create a set of dav_declaretype,create a set of proxy_declaretype
+t-e,c-l, 0.833333333333333,1,the client sent a t-e body,the client sent a c-l body
+detach,is_main, 0.75,1,if detach is non-zero,if is_main is non-zero
+apr_unkfile,zero, 0.75,1,the value is apr_unkfile,if the value in options is zero
+accept,accept-charset, 0.8,2,go through each of the ranges on the accept header,go through each of the items on the accept-charset header,if no accept header,if no accept-charset header
+file,socket, 0.888888888888889,4,unset a file from being inherited by child processes,unset a socket from being inherited by child processes,set a file to be inherited by child processes,set a socket to be inherited by child processes,get the pool used by the file,get the pool used by the socket,the file bucket type,the socket bucket type
+versioned,readable, 0.714285714285714,1,if the destination exists and is versioned,return true if the named file exists and is readable
+method,report, 0.75,1,show all supported methods,show all supported reports
+got,reach, 0.75,1,if we got here,if we reach here
+apu_major_version,module_magic_number_major, 0.8,1,reset to when upgrading apu_major_version,should be reset to when upgrading module_magic_number_major
+dash,var, 0.75,1,is there a dash,is there such a var
+ca,client, 0.8,3,binary der encoded ca certificate,binary der encoded client certificate,pem encoded ca certificate,pem encoded client certificate,ca certificate type unknown,client certificate type unknown
+shutdown,tell, 0.75,1,shutdown the worker threads,tell the worker threads to exit
+apu_is_dev_version,apr_is_dev_version, 0.875,1,the symbol apu_is_dev_version is only defined for internal,the symbol apr_is_dev_version is only defined for internal
+sigsegv,sigterm, 0.833333333333333,2,is used for sigsegv on netware,is used for sigterm on netware,is used for sigsegv on windows,is used for sigterm on windows
+include,subrequest, 0.75,1,maximum include nesting level,default maximum subrequest nesting level
+deleted,indirect, 0.75,2,the lock is deleted,if the lock is indirect,the lock is deleted,if the lock is indirect
+filter,extensions, 0.75,1,bad or missing filter,bad or missing extensions
+force,partial_ok, 0.75,1,if force is true,if partial_ok is true non-zero
+input,output, 0.857142857142857,2,arg the input string,arg the output string,size of translation buffer used on input,size of translation buffer used on output
+within,parsing, 0.75,1,within the format string,parsing the log format string
+apr_base_decode,stdin_fileno, 0.75,1,for apr_base_decode et al,needed for stdin_fileno et al
+test,value, 0.75,1,apr canonical error tests,apr canonical error values
+am_stringify,apu_stringify, 0.75,1,helper macro for am_stringify,helper macro for apu_stringify
+pquery query,apr_dbd_pvselect select, 0.75,1,pquery query using a prepared statement + args,apr_dbd_pvselect select using a prepared statement + args
+time,directory, 0.857142857142857,1,apr was not given a time structure,apr was not given a directory structure
+take,raw_args, 0.833333333333333,1,command handler for a take directive,command handler for a raw_args directive
+map file,links info, 0.714285714285714,1,we are done with the map file,we are done with the links info
+method,mismatches, 0.75,1,skip over the method,skip over the mismatches
+hidden,nonexistant, 0.833333333333333,1,prevent holding open the hidden console,prevent holding open the nonexistant console
+pvselect,pbselect, 0.875,1,pvselect select using a prepared statement + args,pbselect select using a prepared statement + binary args
+read,write, 0.833333333333333,5,read is never called,write is never called,read the environment variables,write the environment variables,mmap opened for reading,mmap opened for writing,if openssl wants to read more,if openssl wants to write more,read the request header,write the request header
+plus,dash, 0.75,1,is there a plus,is there a dash
+mmap,flush, 0.75,1,the mmap bucket type,the flush bucket type
+initialize_module,balancer_init, 0.8,1,initialize_module will be called twice,balancer_init will be called twice during startup
+dbd_declaretype,proxy_declaretype, 0.8,1,create a set of dbd_declaretype,create a set of proxy_declaretype
+pbquery,apr_dbd_pbquery, 0.888888888888889,1,pbquery query using a prepared statement + binary args,apr_dbd_pbquery query using a prepared statement + binary args
+sigfpe,sigabrt, 0.833333333333333,2,is used for sigfpe on netware,is used for sigabrt on netware,is used for sigfpe on windows,is used for sigabrt on windows
+remove,add, 0.714285714285714,1,remove module pointer from chained module list,add module pointer to top of chained module list
+lock,process, 0.857142857142857,1,apr was not given a lock structure,apr was not given a process structure
+header,identifier, 0.857142857142857,1,if header none is listed clear array,if identifier none is listed clear array
+fragment,position, 0.8,2,content encoding starting point fragment,content encoding starting point position,content type starting point fragment,content type starting point position
+pselect,pvselect, 0.875,1,pselect select using a prepared statement + args,pvselect select using a prepared statement + args
+socket,match, 0.75,1,we got a socket,we figure we got us a match
+pvbquery query,apr_dbd_pvbselect select, 0.777777777777778,1,pvbquery query using a prepared statement + binary args,apr_dbd_pvbselect select using a prepared statement + binary args
+pvquery,pbquery, 0.875,1,pvquery query using a prepared statement + args,pbquery query using a prepared statement + binary args
+little,great, 0.833333333333333,1,if the number is less than,if the bracket number is greater than extract_basic_max
+current,get_suexec_identity, 0.75,1,for the current phase,for use in the get_suexec_identity phase
+reqinfo,namespace, 0.75,1,reqinfo may be null,namespace may be null
+error,bad, 0.75,1,just return the error,then just return the bad
+pvquery,apr_dbd_pvquery, 0.875,1,pvquery query using a prepared statement + args,apr_dbd_pvquery query using a prepared statement + args
+move,delete, 0.8,1,if the move is successful,if the delete is successful
+send,configure, 0.75,1,if nothing is sent,if nothing is configured
+mkcol,checkout, 0.75,1,handle the mkcol method,handle the checkout method
+p,s, 0.75,1,if p is null,if s is null
+data,format, 0.857142857142857,1,read the data from the cache file,read the format from the cache file
+utf-,ldap, 0.75,1,when utf- is enabled,handle the case when ldap is enabled
+date,called, 0.75,1,date for each request,called for each request
+colon,comma, 0.75,2,separated by a colon,as separated by a comma,separated by a colon,as separated by a comma
+lock,versioning, 0.833333333333333,1,and if there is a lock provider,if there is a versioning provider
+nonzero,non-negative, 0.888888888888889,1,but if the idle worker count is now nonzero,but if the idle worker count is now non-negative
+proppatch,uncheckout, 0.75,1,handle the proppatch method,handle the uncheckout method
+store,path_info, 0.714285714285714,1,if there is such a crl in the store,if there is anything in the path_info
+field-name,field-value, 0.75,1,strip lws after field-name,strip lws after field-value
+pquery,apr_dbd_pvbquery, 0.875,1,pquery query using a prepared statement + args,apr_dbd_pvbquery query using a prepared statement + binary args
+machine,hostname, 0.75,1,good old state machine,good old state hostname
+pathsearch,pathparameters, 0.75,1,now parse pathsearch args,now parse pathparameters args
+scoreboard,file, 0.75,1,used by the scoreboard,get the pool used by the file
+beos,netware, 0.8,1,set the default for beos,set the default for netware
+minute,second, 0.75,1,time is in minutes,time is in seconds
+checkin,uncheckout, 0.75,2,checkin a checked-out resource,uncheckout a checked-out resource,handle the checkin method,handle the uncheckout method
+bucket,reading, 0.75,1,the type of bucket,log the type of reading
+collection,locknull, 0.75,1,create a collection resource,if this will create a locknull resource
+size,name, 0.8,3,the size of the file,the name of the mime types file,the size of the file,the name of the modules c file,the size of the file,the name of the server config file
+pvbselect,apr_dbd_pvbselect, 0.888888888888889,1,pvbselect select using a prepared statement + binary args,apr_dbd_pvbselect select using a prepared statement + binary args
+poll,thread, 0.857142857142857,1,apr was not given a poll structure,apr was not given a thread structure
+ap_init_flagdirective,ap_init_no_argsdirective, 0.857142857142857,1,declared in the command_rec list with ap_init_flagdirective,declared in the command_rec list with ap_init_no_argsdirective
+cache_out,cache_remove_url, 0.8,1,user likely configured cache_out manually,user likely configured cache_remove_url manually
+value,numb, 0.75,1,values of queried attributes,number of queried attributes
+pool,transient, 0.75,1,the pool bucket type,the transient bucket type
+from,off, 0.777777777777778,1,this bucket represents a data allocated from the heap,this bucket represents a data allocated off the stack
+pquery,apr_dbd_pquery, 0.875,1,pquery query using a prepared statement + args,apr_dbd_pquery query using a prepared statement + args
+non-space,whitespace, 0.833333333333333,1,process non-space actions for each state,process whitespace actions for each state
+put,propfind, 0.75,1,handle the put method,handle the propfind method
+mkcol,search, 0.75,1,handle the mkcol method,handle the search method
+property,argument, 0.75,1,name of the property,someone forgot the name of the argument
+apr_dbd_pquery,apr_dbd_pvquery, 0.875,1,apr_dbd_pquery query using a prepared statement + args,apr_dbd_pvquery query using a prepared statement + args
+listeners,scoreboard, 0.75,2,set up the listeners,set up events and the scoreboard,set up the listeners,set up the scoreboard
+search,checkout, 0.75,1,handle the search method,handle the checkout method
+sigfpe,sigpoll, 0.833333333333333,1,is used for sigfpe on netware,is used for sigpoll on netware
+skip,step, 0.75,1,skip over last slash,step over that last slash
+partial_ok,resolve_locks, 0.8,1,if partial_ok is true non-zero,if resolve_locks is true non-zero
+accept-charset,accept-encoding, 0.8,1,go through each of the items on the accept-charset header,go through each of the encodings on the accept-encoding header
+hours,miliseconds, 0.75,1,time is in hours,time is in miliseconds
+child errfn,thread worker, 0.714285714285714,1,the prototype for apr child errfn functions,the prototype for any apr thread worker functions
+match,substitution, 0.8,1,flags which control the match,flags which control the substitution
+ap_make_etag,raw_args, 0.75,1,so we use ap_make_etag,so we have to use raw_args
+reuse,send, 0.75,1,reuse an ajp message,send an ajp message to backend
+apus,aprs, 0.857142857142857,2,return apus version information as a string,return aprs version information as a string,the formatted string of apus version,the formatted string of aprs version
+listen queue,reneg buffer, 0.75,1,the listen queue size is set to zero,if the reneg buffer size is set to zero
+remove,inserted, 0.75,1,just remove the filter,but we just inserted the old_write filter
+filter,bucket, 0.75,1,the type of filter,the type of bucket
+apr_pool_destroy,apr_pool_create_ex, 0.888888888888889,1,if you do not have apr_pool_destroy in a wrapper,if you do not have apr_pool_create_ex in a wrapper
+apr_dbd_pvquery query,pvbselect select, 0.75,1,apr_dbd_pvquery query using a prepared statement + args,pvbselect select using a prepared statement + binary args
+mod_expires,mod_cern_meta, 0.8,1,mod_expires c version status beta,mod_cern_meta c version status beta
+take,raw-args, 0.833333333333333,1,function to call for a take,function to call for a raw-args
+base-sec_file,base-response_code_strings, 0.857142857142857,1,otherwise we simply use the base-sec_file array,otherwise we simply use the base-response_code_strings array
+directory,request, 0.75,1,if in directory context,if were not in request context
+error,apr_dbd_error, 0.857142857142857,1,error get current error message if any,apr_dbd_error get current error message if any
+delete,options, 0.75,1,handle the delete method,handle the options method
+sigill,sigpoll, 0.833333333333333,1,is used for sigill on netware,is used for sigpoll on netware
+insvalue,make_indirect, 0.75,1,if insvalue is true,if make_indirect is true non-zero
+bind,function, 0.75,1,if the bind fails,if the function fails for this case
+bindings,lock, 0.833333333333333,1,if there is a bindings provider,and if there is a lock provider
+pselect select,apr_dbd_pquery query, 0.75,1,pselect select using a prepared statement + args,apr_dbd_pquery query using a prepared statement + args
+destination,resource, 0.8,1,the destination must not exist,the resource must not already exist
+x,nt, 0.75,1,windows x specific code,windows nt specific code
+branch,generation, 0.75,1,advance to next branch,advance to the next generation
+easy,usualsimple, 0.75,1,check the easy case,check the usualsimple case first
+pasv,port, 0.833333333333333,2,set up data connection - pasv,set up data connection - port,if that fails try pasv,if that fails try port
+apr_major_version,module_magic_number_major, 0.8,1,reset to when upgrading apr_major_version,should be reset to when upgrading module_magic_number_major
+strchr,strrchr, 0.8,1,use this instead of strchr,use this instead of strrchr
+reset,receive, 0.75,1,reset an ajp message,receive an ajp message from backend
+ap_init_takedirective,ap_init_iteratedirective, 0.857142857142857,1,declared in the command_rec list with ap_init_takedirective,declared in the command_rec list with ap_init_iteratedirective
+inode,number, 0.8,1,the inode of the file,the number of hard links to the file
+apr_dbd_pquery,apr_dbd_pvbquery, 0.875,1,apr_dbd_pquery query using a prepared statement + args,apr_dbd_pvbquery query using a prepared statement + binary args
+pool,pipe, 0.75,1,the pool bucket type,the pipe bucket type
+file,header, 0.875,1,skip over any file data which was written,skip over any header data which was written
+character,alternative, 0.8,1,if there are no characters,if there are no alternatives
+file,program, 0.714285714285714,1,seed in contents of an external file,seed in contents generated by an external program
+eos,mmap, 0.75,1,the eos bucket type,the mmap bucket type
+send,offset, 0.75,1,the file to send,seek the file to offset
+private,no-store, 0.833333333333333,1,ignore cache-control private header from server,ignore cache-control no-store header from client or server
+in_addr,sockets, 0.8,1,a structure to represent in_addr,a structure to represent sockets
+range,item, 0.8,1,go through each of the ranges on the accept header,go through each of the items on the accept-charset header
+fetch,delete, 0.857142857142857,1,fetch a dbm record value by key,delete a dbm record value by key
+character,handshake, 0.8,1,if the first character is,if the first handshake is complete
+davsupported-method-set,davsupported-live-property-set, 0.75,1,generate davsupported-method-set options response,generate davsupported-live-property-set options response
+put,proppatch, 0.75,1,handle the put method,handle the proppatch method
+size,pathname, 0.8,1,the size of the file,the pathname of the file possibly unrooted
+transaction,apr_dbd_transaction_start, 0.75,1,transaction start a transaction,apr_dbd_transaction_start start a transaction
+apr_pool_destroy_clear,apr_pool_destroy_debug, 0.875,1,trust the macro and dont call apr_pool_destroy_clear directly,trust the macro and dont call apr_pool_destroy_debug directly
+sigfpe,sigterm, 0.833333333333333,2,is used for sigfpe on netware,is used for sigterm on netware,is used for sigfpe on windows,is used for sigterm on windows
+prepare,initiate, 0.75,1,now prepare the redirect,now initiate the internal redirect
+pselect,pbselect, 0.875,1,pselect select using a prepared statement + args,pbselect select using a prepared statement + binary args
+listeners,callbacks, 0.75,1,set up the listeners,set up the callbacks
+here,inserted, 0.75,1,should not be here,then it should not be inserted
+copy,move, 0.8,4,copy one resource to another,move one resource to another,properties are moved as well,properties are copied as well,in a move operation,in a copy operation,if the copy is successful,if the move is successful
+err,out, 0.833333333333333,1,err file pointer for program maps,out file pointer for program maps
+no-args,raw-args, 0.833333333333333,1,function to call for a no-args,function to call for a raw-args
+variables,code, 0.8,1,can be the same variables,all can be handled by the same code
+tranaction,ptrans, 0.75,1,create the tranaction pool,from this we create the ptrans pool
+argvargc,raw-args, 0.833333333333333,1,function to call for a argvargc,function to call for a raw-args
+ok,apr_eexists, 0.75,1,if we return ok,if we return apr_eexists
+ap_init_flagdirective,ap_init_iteratedirective, 0.857142857142857,1,declared in the command_rec list with ap_init_flagdirective,declared in the command_rec list with ap_init_iteratedirective
+former,common, 0.75,1,in the former case,avoid sscanf in the common case
+normal,stderr, 0.833333333333333,1,if we are doing normal logging,if we are doing stderr logging startup
+mmap,bucket, 0.714285714285714,2,the amount of data in the mmap,decrement the refcount of the data in the bucket,the amount of data in the mmap,the length of the data in the bucket
+process,directory, 0.857142857142857,1,apr was not given a process structure,apr was not given a directory structure
+send,output, 0.8,1,send everything prior to this,output everything prior to this bucket
+search,versioning, 0.833333333333333,4,if no search provider,if no versioning provider,if no search provider,if no versioning provider,if no search provider,if there is no versioning provider,if there is a search provider,if there is a versioning provider
+\,except, 0.8,1,\ at end of pattern,except at the very end of the pattern
+\c,except, 0.8,1,\c at end of pattern,except at the very end of the pattern
+posix,native, 0.833333333333333,1,handle compiling via the posix interface,handle compiling via the native interface
+no-gzip,gzip-only-texthtml, 0.857142857142857,1,so set no-gzip with browsermatch for them,so set gzip-only-texthtml with browsermatch for them
+modify,access, 0.857142857142857,1,the time the file was last modified,the time the file was last accessed
+stop,termination, 0.75,1,for a graceful stop,note for a graceful termination
+ssl_util,ssl_util_ssl, 0.833333333333333,1,_|___|_______| |_____| ssl_util c utility functions,_|___|_______| |_____| ssl_util_ssl c additional utility functions for openssl
+lock,unlock, 0.75,1,lock an apr_anylock_t structure,unlock an apr_anylock_t structure
+htons,apr_base_decode, 0.75,1,for htons et al,for apr_base_decode et al
+apr_dbd_pvselect select,apr_dbd_pvbquery query, 0.75,1,apr_dbd_pvselect select using a prepared statement + args,apr_dbd_pvbquery query using a prepared statement + binary args
+access,server, 0.8,1,old access config file commands,old server config file commands
+fetch,store, 0.857142857142857,1,fetch a dbm record value by key,store a dbm record value by key
+client,backend, 0.8,1,the connection to the client,do not reuse the connection to the backend
+big,try_next, 0.75,1,end of big loop,end of try_next loop
+puts,read, 0.75,1,puts is never called,read is never called
+pool,mmap, 0.75,1,the pool bucket type,the mmap bucket type
+something,maxrequestsperchild, 0.75,1,if admin coded something,see if the admin coded maxrequestsperchild
+server,client, 0.857142857142857,1,is the status code a server error,is the status code a client error
+mkcol,checkin, 0.75,1,handle the mkcol method,handle the checkin method
+setinputfilter,setoutputfilter, 0.75,1,this is setinputfilter path,this is setoutputfilter path
+scoreboard,socket, 0.75,1,used by the scoreboard,get the pool used by the socket
+pvquery,apr_dbd_pquery, 0.875,1,pvquery query using a prepared statement + args,apr_dbd_pquery query using a prepared statement + args
+type,inode, 0.75,1,the type of file,the inode of the file
+syslog,stderr, 0.833333333333333,1,if we are doing syslog logging,if we are doing stderr logging startup
+pbselect,apr_dbd_pbselect, 0.888888888888889,1,pbselect select using a prepared statement + binary args,apr_dbd_pbselect select using a prepared statement + binary args
+ap_nobody_read,ap_nobody_wrote, 0.75,1,then ap_nobody_read is returned,then ap_nobody_wrote is returned
+class,backslash, 0.75,1,end of class handling,end of backslash handling
+scan,headers, 0.714285714285714,1,or at the end of the scan,add empty line at the end of the headers
+track,need, 0.75,2,we dont track this,then we dont need this goofy function,we dont track this,we dont need this loop
+error,reqbyte, 0.75,1,there was no error,but if there was previously no reqbyte
+property,information, 0.7,1,the property to insert is identified by the propid value,the information to insert is identified by the what argument
+desc,description, 0.8,14,add a higher level desc,add a higher level description,add a higher level desc,maybe add a higher level description,add a higher-level desc,maybe add a higher-level description,add a higher-level desc,add a higher-level description,add a higher-level desc,maybe add in a higher-level description,maybe add a higher-level desc,maybe add a higher-level description,maybe add a higher-level description,return err maybe add a higher-level desc,maybe add a higher-level desc,add a higher-level description,maybe add a higher-level desc,maybe add in a higher-level description,maybe add a higher-level desc,maybe add higher-level description,push a higher-level desc,maybe push a higher-level description,push a higher-level desc,push a higher-level description,add a higher-level description,return err maybe add a higher-level desc,maybe add higher-level description,return err maybe add a higher-level desc
+search,checkin, 0.75,1,handle the search method,handle the checkin method
+scheme,mutex, 0.8,1,the name of the scheme,display the name of the mutex
+p,that, 0.75,1,if p is null,or if that is null as well
+bucket,brigade, 0.75,1,loop through each bucket,loop through each brigade
+auth type,user name, 0.714285714285714,1,this gets set to the auth type,this gets set to the user name
+working,workspace, 0.8,1,and is always for working,and is always for workspace
+config,per-transaction, 0.75,1,pool for config stuff,pool for per-transaction stuff
+result,minimum, 0.8,2,if the result is zero,if the minimum is greater than zero,if the result is zero,if the minimum is zero
+dav_get_depth,dav_get_overwrite, 0.875,1,dav_get_depth supplies additional information for the default message,dav_get_overwrite supplies additional information for the default message
+xmlcdatasectiontok,xmlattributevaluetok, 0.875,1,the following token is returned only by xmlcdatasectiontok,the following token is returned only by xmlattributevaluetok
+study,compile, 0.75,2,study the regular expressions,compile the regular expressions,study the regular expression,compile the regular expression
+implement,link, 0.8,1,macro to implement the hook,macro to link the hook structure
+root,load, 0.75,1,if the root fails,if the load fails
+type,structure, 0.75,1,opaque global mutex type,opaque global mutex structure
+merging,workspaces, 0.857142857142857,2,if the provider does not support merging,if the provider does not support workspaces,if the provider does not support merging,or the provider does not support workspaces
+time integer,true apr_time_t, 0.714285714285714,1,converts hex digits to a time integer,converts apr_time_t expressed as hex digits to a true apr_time_t
+request,connection, 0.857142857142857,1,a structure that represents the current request,a structure that represents the status of the current connection
+apr_pool_destroy_debug,apr_pool_create_core_ex_debug, 0.875,1,trust the macro and dont call apr_pool_destroy_debug directly,trust the macro and dont call apr_pool_create_core_ex_debug directly
+canonicalise,convert, 0.75,1,canonicalise a url-encoded string,convert a url-encoded string to canonical form
+before,after, 0.875,2,an iovec to store the headers sent before the file,an iovec to store the trailers sent after the file,these are processed after the servers config file,these are processed before the servers config file
+winfileio,internal, 0.714285714285714,1,see winfileio h for description of these,see internal h for a description of the layout
+id,bad, 0.75,1,just return the id,then just return the bad
+namespace,module, 0.8,1,the namespace was not found,if the module was not found
+subject,replacement, 0.75,1,and the subject string,and the replacement string for all others
+size,frequency, 0.75,1,callback to get the size of a item,callback to increment the frequency of a item
+file,look-up, 0.75,1,not a file request,not a look-up request
+data,hdrs, 0.875,1,name of file where the data will go,name of file where the hdrs will go
+only,just, 0.8,1,if there is only one,if there is just one branch
+utf-,caselesss, 0.833333333333333,1,separate the utf- case for speed,separate the caselesss case for speed
+strchr,strrstr, 0.8,1,use this instead of strchr,use this instead of strrstr
+resolve_locks,make_indirect, 0.8,1,if resolve_locks is true non-zero,if make_indirect is true non-zero
+body,now, 0.833333333333333,1,send the headers and response body,send the headers and actual multistatus response now
+positive,apr_brigade_flatten, 0.75,1,in the positive case,at least in the apr_brigade_flatten case
+ap_init_no_argsdirective,ap_init_raw_argsdirective, 0.857142857142857,1,declared in the command_rec list with ap_init_no_argsdirective,declared in the command_rec list with ap_init_raw_argsdirective
+server,listener, 0.833333333333333,1,the next server in the list,the next listener in the list
+take,argvargc, 0.833333333333333,1,function to call for a take,function to call for a argvargc
+data,memory, 0.888888888888889,1,a bucket referring to data allocated from a pool,create a bucket referring to memory allocated from a pool
+add,append, 0.714285714285714,1,use header add author john p doe,header append author john p doe header unset author
+insert_all,match, 0.75,1,when insert_all is called,when match is called in other circumstances
+t,ap_parent_pid, 0.75,1,this is the child,ap_parent_pid is only valid in the child
+pattern,server, 0.75,1,which are the pattern,which are invoked when the server
+writable,readwrite, 0.75,1,is the property writable,is the live property readwrite
+pvquery query,apr_dbd_pvbselect select, 0.75,1,pvquery query using a prepared statement + args,apr_dbd_pvbselect select using a prepared statement + binary args
+make,spawn, 0.8,1,stop making a child process,stop spawning a child process
+dir,file, 0.8,1,the dir creation was successful,the file creation was successful
+context,connection, 0.8,1,configure callbacks for ssl context,configure callbacks for ssl connection
+byte,requirement, 0.714285714285714,1,all of the bytes must be written,all of the requirements must be met
+dav_lock_walker,dav_unlock_walker, 0.75,1,dav_lock_walker walker callback function to record indirect locks,dav_unlock_walker walker callback function to remove indirect locks
+apr_dbd_pquery query,pvbselect select, 0.75,1,apr_dbd_pquery query using a prepared statement + args,pvbselect select using a prepared statement + binary args
+ap_add_input_filter_handle,ap_add_output_filter_handle, 0.875,1,returns the filter handle for use with ap_add_input_filter_handle,returns the filter handle for use with ap_add_output_filter_handle
+desc,error, 0.75,3,add a higher-level desc,add a higher-level error,add a higher-level error,maybe add a higher-level desc,add a higher-level error,return err maybe add a higher-level desc
+pbquery,apr_dbd_pvquery, 0.875,1,pbquery query using a prepared statement + binary args,apr_dbd_pvquery query using a prepared statement + args
+stale,fresh, 0.75,1,follow the stale path,we follow the fresh path
+search,deliver, 0.833333333333333,1,okay time to search the content,okay time to deliver the content
+put,mkcol, 0.75,1,handle the put method,handle the mkcol method
+util_ldap_cache,util_ldap_cache_mgr, 0.8,1,util_ldap_cache c ldap cache things,util_ldap_cache_mgr c ldap cache manager things
+remove,copymove, 0.833333333333333,2,try to remove the resource,then try to copymove the resource,recursively remove it and its children,recursively copymove it and its children
+poll,lock, 0.857142857142857,1,apr was not given a poll structure,apr was not given a lock structure
+k_,d_, 0.833333333333333,1,string containing _all_ valid k_ opts,string containing _all_ valid d_ opts
+former,positive, 0.75,1,in the former case,in the positive case
+xc,xff, 0.8,1,bits for xc - xc,bits for xc - xff
+further,other, 0.75,1,no further modules are called for this phase,no other modules are called during this phase
+session,balancerworker, 0.8,1,add session info to env,add balancerworker info to env
+declaration,comment, 0.8,1,see the handler declarations below,see the individual handler comments below for details
+always,fixed, 0.75,1,the length is always,if the length is fixed
+payload,buffer, 0.75,1,pointer to the payload,the pointer to the buffer
+apr_uri_t,uri_components, 0.888888888888889,1,fill in all supplied fields of a apr_uri_t structure,fill in all supplied fields of a uri_components structure
+former,apr_brigade_flatten, 0.75,1,in the former case,at least in the apr_brigade_flatten case
+parse,handle, 0.75,2,parse the request body,handle the request body,handle the certificate type,parse the certificate type
+restart,shutdown, 0.888888888888889,5,restart is signaled by apache -k restart,shutdown is signaled by apache -k shutdown,restart is signaled by apache -k restart,shutdown is signaled by apache -k shutdown,signal the parent to restart,used to signal the parent to shutdown,used to signal the parent to restart,used to signal the parent to shutdown,an apache -k restart command on the command line,an apache -k shutdown command on the command line
+force,insvalue, 0.75,1,if force is true,if insvalue is true
+stdin,stdout, 0.857142857142857,1,parents side of pipe to childs stdin,parents side of pipe to childs stdout
+apr_dbd_get_row,get_name, 0.75,1,apr_dbd_get_row get a row from a result set,get_name get a column title from a result set
+transaction_mode_set,transaction_mode_get, 0.833333333333333,1,transaction_mode_set get the mode of transaction,transaction_mode_get get the mode of transaction
+fail,succeed, 0.75,1,if the request fails,if the request succeeds
+first,folded, 0.75,1,in the first case,in the folded case
+apr_dbd_open,apr_dbd_open_ex, 0.857142857142857,1,apr_dbd_open open a connection to a backend,apr_dbd_open_ex open a connection to a backend
+true,ldap_success, 0.75,2,returns true on success false,returns ldap_success on success,returns true on success,returns ldap_success on success
+true,null, 0.75,1,returns true on error,returns null on error
+dav_declaretype,dbd_declaretype, 0.8,1,create a set of dav_declaretype,create a set of dbd_declaretype
+apr_table_setn,apr_table_mergen, 0.833333333333333,1,flag for overlap to use apr_table_setn,flag for overlap to use apr_table_mergen
+apr_major_version,apu_major_version, 0.8,1,reset to when upgrading apr_major_version,reset to when upgrading apu_major_version
+mc,na, 0.8,1,use language_priority rather than mc,use language_priority rather than na
+apr_major_version,apr_minor_version, 0.8,1,reset to when upgrading apr_major_version,reset to when upgrading apr_minor_version
+access,resource, 0.8,1,old access config file commands,old resource config file commands
+delete,checkin, 0.75,1,handle the delete method,handle the checkin method
+buffer,request, 0.8,1,the size of the buffer,get the size of the request
+static,dynamic, 0.833333333333333,1,an mpm is using a static,an mpm is using a dynamic
+lock,thread, 0.857142857142857,1,apr was not given a lock structure,apr was not given a thread structure
+apr_dbd_pquery query,apr_dbd_pbselect select, 0.75,1,apr_dbd_pquery query using a prepared statement + args,apr_dbd_pbselect select using a prepared statement + binary args
+apr_dbd_pbquery query,apr_dbd_pvbselect select, 0.777777777777778,1,apr_dbd_pbquery query using a prepared statement + binary args,apr_dbd_pvbselect select using a prepared statement + binary args
+sigint,sigabrt, 0.833333333333333,2,is used for sigint on netware,is used for sigabrt on netware,is used for sigint on windows,is used for sigabrt on windows
+above,below, 0.714285714285714,1,continuations above that level are skipped as,continuations below that level are processed as
+size,length, 0.8,2,the size of the buffer,the length of the buffer,if the size is unknown,if the length is unknown
+install,reconfiguration, 0.857142857142857,1,service install happens in the rewrite_args hooks,service reconfiguration happens in the rewrite_args hooks
+err,multi_status, 0.75,1,do something with err,do something with multi_status
+read,call, 0.75,1,dont do the read,dont do anything except log the call
+entry,request, 0.8,1,the key for this entry,the cache key created for this request
+socket,immortal, 0.75,1,the socket bucket type,the immortal bucket type
+s,ejected, 0.75,1,if s is null,fix if ejected is null
+used,mmaped, 0.75,1,this can be used,files in this dir can be mmaped
+heap,mmap, 0.75,1,the heap bucket type,the mmap bucket type
+pselect,pvbselect, 0.875,1,pselect select using a prepared statement + args,pvbselect select using a prepared statement + binary args
+fragment,non-comma, 0.75,1,pointer to next fragment,advance field pointer to the next non-comma
+puts,write, 0.75,1,puts is never called,write is never called
+alternative,property, 0.833333333333333,1,move on to the next alternative,property added move on to the next property
+per-server,per-directory, 0.9,7,this function gets called to create a per-server configuration record,this function gets called to create a per-directory configuration record,this function gets called to merge two per-server configuration records,this function gets called to merge two per-directory configuration records,per-server context configuration directives,per-directory context configuration directives,merge per-server config structures,merge per-directory config structures,merge per-server ssl configurations,merge per-directory ssl configurations,create per-server config structure,create per-directory config structure,create per-server ssl configuration,create per-directory ssl configuration
+time,thread, 0.857142857142857,1,apr was not given a time structure,apr was not given a thread structure
+heap,transient, 0.75,1,the heap bucket type,the transient bucket type
+provide,pass, 0.833333333333333,1,the username provided by the client,and the actual username passed by the http client
+specified,parent, 0.75,1,validate the specified resource,validate the parent resource if requested
+-d,-c, 0.75,1,-c and -d switches,-c and -c switches
+wait,request, 0.75,1,if the wait succeeds,if the request succeeds
+or,because, 0.75,1,or we dont cache,because we dont yet cache partial responses
+put,search, 0.75,1,handle the put method,handle the search method
+rebind_add,rebind_remove, 0.75,1,apr ldap rebind_add function,apr ldap rebind_remove function
+pvquery query,apr_dbd_pselect select, 0.75,1,pvquery query using a prepared statement + args,apr_dbd_pselect select using a prepared statement + args
+increase,prep, 0.75,1,increase the buffer size,prep the buffer with a good size
+davsupported-report-set,davsupported-method-set, 0.75,1,generate davsupported-report-set options response,generate davsupported-method-set options response
+identifier,sections, 0.75,1,the identifier we matched,the sections we matched against
+folded,apr_brigade_flatten, 0.75,1,in the folded case,at least in the apr_brigade_flatten case
+search,proppatch, 0.75,1,handle the search method,handle the proppatch method
+apr_dbd_pbquery,apr_dbd_pvbquery, 0.888888888888889,1,apr_dbd_pbquery query using a prepared statement + binary args,apr_dbd_pvbquery query using a prepared statement + binary args
+zero-initialized,inserted, 0.75,1,it should be zero-initialized,then it should not be inserted
+take,no_args, 0.833333333333333,1,command handler for a take directive,command handler for a no_args directive
+url,non-utf, 0.75,1,so the url code,so we repeat the non-utf code
+poll,process, 0.857142857142857,1,apr was not given a poll structure,apr was not given a process structure
+host,accept, 0.833333333333333,2,was an optional host header specified,was an optional accept header specified,host header not overridden,accept header not overridden
+octal value,bracket number, 0.714285714285714,1,if the octal value is greater than,if the bracket number is greater than extract_basic_max
+phase,request, 0.75,1,for the current phase,the content-type for the current request
+expect,supply, 0.75,1,if one is expected,only set if one is supplied
+ok,http_method_not_allowed, 0.75,1,if we return ok,hrm if we return http_method_not_allowed
+pvquery,pvbquery, 0.875,1,pvquery query using a prepared statement + args,pvbquery query using a prepared statement + binary args
+delete,uncheckout, 0.75,1,handle the delete method,handle the uncheckout method
+list,cache, 0.8,1,add it to the list,add it back to the cache
+sigill,sigterm, 0.833333333333333,2,is used for sigill on netware,is used for sigterm on netware,is used for sigill on windows,is used for sigterm on windows
+options,proppatch, 0.75,1,handle the options method,handle the proppatch method
+positive,common, 0.75,1,in the positive case,avoid sscanf in the common case
+error,message, 0.833333333333333,1,apache will supply a default error,apache will supply a default message
+mmap,immortal, 0.75,1,the mmap bucket type,the immortal bucket type
+busy,idle, 0.777777777777778,1,the server is busy and the child is useful,the server is idle and the child is superfluous
+open,read, 0.75,1,open the data file,read the data from the cache file
+pvbquery query,apr_dbd_pvselect select, 0.75,1,pvbquery query using a prepared statement + binary args,apr_dbd_pvselect select using a prepared statement + args
+apr_nofile,valid, 0.75,1,the value is apr_nofile,and that the provided value is valid
+sigill,sigbreak, 0.833333333333333,1,is used for sigill on windows,is used for sigbreak on windows
+bogus,multithreaded, 0.714285714285714,1,this may or may not be bogus,the mpm may or may not be multithreaded
+per-dir,per-server, 0.75,2,merge per-dir config structures,merge per-server config structures,create per-dir config structures,create per-server config structures
+send,process, 0.8,1,step three send the request,step three process the request
+several,terminator, 0.75,1,to allow for several,- to allow for terminator
+provider,filter_rec, 0.833333333333333,1,the next provider in the list,the next filter_rec in the list
+fixed,zero, 0.8,1,if the length is fixed,if the length of the reference is zero
+lock,character, 0.75,2,there are no locks,if there are no characters,there are no locks,if there are no characters
+list,string, 0.714285714285714,1,and its the first in the list,and its not the last byte in the string
+reuse,create, 0.75,1,reuse an ajp message,create an ajp message from pool
+but,sslc, 0.75,1,but does not support,sslc does not support this function
+daemons,threads, 0.75,3,min of spare daemons,min of spare threads,max of spare daemons,max of spare threads,the compiled max threads,the compiled max daemons
+$,etc, 0.75,1,this would be $,for sqlite this would be etc
+checked,valid, 0.75,1,and that is checked,and that the provided value is valid
+ok,ap_nobody_read, 0.75,1,then ok is returned,then ap_nobody_read is returned
+delete,propfind, 0.75,1,handle the delete method,handle the propfind method
+workspaces,activities, 0.875,5,or the provider does not support workspaces,or the provider does not support activities,if the provider does not support workspaces,if the provider does not support activities,or the provider does not support workspaces,if the provider does not support activities,the provider may restrict activities to certain locations,the provider may restrict workspaces to certain locations,if the provider does not support workspaces,or the provider does not support activities
+provide,expect, 0.75,1,if one is provided,if one is expected
+header,key, 0.75,1,write the request header,write out the request key
+readwrite,current, 0.75,1,readwrite position in buffer,current position in input buffer
+command,configurations, 0.714285714285714,1,the launch service command is stored under,the service configurations is stored under the following trees
+normal,syslog, 0.833333333333333,1,if we are doing normal logging,if we are doing syslog logging
+pvselect,pvbselect, 0.875,1,pvselect select using a prepared statement + args,pvbselect select using a prepared statement + binary args
+provider-check_password,provider-get_realm_hash, 0.8,1,call the real provider-check_password function,call the real provider-get_realm_hash function
+multipart,actual, 0.75,1,send our multipart output,now send our actual output
+mmap,socket, 0.75,1,the mmap bucket type,the socket bucket type
+former,latter, 0.75,1,in the former case,in the latter case it contains dispatch
+puts-type,putchar-type, 0.8,1,rsl hook for puts-type functions,rsl hook for putchar-type functions
+apr_time_exp_gmt,apr_time_exp_lt, 0.75,1,except that it uses ap_explode_recent_gmt instead of apr_time_exp_gmt,except that it uses ap_explode_recent_localtime instead of apr_time_exp_lt
+pvquery query,pvbselect select, 0.75,1,pvquery query using a prepared statement + args,pvbselect select using a prepared statement + binary args
+better,different, 0.75,1,use a better description,use a different description andor error id
+eos,immortal, 0.75,1,the eos bucket type,the immortal bucket type
+mmap,transient, 0.75,1,the mmap bucket type,the transient bucket type
+request,document, 0.75,1,not a file request,not a file document
+first,latter, 0.75,3,in the first case,in the latter case it contains dispatch,for the first case,for the latter case,for the first case,for the latter case
+time,process, 0.857142857142857,1,apr was not given a time structure,apr was not given a process structure
+ap_init_flagdirective,ap_init_raw_argsdirective, 0.857142857142857,1,declared in the command_rec list with ap_init_flagdirective,declared in the command_rec list with ap_init_raw_argsdirective
+apr_pool_destroy_clear,apr_pool_create_ex_debug, 0.875,1,trust the macro and dont call apr_pool_destroy_clear directly,trust the macro and dont call apr_pool_create_ex_debug directly
+epsv,port, 0.833333333333333,1,set up data connection - epsv,set up data connection - port
+buffer,fd_queue_t, 0.8,1,when the buffer is full,detects when the fd_queue_t is full
+search,propfind, 0.75,1,handle the search method,handle the propfind method
+space,event, 0.75,1,so use spaces instead,so we use events instead
+bind,request, 0.75,1,if the bind fails,if the request fails
+listener,filter_rec, 0.833333333333333,1,the next listener in the list,the next filter_rec in the list
+flush,transient, 0.75,1,the flush bucket type,the transient bucket type
+record,database, 0.833333333333333,1,provider-specific information for a lock record,provider-specific information for a lock database
+import,export, 0.75,1,i _did_ mean import,i _did_ mean export
+lockdb-related,property-related, 0.75,1,lockdb-related public lock functions,property-related public lock functions
+hard,soft, 0.875,1,hard maximum on the total number of connections,soft maximum on the total number of connections
+append,make, 0.75,2,so lets append it,so lets make it configurable,so lets append it,so lets make it configurable by env
+type,size, 0.75,1,the type of file,the size of the file
+ket,defaults, 0.75,1,fill in the ket,now fill in the defaults
+single,multiple, 0.833333333333333,1,is content already a single range,is content already a multiple range
+apr_hash,cache_hash, 0.857142857142857,1,and have apr_hash compute the length automatically,and have cache_hash compute the length automatically
+leaving,move, 0.75,1,leaving the subject pointer,move the subject pointer back
+pselect,apr_dbd_pvbselect, 0.875,1,pselect select using a prepared statement + args,apr_dbd_pvbselect select using a prepared statement + binary args
+server,driver, 0.8,1,the name of the server,apr_dbd_name get the name of the driver
+apr_pool_clear,apr_pool_create_core_ex, 0.888888888888889,1,if you do not have apr_pool_clear in a wrapper,if you do not have apr_pool_create_core_ex in a wrapper
+put,checkin, 0.75,1,handle the put method,handle the checkin method
+ok,apr_unkfile, 0.75,2,the return value is ok,the value is apr_unkfile,the return value is ok,the value is apr_unkfile
+skip,process, 0.714285714285714,1,continuations above that level are skipped as,continuations below that level are processed as
+grab,read, 0.714285714285714,1,grab the argument if there is one,read the maximum value if there is one
+no_args,raw_args, 0.833333333333333,1,command handler for a no_args directive,command handler for a raw_args directive
+prepare,do, 0.75,1,now prepare the redirect,now do the internal redirect
+directorys,vhosts, 0.777777777777778,2,and the directorys list of file sections hasnt changed,and the vhosts list of directory sections hasnt changed,and the vhosts list of locations hasnt changed,and the directorys list of file sections hasnt changed
+status,multi_status, 0.75,1,do something with status,do something with multi_status
+request,xml, 0.75,1,parse the request body,parse elements in the xml body
+sigterm,sigabrt, 0.833333333333333,2,is used for sigterm on netware,is used for sigabrt on netware,is used for sigabrt on windows,is used for sigterm on windows
+checkin,propfind, 0.75,1,handle the checkin method,handle the propfind method
+copy,delete, 0.8,1,if the copy is successful,if the delete is successful
+is_subject,make_indirect, 0.75,1,if is_subject is true,if make_indirect is true non-zero
+identity,range, 0.8,1,we have a valid identity,we now have a valid range
+s,send, 0.75,1,start of data a,send a block of data
+database,apr_bucket_destroy_notimpl, 0.75,1,or there is no database,there is no apr_bucket_destroy_notimpl
+end,nd, 0.75,1,check for the end,check for valid bytes after the nd
+treewalkers,functions, 0.8,1,forward declaration for internal treewalkers,forward declaration prototypes for internal functions
+load,bracket, 0.75,1,if the load fails,if the bracket fails to match
+apr_bucket_read_notimpl,apr_bucket_destroy_notimpl, 0.75,1,there is no apr_bucket_read_notimpl,there is no apr_bucket_destroy_notimpl
+setlasterror,wsasetlasterror, 0.833333333333333,1,or calls a setlasterror style function,or calls a wsasetlasterror style function
+chain,apr_bucket_destroy_notimpl, 0.75,1,but there is no chain,there is no apr_bucket_destroy_notimpl
+rfc,ctime, 0.8,1,length of a rfc date,length of a ctime date
+msg,message, 0.875,4,this supplies additional information for the default msg,this supplies additional information for the default message,this supplies additional information for the default msg,dav_get_depth supplies additional information for the default message,this supplies additional information for the default msg,dav_get_overwrite supplies additional information for the default message,this supplies additional info for the default msg,this supplies additional information for the default message
+mainly,useful, 0.8,1,this is mainly for debugging,this is useful for debugging
+dav_prop_insert_notsupp,decline, 0.75,1,it should return dav_prop_insert_notsupp,i suspect it should really return decline
+existing,heap, 0.8,1,copy into the existing bucket,copy the string directly into the heap bucket
+waste,uuid_t, 0.75,1,which is a waste,which is represented by a uuid_t
+parser,verification, 0.75,1,authorization header parser code,authorization header verification code
+merge,activity, 0.857142857142857,2,if the provider does not support merging,if the provider does not support activities,if the provider does not support merging,or the provider does not support activities
+apr_dbd_pquery query,pbselect select, 0.75,1,apr_dbd_pquery query using a prepared statement + args,pbselect select using a prepared statement + binary args
+additional,valid, 0.75,1,check for additional bytes,check for valid bytes after the nd
+reset,create, 0.75,1,reset an ajp message,create an ajp message from pool
+insert,add, 0.75,4,insert a higher-level description,add a higher-level description to err,add a higher-level description,insert a higher-level error description,add a higher-level description,insert a higher-level description,add a higher-level error,insert a higher-level error description
+support,matter, 0.75,1,but does not support,but this does not matter
+create,add, 0.75,1,create a new entry,add a new entry for non-null values
+ap_get_list_item,ap_find_list_item, 0.888888888888889,1,this program tests the ap_get_list_item routine in mainutil c,this program tests the ap_find_list_item routine in mainutil c
+normal,matching, 0.8,1,we had a normal state,we had a matching state list
+on,to, 0.777777777777778,1,place a string on the end of the buffer,append a string to the end of the buffer
+folded,common, 0.75,1,in the folded case,avoid sscanf in the common case
+davdepthinfinity,davgenericlockdb, 0.833333333333333,1,command handler for the davdepthinfinity directive,command handler for the davgenericlockdb directive
+next,alias, 0.833333333333333,1,the next provider in the list,if we found the alias provider in the list
+single,bit-mapped, 0.75,1,match a single character,match a bit-mapped character class
+pvselect,apr_dbd_pvbselect, 0.875,1,pvselect select using a prepared statement + args,apr_dbd_pvbselect select using a prepared statement + binary args
+get,reach, 0.75,2,control never gets here,control never reaches here by falling through,control never gets here,control never reaches here
+cache-control,content-length, 0.75,1,set the cache-control header,set up the content-length header
+first,former, 0.75,1,in the first case,in the former case
+date,socket, 0.833333333333333,1,apr was given an invalid date,apr was given an invalid socket
+immortal,transient, 0.75,1,the immortal bucket type,the transient bucket type
+left,right, 0.75,1,has a left child,has a right child
+hmodthis,hmodlock, 0.75,1,static hmodule hmodthis null,static hmodule hmodlock null
+key,value, 0.857142857142857,1,the key for the current table entry,the value for the current table entry
+initialize_module,util_ldap_post_config, 0.8,1,initialize_module will be called twice,util_ldap_post_config will be called twice
+mpm,real, 0.75,1,show the mpm name,then show the real name
+appropriate,depth, 0.75,1,get the appropriate header,get and parse the depth header value
+special,usual, 0.75,1,not a special case,this is not a usual case
+ap_make_etag,unparsed_uri, 0.75,1,so we use ap_make_etag,so we cant safely use unparsed_uri
+connection,method, 0.857142857142857,2,if we dont want to keep the connection,xxx if we want to keep track of the method,if we want to keep the connection,xxx if we want to keep track of the method
+is_main,dummy_stderr, 0.75,1,if is_main is non-zero,if dummy_stderr is non-zero
+next,first, 0.875,2,retrieve the next record key from a dbm,retrieve the first record key from a dbm,if the next character is +,if the first character is
+use_checked_in,partial_ok, 0.75,1,if use_checked_in is true,if partial_ok is true non-zero
+null,specified, 0.75,1,if both are null,if both are specified
+pselect,apr_dbd_pselect, 0.875,1,pselect select using a prepared statement + args,apr_dbd_pselect select using a prepared statement + args
+second,time, 0.714285714285714,1,the + is for the current second,if the cached value is for the current time
+dir,directory, 0.8,1,the dir creation was successful,the directory creation was successful
+get_entry,apr_dbd_get_entry, 0.857142857142857,1,get_entry get an entry from a row,apr_dbd_get_entry get an entry from a row
+default_handler,examples, 0.75,1,for the default_handler below,handler cmd-info for the examples below
+ftp,ajp, 0.8,1,ftp routines for apache proxy,ajp routines for apache proxy
+or,except, 0.714285714285714,1,or at the end of the scan,except at the very end of the pattern
+function,routine, 0.75,1,this function is called,xxx this routine is called xxx
+host,addr, 0.75,1,return true if host represents a host name,return true if addr represents a domain name
+buffer,subject, 0.8,1,the length of the buffer,the length of the subject
+hasnt,already, 0.8,1,if the worker hasnt exited,if the worker already exited
+incrementing,decrementing, 0.714285714285714,1,incrementing filter type by ensures his happens,decrementing filter type by ensures this happens
+acquire,abort, 0.714285714285714,1,if the mutex has already been acquired,fail quickly if the connection has already been aborted
+useful,superfluous, 0.777777777777778,1,the server is busy and the child is useful,the server is idle and the child is superfluous
+modules c,mime types, 0.714285714285714,1,the name of the modules c file,the name of the mime types file
+program,command, 0.75,1,name of this program,name of this command
+file_walk,location_walk, 0.857142857142857,1,we can skip rewalking the file_walk entries,we can skip rewalking the location_walk entries
+cache,future, 0.8,1,if its in the cache,if its in the future
+pquery query,pvselect select, 0.75,1,pquery query using a prepared statement + args,pvselect select using a prepared statement + args
+`congenital,caseless, 0.714285714285714,1,like the setting of the `congenital flag,according to the current setting of the caseless flag
+dummy_stderr,resolve_locks, 0.75,1,if dummy_stderr is non-zero,if resolve_locks is true non-zero
+z,lines, 0.75,1,end of data z,end of loop for data lines
+subject,string, 0.8,1,the length of the subject,returns if successful the length of the string
+locks,search, 0.75,1,if no locks provider,if no search provider
+callbacks,invocation, 0.8,1,isapi module request callbacks section,isapi module request invocation section
+data,headers, 0.75,1,open the data file,open the headers file
+inflate,deflate, 0.75,1,initialize inflate output buffer,initialize deflate output buffer
+big,main, 0.75,1,end of big loop,end of main loop
+null,needed, 0.75,1,it will be null,hopefully it will not be needed
+thread,ssl, 0.8,1,if thread support is enabled,reports if ssl support is enabled
+pvselect,apr_dbd_pvselect, 0.875,1,pvselect select using a prepared statement + args,apr_dbd_pvselect select using a prepared statement + args
+or,new, 0.8,1,y or directive url x,y new directive url menu text x
+multistatus,current, 0.8,1,add to the multistatus response,add the appropriate headers to the current response
+gets,ctrl, 0.75,1,gets is never called,ctrl is never called
+pvquery,apr_dbd_pbquery, 0.875,1,pvquery query using a prepared statement + args,apr_dbd_pbquery query using a prepared statement + binary args
+tag,entry, 0.833333333333333,1,if there are no more tags,null if there are no more entries
+type,bottom, 0.75,1,the type of file,declaration near the bottom of this file
+\,\c, 0.8,1,\ at end of pattern,\c at end of pattern
+or,returns, 0.75,2,or null on error,returns null on error,or null on error,returns null on error
+connection,stream, 0.75,1,end of connection bucket,create an end of stream bucket
+relative,absolute, 0.875,4,fail apr_filepath_merge if the merged path is relative,fail apr_filepath_merge if the merged path is absolute,the given path was relative,the given path was absolute,the given path was absolute,apr_erelative the given path was relative,the given path was relative,apr_eabsolute the given path was absolute
+h,||||, 0.75,1,entering passive mode h,example entering extended passive mode ||||
+windows,netware, 0.833333333333333,6,is used for sigill on windows,is used for sigill on netware,is used for sigabrt on windows,is used for sigabrt on netware,is used for sigterm on windows,is used for sigterm on netware,is used for sigint on netware,is used for sigint on windows,is used for sigsegv on windows,is used for sigsegv on netware,is used for sigfpe on windows,is used for sigfpe on netware
+num_cols,apr_dbd_num_cols, 0.9,1,num_cols get the number of columns in a results set,apr_dbd_num_cols get the number of columns in a results set
+more,match, 0.8,1,or null if no more,or null if no match
+mmap,sendfile, 0.833333333333333,1,mmap not supported by this os,sendfile not supported by this os
+pvquery query,pselect select, 0.75,1,pvquery query using a prepared statement + args,pselect select using a prepared statement + args
+track,do, 0.75,1,we dont track this,if we dont do this
+threadlimit,serverlimit, 0.857142857142857,1,you cannot change threadlimit across a restart,you cannot change serverlimit across a restart
+anything,space, 0.714285714285714,1,if there is anything in the path_info,if there is space in the offset vector
+pbquery,apr_dbd_pvbquery, 0.888888888888889,1,pbquery query using a prepared statement + binary args,apr_dbd_pvbquery query using a prepared statement + binary args
+apr_dbd_get_entry,apr_dbd_get_name, 0.714285714285714,1,apr_dbd_get_entry get an entry from a row,apr_dbd_get_name get an entry name from a result set
+strip,pass, 0.833333333333333,1,do we want to strip proxy-authorization,do we want to pass proxy-authorization along
+checkout,proppatch, 0.75,1,handle the checkout method,handle the proppatch method
+buffer,string, 0.8,1,the length of the buffer,returns if successful the length of the string
+just,found, 0.75,1,just a blank line,found a blank line
+server,argument, 0.8,1,the name of the server,someone forgot the name of the argument
+ssl_scache_dbm,ssl_scache, 0.714285714285714,1,_|___|_______| |_____| ssl_scache_dbm c session cache via dbm,_|___|_______| |_____| ssl_scache c session cache abstraction
+apr_dbd_pvselect select,apr_dbd_pbquery query, 0.75,1,apr_dbd_pvselect select using a prepared statement + args,apr_dbd_pbquery query using a prepared statement + binary args
+start-of-string,end-of-string, 0.8,1,will not match against start-of-string,$ will not match against end-of-string
+display,return, 0.833333333333333,1,display the name of the mutex,return the name of the lockfile for the mutex
+entry,connection, 0.75,1,create a new entry,create a new connection
+pem,pkcs, 0.75,2,pem encoded private key,pkcs encoded private key,pem encoded client certificate,pkcs encoded client certificate
+hostname,buffer, 0.8,1,if a hostname was provided,if a buffer was not provided
+osversioninfo,osversioninfoex, 0.8,1,try using the osversioninfo structure,try calling getversionex using the osversioninfoex structure
+flag,no-args, 0.833333333333333,1,function to call for a flag,function to call for a no-args
+reuse,receive, 0.75,1,reuse an ajp message,receive an ajp message from backend
+generation,non-comma, 0.8,1,advance to the next generation,advance field pointer to the next non-comma
+fatal,configurable, 0.8,1,maybe this should be fatal,maybe this should be configurable
+htpasswd,ap_os_e, 0.75,1,based on htpasswd c,based on ap_os_escape_path in serverutil c
+sun,sunday, 0.75,1,updated by rfc sun,updated by rfc sunday
+dav,davdepthinfinity, 0.833333333333333,1,command handler for the dav directive,command handler for the davdepthinfinity directive
+take,buffer, 0.8,1,we dont have a take,we dont have a buffer
+file,transient, 0.75,1,the file bucket type,the transient bucket type
+type,repeatedly, 0.8,2,match a single character type,match a single character repeatedly,match a single character type,match a negated single one-byte character repeatedly
+mmaped,apr_palloc, 0.75,1,can this file be mmaped,can this be apr_palloc
+user,group, 0.857142857142857,2,the user id that owns the file,the group id that owns the file,structure for determining user ownership,structure for determining group ownership
+am_stringify,apr_stringify, 0.75,1,helper macro for am_stringify,helper macro for apr_stringify
+apr_nofile,apr_unkfile, 0.75,1,the value is apr_nofile,the value is apr_unkfile
+pbquery query,apr_dbd_pselect select, 0.75,1,pbquery query using a prepared statement + binary args,apr_dbd_pselect select using a prepared statement + args
+versioned,lockable, 0.75,1,if resource is versioned,if the resource is lockable
+digit,character, 0.8,1,if the first digit is or,if the first character is
+accept,accept-encoding, 0.8,1,go through each of the ranges on the accept header,go through each of the encodings on the accept-encoding header
+eos,file, 0.8,2,the eos bucket type,the file bucket type,if we see the eos,if we dont see the file
+pvbquery query,pvbselect select, 0.777777777777778,1,pvbquery query using a prepared statement + binary args,pvbselect select using a prepared statement + binary args
+pvquery,apr_dbd_pvbquery, 0.875,1,pvquery query using a prepared statement + args,apr_dbd_pvbquery query using a prepared statement + binary args
+run,retrieve, 0.714285714285714,1,run the quick handler functions for each module,retrieve the optional functions for each module
+options,propfind, 0.75,1,handle the options method,handle the propfind method
+search,username, 0.75,2,build the search filter,build the username filter,build the search filter,build the username filter
+pool,file, 0.75,1,the pool bucket type,the file bucket type
+reset,reuse, 0.75,1,reset an ajp message,reuse an ajp message
+sigsegv,sigpoll, 0.833333333333333,1,is used for sigsegv on netware,is used for sigpoll on netware
+size,retrieve, 0.857142857142857,1,size an http header field list item,retrieve an http header field list item
+file,filter, 0.75,1,the type of file,the type of filter
+hard,just, 0.75,1,hard to get right,just to get the right size
+mkcol,proppatch, 0.75,1,handle the mkcol method,handle the proppatch method
+remove,retrieve, 0.888888888888889,1,remove any corresponding session from the distributed cache context,retrieve any corresponding session from the distributed cache context
+register,add, 0.75,1,register the namespace uris,add the liveprops namespace uris
+sigint,sigbreak, 0.833333333333333,1,is used for sigint on windows,is used for sigbreak on windows
+here,encoded, 0.75,1,should not be here,characters which should not be encoded
+ok,apr_success, 0.75,1,if we return ok,if we return apr_success
+go,remove, 0.75,2,all locks are gone,all locks are removed,all locks are gone,then all locks are removed
+server,provider, 0.833333333333333,1,the next server in the list,the next provider in the list
+void,undetermined, 0.75,1,the type is void,if the type is undetermined
+page,directory, 0.75,2,sdbm page file extension,sdbm directory file extension,page file block buffer,directory file block buffer
+checkout,propfind, 0.75,1,handle the checkout method,handle the propfind method
+mutex,connection, 0.714285714285714,1,if the mutex has already been acquired,fail quickly if the connection has already been aborted
+always,zero, 0.75,1,the length is always,the length in the table is zero
+zero-initialized,private, 0.75,1,it should be zero-initialized,although perhaps it should be private
+locks,versioning, 0.75,3,if no locks provider,if no versioning provider,if no locks provider,if no versioning provider,if no locks provider,if there is no versioning provider
+method-handling,method, 0.8,1,check for the method-handling scripts,check for actions which override the method scripts
+inode,pathname, 0.8,1,the inode of the file,the pathname of the file possibly unrooted
+unix,reqbyte, 0.8,1,in the case of unix,in the case of reqbyte
+pool,heap, 0.75,1,the pool bucket type,the heap bucket type
+minutes,miliseconds, 0.75,1,time is in minutes,time is in miliseconds
+filter,attributes, 0.75,1,bad or missing filter,bad or missing attributes
+syserr,statcode, 0.875,1,the syserr argument may be evaluated multiple times,the statcode argument may be evaluated multiple times
+store,delete, 0.857142857142857,2,store a dbm record value by key,delete a dbm record value by key,and store it to the dbm file,and delete it from the dbm file
+unknown,zero, 0.8,1,if the length is unknown,if the length of the reference is zero
+escape,field, 0.714285714285714,1,but not any of the other escapes,a callback should not change any of the other fields
+pquery query,apr_dbd_pvbselect select, 0.75,1,pquery query using a prepared statement + args,apr_dbd_pvbselect select using a prepared statement + binary args
+call,discourage, 0.75,1,this function is called,use of this function is discouraged
+section,htaccess, 0.875,1,if we merged this same section last time,if we merged this same htaccess last time
+creation,destruction, 0.75,1,dynamic lock creation callback,dynamic lock destruction callback
+conn_rec,request_rec, 0.857142857142857,1,the conn_rec associated with the current filter,the request_rec associated with the current filter
+bad,absolute, 0.8,2,the given path was bad,the given path was absolute,the given path was bad,apr_eabsolute the given path was absolute
+apr_dbd_pvquery query,apr_dbd_pvbselect select, 0.75,1,apr_dbd_pvquery query using a prepared statement + args,apr_dbd_pvbselect select using a prepared statement + binary args
+authorization,overwrite, 0.75,1,parse the authorization header,get and parse the overwrite header value
+eliminate,grab, 0.833333333333333,1,eliminate the if there is one,grab the argument if there is one
+apr_eexists,http_method_not_allowed, 0.75,1,if we return apr_eexists,hrm if we return http_method_not_allowed
+both,there, 0.75,1,if both are specified,if there are no usernames specified
+cache_save,cache_remove_url, 0.8,1,user likely configured cache_save manually,user likely configured cache_remove_url manually
+ct_output_filters,extension_mappings, 0.875,1,overlay one hash table of ct_output_filters onto another,overlay one hash table of extension_mappings onto another
+field,accept_line, 0.714285714285714,1,advance field pointer to the next non-comma,advance accept_line pointer to the next non-white byte
+absolute,cleaned, 0.75,1,path must be absolute,path must already be cleaned
+min,max, 0.75,2,min of spare threads,max of spare threads,min of spare daemons,max of spare daemons
+send,free, 0.75,1,send the username password,free the username and password
+pvbquery,apr_dbd_pvbquery, 0.888888888888889,1,pvbquery query using a prepared statement + binary args,apr_dbd_pvbquery query using a prepared statement + binary args
+pvselect select,pbquery query, 0.75,1,pvselect select using a prepared statement + args,pbquery query using a prepared statement + binary args
+o,window, 0.833333333333333,1,set default for os file system,set default for windows file system
+pointer,func, 0.75,2,pointer to the payload,func to hash the payload,pointer to the payload,func to display the payload contents
+addoutputfilterbytype,addoutputfiltersbytype, 0.875,1,insert filters requested by the addoutputfilterbytype configuration directive,insert filters requested by the addoutputfiltersbytype configuration directive
+child,module, 0.833333333333333,1,as with the child initialisation function,as with the module initialisation function
+prepare,apr_dbd_prepare, 0.75,1,prepare prepare a statement,apr_dbd_prepare prepare a statement
+hash_len,min, 0.8,1,must be less than hash_len,max must not be less than min
+lo,check, 0.857142857142857,1,if the resource is a locknull resource,if the resource is a checked-out resource
+keepalives,characters, 0.8,1,if there are no keepalives,if there are no characters
+reuse,recopy, 0.75,1,reuse an ajp message,recopy an ajp message to another
+pvselect,apr_dbd_pbselect, 0.875,1,pvselect select using a prepared statement + args,apr_dbd_pbselect select using a prepared statement + binary args
+look,un-gzip, 0.8,1,so we can look it up,so we can un-gzip it
+eos,http, 0.833333333333333,1,if we ever see an eos,this is buggy if we ever see an http
+pipe,transient, 0.75,1,the pipe bucket type,the transient bucket type
+xmlcontenttok,xmlprologtok, 0.857142857142857,1,the following tokens are returned by xmlcontenttok,the following tokens are returned only by xmlprologtok
+exec,request, 0.75,1,if the exec fails,if the request fails
+octal,hex, 0.8,1,and up to octal digits,x and up to hex digits
+parent,apr_bucket_destroy_notimpl, 0.75,1,then there is no parent,there is no apr_bucket_destroy_notimpl
+insvalue,partial_ok, 0.75,1,if insvalue is true,if partial_ok is true non-zero
+base,pkcs, 0.857142857142857,4,client cert key file in base format,client cert key file in pkcs format,client cert file in pkcs format,client cert key file in base format,client cert file in base format,client cert file in pkcs format,client cert file in base format,client cert key file in pkcs format
+section,one, 0.75,1,done with this section,so were done with this one
+ap_explode_recent_gmt,ap_explode_recent_localtime, 0.75,1,except that it uses ap_explode_recent_gmt instead of apr_time_exp_gmt,except that it uses ap_explode_recent_localtime instead of apr_time_exp_lt
+also,immediately, 0.75,1,then we also fail,then we immediately fail
+folded,latter, 0.75,1,in the folded case,in the latter case it contains dispatch
+path,uri_buf, 0.75,1,the pathname is stored in the path buffer,the current resources uri is stored in the uri_buf buffer
+substrings,parentheses, 0.75,1,number of named substrings,returns the number of the named parentheses
+heres,start, 0.75,1,heres the list of,start the list of addreses
+change,do, 0.714285714285714,1,we dont have to change that code,we dont have the information to do that
+match,subject, 0.75,1,start of match assertion,start of subject assertion
+put,options, 0.75,1,handle the put method,handle the options method
+bytes sent,items stored, 0.75,1,total number of bytes sent by this server,total number of items stored by this server
+key,size, 0.875,1,callback to get the key of a item,callback to get the size of a item
+stream,pattern, 0.75,1,hit end of stream,error if hit end of pattern
+apr_success,apr_eexists, 0.75,1,if we return apr_success,if we return apr_eexists
+ranges,encodings, 0.8,1,go through each of the ranges on the accept header,go through each of the encodings on the accept-encoding header
+apr_minor_version,apu_major_version, 0.8,1,reset to when upgrading apr_minor_version,reset to when upgrading apu_major_version
+list,input, 0.75,1,set up client list,set up client input
+insvalue,use_checked_in, 0.75,1,if insvalue is true,if use_checked_in is true
+gzip,ap_make_etag, 0.75,1,so we use gzip,so we use ap_make_etag
+found,s, 0.75,1,we just found a,we just started a new parent
+unset,zero, 0.8,1,if the reference is unset,if the length of the reference is zero
+address,size, 0.75,1,address of the table,size of each entry in the table
+expire,happen, 0.75,1,it hasnt expired yet,it hasnt happened yet
+core,cache, 0.75,1,handles for core filters,handles for cache filters
+proxy,userdir, 0.833333333333333,1,if this is a proxy request,check to see if this is a userdir request
+seconds,miliseconds, 0.75,1,time is in seconds,time is in miliseconds
+though get_remote_host,through get_remote_logname, 0.714285714285714,1,n b only access this though get_remote_host,n b only access this through get_remote_logname
+heap,socket, 0.75,1,the heap bucket type,the socket bucket type
+scheme,server, 0.8,1,the name of the scheme,the name of the server
+pool,socket, 0.75,1,the pool bucket type,the socket bucket type
+last,first, 0.875,3,for possible last char,for possible first char,the last piece of text in the list,the first piece of text in the list,run this hook last,run this hook first
+argumets,arguments, 0.9,1,the argumets to use to fill out the format string,the arguments to use to fill out the format string
+lock,coordinate, 0.75,2,there are no locks,or if there are no coordinates,there are no locks,or if there are no coordinates
+entry,sub-request, 0.75,1,and return the entry,lookup the uri and return the sub-request
+take,no-args, 0.833333333333333,1,function to call for a take,function to call for a no-args
+complete,noncommented, 0.75,1,get a complete line,get a noncommented line
+locks,keepalives, 0.75,2,there are no locks,if there are no keepalives,there are no locks,if there are no keepalives
+ssl,t, 0.714285714285714,2,check to see if ssl is on,check to see if this is a userdir request,check to see if ssl is on,check to see if this is a live property
+size,number, 0.8,3,the size of the file,the number of hard links to the file,limit on number of request header fields,limit on size of any request header field,number of name items,size of any name items
+flush,begin, 0.75,1,flush the response now,begin the response now
+scheme,driver, 0.8,1,the name of the scheme,apr_dbd_name get the name of the driver
+node,alternative, 0.8,1,move to the next node,move on to the next alternative
+end,beginning, 0.875,2,end of action switch,beginning of action switch,code executed at the end of each rule,code executed at the beginning of each rule
+apr_dbd_pselect,apr_dbd_pbselect, 0.875,1,apr_dbd_pselect select using a prepared statement + args,apr_dbd_pbselect select using a prepared statement + binary args
+ok,apr_nofile, 0.75,2,the return value is ok,the value is apr_nofile,the return value is ok,the value is apr_nofile
+apr_dbd_pselect select,apr_dbd_pvbquery query, 0.75,1,apr_dbd_pselect select using a prepared statement + args,apr_dbd_pvbquery query using a prepared statement + binary args
+ctx-pos,ctx-linesize, 0.833333333333333,1,so reset ctx-pos for next round,so reset ctx-linesize for next round
+propfind,uncheckout, 0.75,1,handle the propfind method,handle the uncheckout method
+pvbquery,apr_dbd_pbquery, 0.888888888888889,1,pvbquery query using a prepared statement + binary args,apr_dbd_pbquery query using a prepared statement + binary args
+pipe,immortal, 0.75,1,the pipe bucket type,the immortal bucket type
+type,name, 0.75,3,the type of file,the name of the mime types file,the type of file,the name of the modules c file,the type of file,the name of the server config file
+flag,take, 0.833333333333333,2,function to call for a flag,function to call for a take,command handler for a flag directive,command handler for a take directive
+statcode,socketcode, 0.75,1,unfolding statcode with apr_to_os_error,unfolding socketcode with apr_to_os_error
+pool,flush, 0.75,1,the pool bucket type,the flush bucket type
+define,recognize, 0.833333333333333,1,property is defined by this provider,property is recognized by this provider
+dav_fs_get_supportedlock,dav_generic_get_supportedlock, 0.888888888888889,1,dav_fs_get_supportedlock returns a static string for all supportedlock properties,dav_generic_get_supportedlock returns a static string for all supportedlock properties
+mkcol,uncheckout, 0.75,1,handle the mkcol method,handle the uncheckout method
+version-control,t, 0.8,1,then version-control is a no-op,then this is essentially a no-op
+mm,dbm, 0.75,1,support for mm library,support for dbm library
+zero-initialized,version-controlled, 0.75,1,it should be zero-initialized,see if it should be version-controlled
+done,present, 0.75,1,the header is done,the if header is present
+send,handle, 0.75,1,send the request body,handle the request body
+mkcol,delete, 0.75,1,handle the mkcol method,handle the delete method
+items,encodings, 0.8,1,go through each of the items on the accept-charset header,go through each of the encodings on the accept-encoding header
+pbquery,apr_dbd_pquery, 0.875,1,pbquery query using a prepared statement + binary args,apr_dbd_pquery query using a prepared statement + args
+exec,bracket, 0.75,1,if the exec fails,if the bracket fails to match
+bind,bracket, 0.75,1,if the bind fails,if the bracket fails to match
+pquery query,pbselect select, 0.75,1,pquery query using a prepared statement + args,pbselect select using a prepared statement + binary args
+match,mispelling, 0.75,2,we found a match,wow we found us a mispelling,we found a match,wow we found us a mispelling
+get_row,get_name, 0.75,1,get_row get a row from a result set,get_name get a column title from a result set
+lock,binding, 0.75,1,if no locks provider,if no bindings provider
+server,resource, 0.8,1,old server config file commands,old resource config file commands
+pvbquery query,apr_dbd_pselect select, 0.75,1,pvbquery query using a prepared statement + binary args,apr_dbd_pselect select using a prepared statement + args
+property,driver, 0.75,1,name of the property,apr_dbd_name get the name of the driver
+first,apr_brigade_flatten, 0.75,1,in the first case,at least in the apr_brigade_flatten case
+pvbquery,apr_dbd_pvquery, 0.875,1,pvbquery query using a prepared statement + binary args,apr_dbd_pvquery query using a prepared statement + args
+just,always, 0.75,1,just return the error,always return the error
+do,bust, 0.75,1,the header is done,the content-type header is busted
+root,bracket, 0.75,1,if the root fails,if the bracket fails to match
+one,overlap, 0.75,4,if there is one,if there is overlap,if there is overlap,grab the argument if there is one,if there is overlap,eliminate the if there is one,if there is one,if there is overlap
+sigterm,sigpoll, 0.833333333333333,1,is used for sigterm on netware,is used for sigpoll on netware
+six,five, 0.75,1,step six clean up,step five clean up
+array,headers, 0.833333333333333,1,if weve finished reading the array,if weve finished reading the headers
+header,infinity, 0.75,1,for the depth header,create indirect locks for the depth infinity
+pselect select,pbquery query, 0.75,1,pselect select using a prepared statement + args,pbquery query using a prepared statement + binary args
+decode,need, 0.75,1,will not be decoded,hopefully it will not be needed
+irix,solaris, 0.833333333333333,1,irix gcc -o test_limits test_limits c,solaris gcc -o test_limits test_limits c -lsocket -lnsl
+no-args,argvargc, 0.833333333333333,1,function to call for a no-args,function to call for a argvargc
+delete,proppatch, 0.75,1,handle the delete method,handle the proppatch method
+use,check, 0.857142857142857,1,use the shortcut and use the bitmask,use the shortcut and check the bitmask
+dbm,file, 0.75,1,the type of dbm,the type of file
+allow-override,allow-override-opts, 0.8,1,which allow-override bits are set,which allow-override-opts bits are set
+current,last, 0.8,1,the current piece of text,the last piece of text in the list
+pvselect select,apr_dbd_pvbquery query, 0.75,1,pvselect select using a prepared statement + args,apr_dbd_pvbquery query using a prepared statement + binary args
+callbacks,scoreboard, 0.75,2,set up the callbacks,set up events and the scoreboard,set up the callbacks,set up the scoreboard
+connection,file, 0.75,1,read data from connection,read data to post from file
+destroy,handle, 0.833333333333333,1,destroy the temporary keys and params,handle the temporary rsa keys and dh params
+write to,read from, 0.777777777777778,1,if the bottom-most filter doesnt write to the network,if the bottom-most filter doesnt read from the network
+null,zero, 0.75,2,or null on error,or zero on error,or null on error,or zero on error
+sigwinch,ap_sig_graceful, 0.888888888888889,1,necessary to deal with maxclients changes across sigwinch restarts,necessary to deal with maxclients changes across ap_sig_graceful restarts
+operation,database, 0.75,1,for a lock operation,provider-specific information for a lock database
+property,prop, 0.75,2,if not just getting supported live properties,if not just reporting on supported live props,within the prop values,within the property values
+type,pathname, 0.75,1,the type of file,the pathname of the file possibly unrooted
+listeners,proxy, 0.75,1,set up the listeners,someone has already set up the proxy
+take,context, 0.8,1,we dont have a take,if we dont have a context
+sigsegv,sigabrt, 0.833333333333333,2,is used for sigsegv on netware,is used for sigabrt on netware,is used for sigabrt on windows,is used for sigsegv on windows
+initialise,de-initialise, 0.8,1,apr ldap ssl initialise function,apr ldap ssl de-initialise function
+gzip,unparsed_uri, 0.75,1,so we use gzip,so we cant safely use unparsed_uri
+bind,exec, 0.75,1,if the bind fails,if the exec fails
+utf-,suexec, 0.75,1,when utf- is enabled,when suexec is enabled
+within,decompose, 0.75,1,within the format string,decompose the format string into its tags
+is_subject,partial_ok, 0.75,1,if is_subject is true,if partial_ok is true non-zero
+eos,socket, 0.75,1,the eos bucket type,the socket bucket type
+last,somewhere, 0.75,1,run this hook last,run this hook somewhere
+bytes read,items stored, 0.75,1,total number of bytes read by this server,total number of items stored by this server
+msiis,strstr, 0.75,1,for benefit of msiis,terminate for benefit of strstr
+util_ldap_post_config,balancer_init, 0.8,1,util_ldap_post_config will be called twice,balancer_init will be called twice during startup
+first,whole, 0.75,1,for the first branch,set none for the whole branch
+ptr,ptrptr, 0.8,1,ptr is pointing at the,ptrptr is pointing at the p or p
+but,pcre, 0.75,1,but does not support,pcre does not support \l
+folded,positive, 0.75,1,in the folded case,in the positive case
+multi_status,apr_enoent, 0.75,1,do something with multi_status,we can do something with apr_enoent
+enable,disable, 0.888888888888889,3,array of url prefixes for which caching is enabled,array of url prefixes for which caching is disabled,an environment variable that disables the filter is set,an environment variable that enables the filter isnt set,the module is disabled,check if the proxy module is enabled
+database,apr_bucket_read_notimpl, 0.75,1,or there is no database,there is no apr_bucket_read_notimpl
+apr_nofile,zero, 0.75,1,the value is apr_nofile,if the value in options is zero
+force,resolve_locks, 0.75,1,if force is true,if resolve_locks is true non-zero
+info,information, 0.875,2,this supplies additional info for the default msg,this supplies additional information for the default msg,this supplies additional info for the default msg,this supplies additional information for the default message
+ajp,scgidest, 0.75,1,this handles ajp urls,this handles scgidest urls
+bind,load, 0.75,1,if the bind fails,if the load fails
+poll,time, 0.857142857142857,1,apr was not given a poll structure,apr was not given a time structure
+accept,user-agent, 0.833333333333333,2,was an optional accept header specified,was an optional user-agent header specified,accept header not overridden,user-agent header not overridden
+server,mutex, 0.8,1,the name of the server,display the name of the mutex
+checked,sane, 0.75,1,and that is checked,and check that it is sane
+heap,pipe, 0.75,1,the heap bucket type,the pipe bucket type
+pipe,socket, 0.75,2,this bucket represents a pipe to another program,this bucket represents a socket to another machine,the pipe bucket type,the socket bucket type
+snprintf,vsnprintf, 0.8,1,snprintf routine based on apr_vformatter,vsnprintf routine based on apr_vformatter
+error,success, 0.75,2,always return the error,always return the success,returns true on error,returns true on success
+resource,lockdb, 0.8,1,hooks used for this resource,the hooks used for this lockdb
+read,process, 0.75,1,reading a client request,processing a client request
+eos,heap, 0.75,1,the eos bucket type,the heap bucket type
+shift,mask, 0.75,1,shift for right offset,mask for right offset bits
+possible,inserted, 0.75,1,should not be possible,then it should not be inserted
+flag,raw-args, 0.833333333333333,1,function to call for a flag,function to call for a raw-args
+region,string, 0.75,2,fill in the region,now actually fill in the string,fill in the region,now actually fill in the string
+string,pattern, 0.75,1,or end of string,either or end of pattern
+simple,refcounted, 0.75,1,copy a simple bucket,copy a refcounted bucket
+former,folded, 0.75,1,in the former case,in the folded case
+request,pingpong, 0.875,1,request timeout in given unit default is second,pingpong timeout in given unit default is second
+eos,pipe, 0.75,1,the eos bucket type,the pipe bucket type
+dav,davgenericlockdb, 0.833333333333333,1,command handler for the dav directive,command handler for the davgenericlockdb directive
+stdout,stdouterr, 0.857142857142857,1,parents side of pipe to childs stdout,parents side of pipe to childs stdouterr
+apr_dbd_pselect,apr_dbd_pvbselect, 0.875,1,apr_dbd_pselect select using a prepared statement + args,apr_dbd_pvbselect select using a prepared statement + binary args
+apr_dbd,apr_dbd_datum, 0.714285714285714,1,apr_dbd_get_entry get an entry from a row,apr_dbd_datum_get get a binary entry from a row
+flag,argvargc, 0.833333333333333,1,function to call for a flag,function to call for a argvargc
+label,version, 0.833333333333333,1,if the request specified a label,if the request specified a version
+hook,implement, 0.75,1,hook an optional hook,implement an optional hook
+pquery,apr_dbd_pvquery, 0.875,1,pquery query using a prepared statement + args,apr_dbd_pvquery query using a prepared statement + args
+available,enabled, 0.833333333333333,1,check if proxy module is available,check if the proxy module is enabled
+unknown,unrecognized, 0.75,1,unknown character after p,unrecognized character after p
+child,resource, 0.833333333333333,2,if the child does not exist,if the resource does not exist,if the child does not exist,if the resource does not exist null or lock-null
+resource,directory, 0.8,1,the resource creation was successful,the directory creation was successful
+frees,eliminate, 0.75,1,frees the console window,eliminate the console window
+mod_status,mod_log_config, 0.8,1,ssl extension to mod_status _________________________________________________________________,ssl extension to mod_log_config _________________________________________________________________
+processing,after, 0.75,1,processing a client request,after a client completes the first request
+them,transfer-encoding, 0.75,1,we can either ignore them,we can ignore transfer-encoding
+apr_ctime,apr_rfc_date, 0.857142857142857,1,this code is a clone of apr_ctime,this code is a clone of apr_rfc_date
+pvquery query,pbselect select, 0.75,1,pvquery query using a prepared statement + args,pbselect select using a prepared statement + binary args
+reports-nmspace,reports-namespace, 0.875,1,note we presume reports-nmspace is properly xmlurl quoted,note we presume reports-namespace is properly xmlurl quoted
+ok,ap_nobody_wrote, 0.75,1,then ok is returned,then ap_nobody_wrote is returned
+hash,display, 0.8,1,func to hash the payload,func to display the payload contents
+pselect,apr_dbd_pvselect, 0.875,1,pselect select using a prepared statement + args,apr_dbd_pvselect select using a prepared statement + args
+err,status, 0.75,1,do something with err,do something with status
+ap_declare,ap_module_declare_data, 0.75,1,apache core dso functions are declared with ap_declare,apache core dso variables are declared with ap_module_declare_data
+case,right, 0.75,1,mask for case offset,mask for right offset bits
+live property,userdir request, 0.777777777777778,1,check to see if this is a live property,check to see if this is a userdir request
+scan,pattern, 0.75,3,or at the end of the scan,except at the very end of the pattern,or at the end of the scan,if backslash is at the end of the pattern,end of the pattern,or at the end of the scan
+read,modify, 0.75,1,read the files ownerperms,modify the files ownerperms
+item,key, 0.8,1,number of items that have been requested and not found,number of keys that have been requested and found present
+pquery,pbquery, 0.875,1,pquery query using a prepared statement + args,pbquery query using a prepared statement + binary args
+server,filter_rec, 0.833333333333333,1,the next server in the list,the next filter_rec in the list
+utf-,unknown, 0.833333333333333,1,the filepath character encoding is utf-,the filepath character encoding is unknown
+size,inode, 0.8,1,the size of the file,the inode of the file
+length,child, 0.75,1,the length is always,as the child is always zero
+operation,record, 0.75,1,for a lock operation,provider-specific information for a lock record
+unknown,increased, 0.8,1,if the size is unknown,if the blockpage size is increased
+cache_declaretype,proxy_declaretype, 0.8,1,create a set of cache_declaretype,create a set of proxy_declaretype
+pselect,apr_dbd_pbselect, 0.875,1,pselect select using a prepared statement + args,apr_dbd_pbselect select using a prepared statement + binary args
+pbquery query,apr_dbd_pvbselect select, 0.777777777777778,1,pbquery query using a prepared statement + binary args,apr_dbd_pvbselect select using a prepared statement + binary args
+them,anchoring, 0.714285714285714,1,so we dont need to test for them,so we have to test for anchoring
+ok,informational, 0.8,1,is the status code ok,is the status code informational
+apr_dbd_pvselect,apr_dbd_pvbselect, 0.875,1,apr_dbd_pvselect select using a prepared statement + args,apr_dbd_pvbselect select using a prepared statement + binary args
+shutdown,create, 0.75,1,shutdown the worker threads,create the pool of worker threads
+fsi,pbi, 0.8,1,use for fsi documented above,use for pbi documented above
+id,error, 0.75,1,just return the id,just return the error
+static,max, 0.8,1,static number of child processes,max number of child processes allowed
+default,maximum, 0.833333333333333,2,default time to keep cached file in msecs,maximum time to keep cached files in msecs,default time to cache a document,maximum time to cache a document
+whitespace,ordering, 0.8,1,cdata whitespace will be preserved,element and cdata ordering will be preserved
+detach,dummy_stderr, 0.75,1,if detach is non-zero,if dummy_stderr is non-zero
+group,branch, 0.75,1,end of a group,reached end of a branch
+initial,maximum, 0.833333333333333,1,initial number of connections to remote,maximum number of connections to remote
+file,child, 0.8,1,the file does not exist,if the child does not exist
+normal,wildcarded, 0.8,1,normal names for serveralias servers,wildcarded names for serveralias servers
+dbm,reading, 0.75,1,the type of dbm,log the type of reading
+dn,password, 0.875,1,dn to bind to server can be null,password to bind to server can be null
+phase,directive, 0.75,1,for the current phase,the arguments for the current directive
+sigint,sigpoll, 0.833333333333333,1,is used for sigint on netware,is used for sigpoll on netware
+body,bytes, 0.75,1,amount of body read,amount of bytes read
+load,marks, 0.75,1,load the extra data,marks the end of extra data
+own,ownn, 0.888888888888889,1,the classes that have their own maps are space,the classes that have their ownn maps are space
+send,exist, 0.75,1,the file to send,the file has to exist
+request,server, 0.8,1,the request record if available,were passed the server record if available
+stop,restart, 0.888888888888889,3,signal used to gracefully stop without sig prefix,signal used to gracefully restart without sig prefix,signal used to gracefully stop,signal used to gracefully restart,signal used to gracefully stop as a quoted string,signal used to gracefully restart as a quoted string
+apr_pool_destroy,apr_pool_create_core_ex, 0.888888888888889,1,if you do not have apr_pool_destroy in a wrapper,if you do not have apr_pool_create_core_ex in a wrapper
+configuration,context, 0.75,1,create per-server ssl configuration,create the new per-server ssl context
+apr_dbd_pselect select,apr_dbd_pbquery query, 0.75,1,apr_dbd_pselect select using a prepared statement + args,apr_dbd_pbquery query using a prepared statement + binary args
+r-uri,test_file, 0.777777777777778,1,if we have an cache-cached location that matches r-uri,if we have an cache-cached file name that matches test_file
+apr_pool_create_ex,apr_pool_create_core_ex, 0.888888888888889,1,if you do not have apr_pool_create_ex in a wrapper,if you do not have apr_pool_create_core_ex in a wrapper
+hour,minute, 0.75,1,time is in hours,time is in minutes
+server,connection, 0.75,1,defaults to server timeout,defaults to connection timeout
+path,query, 0.75,1,check that path matches,check that query matches
+flag,raw_args, 0.833333333333333,1,command handler for a flag directive,command handler for a raw_args directive
+data,header, 0.875,1,if a user manually creates a data file,if a user manually creates a header file
+marks,indicate, 0.8,1,marks the end of response,indicate the end of the response body
+put,send, 0.75,1,do not put anything,do not send anything to the client
+sent,read, 0.875,1,total number of bytes sent by this server,total number of bytes read by this server
+load,handle, 0.75,1,load a single-byte character,handle a single-byte character
+init,initialize, 0.8,1,init to avoid gcc -wall warning,initialize to avoid gcc warning
+or,were, 0.714285714285714,1,or at the end of the scan,were at the end of the level cont_level continuations
+file,reading, 0.75,1,the type of file,log the type of reading
+map,real, 0.8,1,if its a map file,if its a real file
+to,from, 0.833333333333333,4,and module pointer to list of loaded modules,remove module pointer from list of loaded modules,and store it to the dbm file,and delete it from the dbm file,popget an object to the queue,popget an object from the queue,add a byte array to ajp message,get a byte array from ajp message
+first,last-but-one, 0.8,1,if the first character is,if the last-but-one character is a cr
+length,refcount, 0.875,1,the length of the data in the bucket,decrement the refcount of the data in the bucket
+amount,number, 0.75,2,amount of bytes read,number of bytes read from a datafile,amount of bytes read,number of bytes read
+checkout,uncheckout, 0.75,1,handle the checkout method,handle the uncheckout method
+root,request, 0.75,1,if the root fails,if the request fails
+generate,write, 0.714285714285714,1,this file is automatically generated by gen_test_char,this file is automatically written by the dftables auxiliary program
+sigabrt,sigbreak, 0.833333333333333,1,is used for sigabrt on windows,is used for sigbreak on windows
+difference,menu, 0.75,1,if theres a difference,print the default if theres a menu
+keepalives,alternatives, 0.8,1,if there are no keepalives,if there are no alternatives
+s,that, 0.75,1,if s is null,or if that is null as well
+entire,mac, 0.8,1,this is the entire address,this is usually part of the mac address
+ap_init_iteratedirective,ap_init_raw_argsdirective, 0.857142857142857,1,declared in the command_rec list with ap_init_iteratedirective,declared in the command_rec list with ap_init_raw_argsdirective
+file,mmap, 0.75,1,the file bucket type,the mmap bucket type
+case,branch, 0.75,1,for the first case,for the first branch
+only,when, 0.75,1,only one of these,when one of these is signalled
+pdesc,ap_sub_req_lookup_uri, 0.75,1,we can always use pdesc,we can use ap_sub_req_lookup_uri
+cache_out,cache_save, 0.8,2,user likely configured cache_out manually,user likely configured cache_save manually,add cache_out filter to serve this request,add cache_save filter to cache this request
+add,file, 0.75,1,if add is or,if file is a file or path
+p,ejected, 0.75,1,if p is null,fix if ejected is null
+end,start, 0.875,6,end of line - varies with multiline switch,start of line - varies with multiline switch,find start of token,find end of the token,start of subject assertion,end of subject assertion z,end of non-option arguments skipped for interleaving,start of non-option arguments skipped for interleaving,end of the subject string,start of the subject string,add to end of chain,add to start of chain
+file,directory, 0.8,3,the file creation was successful,the directory creation was successful,and the directorys list of file sections hasnt changed,and the vhosts list of directory sections hasnt changed,structure for referencing files,structure for referencing directories
+printf-type,putchar-type, 0.8,1,rsl hook for printf-type functions,rsl hook for putchar-type functions
+-s,-m, 0.75,1,setting -d dump_vhosts is equivalent to setting -s,setting -d dump_modules is equivalent to setting -m
+sigsegv,sigbreak, 0.833333333333333,1,is used for sigsegv on windows,is used for sigbreak on windows
+never,function, 0.75,2,this is never called,this function is called during server initialisation,this is never called,this function is called
+sigill,sigsegv, 0.833333333333333,2,is used for sigill on netware,is used for sigsegv on netware,is used for sigill on windows,is used for sigsegv on windows
+ascii,byrequests, 0.75,1,the default is ascii,note the default method is byrequests
+dbd_declaretype,cache_declaretype, 0.8,1,create a set of dbd_declaretype,create a set of cache_declaretype
+apr_pool_create_ex_debug,apr_pool_create_core_ex_debug, 0.875,1,trust the macro and dont call apr_pool_create_ex_debug directly,trust the macro and dont call apr_pool_create_core_ex_debug directly
+loop,pattern, 0.8,1,at the start of the loop,the start of the pattern
+key,frequency, 0.75,1,callback to get the key of a item,callback to increment the frequency of a item
+scan,module, 0.714285714285714,1,or at the end of the scan,well fill it in at the end of the module
+reading,after, 0.75,1,reading a client request,after a client completes the first request
+key,block, 0.75,1,current key for nextkey,current block for nextkey
+propfind,proppatch, 0.75,1,handle the propfind method,handle the proppatch method
+heap,stack, 0.777777777777778,1,this bucket represents a data allocated from the heap,this bucket represents a data allocated off the stack
+write,meet, 0.714285714285714,1,all of the bytes must be written,all of the requirements must be met
+modules c,server config, 0.714285714285714,1,the name of the modules c file,the name of the server config file
+apr_dbd_pvbquery query,apr_dbd_pbselect select, 0.777777777777778,1,apr_dbd_pvbquery query using a prepared statement + binary args,apr_dbd_pbselect select using a prepared statement + binary args
+label,update, 0.875,3,then the label method will not be supported,then the update method will not be supported,do the update operation,do the label operation walk,do the label operation,do the update operation
+terminate,follow, 0.8,1,terminated by an empty line,followed by eof allows for an empty line
+pbquery query,pvbselect select, 0.777777777777778,1,pbquery query using a prepared statement + binary args,pvbselect select using a prepared statement + binary args
+apr_dbd_pquery query,apr_dbd_pselect select, 0.75,1,apr_dbd_pquery query using a prepared statement + args,apr_dbd_pselect select using a prepared statement + args
+apr_password_get,apr_socket_sendfile, 0.9,1,its value will never be modified by the apr_password_get function,its value will never be modified by the apr_socket_sendfile function
+pselect select,apr_dbd_pvquery query, 0.75,1,pselect select using a prepared statement + args,apr_dbd_pvquery query using a prepared statement + args
+rt,block, 0.75,1,start of data a,send a block of data
+stdin,stdouterr, 0.857142857142857,1,parents side of pipe to childs stdin,parents side of pipe to childs stdouterr
+data,called, 0.75,1,data for each request,called for each request
+first,positive, 0.75,1,in the first case,in the positive case
+davlockdb,davgenericlockdb, 0.833333333333333,1,command handler for the davlockdb directive,command handler for the davgenericlockdb directive
+create,generate, 0.75,1,create a new entry,generate a new client entry
+ourselves,thread, 0.75,1,we created this ourselves,if we ever created this thread
+fqdn,http_expectation_failed, 0.8,1,we must return a fqdn,instead we must return a http_expectation_failed
+scan,line, 0.714285714285714,1,or at the end of the scan,now nul-terminate the string at the end of the line
+sigint,sigill, 0.833333333333333,2,is used for sigint on netware,is used for sigill on netware,is used for sigill on windows,is used for sigint on windows
+search,uncheckout, 0.75,1,handle the search method,handle the uncheckout method
+heap,file, 0.75,1,the heap bucket type,the file bucket type
+config,filters, 0.833333333333333,1,logging of input and output config,logging of input and output filters
+dav_lock_indirect,dav_lock_discovery, 0.833333333333333,1,create and fill a dav_lock_indirect structure,create and fill a dav_lock_discovery structure
+put,delete, 0.75,1,handle the put method,handle the delete method
+exec,load, 0.75,1,if the exec fails,if the load fails
+changing,remove, 0.75,1,changing the caseless flag,remove the caseless flag for non-caseable bytes
+dav_inherit_walker,dav_unlock_walker, 0.714285714285714,1,dav_inherit_walker walker callback function to inherit locks,dav_unlock_walker walker callback function to remove indirect locks
+transaction_mode_get,apr_dbd_transaction_mode_get, 0.833333333333333,1,transaction_mode_get get the mode of transaction,apr_dbd_transaction_mode_get get the mode of transaction
+possible,encoded, 0.75,1,should not be possible,characters which should not be encoded
+default_handler,snprintf, 0.75,1,for the default_handler below,enough space for the snprintf below
+pbselect,apr_dbd_pvselect, 0.875,1,pbselect select using a prepared statement + binary args,apr_dbd_pvselect select using a prepared statement + args
+pselect select,apr_dbd_pbquery query, 0.75,1,pselect select using a prepared statement + args,apr_dbd_pbquery query using a prepared statement + binary args
+is_subject,resolve_locks, 0.75,1,if is_subject is true,if resolve_locks is true non-zero
+apr_hash_set,cache_hash_set, 0.75,1,when passing a key to apr_hash_set or apr_hash_get,when passing a key to cache_hash_set or cache_hash_get
+pquery query,apr_dbd_pselect select, 0.75,1,pquery query using a prepared statement + args,apr_dbd_pselect select using a prepared statement + args
+http,utility, 0.8,1,http routines for apache proxy,utility routines for apache proxy
+dummy_stderr,partial_ok, 0.75,1,if dummy_stderr is non-zero,if partial_ok is true non-zero
+filter,reading, 0.75,1,the type of filter,log the type of reading
+options,checkin, 0.75,1,handle the options method,handle the checkin method
+or,return, 0.75,2,or null on error,return null on error,or null on error,return null on error
+output,strings, 0.833333333333333,1,read headers output from a script,read headers strings from a script
+file,request, 0.8,1,the size of the file,get the size of the request
+use,cache, 0.75,1,this can be used,this response can not be cached
+here,possible, 0.75,1,should not be here,should not be possible
+davlockdb,davdepthinfinity, 0.833333333333333,1,command handler for the davlockdb directive,command handler for the davdepthinfinity directive
+reset,send, 0.75,1,reset an ajp message,send an ajp message to backend
+init,optional, 0.75,1,for the init function,it is possible for the optional function
+apr_dbd_pvbquery query,apr_dbd_pvbselect select, 0.777777777777778,1,apr_dbd_pvbquery query using a prepared statement + binary args,apr_dbd_pvbselect select using a prepared statement + binary args
+request,response, 0.888888888888889,2,extract max-age from request,extract max-age from response,create a via request header entry and merge it,create a via response header entry and merge it
+htons,stdin_fileno, 0.75,1,for htons et al,needed for stdin_fileno et al
+ascii,ebcdic, 0.857142857142857,4,delimiter table for the ascii character set,delimiter table for the ebcdic character set,this is the normal table for ascii systems,this is the abnormal table for ebcdic systems,on an ebcdic machine,on an ascii machine this is null,for an ascii machine,for an ebcdic machine
+force,make_indirect, 0.75,1,if force is true,if make_indirect is true non-zero
+daemons,threadschild, 0.75,1,max of daemons by config,of threadschild by config
+accommodate,use, 0.8,1,in order to accommodate the,in order to use the last two options
+never,routine, 0.75,1,this is never called,xxx this routine is called xxx
+readwrite,read-only, 0.8,1,these are defined as readwrite,these are defined as read-only
+heap,immortal, 0.75,1,the heap bucket type,the immortal bucket type
+insvalue,resolve_locks, 0.75,1,if insvalue is true,if resolve_locks is true non-zero
+newline,regex, 0.833333333333333,1,if there wasnt a newline yet,null if there wasnt a regex yet
+popget,pushadd, 0.833333333333333,1,popget an object to the queue,pushadd an object to the queue
+exec,function, 0.75,1,if the exec fails,if the function fails for this case
+lead,prefix, 0.75,1,skip leading white space,skip prefixed white space
+apr_minor_version,module_magic_number_major, 0.8,1,reset to when upgrading apr_minor_version,should be reset to when upgrading module_magic_number_major
+bind,movecopy, 0.875,1,we cannot delete the destination before the bind,we cannot delete the destination before the movecopy
+checkin,proppatch, 0.75,1,handle the checkin method,handle the proppatch method
+base-url,directory, 0.8,1,the base-url where it applies,the directory where it applies
+module,connection, 0.888888888888889,1,config vector containing pointers to modules per-server config structures,config vector containing pointers to connections per-server config structures
+shouldnt,wouldnt, 0.75,1,we shouldnt be here,and we wouldnt be here
+normal,abnormal, 0.8,2,this is the normal table for ascii systems,this is the abnormal table for ebcdic systems,this is the normal case,this is the abnormal case
+pquery,apr_dbd_pbquery, 0.875,1,pquery query using a prepared statement + args,apr_dbd_pbquery query using a prepared statement + binary args
+search,lock, 0.833333333333333,2,if there is a search provider,and if there is a lock provider,scope of the lock,scope of the search
+versioned,bindable, 0.75,1,if resource is versioned,see if resource is bindable
+delete,checkout, 0.75,1,handle the delete method,handle the checkout method
+empty,form-encoded, 0.75,1,it may be empty,as it may be form-encoded
+versioned,root, 0.75,1,if resource is versioned,if given resource is root
+options,checkout, 0.75,1,handle the options method,handle the checkout method
+increase,note, 0.75,1,increase the buffer size,note the real buffer size
+null,here, 0.75,1,should not be null,should not be here
+lockdb,propdb, 0.75,1,private to the lockdb,private items to the propdb
+env,args, 0.75,1,build the env array,build the args array
+content,extra, 0.8,1,if there are content bytes,incrementing length if there are extra bytes
+pvbselect,apr_dbd_pbselect, 0.888888888888889,1,pvbselect select using a prepared statement + binary args,apr_dbd_pbselect select using a prepared statement + binary args
+property,server, 0.75,1,name of the property,the name of the server
+send,punt, 0.75,1,then just send nothing,then just punt nothing else to do
+mkcol,propfind, 0.75,1,handle the mkcol method,handle the propfind method
+put,get, 0.75,1,puts is never called,gets is never called
+apr_dbd_pbselect,apr_dbd_pvbselect, 0.888888888888889,1,apr_dbd_pbselect select using a prepared statement + binary args,apr_dbd_pvbselect select using a prepared statement + binary args
+cache-control,etag, 0.75,1,set the cache-control header,set the etag header required by dav_meets_conditions
+host,user-agent, 0.833333333333333,2,was an optional host header specified,was an optional user-agent header specified,host header not overridden,user-agent header not overridden
+pbquery,pvbquery, 0.888888888888889,1,pbquery query using a prepared statement + binary args,pvbquery query using a prepared statement + binary args
+it,find, 0.8,1,if its in the cache,if found in the cache
+apr_dbd_pvquery query,apr_dbd_pselect select, 0.75,1,apr_dbd_pvquery query using a prepared statement + args,apr_dbd_pselect select using a prepared statement + args
+request,bracket, 0.75,1,if the request fails,if the bracket fails to match
+apr_dbd_close close,apr_dbd_open_ex open, 0.714285714285714,1,apr_dbd_close close a connection to a backend,apr_dbd_open_ex open a connection to a backend
+get,start, 0.8,1,we just got a new,we just started a new parent
+sigint,sigfpe, 0.833333333333333,2,is used for sigint on netware,is used for sigfpe on netware,is used for sigint on windows,is used for sigfpe on windows
+limited,unlimited, 0.8,2,if the maximum is limited,if the maximum repeat count is unlimited,if the maximum is limited,if the maximum is unlimited
+reverse,forward, 0.857142857142857,2,disable address cache for generic reverse worker,disable address cache for generic forward worker,in a reverse proxy,in a forward proxy situation
+inode,handle, 0.8,1,the inode of the file,the handle of the file mapping
+local path,remote url, 0.75,1,it was finally rewritten to a local path,it was finally rewritten to a remote url
+apr_dbd_pvquery query,apr_dbd_pbselect select, 0.75,1,apr_dbd_pvquery query using a prepared statement + args,apr_dbd_pbselect select using a prepared statement + binary args
+buffer,script, 0.8,1,the length of the buffer,find_content_length would return the length of the script
+lb,worker, 0.8,1,stuff which is lb specific,stuff which is worker specific
+scope,depth, 0.75,1,scope of the lock,depth of the lock
+mkcol,options, 0.75,1,handle the mkcol method,handle the options method
+match,override, 0.75,1,if they dont match,if they dont override
+path_info,query_args, 0.833333333333333,1,the path_info extracted from this request,the query_args extracted from this request
+ajp,http, 0.875,2,ajp routines for apache proxy,http routines for apache proxy,send the ajp request to the remote server,send the http request to the remote server
+documentroot,threadlimit, 0.714285714285714,1,can be overridden by the documentroot directive,this limit can be overridden with the threadlimit directive
+pipe,flush, 0.75,1,the pipe bucket type,the flush bucket type
+byte,character, 0.75,3,match a single byte,match a single character,number of bytes read,number of characters read into yy_ch_buf,number of bytes read,number of characters read into yy_ch_buf
+input,message, 0.75,1,soak up remaining input,soak up remaining message
+server-port,server-server_hostname, 0.75,1,const unsigned char server-port,const unsigned char server-server_hostname

@@ -1,0 +1,703 @@
+syscallargstruct,pipex,0.666666666666667,1,syscallargstruct sockaddr addr,pipex sockaddr compar addr
+check,athn,0.666666666666667,1,check media change,athn media change
+now,creator,0.666666666666667,1,Now load firmware,creator load firmware
+on,bw,0.666666666666667,1,free on list,free bw list
+playback,ppc,0.666666666666667,1,playback intr enable,ppc intr enable
+gigabit,tht,0.666666666666667,1,Gigabit media status only,tht media status
+external,ka660,0.666666666666667,1,external cache enable,ka660 cache enable
+eeprom,bmac,0.666666666666667,1,EEPROM read Status reg,bmac read reg
+envelope,bw,0.666666666666667,1,head free envelope list,free bw list
+check,vic,0.666666666666667,1,check media change,vic media change
+mastter,reduce,0.666666666666667,1,mppe mastter key,pipex mppe reduce key
+external,ka43,0.666666666666667,1,external cache enable,ka43 cache enable
+general,ahd,0.666666666666667,1,general intr enable,ahd intr enable
+shpcic,x86,0.666666666666667,2,shpcic bus space,x86 bus space init,shpcic bus space,x86 bus space mallocok
+messages,store,0.666666666666667,1,messages data byte,store data byte
+break,msg,0.666666666666667,1,clear break state,ahc clear msg state
+write,hypersparc,0.666666666666667,1,Write cache align enable,hypersparc cache enable
+gigabit,trunk,0.666666666666667,1,Gigabit media status only,trunk media status
+serial,pppoe,0.666666666666667,1,Serial data input,pppoe data input
+copy,wan,0.75,1,copy mbuf data to buffer,wan mbuf to buffer
+list,free,0.666666666666667,1,uvm_pglistfree free list pages,buf free pages
+ea,ampintc,0.666666666666667,1,ea intr enable,ampintc intr enable
+acknowledge,rt2560,0.666666666666667,1,acknowledge media change,rt2560 media change
+read,kap,0.666666666666667,1,Read cache align enable,kap cache enable
+generate,acer,0.666666666666667,1,generate pci intr,acer pci intr
+remov,atw,0.666666666666667,1,remov media status notif,atw media status
+eeprom,wihap,0.666666666666667,1,EEPROM data input,wihap data input
+instruction,ka49,0.666666666666667,2,Instruction cache enable,ka49 cache enable,instruction cache enable bit,ka49 cache enable
+midi,pipex,0.666666666666667,2,midi timer stop,pipex timer stop,midi timer start,pipex timer start
+silently,ka43,0.666666666666667,1,Silently clear latched errors,ka43 clear errors
+write,kap,0.666666666666667,1,Write cache align enable,kap cache enable
+data,hypersparc,0.666666666666667,4,data cache enable bit,hypersparc cache enable,data cache enable,hypersparc cache enable,Data cache enable,hypersparc cache enable,Data cache enable bit,hypersparc cache enable
+acknowledge,ipw,0.666666666666667,1,acknowledge media change,ipw media change
+external,vxt,0.666666666666667,1,external cache enable,vxt cache enable
+handle,ep,0.666666666666667,1,Handle media change request,ep media change
+report,ka43,0.666666666666667,1,Report clear soft errors,ka43 clear errors
+to,ress,0.666666666666667,1,add to address,pfi address add
+rfu,omgpio,0.666666666666667,1,RFU intr mask,omgpio intr mask
+just,wdc,0.666666666666667,1,Just read block requested,wdc read block
+generate,nforce,0.666666666666667,1,generate pci intr,nforce pci intr
+check,atu,0.666666666666667,1,check media change,atu media change
+communication,uninstall,0.666666666666667,1,nnpfs communication device,nnpfs uninstall device
+external,hypersparc,0.666666666666667,1,external cache enable,hypersparc cache enable
+generate,pdc20265,0.666666666666667,1,generate pci intr,pdc20265 pci intr
+ok,db,0.666666666666667,1,Ok validate address,db validate address
+system,generic2e,0.666666666666667,1,system intr map,generic2e intr map
+generate,pdc202xx,0.666666666666667,1,generate pci intr,pdc202xx pci intr
+io,pmap,0.666666666666667,1,IO cache enable,pmap cache enable
+warm,auvia,0.666666666666667,1,warm reset AC codec,auvia reset codec
+pmap_zero_page,mem,0.666666666666667,1,pmap_zero_page zero page,mem zero page
+gigabit,iwi,0.666666666666667,1,Gigabit media status only,iwi media status
+gigabit,rtw,0.666666666666667,1,Gigabit media status only,rtw media status
+update,atu,0.666666666666667,1,Update media status,atu media status
+general,eb64plus,0.666666666666667,1,general intr enable,eb64plus intr enable
+insert,otus,0.666666666666667,1,Insert write barrier,otus write barrier
+data,ms1,0.666666666666667,4,data cache enable bit,ms1 cache enable,data cache enable,ms1 cache enable,Data cache enable,ms1 cache enable,Data cache enable bit,ms1 cache enable
+io,ms1,0.666666666666667,1,IO cache enable,ms1 cache enable
+didn't,*agp,0.666666666666667,1,didn't find other device,*agp find device
+clear,do,0.666666666666667,1, clear pending int,do pending int
+write,swift,0.666666666666667,1,Write cache align enable,swift cache enable
+check,vnet,0.666666666666667,1,check media change,vnet media change
+m'cast,r,0.666666666666667,1,add m'cast addr,nd6 addr add
+state,pgt,0.666666666666667,1,State per device,pgt per device kthread
+connection,msg,0.666666666666667,1,clear connection state,ahc clear msg state
+acknowledge,atu,0.666666666666667,1,acknowledge media change,atu media change
+register,make,0.666666666666667,1,pci register tag,pci make tag
+now,ueagle,0.666666666666667,1,now open pipes,ueagle open pipes
+force,p3,0.666666666666667,1,Force update hw cpuspeed,p3 update cpuspeed
+rc,reduce,0.666666666666667,1,mppe rc key,pipex mppe reduce key
+mac,board,0.666666666666667,3,setup MAC config,m8820x setup board config,setup MAC config,m88410 setup board config,setup MAC config,m88110 setup board config
+data,sun4,0.666666666666667,4,data cache enable bit,sun4 cache enable,data cache enable,sun4 cache enable,Data cache enable,sun4 cache enable,Data cache enable bit,sun4 cache enable
+gigabit,vether,0.666666666666667,1,Gigabit media status only,vether media status
+check,vether,0.666666666666667,1,check media change,vether media change
+fpa,cpu,0.666666666666667,1,FPA debug dump,cpu debug dump
+acknowledge,lii,0.666666666666667,1,acknowledge media change,lii media change
+gigabit,lii,0.666666666666667,1,Gigabit media status only,lii media status
+size,x86,0.666666666666667,2,size bus space,x86 bus space init,size bus space,x86 bus space mallocok
+when,acpi,0.666666666666667,1,When acquire lock,acpi acquire global lock
+data,cypress,0.666666666666667,4,data cache enable bit,cypress cache enable,data cache enable,cypress cache enable,Data cache enable,cypress cache enable,Data cache enable bit,cypress cache enable
+handle,pgt,0.666666666666667,1,Handle media change request,pgt media change
+start,fxp,0.666666666666667,1,Start stats update counter,fxp stats update
+position,mouse,0.666666666666667,2,position copy end mark,mouse copy end,position copy start mark,mouse copy start
+write,ka43,0.666666666666667,1,Write cache align enable,ka43 cache enable
+error,copy,0.666666666666667,1,error on fault,copy on fault
+siop_reset,bmac,0.666666666666667,1,siop_reset reset chip,bmac reset chip
+nav,rt,0.666666666666667,1,NAV timer count read,rt timer count
+uvm_pagecopy,pmap,0.666666666666667,1,uvm_pagecopy copy page,pmap copy page
+there,mac,0.666666666666667,1,there int pending,macintr do pending int
+after,diradd,0.666666666666667,1,After inode written,diradd inode written
+out,back,0.666666666666667,1,write out byte,write back byte
+handle,ural,0.666666666666667,1,Handle media change request,ural media change
+capture,ppc,0.666666666666667,1,capture intr enable,ppc intr enable
+gigabit,ray,0.666666666666667,1,Gigabit media status only,ray media status
+inbound,omgpio,0.666666666666667,1,inbound intr mask,omgpio intr mask
+dma,store,0.666666666666667,2,DMA data high byte,store data byte,DMA data low byte,store data byte
+handle,uath,0.666666666666667,1,Handle media change request,uath media change
+data,swift,0.666666666666667,4,data cache enable bit,swift cache enable,data cache enable,swift cache enable,Data cache enable,swift cache enable,Data cache enable bit,swift cache enable
+read,ka53,0.666666666666667,1,Read cache align enable,ka53 cache enable
+acknowledge,ray,0.666666666666667,1,acknowledge media change,ray media change
+instruction,turbosparc,0.666666666666667,2,Instruction cache enable,turbosparc cache enable,instruction cache enable bit,turbosparc cache enable
+ea,eb64plus,0.666666666666667,1,ea intr enable,eb64plus intr enable
+mips,omgpio,0.666666666666667,1,mips intr mask,omgpio intr mask
+warm,cs4280,0.666666666666667,1,warm reset AC codec,cs4280 reset codec
+cpu-independent,hypersparc,0.666666666666667,1,CPU-independent cache flush,hypersparc cache flush all
+pmap,global,0.666666666666667,1,release pmap lock,acpi release global lock
+check,rt2860,0.666666666666667,1,check media change,rt2860 media change
+uvm_pglist,buf,0.666666666666667,1,uvm_pglistfree free list pages,buf free pages
+error,msg,0.666666666666667,1,clear error state,ahc clear msg state
+check,lcd,0.666666666666667,1,check max brightness level,lcd max brightness
+pfsync,owctr,0.666666666666667,1,pfsync update counter,owctr update counter
+read,ka48,0.666666666666667,1,Read cache align enable,ka48 cache enable
+notify,store,0.666666666666667,2,notify data low byte,store data byte,notify data high byte,store data byte
+acknowledge,urtw,0.666666666666667,1,acknowledge media change,urtw media change
+x[],des,0.666666666666667,1,X[] random seed,des random seed
+instruction,ms1,0.666666666666667,2,Instruction cache enable,ms1 cache enable,instruction cache enable bit,ms1 cache enable
+remov,ipw,0.666666666666667,1,remov media status notif,ipw media status
+check,tsec,0.666666666666667,1,check media change,tsec media change
+acknowledge,athn,0.666666666666667,1,acknowledge media change,athn media change
+specified,pfi,0.666666666666667,1,SIOCALIFADDR add specified address,pfi address add
+tx,ncr5380,0.666666666666667,1,tx data xfer request,ncr5380 data xfer
+handle,run,0.666666666666667,1,Handle media change request,run media change
+external,sun4,0.666666666666667,1,external cache enable,sun4 cache enable
+pool,page,0.666666666666667,1,Initialize pmap pool cache,pmap page cache
+interrupt,hci,0.666666666666667,1,Interrupt event status,hci event command status
+head,put,0.666666666666667,1,head free envelope list,put free envelope
+channel,loop,0.666666666666667,1,disable channel interrupt,autri disable loop interrupt
+do,put,0.666666666666667,1,Do free packet here,put free packet
+warm,fms,0.666666666666667,1,warm reset AC codec,fms reset codec
+needs,arm8,0.666666666666667,1,needs cache flush,arm8 cache flush ID
+instruction,viking,0.666666666666667,2,Instruction cache enable,viking cache enable,instruction cache enable bit,viking cache enable
+refcount,i915,0.666666666666667,2,Refcount user irq,i915 user irq put,Refcount user irq,i915 user irq get
+per-cpu,des,0.666666666666667,1,per-cpu random seed,des random seed
+external,ka53,0.666666666666667,1,external cache enable,ka53 cache enable
+unbuffered,xilinx,0.666666666666667,2,unbuffered dma complete,xilinx dma tx complete,unbuffered dma complete,xilinx dma rx complete
+io,turbosparc,0.666666666666667,1,IO cache enable,turbosparc cache enable
+system,gdium,0.666666666666667,1,system intr map,gdium intr map
+prev,zapm,0.666666666666667,1,prev batt state,zapm batt state
+read,ka43,0.666666666666667,1,Read cache align enable,ka43 cache enable
+remov,malo,0.666666666666667,1,remov media status notif,malo media status
+old,msg,0.666666666666667,1,clear old state,ahc clear msg state
+io,ka680,0.666666666666667,1,IO cache enable,ka680 cache enable
+read,ka41,0.666666666666667,1,Read cache align enable,ka41 cache enable
+ecf,xbow,0.666666666666667,1,ECF intr register,xbow intr register
+needs,ms1,0.666666666666667,1,needs cache flush,ms1 cache flush all
+instruction,pmap,0.666666666666667,2,Instruction cache enable,pmap cache enable,instruction cache enable bit,pmap cache enable
+handle,ixgb,0.666666666666667,1,Handle media change request,ixgb media change
+read,ka680,0.666666666666667,1,Read cache align enable,ka680 cache enable
+check,bwi,0.666666666666667,1,check media change,bwi media change
+remov,nxe,0.666666666666667,1,remov media status notif,nxe media status
+pkh,intc,0.666666666666667,1,pkh intr enable,intc intr enable
+base,blink,0.666666666666667,1,base led register,blink led register
+data,pmap,0.666666666666667,4,data cache enable bit,pmap cache enable,data cache enable,pmap cache enable,Data cache enable,pmap cache enable,Data cache enable bit,pmap cache enable
+remov,ixgbe,0.666666666666667,1,remov media status notif,ixgbe media status
+acknowledge,ep,0.666666666666667,1,acknowledge media change,ep media change
+handle,wpi,0.666666666666667,1,Handle media change request,wpi media change
+acknowledge,zyd,0.666666666666667,1,acknowledge media change,zyd media change
+instruction,ka53,0.666666666666667,2,Instruction cache enable,ka53 cache enable,instruction cache enable bit,ka53 cache enable
+external,ka48,0.666666666666667,1,external cache enable,ka48 cache enable
+handle,ieee80211,0.666666666666667,1,Handle media change request,ieee80211 media change
+acknowledge,rsu,0.666666666666667,1,acknowledge media change,rsu media change
+handle,tht,0.666666666666667,1,Handle media change request,tht media change
+data,turbosparc,0.666666666666667,4,data cache enable bit,turbosparc cache enable,data cache enable,turbosparc cache enable,Data cache enable,turbosparc cache enable,Data cache enable bit,turbosparc cache enable
+data,ka41,0.666666666666667,4,data cache enable bit,ka41 cache enable,data cache enable,ka41 cache enable,Data cache enable,ka41 cache enable,Data cache enable bit,ka41 cache enable
+read,vxt,0.666666666666667,1,Read cache align enable,vxt cache enable
+check,rtw,0.666666666666667,1,check media change,rtw media change
+playback,ampintc,0.666666666666667,1,playback intr enable,ampintc intr enable
+communication,uprintf,0.666666666666667,1,nnpfs communication device,nnpfs uprintf device
+capture,intpri,0.666666666666667,1,capture intr enable,intpri intr enable
+initialize,ac97,0.666666666666667,1,Initialize host flags,ac97 host flags
+link,omgpio,0.666666666666667,1,link intr mask,omgpio intr mask
+head,ioprbs,0.666666666666667,1,head free ccb list,ioprbs free ccb
+gigabit,myx,0.666666666666667,1,Gigabit media status only,myx media status
+gigabit,nxe,0.666666666666667,1,Gigabit media status only,nxe media status
+serial,wihap,0.666666666666667,1,Serial data input,wihap data input
+update,myx,0.666666666666667,1,Update media status,myx media status
+copyzero,copy,0.666666666666667,1,pmap copyzero page,pmap copy page
+update,pgt,0.666666666666667,1,Update media status,pgt media status
+general,ampintc,0.666666666666667,1,general intr enable,ampintc intr enable
+acknowledge,iwn,0.666666666666667,1,acknowledge media change,iwn media change
+warm,cs4281,0.666666666666667,1,warm reset AC codec,cs4281 reset codec
+check,iwi,0.666666666666667,1,check media change,iwi media change
+before,r700,0.666666666666667,1,before vm init,r700 vm init
+remov,pgt,0.666666666666667,1,remov media status notif,pgt media status
+write,ka53,0.666666666666667,1,Write cache align enable,ka53 cache enable
+handle,vic,0.666666666666667,1,Handle media change request,vic media change
+acknowledge,tsec,0.666666666666667,1,acknowledge media change,tsec media change
+wake,sppp,0.666666666666667,1,wake up power event,sppp up event
+csc,ppc,0.666666666666667,1,CSC intr enable,ppc intr enable
+gigabit,ipw,0.666666666666667,1,Gigabit media status only,ipw media status
+pci,ppc,0.666666666666667,1,PCI intr enable,ppc intr enable
+but,m88110,0.666666666666667,1,but cache flush,m88110 cache flush handler
+external,ka680,0.666666666666667,1,external cache enable,ka680 cache enable
+acknowledge,malo,0.666666666666667,1,acknowledge media change,malo media change
+[],agp,0.666666666666667,1,[] flush data cache,agp flush cache
+span,r600,0.666666666666667,1,span count bits,r600 count pipe bits
+general,ppc,0.666666666666667,1,general intr enable,ppc intr enable
+old,proc,0.666666666666667,1,remove old entry,remove proc entry
+watchdog,rt,0.666666666666667,2,watchdog timer count high,rt timer count,watchdog timer count low,rt timer count
+handle,trunk,0.666666666666667,1,Handle media change request,trunk media change
+write,ka49,0.666666666666667,1,Write cache align enable,ka49 cache enable
+start,ste,0.666666666666667,1,Start stats update counter,ste stats update
+gigabit,pgt,0.666666666666667,1,Gigabit media status only,pgt media status
+but,sa1,0.666666666666667,3,but cache flush,sa1 cache flush D,but cache flush,sa1 cache flush ID,but cache flush,sa1 cache flush I
+update,em,0.666666666666667,1,Update media status,em media status
+do,*get,0.666666666666667,1,Do free packet here,*get free packet
+tx,cn30xxpow,0.666666666666667,2,tx ring size,cn30xxpow ring size,TX ring size,cn30xxpow ring size
+read,ka49,0.666666666666667,1,Read cache align enable,ka49 cache enable
+pkh,wi,0.666666666666667,1,pkh intr enable,wi intr enable
+acknowledge,rt2661,0.666666666666667,1,acknowledge media change,rt2661 media change
+gigabit,vnet,0.666666666666667,1,Gigabit media status only,vnet media status
+csc,ahd,0.666666666666667,1,CSC intr enable,ahd intr enable
+external,turbosparc,0.666666666666667,1,external cache enable,turbosparc cache enable
+full-dupled,omgpio,0.666666666666667,1,full-dupled intr mask,omgpio intr mask
+playback,ahc,0.666666666666667,1,playback intr enable,ahc intr enable
+handle,myx,0.666666666666667,1,Handle media change request,myx media change
+call,hotplug,0.666666666666667,1,call device detach function,hotplug device detach
+fanfail,generic2e,0.666666666666667,1,fanfail intr map,generic2e intr map
+update,wi,0.666666666666667,1,Update media status,wi media status
+static,uvm,0.666666666666667,1,static map entry,uvm map lookup entry
+warm,autri,0.666666666666667,1,warm reset AC codec,autri reset codec
+free,buf,0.666666666666667,1,uvm_pglistfree free list pages,buf free pages
+check,em,0.666666666666667,1,check media change,em media change
+update,atw,0.666666666666667,1,Update media status,atw media status
+external,ka49,0.666666666666667,1,external cache enable,ka49 cache enable
+check,nxe,0.666666666666667,1,check media change,nxe media change
+memory,db,0.666666666666667,2,memory read line okay,db read line,memory read line enable,db read line
+scsi,current,0.666666666666667,1,reset scsi bus,ahc reset current bus
+acknowledge,atw,0.666666666666667,1,acknowledge media change,atw media change
+own,ress,0.666666666666667,1,add own address,pfi address add
+instruction,swift,0.666666666666667,2,Instruction cache enable,swift cache enable,instruction cache enable bit,swift cache enable
+copyzero,clean,0.666666666666667,1,pmap copyzero page,pmap clean page
+but,xscale,0.666666666666667,3,but cache flush,xscale cache flush ID,but cache flush,xscale cache flush I,but cache flush,xscale cache flush D
+remov,ray,0.666666666666667,1,remov media status notif,ray media status
+remov,vic,0.666666666666667,1,remov media status notif,vic media status
+acknowledge,tht,0.666666666666667,1,acknowledge media change,tht media change
+rx,ncr5380,0.666666666666667,1,rx data xfer request,ncr5380 data xfer
+instruction,ka680,0.666666666666667,2,Instruction cache enable,ka680 cache enable,instruction cache enable bit,ka680 cache enable
+eeprom,pppoe,0.666666666666667,1,EEPROM data input,pppoe data input
+tag,purge,0.666666666666667,3,cache tag ID,xscale cache purge ID,cache tag ID,arm8 cache purge ID,cache tag ID,sa1 cache purge ID
+do,pxe,0.666666666666667,2,do netif close,pxe netif close,do netif open,pxe netif open
+ecf,xheart,0.666666666666667,1,ECF intr register,xheart intr register
+external,kap,0.666666666666667,1,external cache enable,kap cache enable
+now,pmap,0.666666666666667,1,now remove pager mapping,pmap remove mapping
+mask,blink,0.666666666666667,1,mask led register,blink led register
+read,sun4,0.666666666666667,1,Read cache align enable,sun4 cache enable
+gigabit,malo,0.666666666666667,1,Gigabit media status only,malo media status
+restore,write,0.666666666666667,1, restore user windows,write user windows
+handle,upgt,0.666666666666667,1,Handle media change request,upgt media change
+atomically,pfi,0.666666666666667,1,Atomically clear flags,pfi clear flags
+needs,m88110,0.666666666666667,1,needs cache flush,m88110 cache flush handler
+external,ka41,0.666666666666667,1,external cache enable,ka41 cache enable
+check,run,0.666666666666667,1,check media change,run media change
+xxx,acpi,0.666666666666667,1,XXX release lock,acpi release global lock
+instruction,vxt,0.666666666666667,2,Instruction cache enable,vxt cache enable,instruction cache enable bit,vxt cache enable
+w,bios,0.666666666666667,1,W Power Down,Bios Power Down
+needs,hypersparc,0.666666666666667,1,needs cache flush,hypersparc cache flush all
+long,sbdsp,0.666666666666667,2,LONG block input operations,sbdsp block input,LONG block output operations,sbdsp block output
+external,ka46,0.666666666666667,1,external cache enable,ka46 cache enable
+update,ixgb,0.666666666666667,1,Update media status,ixgb media status
+handle,cmalo,0.666666666666667,1,Handle media change request,cmalo media change
+acknowledge,ural,0.666666666666667,1,acknowledge media change,ural media change
+pmap_copy_page,pmap,0.666666666666667,1,pmap_copy_page copy page,pmap copy page
+write,ka680,0.666666666666667,1,Write cache align enable,ka680 cache enable
+tx,des,0.666666666666667,2,tx random seed,des random seed,tx random number seed,des random seed
+write,ka660,0.666666666666667,1,Write cache align enable,ka660 cache enable
+remov,wi,0.666666666666667,1,remov media status notif,wi media status
+read,pmap,0.666666666666667,1,Read cache align enable,pmap cache enable
+instruction,ka43,0.666666666666667,2,Instruction cache enable,ka43 cache enable,instruction cache enable bit,ka43 cache enable
+handle,atw,0.666666666666667,1,Handle media change request,atw media change
+needs,cypress,0.666666666666667,1,needs cache flush,cypress cache flush all
+configuration,statfs,0.666666666666667,1,copy configuration info,copy statfs info
+tod,generic2e,0.666666666666667,1,tod intr map,generic2e intr map
+call,uvm,0.666666666666667,1,call pager init functions,uvm pager init
+general,eb164,0.666666666666667,1,general intr enable,eb164 intr enable
+handle,urtw,0.666666666666667,1,Handle media change request,urtw media change
+cancel,pfsync,0.666666666666667,1,cancel bulk update,pfsync bulk update
+where,remove,0.666666666666667,1,pmap where mapping lies,pmap remove mapping
+handle,em,0.666666666666667,1,Handle media change request,em media change
+response,packet,0.666666666666667,1,max response time ,max packet time
+playback,intc,0.666666666666667,1,playback intr enable,intc intr enable
+remov,iwi,0.666666666666667,1,remov media status notif,iwi media status
+data,ka680,0.666666666666667,4,data cache enable bit,ka680 cache enable,data cache enable,ka680 cache enable,Data cache enable,ka680 cache enable,Data cache enable bit,ka680 cache enable
+cpu-independent,srmmu,0.666666666666667,1,CPU-independent cache flush,srmmu cache flush all
+type,global,0.666666666666667,1,release type lock,acpi release global lock
+handle,ixgbe,0.666666666666667,1,Handle media change request,ixgbe media change
+remov,vnet,0.666666666666667,1,remov media status notif,vnet media status
+update,vic,0.666666666666667,1,Update media status,vic media status
+acknowledge,pgt,0.666666666666667,1,acknowledge media change,pgt media change
+check,rt2661,0.666666666666667,1,check media change,rt2661 media change
+unlink,put,0.666666666666667,1,Unlink free packet tag,put free packet
+io,kap,0.666666666666667,1,IO cache enable,kap cache enable
+io,swift,0.666666666666667,1,IO cache enable,swift cache enable
+gigabit,em,0.666666666666667,1,Gigabit media status only,em media status
+virtual,instr,0.666666666666667,2,capture next virtual address,next instr address,playback next virtual address,next instr address
+handle,ath,0.666666666666667,1,Handle media change request,ath media change
+csc,intc,0.666666666666667,1,CSC intr enable,intc intr enable
+generate,xbridge,0.666666666666667,1,generate pci intr,xbridge pci intr handler
+force,elansc,0.666666666666667,1,Force update hw cpuspeed,elansc update cpuspeed
+fifo,cn30xxpow,0.75,1,fifo error int enable,cn30xxpow error int enable
+before,r600,0.666666666666667,1,before vm init,r600 vm init
+instruction,sun4,0.666666666666667,2,Instruction cache enable,sun4 cache enable,instruction cache enable bit,sun4 cache enable
+show,sea,0.666666666666667,1,Show information transfer process,sea information transfer
+generate,pdc203xx,0.666666666666667,1,generate pci intr,pdc203xx pci intr
+remov,ep,0.666666666666667,1,remov media status notif,ep media status
+but,srmmu,0.666666666666667,1,but cache flush,srmmu cache flush all
+wait,rbus,0.666666666666667,1,wait space to free,rbus space free
+remov,ieee80211,0.666666666666667,1,remov media status notif,ieee80211 media status
+instruction,hypersparc,0.666666666666667,2,Instruction cache enable,hypersparc cache enable,instruction cache enable bit,hypersparc cache enable
+io,vxt,0.666666666666667,1,IO cache enable,vxt cache enable
+cmd,bw,0.666666666666667,1,head free cmd list,free bw list
+tag,clean,0.666666666666667,3,cache tag ID,arm8 cache clean ID,cache tag ID,sa1 cache clean ID,cache tag ID,xscale cache clean ID
+pkh,eb64plus,0.666666666666667,1,pkh intr enable,eb64plus intr enable
+check,wpi,0.666666666666667,1,check media change,wpi media change
+gigabit,atu,0.666666666666667,1,Gigabit media status only,atu media status
+warm,esa,0.666666666666667,1,warm reset AC codec,esa reset codec
+csc,eb64plus,0.666666666666667,1,CSC intr enable,eb64plus intr enable
+generate,natsemi,0.666666666666667,1,generate pci intr,natsemi pci intr
+cpu-independent,sa1,0.666666666666667,3,CPU-independent cache flush,sa1 cache flush D,CPU-independent cache flush,sa1 cache flush ID,CPU-independent cache flush,sa1 cache flush I
+read,hypersparc,0.666666666666667,1,Read cache align enable,hypersparc cache enable
+copyzero,pv,0.666666666666667,2,pmap copyzero page,pmap pv page free,pmap copyzero page,pmap pv page free
+check,urtw,0.666666666666667,1,check media change,urtw media change
+acknowledge,em,0.666666666666667,1,acknowledge media change,em media change
+pkh,ampintc,0.666666666666667,1,pkh intr enable,ampintc intr enable
+io,ka46,0.666666666666667,1,IO cache enable,ka46 cache enable
+update,ipw,0.666666666666667,1,Update media status,ipw media status
+update,ixgbe,0.666666666666667,1,Update media status,ixgbe media status
+pm,hci,0.666666666666667,1,PM event status,hci event command status
+update,ray,0.666666666666667,1,Update media status,ray media status
+handle,rt2661,0.666666666666667,1,Handle media change request,rt2661 media change
+write,turbosparc,0.666666666666667,1,Write cache align enable,turbosparc cache enable
+acknowledge,otus,0.666666666666667,1,acknowledge media change,otus media change
+enable,macobio,0.666666666666667,1,enable modem power,macobio modem power
+read,ka46,0.666666666666667,1,Read cache align enable,ka46 cache enable
+check,ipw,0.666666666666667,1,check media change,ipw media change
+needs,srmmu,0.666666666666667,1,needs cache flush,srmmu cache flush all
+handle,nxe,0.666666666666667,1,Handle media change request,nxe media change
+carry,loop,0.666666666666667,1,disable carry interrupt,autri disable loop interrupt
+find,bios,0.666666666666667,1,Find configure memory,bios configure memory
+playback,ahd,0.666666666666667,1,playback intr enable,ahd intr enable
+relative,pxa27x,0.666666666666667,4,relative cpu speed,pxa27x cpu speed high,relative cpu speed,pxa27x cpu speed 208,relative cpu speed,pxa27x cpu speed 91,relative cpu speed,pxa27x cpu speed low
+last,back,0.666666666666667,1, write last byte,write back byte
+eeprom,esp,0.666666666666667,1,EEPROM write Status reg,esp write reg
+update,malo,0.666666666666667,1,Update media status,malo media status
+system,lemote,0.666666666666667,1,system intr map,lemote intr map
+pkh,ppc,0.666666666666667,1,pkh intr enable,ppc intr enable
+just,wi,0.666666666666667,2,just send packet,wi send packet,just update stats,wi update stats
+maximum,cn30xxpow,0.666666666666667,3,maximum ring size tx,cn30xxpow ring size,maximum ring size,cn30xxpow ring size,maximum ring size rx,cn30xxpow ring size
+handle,iwn,0.666666666666667,1,Handle media change request,iwn media change
+acknowledge,wpi,0.666666666666667,1,acknowledge media change,wpi media change
+remov,rtw,0.666666666666667,1,remov media status notif,rtw media status
+uart,lemote,0.666666666666667,1,uart intr map,lemote intr map
+check,rsu,0.666666666666667,1,check media change,rsu media change
+acknowledge,ath,0.666666666666667,1,acknowledge media change,ath media change
+force,p4,0.666666666666667,1,Force update hw cpuspeed,p4 update cpuspeed
+handle,iwi,0.666666666666667,1,Handle media change request,iwi media change
+acknowledge,rtw,0.666666666666667,1,acknowledge media change,rtw media change
+acknowledge,ixgb,0.666666666666667,1,acknowledge media change,ixgb media change
+acknowledge,urtwn,0.666666666666667,1,acknowledge media change,urtwn media change
+hardware,hw,0.666666666666667,1,setup hardware type,adb setup hw type
+write,viking,0.666666666666667,1,Write cache align enable,viking cache enable
+pci,wi,0.666666666666667,1,PCI intr enable,wi intr enable
+head,*get,0.666666666666667,1,head free envelope list,*get free envelope
+data,ka53,0.666666666666667,4,data cache enable bit,ka53 cache enable,data cache enable,ka53 cache enable,Data cache enable,ka53 cache enable,Data cache enable bit,ka53 cache enable
+class,rmc,0.666666666666667,1,Class drop action,rmc drop action
+sram,instr,0.666666666666667,1,next SRAM address,next instr address
+check,urtwn,0.666666666666667,1,check media change,urtwn media change
+ea,intc,0.666666666666667,1,ea intr enable,intc intr enable
+pickup,cmpci,0.666666666666667,2,pickup rate index,cmpci rate to index,Pickup rate index,cmpci rate to index
+update,tht,0.666666666666667,1,Update media status,tht media status
+handle,ray,0.666666666666667,1,Handle media change request,ray media change
+generate,cmd,0.666666666666667,1,generate pci intr,cmd pci intr
+parity,sdla,0.666666666666667,1,Parity clear bit,sdla clear bit
+actually,ueagle,0.666666666666667,1,Actually open pipes,ueagle open pipes
+pkh,ahc,0.666666666666667,1,pkh intr enable,ahc intr enable
+data,ka43,0.666666666666667,5,data cache invalidate,ka43 cache invalidate,data cache enable bit,ka43 cache enable,data cache enable,ka43 cache enable,Data cache enable,ka43 cache enable,Data cache enable bit,ka43 cache enable
+handle,lii,0.666666666666667,1,Handle media change request,lii media change
+initiate,softdep,0.666666666666667,1,Initiate disk write,softdep disk write complete
+prom,*fdt,0.666666666666667,1,PROM node name,*fdt node name
+uvm_,pgt,0.666666666666667,1,uvm_pagefree free page,pgt page free
+data,ka660,0.666666666666667,4,data cache enable bit,ka660 cache enable,data cache enable,ka660 cache enable,Data cache enable,ka660 cache enable,Data cache enable bit,ka660 cache enable
+uvm_,pool,0.666666666666667,1,uvm_pagefree free page,pool page free
+playback,wi,0.666666666666667,1,playback intr enable,wi intr enable
+dma,nubus,0.666666666666667,1,enable DMA intr,enable nubus intr
+io,ka41,0.666666666666667,1,IO cache enable,ka41 cache enable
+acknowledge,bwi,0.666666666666667,1,acknowledge media change,bwi media change
+current,zapm,0.666666666666667,1,current batt state,zapm batt state
+save,aac,0.666666666666667,1,save wait command,aac wait command
+start,tl,0.666666666666667,1,Start stats update counter,tl stats update
+update,ep,0.666666666666667,1,Update media status,ep media status
+dyanmic,bios,0.666666666666667,1,Dyanmic Power Down disabled,Bios Power Down
+retrieves,fdt,0.666666666666667,1,Retrieves node property,fdt node property
+create,hash,0.666666666666667,4,pmap create lock,pmap hash lock try,pmap create lock,pmap hash lock,pmap create lock,pmap hash lock init,pmap create unlock,pmap hash unlock
+interrupt,coproc,0.666666666666667,1,To remove interrupt handler,remove coproc handler
+speed,omgpio,0.666666666666667,1,speed intr mask,omgpio intr mask
+cpu-independent,xscale,0.666666666666667,3,CPU-independent cache flush,xscale cache flush ID,CPU-independent cache flush,xscale cache flush I,CPU-independent cache flush,xscale cache flush D
+check,omdisplay,0.666666666666667,1,check max brightness level,omdisplay max brightness
+gigabit,ixgbe,0.666666666666667,1,Gigabit media status only,ixgbe media status
+write,sfloat,0.666666666666667,1,write to reg,Sfloat to reg
+phy,pxa2x0,0.666666666666667,1,PHY turbo mode register,pxa2x0 turbo mode
+xffffffffx,agp,0.666666666666667,1,xffffffffx flush cache flag,agp flush cache
+capture,intc,0.666666666666667,1,capture intr enable,intc intr enable
+playback,eb164,0.666666666666667,1,playback intr enable,eb164 intr enable
+check,ath,0.666666666666667,1,check media change,ath media change
+device,mux,0.666666666666667,1,mux device open,wsmux mux open
+ccb,bw,0.666666666666667,3,free ccb list,free bw list,head free ccb list,free bw list,free ccb list mutex,free bw list
+check,upgt,0.666666666666667,1,check media change,upgt media change
+pci,eb64plus,0.666666666666667,1,PCI intr enable,eb64plus intr enable
+caller,buf,0.666666666666667,1,caller free pages,buf free pages
+generate,serverworks,0.666666666666667,1,generate pci intr,serverworks pci intr
+completion,loop,0.666666666666667,1,disable completion interrupt,autri disable loop interrupt
+dl,db,0.666666666666667,1,DL delete line,db delete line
+check,tht,0.666666666666667,1,check media change,tht media change
+data,vxt,0.666666666666667,4,data cache enable bit,vxt cache enable,data cache enable,vxt cache enable,Data cache enable,vxt cache enable,Data cache enable bit,vxt cache enable
+reassembly,free,0.666666666666667,1,create reassembly queue,create free queue
+warm,yds,0.666666666666667,1,warm reset AC codec,yds reset codec
+force,otus,0.666666666666667,1,force write barrier,otus write barrier
+csc,ampintc,0.666666666666667,1,CSC intr enable,ampintc intr enable
+silently,ie,0.666666666666667,2,Silently drop packet,ie drop packet buffer,silently drop packet,ie drop packet buffer
+pmap_zero_page,pmap,0.666666666666667,1,pmap_zero_page zero page,pmap zero page
+communication,install,0.666666666666667,1,nnpfs communication device,nnpfs install device
+rx,cn30xxpow,0.666666666666667,1,RX ring size,cn30xxpow ring size
+cpu-independent,cypress,0.666666666666667,1,CPU-independent cache flush,cypress cache flush all
+csc,ahc,0.666666666666667,1,CSC intr enable,ahc intr enable
+copyzero,zero,0.666666666666667,1,pmap copyzero page,pmap zero page
+pci,ampintc,0.666666666666667,1,PCI intr enable,ampintc intr enable
+update,rtw,0.666666666666667,1,Update media status,rtw media status
+acknowledge,vnet,0.666666666666667,1,acknowledge media change,vnet media change
+symbolic,*fdt,0.666666666666667,2,symbolic node name length,*fdt node name,symbolic node name,*fdt node name
+aka,pxa2x0,0.666666666666667,1,aka turbo mode,pxa2x0 turbo mode
+number,i915,0.666666666666667,1,number interrupt info elements,i915 interrupt info
+b_bad,scsi,0.666666666666667,1,B_BAD io done,scsi io get done
+csc,intpri,0.666666666666667,1,CSC intr enable,intpri intr enable
+amount,rbus,0.666666666666667,1,amount space free slot,rbus space free
+warm,auglx,0.666666666666667,1,warm reset AC codec,auglx reset codec
+generate,isp,0.666666666666667,1,generate pci intr,isp pci intr
+but,arm8,0.666666666666667,1,but cache flush,arm8 cache flush ID
+can't,sh3,0.666666666666667,1,can't switch until resume,sh3 switch resume
+diverted,tag,0.666666666666667,1,pf diverted packet,pf tag packet
+needs,xscale,0.666666666666667,3,needs cache flush,xscale cache flush ID,needs cache flush,xscale cache flush I,needs cache flush,xscale cache flush D
+expect,des,0.666666666666667,1,expect new key,des new random key
+data,kap,0.666666666666667,4,data cache enable bit,kap cache enable,data cache enable,kap cache enable,Data cache enable,kap cache enable,Data cache enable bit,kap cache enable
+warm,neo,0.666666666666667,1,warm reset AC codec,neo reset codec
+pages,pgt,0.666666666666667,1,pages per device,pgt per device kthread
+but,hypersparc,0.666666666666667,1,but cache flush,hypersparc cache flush all
+pkh,eb164,0.666666666666667,1,pkh intr enable,eb164 intr enable
+page,curscb,0.6,1,add page to free pool,ahc add curscb to free list
+update,tsec,0.666666666666667,1,Update media status,tsec media status
+io,cypress,0.666666666666667,1,IO cache enable,cypress cache enable
+can't,sh4,0.666666666666667,1,can't switch until resume,sh4 switch resume
+acknowledge,rum,0.666666666666667,1,acknowledge media change,rum media change
+install,nnpfs,0.666666666666667,1,Install uninstall device,nnpfs uninstall device
+remov,tsec,0.666666666666667,1,remov media status notif,tsec media status
+gigabit,ep,0.666666666666667,1,Gigabit media status only,ep media status
+capture,esp,0.666666666666667,1,capture dma go,esp dma go
+tag,flush,0.666666666666667,3,cache tag ID,sa1 cache flush ID,cache tag ID,xscale cache flush ID,cache tag ID,arm8 cache flush ID
+boundary,instr,0.666666666666667,1,next boundary address,next instr address
+external,swift,0.666666666666667,1,external cache enable,swift cache enable
+data,viking,0.666666666666667,4,data cache enable bit,viking cache enable,data cache enable,viking cache enable,Data cache enable,viking cache enable,Data cache enable bit,viking cache enable
+acknowledge,myx,0.666666666666667,1,acknowledge media change,myx media change
+pci,intc,0.666666666666667,1,PCI intr enable,intc intr enable
+uart,gdium,0.666666666666667,1,uart intr map,gdium intr map
+write,ka46,0.666666666666667,1,Write cache align enable,ka46 cache enable
+acknowledge,run,0.666666666666667,1,acknowledge media change,run media change
+external,viking,0.666666666666667,1,external cache enable,viking cache enable
+data,ka46,0.666666666666667,4,data cache enable bit,ka46 cache enable,data cache enable,ka46 cache enable,Data cache enable,ka46 cache enable,Data cache enable bit,ka46 cache enable
+attempt,vid,0.666666666666667,1,Attempt to read disklabel,vid to disklabel
+status,state,0.666666666666667,1,link status change,if link state change
+playback,si,0.666666666666667,1,playback dma go,si dma go
+hcs,xbow,0.666666666666667,1,HCS intr register,xbow intr register
+general,wi,0.666666666666667,1,general intr enable,wi intr enable
+general,intc,0.666666666666667,1,general intr enable,intc intr enable
+write,pmap,0.666666666666667,1,Write cache align enable,pmap cache enable
+io,ka48,0.666666666666667,1,IO cache enable,ka48 cache enable
+pkh,ahd,0.666666666666667,1,pkh intr enable,ahd intr enable
+check,ray,0.666666666666667,1,check media change,ray media change
+write,ka41,0.666666666666667,1,Write cache align enable,ka41 cache enable
+check,otus,0.666666666666667,1,check media change,otus media change
+update,iwi,0.666666666666667,1,Update media status,iwi media status
+handle,malo,0.666666666666667,1,Handle media change request,malo media change
+csc,wi,0.666666666666667,1,CSC intr enable,wi intr enable
+just,ie,0.666666666666667,1,just drop packet,ie drop packet buffer
+uart,generic2e,0.666666666666667,1,uart intr map,generic2e intr map
+tod,gdium,0.666666666666667,1,tod intr map,gdium intr map
+vme,vpci,0.666666666666667,1,vme intr ack emulation,vpci intr ack
+warm,eap1371,0.666666666666667,1,warm reset AC codec,eap1371 reset codec
+generate,hpt,0.666666666666667,1,generate pci intr,hpt pci intr
+remov,em,0.666666666666667,1,remov media status notif,em media status
+hcs,xheart,0.666666666666667,1,HCS intr register,xheart intr register
+playback,intpri,0.666666666666667,1,playback intr enable,intpri intr enable
+remov,trunk,0.666666666666667,1,remov media status notif,trunk media status
+gigabit,tsec,0.666666666666667,1,Gigabit media status only,tsec media status
+update,trunk,0.666666666666667,1,Update media status,trunk media status
+write,cypress,0.666666666666667,1,Write cache align enable,cypress cache enable
+capture,eb64plus,0.666666666666667,1,capture intr enable,eb64plus intr enable
+inactivity,cache,0.666666666666667,1,node inactivity timeout,ieee80211 node cache timeout
+vme,vbus,0.666666666666667,1,vme intr ack emulation,vbus intr ack
+csc,eb164,0.666666666666667,1,CSC intr enable,eb164 intr enable
+only,tulip,0.666666666666667,1,only intr shared,tulip intr shared
+check,ixgb,0.666666666666667,1,check media change,ixgb media change
+io,sun4,0.666666666666667,1,IO cache enable,sun4 cache enable
+read,store,0.666666666666667,1,Read data byte,store data byte
+update,ieee80211,0.666666666666667,1,Update media status,ieee80211 media status
+first,*fdt,0.666666666666667,1, first child node,*fdt child node
+setup,em,0.666666666666667,1,setup write io,em write reg io
+instruction,ka41,0.666666666666667,2,Instruction cache enable,ka41 cache enable,instruction cache enable bit,ka41 cache enable
+ea,ahd,0.666666666666667,1,ea intr enable,ahd intr enable
+handle,wi,0.666666666666667,1,Handle media change request,wi media change
+write,ffloat,0.666666666666667,1,write to reg,Ffloat to reg
+otherwise,iopiic,0.666666666666667,1,otherwise release bus,iopiic release bus
+handle,atu,0.666666666666667,1,Handle media change request,atu media change
+idle,packet,0.666666666666667,1,max idle time persist,max packet time
+warm,maestro,0.666666666666667,1,warm reset AC codec,maestro reset codec
+siocalifaddr,pfi,0.666666666666667,1,SIOCALIFADDR add specified address,pfi address add
+cpu-independent,m88110,0.666666666666667,1,CPU-independent cache flush,m88110 cache flush handler
+handle,tsec,0.666666666666667,1,Handle media change request,tsec media change
+remov,lii,0.666666666666667,1,remov media status notif,lii media status
+fanfail,gdium,0.666666666666667,1,fanfail intr map,gdium intr map
+read,ka660,0.666666666666667,1,Read cache align enable,ka660 cache enable
+pkh,intpri,0.666666666666667,1,pkh intr enable,intpri intr enable
+handle,rtw,0.666666666666667,1,Handle media change request,rtw media change
+io,ka49,0.666666666666667,1,IO cache enable,ka49 cache enable
+cpu-independent,ms1,0.666666666666667,1,CPU-independent cache flush,ms1 cache flush all
+last,ieee80211,0.666666666666667,1,last reset scan,ieee80211 reset scan
+acknowledge,ieee80211,0.666666666666667,1,acknowledge media change,ieee80211 media change
+gigabit,ieee80211,0.666666666666667,1,Gigabit media status only,ieee80211 media status
+instruction,kap,0.666666666666667,2,Instruction cache enable,kap cache enable,instruction cache enable bit,kap cache enable
+number,buf,0.666666666666667,1,number free pages,buf free pages
+stp,trunk,0.666666666666667,1,STP port state,trunk port state
+update,vnet,0.666666666666667,1,Update media status,vnet media status
+list,create,0.666666666666667,1,list free queue elements,create free queue
+enable,expire,0.666666666666667,1,enable bw upcalls,expire bw upcalls send
+warm,auacer,0.666666666666667,1,warm reset AC codec,auacer reset codec
+gigabit,ixgb,0.666666666666667,1,Gigabit media status only,ixgb media status
+acknowledge,rt2860,0.666666666666667,1,acknowledge media change,rt2860 media change
+check,uath,0.666666666666667,1,check media change,uath media change
+values,add,0.666666666666667,1,timeout values sec,timeout add sec
+check,ural,0.666666666666667,1,check media change,ural media change
+update,vether,0.666666666666667,1,Update media status,vether media status
+ea,ppc,0.666666666666667,1,ea intr enable,ppc intr enable
+check,zyd,0.666666666666667,1,check media change,zyd media change
+zero,agp,0.666666666666667,1,Zero free memory,agp free memory
+auto,bios,0.666666666666667,1,Auto Power Down,Bios Power Down
+parity,omgpio,0.666666666666667,1,Parity clear bit,omgpio clear bit
+only,bmac,0.666666666666667,1,Only reset chip,bmac reset chip
+write,ms1,0.666666666666667,1,Write cache align enable,ms1 cache enable
+blocked,tag,0.666666666666667,1,pf blocked packet,pf tag packet
+pci,eb164,0.666666666666667,1,PCI intr enable,eb164 intr enable
+warm,auich,0.666666666666667,1,warm reset AC codec,auich reset codec
+addresses,x86,0.666666666666667,4,Addresses bus space,x86 bus space init,Addresses bus space,x86 bus space mallocok,addresses bus space,x86 bus space init,addresses bus space,x86 bus space mallocok
+warm,auixp,0.666666666666667,1,warm reset AC codec,auixp reset codec
+timer,prom,0.666666666666667,1,init timer interface watchdog,init prom interface
+capture,wi,0.666666666666667,1,capture intr enable,wi intr enable
+handle,rt2560,0.666666666666667,1,Handle media change request,rt2560 media change
+update,nxe,0.666666666666667,1,Update media status,nxe media status
+gigabit,wi,0.666666666666667,1,Gigabit media status only,wi media status
+iopb,userconf,0.666666666666667,1,iopb add pending read,userconf add read
+capture,ahc,0.666666666666667,1,capture intr enable,ahc intr enable
+write,store,0.666666666666667,1,Write data byte,store data byte
+current,max,0.666666666666667,1,Current packet time,max packet time
+resource,space,0.666666666666667,2,Initialize bus resource map,bus space map,Initialize bus resource map,bus space map
+remov,atu,0.666666666666667,1,remov media status notif,atu media status
+but,cypress,0.666666666666667,1,but cache flush,cypress cache flush all
+current,omgpio,0.666666666666667,1,current intr mask,omgpio intr mask
+ea,wi,0.666666666666667,1,ea intr enable,wi intr enable
+needs,sa1,0.666666666666667,3,needs cache flush,sa1 cache flush D,needs cache flush,sa1 cache flush ID,needs cache flush,sa1 cache flush I
+capture,ampintc,0.666666666666667,1,capture intr enable,ampintc intr enable
+when,diradd,0.666666666666667,1,When inode written,diradd inode written
+so,ie,0.666666666666667,1,so drop packet,ie drop packet buffer
+generate,pciide,0.666666666666667,1,generate pci intr,pciide pci intr
+external,cypress,0.666666666666667,1,external cache enable,cypress cache enable
+read,turbosparc,0.666666666666667,1,Read cache align enable,turbosparc cache enable
+acknowledge,upgt,0.666666666666667,1,acknowledge media change,upgt media change
+handle,athn,0.666666666666667,1,Handle media change request,athn media change
+read,swift,0.666666666666667,1,Read cache align enable,swift cache enable
+statistics,hardclock,0.666666666666667,1,Initialize timeout statistics update,timeout hardclock update
+disconnect,loop,0.666666666666667,1,disable disconnect interrupt,autri disable loop interrupt
+handle,bwi,0.666666666666667,1,Handle media change request,bwi media change
+acknowledge,cmalo,0.666666666666667,1,acknowledge media change,cmalo media change
+acknowledge,vic,0.666666666666667,1,acknowledge media change,vic media change
+but,ms1,0.666666666666667,1,but cache flush,ms1 cache flush all
+to,symbol,0.666666666666667,1,add to table,db add symbol table
+handle,otus,0.666666666666667,1,Handle media change request,otus media change
+gigabit,atw,0.666666666666667,1,Gigabit media status only,atw media status
+caught,pxa2x0,0.666666666666667,1,Caught stray interrupt,pxa2x0 stray interrupt
+start,xl,0.666666666666667,1,Start stats update counter,xl stats update
+external,pmap,0.666666666666667,1,external cache enable,pmap cache enable
+scan,global,0.666666666666667,1,release scan lock,acpi release global lock
+check,cmalo,0.666666666666667,1,check media change,cmalo media change
+uvm_pagermapout,pmap,0.666666666666667,1,uvm_pagermapout remove KVA mapping,pmap remove mapping
+enqueue,bmac,0.666666666666667,1,Enqueue transmit packet,bmac transmit packet
+read,viking,0.666666666666667,1,Read cache align enable,viking cache enable
+check,atw,0.666666666666667,1,check media change,atw media change
+pci,ahc,0.666666666666667,1,PCI intr enable,ahc intr enable
+instruction,cypress,0.666666666666667,2,Instruction cache enable,cypress cache enable,instruction cache enable bit,cypress cache enable
+acknowledge,ixgbe,0.666666666666667,1,acknowledge media change,ixgbe media change
+dma,tx,0.666666666666667,1,Disable DMA Channel,Disable Tx Channel
+only,ioc,0.666666666666667,1,only intr shared,ioc intr shared
+check,rum,0.666666666666667,1,check media change,rum media change
+id,activate,0.666666666666667,1,device scsi id lun,scsi activate lun
+whole,current,0.666666666666667,1,reset whole bus,ahc reset current bus
+write,ka48,0.666666666666667,1,Write cache align enable,ka48 cache enable
+length,kthread,0.666666666666667,1,length run queue,kthread run deferred queue
+write,sun4,0.666666666666667,1,Write cache align enable,sun4 cache enable
+handle,vether,0.666666666666667,1,Handle media change request,vether media change
+generate,bonito,0.666666666666667,1,generate pci intr,bonito pci intr disestablish
+check,iwn,0.666666666666667,1,check media change,iwn media change
+data,ka49,0.666666666666667,4,data cache enable bit,ka49 cache enable,data cache enable,ka49 cache enable,Data cache enable,ka49 cache enable,Data cache enable bit,ka49 cache enable
+ea,eb164,0.666666666666667,1,ea intr enable,eb164 intr enable
+pt,zero,0.666666666666667,1,pmap PT page,pmap zero page
+remov,myx,0.666666666666667,1,remov media status notif,myx media status
+check,rt2560,0.666666666666667,1,check media change,rt2560 media change
+one,pgt,0.666666666666667,1,One per device,pgt per device kthread
+vme,wi,0.666666666666667,1,vme intr ack emulation,wi intr ack
+check,wi,0.666666666666667,1,check media change,wi media change
+vme,cbus,0.666666666666667,1,vme intr ack emulation,cbus intr ack
+handle,zyd,0.666666666666667,1,Handle media change request,zyd media change
+check,ixgbe,0.666666666666667,1,check media change,ixgbe media change
+just,onewire,0.666666666666667,1,Just read block requested,onewire read block
+tod,lemote,0.666666666666667,1,tod intr map,lemote intr map
+check,lii,0.666666666666667,1,check media change,lii media change
+instruction,ka46,0.666666666666667,2,Instruction cache enable,ka46 cache enable,instruction cache enable bit,ka46 cache enable
+smart,bios,0.666666666666667,1,Smart Power Down,Bios Power Down
+acknowledge,trunk,0.666666666666667,1,acknowledge media change,trunk media change
+check,malo,0.666666666666667,1,check media change,malo media change
+check,ieee80211,0.666666666666667,1,check media change,ieee80211 media change
+xxx,r300,0.666666666666667,1,XXX check range overflow,r300 check range
+pt,copy,0.666666666666667,1,pmap PT page,pmap copy page
+now,cd1400,0.666666666666667,1,Now enable transmitter,cd1400 enable transmitter
+playback,esp,0.666666666666667,1,playback dma go,esp dma go
+disk,mac,0.666666666666667,2,can't read disk label,read mac label,read disk label,read mac label
+communication,stat,0.666666666666667,1,nnpfs communication device,nnpfs stat device
+check,myx,0.666666666666667,1,check media change,myx media change
+unused,instr,0.666666666666667,1,find next unused address,next instr address
+keep,fd,0.666666666666667,1,keep motor on,fd motor on
+update,lii,0.666666666666667,1,Update media status,lii media status
+handle,rum,0.666666666666667,1,Handle media change request,rum media change
+saved,vmt,0.666666666666667,1,saved shutdown hook drive,vmt shutdown hook
+vm_map_range_check,r300,0.666666666666667,1,VM_MAP_RANGE_CHECK check correct range,r300 check range
+gigabit,vic,0.666666666666667,1,Gigabit media status only,vic media status
+acknowledge,uath,0.666666666666667,1,acknowledge media change,uath media change
+scsi,pci,0.666666666666667,1,SCSI bus frequency MHz,pci bus frequency
+io,viking,0.666666666666667,1,IO cache enable,viking cache enable
+capture,ahd,0.666666666666667,1,capture intr enable,ahd intr enable
+pt,pv,0.666666666666667,2,pmap PT page,pmap pv page free,pmap PT page,pmap pv page free
+flash,onewire,0.666666666666667,1,flash write block,onewire write block
+general,intpri,0.666666666666667,1,general intr enable,intpri intr enable
+remov,tht,0.666666666666667,1,remov media status notif,tht media status
+ea,intpri,0.666666666666667,1,ea intr enable,intpri intr enable
+setup,wi,0.666666666666667,2,setup write io,wi write record io,setup read io,wi read record io
+pt,clean,0.666666666666667,1,pmap PT page,pmap clean page
+external,ms1,0.666666666666667,1,external cache enable,ms1 cache enable
+capture,si,0.666666666666667,1,capture dma go,si dma go
+handle,ipw,0.666666666666667,1,Handle media change request,ipw media change
+io,ka43,0.666666666666667,1,IO cache enable,ka43 cache enable
+find,crime,0.666666666666667,1,Find configure memory,crime configure memory
+fanfail,lemote,0.666666666666667,1,fanfail intr map,lemote intr map
+handle,rt2860,0.666666666666667,1,Handle media change request,rt2860 media change
+unlink,pf,0.666666666666667,1,unlink free expired state,pf free state
+general,ahc,0.666666666666667,1,general intr enable,ahc intr enable
+playback,eb64plus,0.666666666666667,1,playback intr enable,eb64plus intr enable
+capture,eb164,0.666666666666667,1,capture intr enable,eb164 intr enable
+write,vxt,0.666666666666667,1,Write cache align enable,vxt cache enable
+io,ka660,0.666666666666667,1,IO cache enable,ka660 cache enable
+remov,vether,0.666666666666667,1,remov media status notif,vether media status
+instruction,ka48,0.666666666666667,2,Instruction cache enable,ka48 cache enable,instruction cache enable bit,ka48 cache enable
+data,ka48,0.666666666666667,4,data cache enable bit,ka48 cache enable,data cache enable,ka48 cache enable,Data cache enable,ka48 cache enable,Data cache enable bit,ka48 cache enable
+acknowledge,nxe,0.666666666666667,1,acknowledge media change,nxe media change
+pci,ahd,0.666666666666667,1,PCI intr enable,ahd intr enable
+check,ep,0.666666666666667,1,check media change,ep media change
+tx,loop,0.666666666666667,1,disable tx interrupt,autri disable loop interrupt
+io,ka53,0.666666666666667,1,IO cache enable,ka53 cache enable
+check,trunk,0.666666666666667,1,check media change,trunk media change
+dma,rx,0.666666666666667,1,Disable DMA Channel,Disable Rx Channel
+handle,urtwn,0.666666666666667,1,Handle media change request,urtwn media change
+handle,rsu,0.666666666666667,1,Handle media change request,rsu media change
+generate,iq80321,0.666666666666667,1,generate pci intr,iq80321 pci intr disestablish
+instruction,ka660,0.666666666666667,2,Instruction cache enable,ka660 cache enable,instruction cache enable bit,ka660 cache enable
+ea,ahc,0.666666666666667,1,ea intr enable,ahc intr enable
+retrieves,*fdt,0.666666666666667,2,Retrieves node name,*fdt node name,Retrieves next node,*fdt next node
+buffered,xilinx,0.666666666666667,2,buffered dma complete,xilinx dma tx complete,buffered dma complete,xilinx dma rx complete
+dma,instr,0.666666666666667,1,Load next DMA address,next instr address
+handle,vnet,0.666666666666667,1,Handle media change request,vnet media change
+acknowledge,wi,0.666666666666667,1,acknowledge media change,wi media change
+remov,ixgb,0.666666666666667,1,remov media status notif,ixgb media status
+pci,db,0.666666666666667,1,PCI read line,db read line
+io,hypersparc,0.666666666666667,1,IO cache enable,hypersparc cache enable
+read,cypress,0.666666666666667,1,Read cache align enable,cypress cache enable
+or,acpi,0.666666666666667,1,or release lock,acpi release global lock
+adapter,tcds,0.666666666666667,1,adapter scsi reset,tcds scsi reset
+else,store,0.666666666666667,1,else data byte,store data byte
+generate,pdc205xx,0.666666666666667,1,generate pci intr,pdc205xx pci intr
+cpu-independent,arm8,0.666666666666667,1,CPU-independent cache flush,arm8 cache flush ID
+to,db,0.666666666666667,1,To write text segment,db write text
+_,lev1map,0.666666666666667,1,pmap_create create pmap,pmap lev1map create
+check,pgt,0.666666666666667,1,check media change,pgt media change
+step,bmac,0.666666666666667,1,step init dma allocator,bmac init dma
+pci,intpri,0.666666666666667,1,PCI intr enable,intpri intr enable
+descriptor,cn30xxpow,0.666666666666667,2,Descriptor ring size fixed,cn30xxpow ring size,Descriptor ring size,cn30xxpow ring size
+unlink,*get,0.666666666666667,1,Unlink free packet tag,*get free packet
+acknowledge,vether,0.666666666666667,1,acknowledge media change,vether media change
+second,date,0.666666666666667,1,read second time,adb read date time
+acknowledge,iwi,0.666666666666667,1,acknowledge media change,iwi media change
+read,ms1,0.666666666666667,1,Read cache align enable,ms1 cache enable

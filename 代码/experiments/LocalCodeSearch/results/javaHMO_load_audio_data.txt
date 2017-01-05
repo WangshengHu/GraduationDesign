@@ -1,0 +1,37 @@
+PROJECT : javaHMO  QUERY : load audio data
+****************************SWordNet****************************
+
+----------expansion num : 16 ----------
+----------expansion----------
+load : add clear remove end start
+data : seekable file buffered item listener container
+audio : media image mp playlist document
+----------search hits----------
+MediaProxy.clearMetaData()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\MediaProxy.java 78 78
+AudioProxy.clearMetaData()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\AudioProxy.java 66 76
+PlsPlaylistProxy.loadMetaData()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlsPlaylistProxy.java 64 175
+MediaProxy.loadMetaData()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\MediaProxy.java 76 76
+AudioProxy.loadMetaData()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\AudioProxy.java 43 64
+ImageProxy.clearMetaData()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\ImageProxy.java 97 99
+PlaylistProxy.clearMetaData()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlaylistProxy.java 148 150
+PlaylistsContainer.addPlaylist(NameValue)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\playlists\PlaylistsContainer.java 117 119
+ImageWrapper.loadMetaData()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\imageOrganizer\OrganizerContainer.java 149 151
+ImageProxy.loadMetaData()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\ImageProxy.java 92 95
+JpgImageProxy.loadMetaData()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\JpgImageProxy.java 59 89
+M3uPlaylistProxy.loadMetaData()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\M3uPlaylistProxy.java 54 178
+----------total 12 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 120 ----------
+----------expansion----------
+data : database information records datas values db blob record informations content resultset object contents raw objects csv metadata serialized table dataset qlite resulset blobs json infromation playlists grn chunks tabular bulk dtabase result results jsonarray messages triples clob retrieved packet tables
+load : loading loads loaded reload reloads unload reloading preload initialize loader fetches instantiate fetch unloads access retrieve refresh render save create reloaded loadings import unloaded locate attach preloading embed download run launch populate export 12905 init fetching startup injects initializes acces
+audio : mp3 wav video audiostream pcm amr sound icecast ogg mic audacity aiff 3gp mp3s music m4a aac webm stereo soundcard microphone javasound equalizer waveform ulaw mpeg4 audiotrack midi wave playback mp eeg wma mpeg audiofile h264 recoder recording bitstream m3u8
+----------search hits----------
+Mp3Proxy.loadMetaData()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\Mp3Proxy.java 116 291
+AudioProxy.loadMetaData()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\AudioProxy.java 43 64
+Mp3UrlProxy.loadMetaData()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\Mp3UrlProxy.java 39 41
+----------total 3 hits----------
+
+

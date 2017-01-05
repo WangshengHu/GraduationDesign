@@ -1,0 +1,21 @@
+PROJECT : javaHMO  QUERY : collect music files
+****************************SWordNet****************************
+
+----------expansion num : 22 ----------
+----------expansion----------
+music : stocks internet empty playlist jukebox email shoutcast file web weather nntp desktop organizer movie rss images games playlists gallery
+files : organizer folders item
+----------search hits----------
+----------total 0 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 120 ----------
+----------expansion----------
+music : mp3 song karaoke audio sound midis video songs winamp m4a ogg mediaplayer wav brainz metronome mp3s plays soundfile playback audiotrack playlist equalizer piano soundpool song1 audios media clips audiofile bgm javazoom tracks tempo aac musics chords game tunes mp artist
+files : file folders directories folder jars directory subdirectories binaries packages sources archives zipped subfolders documents filenames textfiles archive zips images jpgs projects xmls libraries resources dlls myfile paths zip subfolder somefile filesystem libs archive1 artifacts assets webcontent pdfs executables zipfiles contents
+collect : collecting collects gather gathers collected accumulate retrieve collectors analyze collectable gathering gathered grab emits store obtain fetch extract aggregated analyse collector hold emitted collectible stores generational pulls manipulate statistics accumulating feeding extracts fetches produce collection emit retrieves accumulated pull reclaim
+----------search hits----------
+----------total 0 hits----------
+
+

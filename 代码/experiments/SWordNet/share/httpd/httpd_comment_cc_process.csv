@@ -1,0 +1,37 @@
+davresponsedescription,open,0.666666666666667,1,DAVresponsedescription error log,open error log
+listener,server,0.666666666666667,1,listener main loop,server main loop
+potential,dav,0.666666666666667,2,potential error response,dav error response,potential error response,dav error response
+remove,chk,0.666666666666667,1,remove filter from chain,chk filter chain
+per-dir,setenvif,0.666666666666667,1,create per-dir config,create setenvif config p
+means,do,0.666666666666667,1, means something else,do something else
+content,imap,0.666666666666667,1,content handler internal redirects,imap handler internal
+to,more,0.666666666666667,1,To ignore case,more ignore case
+dir,empty,0.666666666666667,1,create dir config,create empty config p
+plus,open,0.666666666666667,1,plus error log above,open error log
+per-dir,empty,0.666666666666667,1,create per-dir config,create empty config p
+apr_dbd_,odbc,0.666666666666667,4,apr_dbd_transaction_mode_set mode transaction,odbc transaction mode set,apr_dbd_transaction_mode_set mode transaction,odbc transaction mode get,apr_dbd_transaction_mode_get mode transaction,odbc transaction mode set,apr_dbd_transaction_mode_get mode transaction,odbc transaction mode get
+each,meta,0.666666666666667,1,scan each file within ,scan meta file
+such,xlate,0.666666666666667,1, log such error,log xlate error
+server,setenvif,0.666666666666667,1,create server config,create setenvif config p
+pre,module,0.666666666666667,1,pre request hook,module request hook participate
+post,module,0.666666666666667,1,post request hook,module request hook participate
+walk,chk,0.666666666666667,1,walk filter chain,chk filter chain
+found,do,0.666666666666667,1,found something else,do something else
+dir,setenvif,0.666666666666667,1,create dir config,create setenvif config p
+end,server,0.666666666666667,1,End main loop,server main loop
+parse,send,0.666666666666667,1,parse request body,send request body
+there,send,0.666666666666667,1, there request body,send request body
+server,empty,0.666666666666667,1,create server config,create empty config p
+into,over,0.666666666666667,1,copy into existing bucket,copy over existing
+just,cache,0.666666666666667,1,Just remove filter,cache remove url filter
+to,less,0.666666666666667,1,To ignore case,less ignore case
+initialize,crypt,0.666666666666667,1,Initialize mutex lock,crypt mutex lock
+internal,open,0.666666666666667,1,internal error log something,open error log
+fake,read,0.666666666666667,1,fake request line,read request line
+next,chk,0.666666666666667,1, next filter chain,chk filter chain
+report,yy,0.666666666666667,1,Report fatal error,yy fatal error
+name,open,0.666666666666667,1, name error log,open error log
+handle,send,0.666666666666667,1,handle request body,send request body
+give,yy,0.666666666666667,1, give fatal error,yy fatal error
+initialise,setup,0.666666666666667,1,Initialise signal names,setup signal names char
+iterate,copy,0.666666666666667,1,Iterate over existing rules,copy over existing

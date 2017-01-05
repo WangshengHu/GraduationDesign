@@ -1,0 +1,26 @@
+PROJECT : jBidWatcher  QUERY : login ebay
+****************************SWordNet****************************
+
+----------expansion num : 18 ----------
+----------expansion----------
+ebay : register add parse webserver snipe delete load match security advanced general firewall reload establish browser unregister refilter stub
+----------search hits----------
+----------total 0 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 80 ----------
+----------expansion----------
+ebay : ebox alchemyapi paypal raptor foursquare intuit arsys amazonws webstore google nvp bloomberg netflix kaltura yyxu nutiteq rallydev amazonaws crystaldecisions hips iplanet millennialmedia atlassian pfizer blipsystems socialcast myurl yodlee todolist adwords windowsazure magento rbs rapplogic flipkart gisgraphy reddit gesfor blogger moviejukebox
+login : logout registration signup signin authentication redirect authenticate loggedin username redirects redirected logined logon logins credentials registeration loginpage authenticates logged authenticated krisv redirecting authentification authorizes authorization password submit relogin authc user signout page loginerror authorized landing admin redirection authorizing authetication facebook
+----------search hits----------
+ebayServer.checkHTMLFollowRedirect(JHTML, String, CookieJar)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 1339 1370
+JConfigEbayTab.buildUsernamePanel()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 2601 2626
+EbayAuctionURLPager.getPage(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\EbayAuctionURLPager.java 79 89
+EbayAuctionURLPager.getPage(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\EbayAuctionURLPager.java 91 111
+ebayServer.handlePostBidBuyPage(CookieJar, StringBuffer, Form, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 1205 1285
+ebayServer.addAllItemsOnPage(JHTML, String, boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 1496 1551
+EbayAuctionURLPager.getPageURL(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\EbayAuctionURLPager.java 68 77
+----------total 7 hits----------
+
+

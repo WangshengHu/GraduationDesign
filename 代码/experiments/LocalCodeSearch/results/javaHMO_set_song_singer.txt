@@ -1,0 +1,42 @@
+PROJECT : javaHMO  QUERY : set song singer
+****************************SWordNet****************************
+
+----------expansion num : 0 ----------
+----------expansion----------
+----------search hits----------
+----------total 0 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 120 ----------
+----------expansion----------
+song : songs playlist music artist mp3 lyrics soundfile m4a playcount lyric artists chords sound mediaplayer movie mp3s wav audios album clip song1 audiotrack audio soundpool sound3 midis audiofile clips genre subtitle video musics clip9 tracks playback ogg metronome mp mp3agic playlists
+set : setting sets setted change assign add specify adjusting assigns cate changed changing specified defined assigned binded returns get whose reassign reset default adjust inited specifying assigning unset added holds property determined define put attribute adding fill initialize return resets correspond
+singer : artists recog artist brainz muted plays lyric synthesizing mary punches spoken 23rd woman recognization robert michael song adams martha lyrics kong wonderland synthesis genre muting admitted utd songs martial marf kevin transcribe father jean song1 female recongnition pronunciation seasons headphones
+----------search hits----------
+Mp3Wrapper.setArtist(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 137 139
+Mp3Wrapper.setSong(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 145 147
+ShoutcastStationContainer.getGenre()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\shoutcast\ShoutcastStationContainer.java 342 344
+AudioProxy.setArtist(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\AudioProxy.java 89 91
+AudioProxy.setSong(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\AudioProxy.java 98 100
+Mp3Wrapper.getArtist()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 133 135
+Mp3Wrapper.getSong()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 141 143
+AudioProxy.setGenre(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\AudioProxy.java 116 118
+Mp3Wrapper.getGenre()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 157 159
+Mp3Proxy.getGenre(int)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\Mp3Proxy.java 82 87
+Mp3Proxy.getGenre(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\Mp3Proxy.java 89 98
+Mp3UrlProxy.getGenre()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\Mp3UrlProxy.java 55 57
+Show.setGenre(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\util\Show.java 153 155
+AudioProxy.getGenre()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\AudioProxy.java 111 114
+AudioProxy.getArtist()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\AudioProxy.java 84 87
+AudioProxy.getSong()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\AudioProxy.java 93 96
+AudioTiVoItem.getGenre()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\AudioTiVoItem.java 36 36
+Show.getGenre()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\util\Show.java 149 151
+Mp3Wrapper.setGenre(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 161 163
+Mp3UrlProxy.getArtist()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\Mp3UrlProxy.java 43 45
+Mp3UrlProxy.getSong()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\Mp3UrlProxy.java 47 49
+AudioTiVoItem.getArtist()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\AudioTiVoItem.java 30 30
+AudioTiVoItem.getSong()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\AudioTiVoItem.java 32 32
+----------total 23 hits----------
+
+

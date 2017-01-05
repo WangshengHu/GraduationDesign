@@ -1,0 +1,6 @@
+propose,change,0.666666666666667,1,Proposed Track Name,change Track Name
+check,change,0.666666666666667,2,Check Album Name,change Album Name,Check Track Order,change Track Order
+style,ambience,0.666666666666667,1,set current style to combo,void set To Ambience to
+current,Properties,0.666666666666667,2,set current jpanel properties,void set Properties LinkedHashMap properties,set current jpanel properties,void set Properties LinkedHashMap properties
+need,void,0.666666666666667,2,Need refresh flag,void  refresh,Need refresh flag,void  refresh
+id,Ambience,0.666666666666667,2,Ambience id- ambience,void set Ambience Ambience ambience,Ambience id- ambience,void register Ambience Ambience ambience

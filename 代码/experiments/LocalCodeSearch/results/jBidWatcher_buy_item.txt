@@ -1,0 +1,553 @@
+PROJECT : jBidWatcher  QUERY : buy item
+****************************SWordNet****************************
+
+----------expansion num : 46 ----------
+----------expansion----------
+item : status bid auction row token repeat channel column search
+buy : sum bid add comparator name info snipe table affiliate information save shipping periodic copy qobject help update serialize action configure edit single entry about delete enable rss stats command faq print load execute new comment disable search
+----------search hits----------
+AuctionEntry.getSnipeBid()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 456 463
+AuctionBid.AuctionBid(String, Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionBid.java 4 6
+AuctionEntry.bid(Currency)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1221 1231
+AuctionEntry.bid(Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1233 1248
+AuctionServer.bid(AuctionEntry, Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 116 116
+SearchTableModel.getRowCount()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchTableModel.java 11 11
+AuctionEntry.hasDefaultSnipeTime()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 589 596
+AuctionServerManager.getServerByName(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServerManager.java 38 45
+JBidMouse.messageAction(Object)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 64 88
+JBidMouse.setClipboardString(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 299 304
+SearchManager.getInstance()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 234 238
+AuctionActionImpl.execute(AuctionEntry, Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionActionImpl.java 46 46
+JBidMenuBar.establishEditMenu(JMenu)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 126 143
+JBidMouse.beforePopup(JPopupMenu, MouseEvent)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1554 1658
+AuctionEntry.getNumBidders()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1505 1505
+AuctionInfo.getEndDate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 483 483
+AuctionEntry.isDutch()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1519 1519
+ebayAuction.load_buy_now()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 2024 2049
+AuctionServer.getSnipePadding()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 55 55
+AuctionBid.execute(AuctionEntry, Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionBid.java 12 14
+AuctionAction.getBidResult(Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionAction.java 16 24
+ebayServer.getMinimumBidIncrement(Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 319 384
+JBidWatch.checkClock()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 714 738
+JBidProxy.needsAuthorization(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 31 40
+SearchTableModel.getColumnClass(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchTableModel.java 24 24
+JBidContext.figureAuction(JTable, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidContext.java 31 33
+JBidMouse.buildInfoHTML(AuctionEntry, boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 532 534
+SearchInfoDialog.boxUp(Component, Component)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 179 186
+JBidProxy.doSnipe(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 166 181
+JBidMouse.checkBinBid(AuctionEntry, Currency, Component, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1126 1147
+auctionTableModel.find(Comparison)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 27 33
+SearchManagerInterface.deleteSearch(Searcher)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManagerInterface.java 8 8
+JBidContext.getPossibleRows()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidContext.java 22 25
+auctionTableModel.getSortByValueAt(int, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 150 209
+AuctionEntry.setAuctionInfo(AuctionInfo)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1480 1487
+AuctionBid.AuctionBid(AuctionEntry, Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionBid.java 8 10
+SearchTableModel.getColumnCount()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchTableModel.java 12 12
+SearchInfoDialog.buildCurrencyList(JComboBox)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 241 266
+JBidWatch.buildFrame()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 910 1007
+AuctionEntry.getTitle()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1511 1511
+SearchInfoDialog.onOK()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 90 108
+JBidWatch.announceNewVersion()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 282 321
+FilterManager.deleteAuction(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\FilterManager.java 169 180
+AuctionInfo.getCurBid()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 465 465
+SearchTableModel.getSortByColumnClass(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchTableModel.java 26 30
+JBidWatch.getColumnProperties()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 659 672
+AuctionInfo.getStartDate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 482 482
+JSearchContext.DoAction(Object, String, Object)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 204 206
+JBidMenuBar.establishAuctionMenu(JMenu)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 153 190
+TableColumnController.TableColumnController()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\TableColumnController.java 42 65
+SearchInfoDialog.getCurrency()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 50 54
+AuctionEntry.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 620 625
+AuctionServer.addAuction(URL, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 518 532
+AuctionTable.getToolTipText(MouseEvent)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionsUIModel.java 597 604
+JBidContext.JBidContext()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidContext.java 16 16
+AuctionEntry.snipeCompleted()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1133 1139
+SearchManager.addSearch(String, String, String, String, int, long)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 212 217
+JHTML.addToken(htmlToken, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JHTML.java 192 237
+AuctionInfo.isReserve()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 486 486
+BaseTransformation.getColumnName(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\BaseTransformation.java 87 89
+JBidWatch.shutdown()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 674 690
+JBidMouse.DoNoAffiliate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1303 1314
+AuctionInfo.saveThumbnail(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 323 329
+AuctionInfo.getFeedbackScore()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 498 498
+AuctionEntry.checkHighBidder(boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 630 669
+AuctionEntry.clearInvalid()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 745 750
+AuctionEntry.isLoaded()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 328 339
+AuctionEntry.getGlobalSnipeTime()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 519 537
+AuctionActionImpl.AuctionActionImpl(AuctionEntry, Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionActionImpl.java 24 29
+AuctionInfo.AuctionInfo(String, String, String, Currency, Date, Date, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 49 72
+JSearchContext.addMenu(JPopupMenu, String, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 12 14
+AuctionStats.getCompleted()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 307 309
+AuctionEntry.getCategory()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1281 1286
+SearchManager.getTags()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 157 157
+AuctionEntry.isSniped()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 365 370
+JBidMouse.DoShowTime(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 639 659
+AuctionInfo.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 463 463
+JBidMouse.DoAbout()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1276 1288
+JBidMenuBar.makeMenuItem(JMenu, String, char)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 76 78
+JSearchContext.doSingle(Searcher, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 92 112
+AuctionActionImpl.AuctionActionImpl(String, Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionActionImpl.java 17 22
+JBidProxy.extractField(String, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 151 164
+AuctionEntry.prepareAuctionEntry(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 217 268
+JBidMouse.DoResetServerTime()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1267 1270
+AuctionEntry.isUpdating()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 394 404
+AuctionEntry.buy(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1250 1266
+AuctionEntry.getCurBid()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1489 1492
+AuctionEntry.setLastStatus(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 788 795
+JBidMouse.DoConfigure()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 267 273
+AuctionInfo.getPostiveFeedbackPercentage()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 497 497
+AuctionBuy.AuctionBuy(String, Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionBuy.java 4 6
+AuctionEntry.setNeedsUpdate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1268 1271
+AuctionEntry.isOutbid()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1526 1526
+ebayServer.placeFinalBid(CookieJar, Form, AuctionEntry, Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 1169 1192
+AuctionInfo.getShipping()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 469 469
+JBidContext.setTable(JTable)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidContext.java 18 20
+AuctionInfo.getSiteThumbnail()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 500 500
+JBidMouse.JBidMouse(JPopupMenu)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 33 36
+JSearchContext.constructTablePopup()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 48 61
+AuctionEntry.getCancelledSnipeQuantity()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1110 1116
+AuctionEntry.getLastStatus(boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 809 822
+JBidMouse.DoShipping(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1003 1036
+AuctionServer.getNewSpecificAuction()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 162 174
+HTMLDump.addAuctionLink()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\HTMLDump.java 96 106
+AuctionEntry.getBuyNow()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1502 1502
+AuctionServerManager.addServer(String, AuctionServer)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServerManager.java 203 212
+AuctionEntry.setErrorPage(StringBuffer)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1537 1539
+AuctionActionImpl.getAmount()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionActionImpl.java 49 49
+AuctionServer.buy(AuctionEntry, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 54 54
+JBidMouse.stripHigh(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 536 544
+AuctionEntry.getQuantity()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1504 1504
+AuctionEntry.getStartDate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1515 1515
+JBidProxy.getHTMLForEntry(String, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 409 417
+JBidMouse.DoCloseDown()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1364 1366
+AuctionActionImpl.getQuantity()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionActionImpl.java 50 50
+SearchFrame.createSearchFrame()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchFrame.java 46 122
+JBidMouse.DoSnipe(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 919 1001
+JBidMenuBar.establishHelpMenu(JMenu)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 192 197
+SearchManager.saveSearches()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 76 112
+AuctionActionImpl.getBidResult(Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionActionImpl.java 57 116
+FilterManager.addAuction(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\FilterManager.java 182 210
+SearchManagerInterface.findSearch(Searcher)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManagerInterface.java 7 7
+JSearchContext.showEdit(Searcher)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 82 90
+JBidMouse.DoAffiliate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1290 1301
+SearchTableModel.getColumnNumber(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchTableModel.java 15 22
+JBidMouse.DeleteComment(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1175 1183
+SearchInfoDialog.onCancel()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 110 113
+JBidMouse.DoShowLastError(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 141 159
+AuctionServer.getAffiliateRequestTime()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 486 495
+JBidWatch.internal_shutdown()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 696 710
+JBidMouse.DoShowInBrowser(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1149 1173
+AuctionInfo.hasThumbnail()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 346 352
+AuctionBuy.AuctionBuy(AuctionEntry, Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionBuy.java 8 10
+JBidWatch.loadProxySettings()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 647 657
+auctionTableModel.getEntryIcon(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 109 146
+SearchManager.toXML()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 143 154
+JBidMouse.DoCopySomething(Component, AuctionEntry, int, String, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1405 1448
+JSearchContext.doCommand(Searcher, int, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 114 129
+JBidWatch.CheckHelp(String[])  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 438 458
+JBidMenuBar.establishFileMenu(JMenu)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 89 118
+auctionTableModel.buildEntryFlags(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 103 107
+ebayServer.getNewSpecificAuction()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 950 957
+JBidMouse.sum(int[])  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 380 429
+JBidWatch.makeButton(String, String, String, ActionListener, boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 755 771
+AuctionEntry.update()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1141 1196
+AuctionInfo.handleTag(int, XMLElement)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 80 177
+AuctionEntry.setDefaultSnipeTime(long)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 565 576
+ebayServer.handlePostBidBuyPage(CookieJar, StringBuffer, Form, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 1205 1285
+SearchInfoDialog.buildTabList()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 268 281
+SearchInfoDialog.main(String[])  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 158 163
+AuctionStats.getNextSnipe()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 319 321
+AuctionEntry.isBidOn()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 385 392
+auctionTableModel.getRowCount()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 14 14
+AuctionEntry.toXML()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 905 995
+AuctionEntry.getComment()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 779 786
+JSearchContext.addMenu(JPopupMenu, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 16 18
+SearchInfoDialog.SearchInfoDialog()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 56 88
+AuctionEntry.setShipping(Currency)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 797 800
+BadBidException.BadBidException(String, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 90 93
+AuctionEntry.setBid(Currency)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 441 452
+JBidMouse.addAuction(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 51 62
+AuctionInfo.getBuyNow()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 472 472
+AuctionStats.getSnipes()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 311 313
+AuctionActionImpl.activate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionActionImpl.java 31 44
+AuctionAction.getResult()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionAction.java 12 12
+SearchFrame.SearchFrame()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchFrame.java 15 37
+MyItemSearcher.getTypeName()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 46 46
+BadBidException.toString()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 95 98
+JBidWatch.EstablishFirewall(Properties)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 499 518
+JBidProxy.commonSetup()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 27 29
+AuctionInfo.isReserveMet()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 491 491
+AuctionEntry.prepareSnipe(Currency)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1198 1198
+SearchFrame.add(String, String, String, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchFrame.java 155 165
+AuctionInfo.getSeller()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 477 477
+AuctionActionImpl.isSuccessful()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionActionImpl.java 51 55
+AuctionBuy.execute(AuctionEntry, Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionBuy.java 12 14
+JSearchContext.changeTable()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 63 67
+JBidWatch.main(String[])  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 556 641
+AbstractSortableTableModel.getColumnNumber(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AbstractSortableTableModel.java 20 20
+JBidMouse.anyBiddingErrors(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1038 1059
+AuctionInfo.getHighBidder()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 478 478
+AuctionInfo.getInsurance()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 470 470
+AuctionServer.addSearches(SearchManagerInterface)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 122 122
+JBidMouse.ShowComment(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1203 1210
+JBidWatch.JBidWatch(JSplashScreen)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 1009 1124
+JBidMouse.DoAction(Object, String, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1664 1720
+AuctionStats.AuctionStats()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 302 305
+SearchFrame.actionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchFrame.java 167 183
+JBidMouse.promptString(Component, String, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 491 493
+AuctionEntry.isReserveMet()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1521 1521
+SearchManager.buildSearch(long, String, String, String, String, String, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 219 228
+JBidContext.DoAction(Object, String, Object)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidContext.java 35 35
+AuctionEntry.setServer(AuctionServer)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 319 326
+AuctionEntry.isSeller()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 418 427
+AuctionEntry.checkUpdate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 691 736
+JBidMouse.DoUpdateAll()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1212 1221
+SearchInfoDialog.setupUI()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 188 239
+AuctionEntry.checkSnipe()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1060 1093
+AuctionEntry.getMultiSnipe()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 539 543
+JBidMouse.showSimpleInformation(AuctionEntry, Component)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 685 695
+JBidMenuBar.makeMenuItem(JMenu, String, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 80 82
+AuctionsManager.newAuctionEntry(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionsManager.java 296 304
+JBidMouse.makeUsefulString(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 327 338
+JBidWatch.checkConfig(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 397 410
+SearchTableModel.compare(int, int, ColumnStateList)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchTableModel.java 94 114
+AuctionEntry.isUpdateForced()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1407 1407
+JBidFrameMouse.constructFramePopup()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidFrameMouse.java 6 18
+AuctionEntry.getSnipeTime()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 578 587
+JSearchContext.DoDelete(Searcher)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 151 184
+JBidProxy.genItems(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 322 380
+JBidWatch.makeSaveDirectory(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 342 358
+AuctionInfo.setIdentifier(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 462 462
+AuctionEntry.getShippingWithInsurance()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1545 1561
+JBidMenuBar.makeMenuItem(JMenu, String, String, int, KeyStroke)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 24 31
+EntryStatus.EntryStatus(String, Date)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\EventLogger.java 50 54
+AuctionEntry.isReserve()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1520 1520
+AuctionServerManager.addSearches(SearchManagerInterface)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServerManager.java 261 267
+JBidMouse.DoSave(Component)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1368 1376
+AuctionInfo.getContent()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 441 460
+ebayServer.updateHighBid(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 457 497
+AuctionEntry.isMultiSniped()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 372 383
+SearchTableModel.dateFormat(Searcher)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchTableModel.java 79 88
+JBidWatch.makePlatformDirectory(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 360 362
+AuctionEntry.getPostiveFeedbackPercentage()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1534 1534
+JBidMouse.DoCopy(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 340 349
+JBidMouse.DoInformation(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 661 683
+AuctionStats.getNextUpdate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 327 329
+AuctionEntry.AuctionEntry(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 273 283
+JBidMenuBar.JBidMenuBar(ActionListener)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 259 283
+AuctionEntry.setInvalid()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 752 757
+ColumnProps.getName()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionsUIModel.java 534 534
+AuctionInfo.setRealContent(byte[], boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 410 425
+JBidContext.resolvePoint()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidContext.java 60 66
+JBidMouse.getClipboardString()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 275 297
+JBidProxy.buildHTML(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 206 320
+AuctionEntry.isSticky()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1297 1302
+AuctionEntry.setComment(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 766 777
+JBidMouse.setConfigFrame(JConfigFrame)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 43 45
+AuctionInfo.toXML()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 179 321
+Auctions.getColumnName(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\Auctions.java 47 47
+JBidContext.beforePopup(JPopupMenu, MouseEvent)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidContext.java 37 44
+SearchManager.getSearchByIndex(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 50 50
+AuctionServer.addAuction(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 238 249
+TableColumnController.getInstance()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\TableColumnController.java 67 69
+AuctionInfo.getThumbnail()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 365 378
+JBidWatch.messageAction(Object)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 106 277
+auctionTableModel.getColumnCount()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 15 15
+JBidWatch.buildHeaderBar(JFrame, ActionListener)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 773 864
+JBidProxy.cancelSnipe(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 183 195
+JBidMenuBar.makeMenuItem(JMenu, String, String, int, KeyStroke, boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 33 53
+myTableCellRenderer.snipeBidColor(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\myTableCellRenderer.java 179 199
+SearchManagerInterface.addSearch(String, String, String, String, int, long)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManagerInterface.java 11 11
+AuctionEntry.getFlags()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1446 1475
+AuctionEntry.getBidQuantity()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 473 479
+JBidMouse.CancelSnipe(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 503 526
+JBidMouse.DoMultiSnipe(Component)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 760 897
+AuctionEntry.addMulti(MultiSnipe)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1028 1043
+AuctionServerListEntry.getName()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServerManager.java 33 35
+ebayServer.getAuctionViaAffiliate(CookieJar, AuctionEntry, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 1066 1086
+AuctionEntry.checkEnded()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 294 308
+AuctionEntry.getTimeLeft()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1345 1401
+JBidMouse.buildMenu(JPopupMenu)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1525 1552
+JBidWatch.addbutton(JToolBar, ActionListener, String, String, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 740 753
+AuctionEntry.isHighBidder()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 406 416
+JBidContext.JBidContext(JPopupMenu)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidContext.java 12 14
+JBidProxy.dumpImage(String, StringBuffer, byte[][])  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 85 94
+AuctionComparator.compare(Object, Object)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 58 78
+AuctionEntry.whichMulti(long)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1045 1055
+AuctionInfo.getHighBidderEmail()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 479 479
+AuctionServerManager.addAuctionServerMenus()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServerManager.java 245 250
+JBidMouse.DoBuy(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1061 1070
+JBidMouse.DoComment(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1185 1201
+AuctionEntry.getStatusCount()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 824 826
+JBidMouse.DoFAQ()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1318 1330
+AuctionEntry.clearNeedsUpdate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1314 1320
+AuctionEntry.getJustAdded()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 610 618
+AuctionInfo.getTitle()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 480 480
+JBidContext.getIndexedEntry(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidContext.java 27 29
+JBidMouse.getBestBidValue(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 351 378
+JBidMenuBar.establishServerMenu(JMenu)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 145 151
+AuctionInfo.getInsuranceOptional()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 471 471
+JBidMenuBar.establishDebugMenu(JMenu)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 120 124
+AuctionEntry.getInsurance()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1500 1500
+JBidMenuBar.makeMenuItem(JMenu, String, int, KeyStroke)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 55 62
+ebayAuction.load_shipping_insurance(Currency)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 1964 2022
+SearchTableModel.insert(Object)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchTableModel.java 124 127
+JBidWatch.repaint()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 643 645
+JBidMouse.DoCopyID(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1460 1468
+AuctionEntry.isFixed()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1524 1524
+TableColumnController.getColumnNumber(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\TableColumnController.java 76 87
+AuctionEntry.fromXML(XMLElement)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 997 1021
+AuctionInfo.AuctionInfo()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 43 47
+BadBidException.getResult()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 100 102
+SearchInfoDialog.getPeriod()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 47 47
+AuctionInfo.getUSCurBid()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 466 466
+JBidWatch.setStatus(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 323 340
+AuctionServer.getBidForm(CookieJar, AuctionEntry, Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 115 115
+JSearchContext.DoDisable(Searcher)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 139 141
+AuctionServerListEntry.AuctionServerListEntry(String, AuctionServer)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServerManager.java 24 27
+AuctionEntry.getCancelledSnipe()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1102 1108
+SearchManager.addSearch(Searcher)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 12 14
+SearchManager.check()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 63 74
+AuctionStats.getNextEnd()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 323 325
+AuctionEntry.isSnipeValid()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 341 363
+HTMLDump.auctionName(String, String, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\HTMLDump.java 15 27
+AuctionEntry.setEnded(boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1405 1405
+AuctionServerManager.addServerNoUI(String, AuctionServer)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServerManager.java 190 201
+AuctionsUIModel.getBestBidValue(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionsUIModel.java 154 181
+AuctionTable.removeMouseListener(MouseListener)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionsUIModel.java 663 671
+AuctionServerManager.delete_entry(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServerManager.java 172 177
+SearchInfoDialog.isCancelled()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 115 117
+auctionTableModel.getSortByColumnClass(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 43 54
+AuctionInfo.getItemLocation()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 496 496
+Snipe.getItem()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\Snipe.java 176 178
+JBidWatch.makeStandardDirectory(String, String, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 364 389
+SearchTableModel.delete(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchTableModel.java 120 122
+JBidMouse.DoSerialize()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1332 1334
+AuctionEntry.getNextUpdate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 738 743
+JBidMouse.DoStopUpdating(Component)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1223 1243
+AuctionEntry.getInsuranceOptional()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1501 1501
+JBidMouse.DoSearch()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 133 139
+JBidMenuBar.makeMenuItem(JMenu, String, String, char)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 65 74
+JBidMouse.DoHelp(Component)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1470 1479
+JBidMouse.DoLoad(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1336 1362
+AuctionEntry.pauseUpdate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1322 1328
+JBidMouse.DoCheckUpdates()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1508 1513
+AuctionActionImpl.getResult()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionActionImpl.java 48 48
+AuctionInfo.isOutbid()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 493 493
+AuctionEntry.getErrorPage()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1541 1543
+AuctionInfo.loadFile(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 380 401
+AuctionQObject.getCommand()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionQObject.java 30 30
+SearchFrame.buildSearchTable(JSearchContext)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchFrame.java 124 142
+JBidMouse.showComplexInformation(int[])  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 697 715
+SearchManager.findSearch(Searcher)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 52 52
+auctionTableModel.formatSnipe(AuctionEntry, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 246 265
+JBidWatch.getOrigin()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 692 694
+JBidProxy.addAuction(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 129 149
+JBidMouse.promptString(Component, String, String, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 495 497
+JSearchContext.DoExecute(Searcher)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 131 133
+JBidMenuBar.getInstance(ActionListener, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 235 257
+AuctionEntry.getItemLocation()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1533 1533
+AuctionBuy.getBidResult(Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionBuy.java 16 46
+AuctionEntry.getBid()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 429 439
+JBidMouse.cmdAddAuction(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 90 115
+AuctionServer.placeFinalBid(CookieJar, Form, AuctionEntry, Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 117 117
+AffiliateRetrieve.getAuctionViaAffiliate(CookieJar, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AffiliateRetrieve.java 29 47
+JBidWatch.loadConfig(InputStream)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 412 436
+AuctionEntry.setSnipeTime(long)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 598 608
+AuctionEntry.hasPaypal()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1532 1532
+AuctionEntry.prepareSnipe(Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1200 1219
+JBidProxy.syndicate(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 391 403
+SearchInfoDialog.getType()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 44 44
+AuctionEntry.getContent()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1528 1528
+AuctionEntry.getHighBidder()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1509 1509
+auctionTableModel.getValueAt(int, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 267 361
+AuctionServer.loadAuction(URL, String, AuctionEntry, boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 582 666
+JBidWatch.EstablishProxy(Properties)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 460 484
+AuctionInfo.getQuantity()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 474 474
+JBidMouse.DoCopyURL(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1450 1458
+JSearchContext.DoEdit(Searcher)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 143 145
+ServerMenu.addMenuItem(String, char)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ServerMenu.java 32 39
+SearchManager.getSearchById(long)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 54 61
+SearchManagerInterface.getSearchByIndex(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManagerInterface.java 4 4
+AuctionInfo.isDutch()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 485 485
+AuctionEntry.getFeedbackScore()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1535 1535
+AuctionInfo.getRealContent()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 427 435
+AuctionInfo.isFixed()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 489 489
+AuctionServer.checkIfSiteNameHandled(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 185 192
+AuctionInfo.setContent(StringBuffer, boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 437 439
+SearchManagerInterface.getSearchCount()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManagerInterface.java 9 9
+JBidProxy.setItems(Vector)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 405 407
+AuctionEntry.isInvalid()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 759 764
+AuctionEntry.setSticky(boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1304 1312
+EntryStatus.toBulkString()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\EventLogger.java 56 61
+AuctionEntry.setBidQuantity(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 454 454
+auctionTableModel.delete(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 18 20
+Searcher.setSearch(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\Searcher.java 44 44
+AuctionServerManager.setEntryManager(EntryManager)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServerManager.java 18 18
+AuctionEntry.setMultiSnipe(MultiSnipe)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 481 517
+auctionTableModel.getMaxOrSnipe(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 211 222
+AuctionInfo.getNumBidders()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 475 475
+JHTMLParser.addToken(String, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JHTMLParser.java 154 186
+JBidMenuBar.getFrameInstance(ActionListener, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 201 222
+ServerMenu.addMenuItem(String, String, char)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ServerMenu.java 41 49
+SearchManager.handleTag(int, XMLElement)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 159 186
+AuctionEntry.isEnded()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1404 1404
+AuctionEntry.getServer()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 313 318
+TableSorter.getColumnCount()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\TableSorter.java 110 110
+JBidMouse.DoUpdate(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1245 1265
+MultiSnipe.setWonAuction(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\MultiSnipe.java 87 103
+ebayServer.getBidForm(CookieJar, AuctionEntry, Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 959 1050
+AuctionEntry.forceUpdate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1273 1279
+JBidWatch.getLinkUp()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 80 86
+AuctionEntry.isShippingOverridden()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1563 1565
+JBidMouse.DoBid(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1072 1124
+JBidMouse.DoSum(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 431 446
+AuctionServer.setEntryManager(EntryManager)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 405 407
+JTabManager.selectBySearch(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JTabManager.java 104 111
+JBidMouse.JBidMouse()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 38 41
+JSearchContext.internalDoubleClick(MouseEvent)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 20 31
+AuctionInfo.setThumbnail(ByteBuffer)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 354 363
+AuctionEntry.getLastStatus()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 802 808
+AuctionEntry.snipeCancelled()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1095 1100
+JBidMouse.promptString(Component, String, String, String, String, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 499 501
+JSearchContext.DoNew()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 147 149
+AuctionServerManager.messageAction(Object)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServerManager.java 100 133
+AuctionEntry.checkConfigurationSnipeTime()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 545 551
+ServerMenu.addMenuItem(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ServerMenu.java 25 30
+myTableCellRenderer.snipeBidBackground(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\myTableCellRenderer.java 150 155
+SearchManager.deleteSearch(Searcher)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 190 192
+AuctionServer.getStats()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 332 367
+AuctionAction.getAmount()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionAction.java 13 13
+JBidProxy.cat(File, byte[][])  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 96 105
+AuctionEntry.isPrivate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1522 1522
+JBidMouse.dangerousSnipeWarning(Component)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 717 729
+JBidMouse.DoSendTo(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 448 476
+AuctionStats.getCount()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 315 317
+JBidMouse.DoHideShowToolbar()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 129 131
+SearchTableModel.SearchTableModel()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchTableModel.java 90 92
+SearchManager.loadSearches()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 114 141
+EntryStatus.toString()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\EventLogger.java 63 68
+SearchInfoDialog.doPeriodic()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 49 49
+JBidMouse.DoHelpColors()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1484 1496
+JBidProxy.checkError(StringBuffer)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 197 202
+JBidMouse.DoPasteFromClipboard()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 306 325
+SearchTableModel.getValueAt(int, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchTableModel.java 49 77
+JBidProxy.setupSnipePage(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 107 127
+JBidMenuBar.getInstance(ActionListener)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 224 233
+JSearchContext.handleSave(boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 69 78
+AuctionEntry.setCategory(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1288 1295
+JBidMouse.DoAction(Object, String, Object)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1660 1662
+JBidProxy.buildHeaders(String, byte[][])  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 50 83
+TableColumnController.getColumnName(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\TableColumnController.java 71 74
+JBidWatch.updateConfiguration()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 866 908
+JBidWatch.setLinkUp(boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 70 78
+JBidWatch.EstablishHTTPSProxy(Properties)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 485 497
+AuctionEntry.cancelSnipe(boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1118 1131
+AuctionInfo.save()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 331 344
+AuctionEntry.getShipping()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1496 1499
+AuctionEntry.AuctionEntry()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 285 292
+AuctionAction.isSuccessful()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionAction.java 25 25
+JBidMouse.checkIfDangerousMultiSnipe(Component, int[], MultiSnipe)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 734 758
+AuctionEntry.getSnipeDate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1517 1517
+AuctionInfo.getMinBid()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 467 467
+JHTMLListener.addToken(htmlToken, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JHTMLListener.java 11 11
+AuctionEntry.getTags()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 831 831
+AuctionServer.loadAuction(URL, String, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 578 580
+AuctionInfo.getTags()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 78 78
+AuctionEntry.checkSeller()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 679 686
+auctionTableModel.insert(Object)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 22 25
+SearchManager.getSearchByName(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 16 23
+AuctionAction.activate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionAction.java 11 11
+JBidWatch.setUI(String, JFrame, LookAndFeelInfo[])  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 520 554
+SearchManager.SearchManager()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 230 232
+AuctionServerManager.add_entry(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServerManager.java 179 184
+SearchTableModel.isCellEditable(int, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchTableModel.java 116 118
+TableSorter.getRowCount()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\TableSorter.java 109 109
+SearchManager.newSearch(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 194 210
+SearchInfoDialog.getName()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 45 45
+auctionTableModel.getColumnNumber(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 35 37
+JBidFrameMouse.JBidFrameMouse()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidFrameMouse.java 20 22
+AuctionAction.getQuantity()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionAction.java 14 14
+SearchInfoDialog.getSearch()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 46 46
+AuctionInfo.setRealContent(StringBuffer, boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 403 408
+AuctionInfo.hasPaypal()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 495 495
+AuctionEntry.getSnipeQuantity()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 465 471
+JBidProxy.JBidProxy(Socket)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 21 25
+AuctionEntry.getEndDate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1516 1516
+ebayServer.loadSearchString(Object, String, boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 541 602
+JBidMouse.genBidSnipeHTML(AuctionEntry, Currency)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 899 917
+SearchInfoDialog.prepare(Searcher)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 119 156
+SearchManager.getSearchCount()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManager.java 188 188
+ebayServer.bid(AuctionEntry, Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 1127 1167
+JBidMouse.buildInfoHTML(AuctionEntry, boolean, boolean)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 546 637
+JSearchContext.actionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 33 46
+JSearchContext.DoEnable(Searcher)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 135 137
+AuctionServer.updateHighBid(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 125 125
+SearchTableModel.getColumnName(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchTableModel.java 13 13
+auctionTableModel.formatSnipeAndBid(AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 224 238
+AuctionServer.getMinimumBidIncrement(Currency, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 123 123
+AuctionEntry.handleTag(int, XMLElement)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 833 903
+AuctionServer.loadAuction(URL, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 674 676
+ColumnStateList.add(ColumnState)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ColumnStateList.java 17 19
+JBidMenuBar.makeMenuItem(JMenu, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMenuBar.java 85 87
+AuctionServer.loadAuction(URL)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 669 671
+TableColumnController.getColumnNames()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\TableColumnController.java 89 91
+auctionTableModel.getDummyValueAtColumn(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 70 101
+AuctionEntry.getMinBid()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1494 1494
+Searcher.getSearch()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\Searcher.java 43 43
+AuctionEntry.getThumbnail()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1530 1530
+AuctionEntry.getDefaultSnipeTime()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 553 563
+JBidMouse.DoSetBackgroundColor(Component)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1515 1523
+JBidContext.internalDoubleClick(MouseEvent)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidContext.java 46 58
+JSearchContext.DoAction(String, Object)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 186 198
+JBidMouse.DoDelete(Component, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 161 265
+AuctionServer.safeGetAffiliate(CookieJar, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 114 114
+SearchInfoDialog.getTab()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchInfoDialog.java 48 48
+ebayAuction.getBidCount(JHTML, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 2390 2424
+AuctionEntry.isPaused()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1330 1333
+AbstractSortableTableModel.getSortByColumnClass(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AbstractSortableTableModel.java 19 19
+JBidWatch.getUserSetup()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidWatch.java 391 395
+AuctionEntry.checkDutchHighBidder()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 671 677
+SearchFrame.show()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchFrame.java 150 153
+AuctionTable.addMouseListener(MouseListener)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionsUIModel.java 651 661
+auctionTableModel.formatBid(AuctionEntry, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 240 244
+AuctionEntry.getUSCurBid()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1493 1493
+auctionTableModel.getColumnClass(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 40 40
+JBidMouse.getActionValue(int, AuctionEntry)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1378 1399
+AuctionInfo.isPrivate()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 487 487
+AuctionServer.getAuctionViaAffiliate(CookieJar, AuctionEntry, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 53 53
+AuctionInfo.getAlternateSiteThumbnail()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionInfo.java 502 502
+JBidMouse.DoRSS()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 1498 1506
+AuctionServerListEntry.getAuctionServer()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServerManager.java 29 31
+auctionTableModel.isCellEditable(int, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 389 391
+AuctionEntry.getSeller()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1508 1508
+JBidMouse.DoAdd(Component)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 478 489
+SearchTableModel.getSortByValueAt(int, int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchTableModel.java 32 47
+auctionTableModel.getColumnName(int)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 16 16
+JBidMouse.confirmDeletion(Component, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidMouse.java 117 127
+AuctionEntry.getHighBidderEmail()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1510 1510
+AuctionServerManager.addServer(AuctionServer)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServerManager.java 214 216
+JBidContext.actionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidContext.java 68 75
+AuctionServer.getName()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionServer.java 262 269
+auctionTableModel.compare(int, int, ColumnStateList)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 367 387
+SearchManagerInterface.getSearchById(long)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchManagerInterface.java 5 5
+JBidProxy.handleAuthorization(String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JBidProxy.java 42 48
+AuctionEntry.compareTo(Object)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\AuctionEntry.java 1409 1444
+auctionTableModel.auctionTableModel()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\auctionTableModel.java 363 365
+SearchFrame.savePosition()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\SearchFrame.java 39 44
+JSearchContext.JSearchContext()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\JSearchContext.java 200 202
+ebayAuction.loadSecondaryInformation(JHTML)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 2087 2108
+----------total 531 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 80 ----------
+----------expansion----------
+item : items row selected spinner checkbox radiobutton jlist2 listitem element list combobox selection menuitem listview dropdown jlist1 subitems view category item1 button submenu menu spinner1 salad cell item3 unselected itemcode popupmenu imageswitcher itens menulist treeitem item2 cupboard spinner2 expandable node menu2
+buy : sell buying buys purchasing purchased purchase selling bought sells discounted cheapest sold sellers rent inapp cocaine renting paid price pay seller buyers paying money purchases goods bids donate rented mints merchandise groceries shares restock buyer basket owe pays taxed shop
+----------search hits----------
+ebayServer.getSellingItems(String, String)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\ebayServer.java 1627 1656
+FilterManager.findSellerList()  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\FilterManager.java 216 222
+----------total 2 hits----------
+
+

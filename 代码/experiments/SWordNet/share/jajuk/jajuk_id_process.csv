@@ -1,0 +1,746 @@
+rebuild,contains, 0.5,1,rebuild property,contains property
+wizard,quality, 0.5,1,wizard action,quality action
+local,style, 0.5,1,register local,register style
+proportion,transition, 0.75,2,proportion digital dj,transition digital dj,digital djfactory proportion impl,digital djfactory transition impl
+ambience,playlist, 0.5,3,ambience manager,playlist manager,remove playlist,remove ambience,register playlist,register ambience
+search,jcheck, 0.5,1,search box,jcheck box
+press,listen, 0.5,1,key pressed,key listener
+file,property, 0.5,2,remove file,remove property,register file,register property
+logical,configuration, 0.5,1,logical perspective,configuration perspective
+image,playlist, 0.5,1,image filter,playlist filter
+action,playlist, 0.5,1,action manager,playlist manager
+stat,configuration, 0.5,1,stat perspective,configuration perspective
+timer,button, 0.5,1,jajuk timer,jajuk button
+menu,column, 0.666666666666667,1,menu selection changed,column selection changed
+press,enter, 0.5,1,mouse pressed,mouse entered
+change,insert, 0.666666666666667,1,tree nodes changed,tree nodes inserted
+move,show, 0.5,1,component moved,component shown
+remove,catalog, 0.5,1,remove view,catalog view
+file,style, 0.666666666666667,7,file node,style node,get file by path,get style by name,get next file,get next style,file manager,style manager,remove file,remove style,add file,add style,register file,register style
+track,configuration, 0.5,1,track manager,configuration manager
+nodes,structure, 0.666666666666667,1,tree nodes changed,tree structure changed
+files,style, 0.5,1,add files,add style
+status,volume, 0.666666666666667,1,get current status,get current volume
+view,node, 0.5,1,device view,device node
+djs,ambiences, 0.5,1,populate djs,populate ambiences
+djby,human, 0.666666666666667,1,get djby name,get human name
+track,playlist, 0.5,2,track manager,playlist manager,register track,register playlist
+util,manager, 0.5,1,action util,action manager
+type,local, 0.5,1,register type,register local
+boolean,formated, 0.666666666666667,1,get boolean value,get formated value
+cdscan,animation, 0.5,1,cdscan view,animation view
+total,preferred, 0.666666666666667,1,get total size,get preferred size
+date,default, 0.666666666666667,1,get date value,get default value
+total,current, 0.75,3,get total status,get current status,set total status message,set current status message,get total status message,get current status message
+status message,track position, 0.5,1,get current status message,get current track position
+tree,transferable, 0.5,1,create tree,create transferable
+tree,scroller, 0.5,1,create tree,create scroller
+device,playlist, 0.5,3,device manager,playlist manager,remove device,remove playlist,register device,register playlist
+file,previous, 0.5,1,add file,add previous
+style,action, 0.5,1,style manager,action manager
+node,comparator, 0.5,1,track node,track comparator
+push,synchronize, 0.5,1,push command,synchronize command
+file,playlist, 0.5,4,file manager,playlist manager,remove file,remove playlist,register file,register playlist,file filter,playlist filter
+replace,register, 0.5,1,replace file,register file
+jtext,jpassword, 0.5,1,jtext field,jpassword field
+file,image, 0.5,1,file filter,image filter
+name,year, 0.666666666666667,1,change track name,change track year
+map,remove, 0.666666666666667,1,map playlist file,remove playlist file
+button,listener, 0.5,1,jajuk button,jajuk listener
+tree,tabs, 0.5,1,create tree,create tabs
+type,directory, 0.5,2,type manager,directory manager,register type,register directory
+name,album, 0.666666666666667,1,change track name,change track album
+listener,container, 0.5,1,jajuk listener,jajuk container
+player,configuration, 0.5,1,player perspective,configuration perspective
+ui,table, 0.5,1,init ui,init table
+proportions,transitions, 0.666666666666667,1,get proportions panel,get transitions panel
+move,listen, 0.5,1,component moved,component listener
+view,human, 0.666666666666667,1,get view name,get human name
+device,remove, 0.5,1,device view,remove view
+jajuk,jradio, 0.5,1,jajuk button,jradio button
+stat,device, 0.5,1,stat view,device view
+model,playlists, 0.5,1,populate model,populate playlists
+popup,selected, 0.666666666666667,1,get popup size,get selected size
+map,expanded, 0.5,1,tree map,tree expanded
+track,property, 0.5,1,register track,register property
+file,configuration, 0.5,1,file manager,configuration manager
+add,move, 0.5,1,column added,column moved
+root,jajuk, 0.5,1,root window,jajuk window
+file,author, 0.5,3,file node,author node,file manager,author manager,register file,register author
+tabs,popup, 0.5,1,create tabs,create popup
+items,name, 0.5,1,get playlist file items,change playlist file name
+type,value, 0.666666666666667,1,get human type,get human value
+tree,popup, 0.5,1,create tree,create popup
+playlist,directory, 0.5,4,playlist manager,directory manager,remove playlist,remove directory,register playlist,register directory,playlist filter,directory filter
+replace,playlist, 0.5,1,replace file,playlist file
+djby,column, 0.666666666666667,1,get djby name,get column name
+cover,wikipedia, 0.5,1,cover view,wikipedia view
+column,component, 0.5,1,column moved,component moved
+track,style, 0.666666666666667,5,track node,style node,track manager,style manager,register style,register track,set style name,set track name,get track name,get style name
+directory,collection, 0.666666666666667,1,directory to xml,collection to xml
+ambience,transition, 0.75,2,ambience digital dj,transition digital dj,digital djfactory ambience impl,digital djfactory transition impl
+tabs,scroller, 0.5,1,create tabs,create scroller
+help,configuration, 0.5,1,help perspective,configuration perspective
+width,size, 0.6,1,get scrollable tracks viewport width,get preferred scrollable viewport size
+hash,sequential, 0.5,1,hash map,sequential map
+style,ambience, 0.75,4,get style by name,get ambience by name,style manager,ambience manager,remove style,remove ambience,register style,register ambience
+djs,playlists, 0.5,1,populate djs,populate playlists
+cover,shuffle, 0.666666666666667,1,get cover file,get shuffle file
+rate,comment, 0.666666666666667,1,change track rate,change track comment
+view,column, 0.666666666666667,1,get view name,get column name
+stat,remove, 0.5,1,stat view,remove view
+name,item, 0.5,1,change playlist file name,select playlist file item
+album,ambience, 0.5,2,album manager,ambience manager,register album,register ambience
+clone,populate, 0.5,1,clone properties,populate properties
+playlist,thumbnail, 0.5,1,refresh playlist,refresh thumbnail
+icon,checked, 0.666666666666667,1,get icon path,get checked path
+device,message, 0.666666666666667,1,get device type,get message type
+device,animation, 0.5,1,device view,animation view
+value,ambience, 0.666666666666667,1,get default value,get default ambience
+key,property, 0.5,1,contains key,contains property
+filter,manager, 0.5,3,playlist filter,playlist manager,file filter,file manager,directory filter,directory manager
+table,exception, 0.5,1,jajuk table,jajuk exception
+value,status, 0.666666666666667,1,get total value,get total status
+cover,playeable, 0.666666666666667,1,get cover file,get playeable file
+file,uiclass, 0.666666666666667,1,get file id,get uiclass id
+stop,previous, 0.666666666666667,1,stop track action,previous track action
+playlist,playeable, 0.666666666666667,1,get playlist file,get playeable file
+view,style, 0.666666666666667,3,view manager,style manager,remove view,remove style,get view name,get style name
+bestof,novelties, 0.75,1,get global bestof playlist,get global novelties playlist
+remove,cdscan, 0.5,1,remove view,cdscan view
+player,catalog, 0.5,1,player perspective,catalog perspective
+value,table, 0.5,1,value changed,table changed
+about,device, 0.5,1,about view,device view
+adapter,pressed, 0.5,2,key adapter,key pressed,mouse pressed,mouse adapter
+icon,jsplash, 0.5,1,icon label,jsplash label
+year,comment, 0.666666666666667,1,change track year,change track comment
+type,configuration, 0.5,1,type manager,configuration manager
+display,populate, 0.5,1,display properties,populate properties
+clean,refresh, 0.5,1,clean thumbs,refresh thumbs
+command,information, 0.5,1,command jpanel,information jpanel
+long,date, 0.666666666666667,1,get long value,get date value
+map,code, 0.5,1,hash map,hash code
+map,adapter, 0.5,1,view map,view adapter
+action,component, 0.5,1,action listener,component listener
+human,boolean, 0.666666666666667,1,get human value,get boolean value
+logical,catalog, 0.5,1,logical perspective,catalog perspective
+view,manager, 0.5,1,device view,device manager
+remove,playlist, 0.5,1,remove file,playlist file
+type,track, 0.5,2,type manager,track manager,register type,register track
+key,value, 0.5,1,contains key,contains value
+ambience,directory, 0.5,3,ambience manager,directory manager,remove ambience,remove directory,register ambience,register directory
+table,button, 0.5,1,jajuk table,jajuk button
+value,property, 0.666666666666667,2,contains value,contains property,get value at,get property at
+node,wizard, 0.5,1,device node,device wizard
+device,collection, 0.666666666666667,1,device to xml,collection to xml
+order,comment, 0.666666666666667,1,change track order,change track comment
+human,track, 0.666666666666667,1,get human name,get track name
+key,caret, 0.5,1,key listener,caret listener
+exit,novelties, 0.5,1,exit action,novelties action
+manager,adapter, 0.5,1,view manager,view adapter
+next,cover, 0.666666666666667,1,get next file,get cover file
+cover,playlist, 0.666666666666667,1,get cover file,get playlist file
+remove,replace, 0.5,1,remove file,replace file
+ambiences,properties, 0.5,1,populate ambiences,populate properties
+long,formated, 0.666666666666667,1,get long value,get formated value
+box,flow, 0.5,1,box layout,flow layout
+rate,name, 0.666666666666667,1,change track rate,change track name
+total,string, 0.666666666666667,1,get total value,get string value
+hidden,adapter, 0.5,1,component hidden,component adapter
+stat,wikipedia, 0.5,1,stat view,wikipedia view
+logical,abstract, 0.666666666666667,1,logical table view,abstract table view
+help,remove, 0.5,1,help view,remove view
+local,property, 0.5,1,register local,register property
+item,manager, 0.666666666666667,1,playlist file item,playlist file manager
+click,enter, 0.5,1,mouse clicked,mouse entered
+view,window, 0.5,1,view adapter,window adapter
+ambience,type, 0.5,3,get ambience by name,get type by extension,type manager,ambience manager,register type,register ambience
+base,listener, 0.5,1,action base,action listener
+next,playeable, 0.666666666666667,1,get next file,get playeable file
+window,listener, 0.5,1,jajuk window,jajuk listener
+action,directory, 0.5,1,action manager,directory manager
+style,transition, 0.5,1,add style,add transition
+view,item, 0.5,1,catalog view,catalog item
+stack,history, 0.5,1,stack item,history item
+model,selection, 0.666666666666667,1,tree model listener,tree selection listener
+caret,change, 0.5,1,caret listener,change listener
+timer,listener, 0.5,1,jajuk timer,jajuk listener
+style,device, 0.666666666666667,6,style node,device node,create style repartition,create device repartition,style to xml,device to xml,style manager,device manager,remove style,remove device,register style,register device
+djby,style, 0.666666666666667,1,get djby name,get style name
+table,model, 0.5,1,populate table,populate model
+model,ambiences, 0.5,1,populate model,populate ambiences
+show,jpopup, 0.5,1,show menu,jpopup menu
+post,column, 0.5,1,post change,column change
+device,properties, 0.5,1,device wizard,properties wizard
+ui,widgets, 0.5,1,update ui,update widgets
+date,human, 0.666666666666667,1,get date value,get human value
+caret,action, 0.5,1,caret listener,action listener
+thumbs,thumbnail, 0.5,1,refresh thumbs,refresh thumbnail
+help,cdscan, 0.5,1,help view,cdscan view
+window,component, 0.5,1,window adapter,component adapter
+directory,transition, 0.5,1,add directory,add transition
+file,type, 0.5,3,get file by path,get type by extension,file manager,type manager,register type,register file
+double,default, 0.666666666666667,1,get double value,get default value
+screen,devices, 0.5,1,refresh screen,refresh devices
+selection,expansion, 0.666666666666667,1,tree selection listener,tree expansion listener
+action,device, 0.5,1,action manager,device manager
+type,device, 0.5,2,type manager,device manager,register type,register device
+tree,thumbs, 0.5,1,clean tree,clean thumbs
+style,screen, 0.666666666666667,1,get next style,get next screen
+about,animation, 0.5,1,about view,animation view
+next,shuffle, 0.666666666666667,1,get next file,get shuffle file
+fire,others, 0.666666666666667,1,fire action performed,others action performed
+help,info, 0.5,1,help perspective,info perspective
+change,component, 0.5,1,change listener,component listener
+about,wikipedia, 0.5,1,about view,wikipedia view
+album,author, 0.8,10,album node,author node,populate tree by album,populate tree by author,change track album,change track author,change album name,change author name,logical album collection to xml,logical author collection to xml,album to xml,author to xml,album manager,author manager,register album,register author,set album name,set author name,get album name,get author name
+value,state, 0.5,1,value changed,state changed
+wrapper,performed, 0.5,1,action wrapper,action performed
+adapter,released, 0.5,2,key adapter,key released,mouse adapter,mouse released
+type,property, 0.5,1,register type,register property
+thread,manager, 0.5,1,action thread,action manager
+quality,novelties, 0.5,1,quality action,novelties action
+rewind,previous, 0.666666666666667,1,rewind track action,previous track action
+close,activate, 0.5,1,window closing,window activated
+clean,create, 0.5,1,clean tree,create tree
+previous,transition, 0.5,1,add previous,add transition
+djwizard,djmanager, 0.5,1,digital djwizard,digital djmanager
+remove,rebuild, 0.5,1,remove property,rebuild property
+screen,thumbs, 0.5,1,refresh screen,refresh thumbs
+init,populate, 0.5,1,init table,populate table
+thread,listener, 0.5,1,action thread,action listener
+util,listener, 0.5,1,action util,action listener
+view,ambience, 0.5,2,view manager,ambience manager,remove view,remove ambience
+cover,parameter, 0.5,1,cover view,parameter view
+file,view, 0.5,2,file manager,view manager,remove file,remove view
+navigation,contributors, 0.5,1,navigation panel,contributors panel
+empty,titled, 0.5,1,empty border,titled border
+button,exception, 0.5,1,jajuk button,jajuk exception
+xml,xmlhelper, 0.666666666666667,3,collection to xml,collection to xmlhelper,to xml,to xmlhelper,to xml,to xmlhelper
+stat,cdscan, 0.5,1,stat view,cdscan view
+view,track, 0.666666666666667,2,view manager,track manager,get view name,get track name
+node,filter, 0.5,2,file node,file filter,directory node,directory filter
+string,default, 0.666666666666667,1,get string value,get default value
+track,action, 0.5,1,track manager,action manager
+table,listener, 0.5,1,jajuk table,jajuk listener
+scroller,transferable, 0.5,1,create scroller,create transferable
+help,wikipedia, 0.5,1,help view,wikipedia view
+button,container, 0.5,1,jajuk button,jajuk container
+value,formatter, 0.666666666666667,1,get date value,get date formatter
+table,ambiences, 0.5,1,populate table,populate ambiences
+enter,release, 0.5,1,mouse entered,mouse released
+ambience,proportion, 0.75,2,ambience digital dj,proportion digital dj,digital djfactory ambience impl,digital djfactory proportion impl
+playlists,properties, 0.5,1,populate playlists,populate properties
+file,filter, 0.5,1,playlist file,playlist filter
+device,parameter, 0.5,1,device view,parameter view
+tag,player, 0.666666666666667,1,get tag impl,get player impl
+files,jajuk, 0.666666666666667,1,files table model,jajuk table model
+key,component, 0.5,2,key listener,component listener,key adapter,component adapter
+human,author, 0.666666666666667,1,get human name,get author name
+screen,thumbnail, 0.5,1,refresh screen,refresh thumbnail
+cover,catalog, 0.5,1,cover view,catalog view
+cover,previous, 0.666666666666667,1,get cover file,get previous file
+animation,parameter, 0.5,1,animation view,parameter view
+table,container, 0.5,1,jajuk table,jajuk container
+hash,view, 0.5,1,hash map,view map
+stack,catalog, 0.5,1,stack item,catalog item
+tree,ambiences, 0.5,1,populate tree,populate ambiences
+box,border, 0.5,1,box layout,border layout
+mouse,component, 0.5,1,mouse adapter,component adapter
+stat,info, 0.5,1,stat perspective,info perspective
+window,exception, 0.5,1,jajuk window,jajuk exception
+dj,property, 0.5,1,populate djs,populate properties
+intro,continue, 0.666666666666667,1,intro mode action,continue mode action
+total,boolean, 0.666666666666667,1,get total value,get boolean value
+human,message, 0.666666666666667,1,get human type,get message type
+view,perspective, 0.5,4,stat view,stat perspective,catalog view,catalog perspective,view adapter,perspective adapter,help view,help perspective
+about,parameter, 0.5,1,about view,parameter view
+device,author, 0.666666666666667,4,device node,author node,author to xml,device to xml,device manager,author manager,register device,register author
+change,remove, 0.666666666666667,2,tree nodes changed,tree nodes removed,remove playlist file,change playlist file
+size,found, 0.666666666666667,1,set size text,set found text
+catalog,wikipedia, 0.5,1,catalog view,wikipedia view
+info,logical, 0.5,1,info perspective,logical perspective
+date,double, 0.666666666666667,1,get date value,get double value
+minimum,preferred, 0.666666666666667,1,get minimum size,get preferred size
+listen,perform, 0.5,1,action listener,action performed
+shown,hidden, 0.5,1,component shown,component hidden
+jajuk,component, 0.5,1,jajuk listener,component listener
+help,catalog, 0.5,2,help view,catalog view,help perspective,catalog perspective
+hidden,resized, 0.5,1,component hidden,component resized
+type,release, 0.5,1,key typed,key released
+timer,container, 0.5,1,jajuk timer,jajuk container
+change,select, 0.5,1,change playlist file name,select playlist file item
+model,expansion, 0.666666666666667,1,tree model listener,tree expansion listener
+total,double, 0.666666666666667,1,get total value,get double value
+style,property, 0.5,2,remove style,remove property,register style,register property
+jajuk,caret, 0.5,1,jajuk listener,caret listener
+track,column, 0.666666666666667,1,get track name,get column name
+layout,changed, 0.5,1,table layout,table changed
+year,author, 0.666666666666667,1,change track year,change track author
+key,view, 0.5,1,key adapter,view adapter
+view,sequential, 0.5,1,view map,sequential map
+remove,parameter, 0.5,1,remove view,parameter view
+type,action, 0.5,1,type manager,action manager
+mute,wizard, 0.5,1,mute action,wizard action
+map,manager, 0.5,1,view map,view manager
+year,style, 0.666666666666667,1,change track year,change track style
+item,perspective, 0.5,1,catalog item,catalog perspective
+base,thread, 0.5,1,action base,action thread
+next,stop, 0.666666666666667,1,next track action,stop track action
+djs,table, 0.5,1,populate djs,populate table
+local,directory, 0.5,1,register local,register directory
+cover,cdscan, 0.5,1,cover view,cdscan view
+long,short, 0.666666666666667,1,set long description,set short description
+exit,mute, 0.5,1,exit action,mute action
+key,action, 0.5,1,key listener,action listener
+property,playlist, 0.5,2,remove property,remove playlist,register playlist,register property
+exited,adapter, 0.5,1,mouse exited,mouse adapter
+device,cdscan, 0.5,1,device view,cdscan view
+new,remove, 0.666666666666667,2,new property wizard,remove property wizard,apply new property,apply remove property
+year,album, 0.666666666666667,1,change track year,change track album
+date,boolean, 0.666666666666667,1,get date value,get boolean value
+total,default, 0.666666666666667,1,get total value,get default value
+reader,writer, 0.5,1,file reader,file writer
+checked,relative, 0.666666666666667,1,get checked path,get relative path
+author,configuration, 0.5,1,author manager,configuration manager
+device,wikipedia, 0.5,1,device view,wikipedia view
+table,systray, 0.5,1,jajuk table,jajuk systray
+track,directory, 0.5,3,track node,directory node,track manager,directory manager,register track,register directory
+exception,container, 0.5,1,jajuk exception,jajuk container
+local,device, 0.5,1,register local,register device
+local,album, 0.5,1,register local,register album
+stat,parameter, 0.5,1,stat view,parameter view
+author,directory, 0.666666666666667,4,author node,directory node,author to xml,directory to xml,author manager,directory manager,register author,register directory
+column,property, 0.5,1,column change,property change
+chart,navigation, 0.5,1,chart panel,navigation panel
+info,configuration, 0.5,1,info perspective,configuration perspective
+previous,playlist, 0.666666666666667,1,get previous file,get playlist file
+key,mouse, 0.5,3,key pressed,mouse pressed,key released,mouse released,key adapter,mouse adapter
+rebuild,register, 0.5,1,rebuild property,register property
+hash,tree, 0.5,1,hash map,tree map
+long,human, 0.666666666666667,1,get long value,get human value
+shuffle,playeable, 0.666666666666667,1,get shuffle file,get playeable file
+jtabbed,jscroll, 0.5,1,jtabbed pane,jscroll pane
+animation,wikipedia, 0.5,1,animation view,wikipedia view
+name,selection, 0.666666666666667,1,get track name,get track selection
+popup,transferable, 0.5,1,create popup,create transferable
+local,ambience, 0.5,1,register local,register ambience
+type,press, 0.5,1,key typed,key pressed
+menu,size, 0.666666666666667,1,get popup menu,get popup size
+long,string, 0.666666666666667,1,get long value,get string value
+device,ambience, 0.5,4,device manager,ambience manager,remove device,remove ambience,register device,register ambience,device wizard,ambience wizard
+shown,resized, 0.5,1,component shown,component resized
+human,column, 0.666666666666667,1,get human name,get column name
+table,border, 0.5,1,table layout,border layout
+exit,release, 0.5,1,mouse exited,mouse released
+total,selected, 0.666666666666667,1,get total size,get selected size
+box,table, 0.5,1,box layout,table layout
+long,default, 0.666666666666667,1,get long value,get default value
+filter,parameters, 0.5,1,apply filter,apply parameters
+author,column, 0.666666666666667,1,get author name,get column name
+util,thread, 0.5,1,action util,action thread
+djby,uiclass, 0.666666666666667,1,get djby id,get uiclass id
+track,ambience, 0.5,2,track manager,ambience manager,register track,register ambience
+string,formated, 0.666666666666667,1,get string value,get formated value
+tree,playlists, 0.5,1,populate tree,populate playlists
+date,formated, 0.666666666666667,1,get date value,get formated value
+long,double, 0.666666666666667,1,get long value,get double value
+author,ambience, 0.5,2,author manager,ambience manager,register author,register ambience
+physical,abstract, 0.666666666666667,1,physical table view,abstract table view
+album,collection, 0.666666666666667,1,album to xml,collection to xml
+icon,relative, 0.666666666666667,1,get icon path,get relative path
+add,retag, 0.5,1,add files,retag files
+style,previous, 0.5,1,add style,add previous
+remove,contains, 0.5,1,remove property,contains property
+window,systray, 0.5,1,jajuk window,jajuk systray
+style,type, 0.5,3,get style by name,get type by extension,type manager,style manager,register type,register style
+intro,shuffle, 0.666666666666667,1,intro mode action,shuffle mode action
+about,cdscan, 0.5,1,about view,cdscan view
+buffer,builder, 0.5,1,string buffer,string builder
+mouse,perspective, 0.5,1,mouse adapter,perspective adapter
+node,writer, 0.5,1,file node,file writer
+jajuk,populate, 0.5,1,jajuk table,populate table
+add,register, 0.5,3,add file,register file,add style,register style,add directory,register directory
+flow,table, 0.5,1,flow layout,table layout
+file,transition, 0.5,1,add file,add transition
+base,wrapper, 0.5,1,action base,action wrapper
+systray,listener, 0.5,1,jajuk systray,jajuk listener
+tree,sequential, 0.5,1,tree map,sequential map
+click,release, 0.5,1,mouse clicked,mouse released
+album,comment, 0.666666666666667,1,change track album,change track comment
+util,performed, 0.5,1,action util,action performed
+click,press, 0.5,1,mouse clicked,mouse pressed
+jajuk,tracks, 0.666666666666667,1,jajuk table model,tracks table model
+type,name, 0.666666666666667,1,get human type,get human name
+popup,minimum, 0.666666666666667,1,get popup size,get minimum size
+exit,enter, 0.5,1,mouse exited,mouse entered
+rate,style, 0.666666666666667,1,change track rate,change track style
+view,directory, 0.5,2,view manager,directory manager,remove view,remove directory
+files,directory, 0.5,1,add files,add directory
+ambience,configuration, 0.5,1,ambience manager,configuration manager
+human,string, 0.666666666666667,1,get human value,get string value
+add,playlist, 0.5,1,add file,playlist file
+remove,animation, 0.5,1,remove view,animation view
+thread,wrapper, 0.5,1,action thread,action wrapper
+playlists,ambiences, 0.5,1,populate playlists,populate ambiences
+cover,properties, 0.5,1,display cover,display properties
+node,manager, 0.666666666666667,8,author node,author manager,playlist file node,playlist file manager,file node,file manager,album node,album manager,device node,device manager,style node,style manager,track node,track manager,directory node,directory manager
+stat,animation, 0.5,1,stat view,animation view
+next,finish, 0.666666666666667,1,next album action,finish album action
+order,style, 0.666666666666667,1,change track order,change track style
+jcombo,search, 0.5,1,jcombo box,search box
+view,mouse, 0.5,1,view adapter,mouse adapter
+long,total, 0.666666666666667,1,get long value,get total value
+repeat,continue, 0.666666666666667,1,repeat mode action,continue mode action
+jajuk,change, 0.5,1,jajuk listener,change listener
+size,value, 0.666666666666667,1,get total size,get total value
+help,physical, 0.5,1,help perspective,physical perspective
+next,playlist, 0.666666666666667,1,get next file,get playlist file
+name,unicity, 0.666666666666667,1,set track name,set track unicity
+catalog,animation, 0.5,1,catalog view,animation view
+file,manager, 0.5,1,playlist file,playlist manager
+writer,manager, 0.5,1,file writer,file manager
+minimum,selected, 0.666666666666667,1,get minimum size,get selected size
+area,field, 0.5,1,jtext area,jtext field
+item,property, 0.666666666666667,1,get item at,get property at
+tabs,transferable, 0.5,1,create tabs,create transferable
+mute,quality, 0.5,1,mute action,quality action
+stat,catalog, 0.5,2,stat view,catalog view,stat perspective,catalog perspective
+rate,album, 0.666666666666667,1,change track rate,change track album
+exit,quality, 0.5,1,exit action,quality action
+row,element, 0.666666666666667,1,get row count,get element count
+release,listen, 0.5,1,key released,key listener
+tree,properties, 0.5,1,populate tree,populate properties
+button,window, 0.5,1,jajuk button,jajuk window
+help,player, 0.5,1,help perspective,player perspective
+list string,by extension, 0.5,1,get type list string,get type by extension
+icon,absolute, 0.666666666666667,1,get icon path,get absolute path
+next,startup, 0.666666666666667,1,get next style,get startup style
+catalog,physical, 0.5,1,catalog perspective,physical perspective
+absolute,relative, 0.666666666666667,1,get absolute path,get relative path
+model,properties, 0.5,1,populate model,populate properties
+track,device, 0.5,3,track node,device node,track manager,device manager,register track,register device
+iconified,deiconified, 0.5,1,window iconified,window deiconified
+file,screen, 0.666666666666667,2,get previous file,get previous screen,get next file,get next screen
+finish,previous, 0.666666666666667,1,finish album action,previous album action
+type,author, 0.5,2,type manager,author manager,register type,register author
+file,ambience, 0.5,4,get file by path,get ambience by name,file manager,ambience manager,remove file,remove ambience,register file,register ambience
+album,device, 0.666666666666667,4,album node,device node,album to xml,device to xml,album manager,device manager,register album,register device
+moved,hidden, 0.5,1,component moved,component hidden
+status,position, 0.666666666666667,1,get current status,get current position
+input,output, 0.666666666666667,1,file input stream,file output stream
+hidden,listener, 0.5,1,component hidden,component listener
+change,action, 0.5,1,change listener,action listener
+album,column, 0.666666666666667,1,get album name,get column name
+parameter,wikipedia, 0.5,1,parameter view,wikipedia view
+human,formated, 0.666666666666667,1,get human value,get formated value
+exit,press, 0.5,1,mouse exited,mouse pressed
+xml,string, 0.5,4,to xml,to string,to xml,to string,to xml,to string,to xml,to string
+previous,directory, 0.5,1,add previous,add directory
+caret,component, 0.5,1,caret listener,component listener
+view,author, 0.666666666666667,2,view manager,author manager,get view name,get author name
+base,performed, 0.5,1,action base,action performed
+total,ellapsed, 0.8,1,get current track total time,get current track ellapsed time
+shuffle,playlist, 0.666666666666667,1,get shuffle file,get playlist file
+screen,playlist, 0.5,1,refresh screen,refresh playlist
+window,perspective, 0.5,1,window adapter,perspective adapter
+add,remove, 0.666666666666667,9,add column into conf,remove column from conf,column added,column removed,add playlist file,remove playlist file,add file,remove file,add to style,remove to style,add track time,remove track time,add style,remove style,add from style,remove from style,add directory,remove directory
+file,album, 0.5,3,file node,album node,file manager,album manager,register file,register album
+path,name, 0.5,2,get file by path,get style by name,get file by path,get ambience by name
+change,update, 0.5,1,state changed,state updated
+clicked,adapter, 0.5,1,mouse clicked,mouse adapter
+device,directory, 0.666666666666667,5,device node,directory node,device to xml,directory to xml,device manager,directory manager,remove device,remove directory,register device,register directory
+rate,year, 0.666666666666667,1,change track rate,change track year
+height,size, 0.6,1,get scrollable tracks viewport height,get preferred scrollable viewport size
+element,document, 0.5,2,end element,end document,start element,start document
+icon,filter, 0.5,1,image icon,image filter
+ambience,properties, 0.5,1,ambience wizard,properties wizard
+style,author, 0.8,9,style node,author node,populate tree by style,populate tree by author,change track style,change track author,logical style collection to xml,logical author collection to xml,style to xml,author to xml,style manager,author manager,register style,register author,set style name,set author name,get style name,get author name
+item,value, 0.666666666666667,2,get item at,get value at,set item at,set value at
+adapter,iconified, 0.5,1,window adapter,window iconified
+option,content, 0.666666666666667,1,get option pane,get content pane
+order,author, 0.666666666666667,1,change track order,change track author
+filter,chooser, 0.666666666666667,1,jajuk file filter,jajuk file chooser
+next,previous, 0.666666666666667,4,get next screen,get previous screen,get next file,get previous file,next album action,previous album action,next track action,previous track action
+name,class, 0.666666666666667,1,get column name,get column class
+tree,list, 0.666666666666667,1,default tree model,default list model
+impl,item, 0.666666666666667,1,get tag impl,get tag item
+files,transition, 0.5,1,add files,add transition
+about,remove, 0.5,1,about view,remove view
+mute,novelties, 0.5,1,mute action,novelties action
+cover,device, 0.5,1,cover view,device view
+file,audio, 0.5,1,file filter,audio filter
+stop,rewind, 0.666666666666667,1,stop track action,rewind track action
+human,double, 0.666666666666667,1,get human value,get double value
+item,node, 0.666666666666667,1,playlist file item,playlist file node
+file,local, 0.5,1,register file,register local
+stat,physical, 0.5,1,stat perspective,physical perspective
+mouse,window, 0.5,1,mouse adapter,window adapter
+reader,manager, 0.5,1,file reader,file manager
+date,string, 0.666666666666667,1,get date value,get string value
+stat,about, 0.5,1,stat view,about view
+repeat,shuffle, 0.666666666666667,1,repeat mode action,shuffle mode action
+action,author, 0.5,1,action manager,author manager
+style,configuration, 0.5,1,style manager,configuration manager
+file,action, 0.5,1,file manager,action manager
+view,action, 0.5,1,view manager,action manager
+size,status, 0.666666666666667,1,get total size,get total status
+flow,border, 0.5,1,flow layout,border layout
+key,jajuk, 0.5,1,key listener,jajuk listener
+add,replace, 0.5,1,add file,replace file
+shuffle,previous, 0.666666666666667,1,get shuffle file,get previous file
+string,xmlhelper, 0.5,2,to string,to xmlhelper,to string,to xmlhelper
+path,extension, 0.5,1,get file by path,get type by extension
+count,class, 0.666666666666667,1,get column count,get column class
+rate,order, 0.666666666666667,1,change track rate,change track order
+add,delete, 0.5,1,add transition,delete transition
+timer,exception, 0.5,1,jajuk timer,jajuk exception
+file,device, 0.5,4,file node,device node,file manager,device manager,remove file,remove device,register file,register device
+catalog,history, 0.5,1,catalog item,history item
+base,manager, 0.5,1,action base,action manager
+key,change, 0.5,1,key listener,change listener
+album,style, 0.8,9,album node,style node,populate tree by album,populate tree by style,change track album,change track style,logical album collection to xml,logical style collection to xml,album to xml,style to xml,album manager,style manager,register style,register album,set album name,set style name,get style name,get album name
+tree,device, 0.5,1,clean tree,clean device
+cdscan,wikipedia, 0.5,1,cdscan view,wikipedia view
+year,order, 0.666666666666667,1,change track year,change track order
+moved,adapter, 0.5,1,component moved,component adapter
+iconified,activated, 0.5,1,window iconified,window activated
+djs,tree, 0.5,1,populate djs,populate tree
+clone,display, 0.5,1,clone properties,display properties
+local,track, 0.5,1,register local,register track
+name,comment, 0.666666666666667,1,change track name,change track comment
+style,comment, 0.666666666666667,1,change track style,change track comment
+djby,author, 0.666666666666667,1,get djby name,get author name
+playlist,configuration, 0.5,1,playlist manager,configuration manager
+djby,file, 0.666666666666667,1,get djby id,get file id
+thumb,device, 0.5,1,refresh thumbs,refresh devices
+djs,model, 0.5,1,populate djs,populate model
+type,playlist, 0.5,2,type manager,playlist manager,register type,register playlist
+total,human, 0.666666666666667,1,get total value,get human value
+wrapper,listener, 0.5,1,action wrapper,action listener
+from,compare, 0.666666666666667,1,get from string,get compare string
+column,element, 0.666666666666667,1,get column count,get element count
+jcombo,jcheck, 0.5,1,jcombo box,jcheck box
+en,xml, 0.666666666666667,1,get properties en,get properties xml
+adapter,deiconified, 0.5,1,window adapter,window deiconified
+view,configuration, 0.5,1,view manager,configuration manager
+view,device, 0.5,2,view manager,device manager,remove view,remove device
+at,manager, 0.666666666666667,1,get item at,get item manager
+file,buffered, 0.5,1,file reader,buffered reader
+local,playlist, 0.5,1,register local,register playlist
+file,apply, 0.5,1,file filter,apply filter
+util,base, 0.5,1,action util,action base
+table,playlist, 0.666666666666667,1,table transfer handler,playlist transfer handler
+total,minimum, 0.666666666666667,1,get total size,get minimum size
+timer,window, 0.5,1,jajuk timer,jajuk window
+stat,player, 0.5,1,stat perspective,player perspective
+album,directory, 0.666666666666667,4,album node,directory node,album to xml,directory to xml,album manager,directory manager,register album,register directory
+album,order, 0.666666666666667,1,change track album,change track order
+help,about, 0.5,1,help view,about view
+remove,wikipedia, 0.5,1,remove view,wikipedia view
+info,physical, 0.5,1,info perspective,physical perspective
+album,property, 0.5,1,register album,register property
+popup,preferred, 0.666666666666667,1,get popup size,get preferred size
+devices,thumbnail, 0.5,1,refresh devices,refresh thumbnail
+file,number, 0.666666666666667,1,get cover file,get cover number
+popup,total, 0.666666666666667,1,get popup size,get total size
+decrease,increase, 0.666666666666667,1,decrease volume action,increase volume action
+physical,configuration, 0.5,1,physical perspective,configuration perspective
+cover,about, 0.5,1,cover view,about view
+timer,systray, 0.5,1,jajuk timer,jajuk systray
+systray,exception, 0.5,1,jajuk systray,jajuk exception
+moved,resized, 0.5,1,component moved,component resized
+audio,playlist, 0.5,1,audio filter,playlist filter
+map,change, 0.666666666666667,1,map playlist file,change playlist file
+thread,performed, 0.5,1,action thread,action performed
+clean,register, 0.5,1,clean device,register device
+remove,register, 0.5,7,remove playlist,register playlist,remove file,register file,remove property,register property,remove device,register device,remove style,register style,remove directory,register directory,remove ambience,register ambience
+tree,model, 0.5,1,populate tree,populate model
+cdscan,parameter, 0.5,1,cdscan view,parameter view
+djby,album, 0.666666666666667,1,get djby name,get album name
+name,count, 0.666666666666667,1,get column name,get column count
+default,formated, 0.666666666666667,1,get default value,get formated value
+view,property, 0.5,1,remove view,remove property
+press,release, 0.5,2,key pressed,key released,mouse pressed,mouse released
+freedb,register, 0.5,1,freedb album,register album
+contains,register, 0.5,1,contains property,register property
+device,property, 0.5,2,remove device,remove property,register device,register property
+help,logical, 0.5,1,help perspective,logical perspective
+table,playlists, 0.5,1,populate table,populate playlists
+table,properties, 0.5,1,populate table,populate properties
+directory,configuration, 0.5,1,directory manager,configuration manager
+id,name, 0.666666666666667,1,get djby id,get djby name
+djby,view, 0.666666666666667,1,get djby name,get view name
+listener,exception, 0.5,1,jajuk listener,jajuk exception
+author,collection, 0.666666666666667,1,author to xml,collection to xml
+to,from, 0.666666666666667,3,remove to style,remove from style,add to style,add from style,get to string,get from string
+cover,stars, 0.666666666666667,1,get cover number,get stars number
+date,total, 0.666666666666667,1,get date value,get total value
+stat,logical, 0.5,1,stat perspective,logical perspective
+table,timer, 0.5,1,jajuk table,jajuk timer
+name,style, 0.666666666666667,1,change track name,change track style
+init,update, 0.5,1,init ui,update ui
+style,collection, 0.666666666666667,1,style to xml,collection to xml
+local,author, 0.5,1,register local,register author
+key,window, 0.5,1,key adapter,window adapter
+adapter,entered, 0.5,1,mouse adapter,mouse entered
+added,change, 0.5,1,column added,column change
+image,apply, 0.5,1,image filter,apply filter
+type,listen, 0.5,1,key typed,key listener
+stat,help, 0.5,2,stat view,help view,help perspective,stat perspective
+post,property, 0.5,1,post change,property change
+property,directory, 0.5,2,remove property,remove directory,register property,register directory
+audio,image, 0.5,1,audio filter,image filter
+style,playlist, 0.5,3,style manager,playlist manager,remove style,remove playlist,register style,register playlist
+map,collapsed, 0.5,1,tree map,tree collapsed
+cdscan,catalog, 0.5,1,cdscan view,catalog view
+name,order, 0.666666666666667,1,change track name,change track order
+ui,selection, 0.5,1,update ui,update selection
+adapter,listener, 0.5,2,component adapter,component listener,key adapter,key listener
+audio,apply, 0.5,1,audio filter,apply filter
+checked,absolute, 0.666666666666667,1,get checked path,get absolute path
+type,album, 0.5,2,type manager,album manager,register type,register album
+wizard,novelties, 0.5,1,wizard action,novelties action
+tree,table, 0.8,5,get tree cell renderer component,get table cell renderer component,tree transfer handler,table transfer handler,logical tree view,logical table view,physical tree view,physical table view,populate tree,populate table
+manager,perspective, 0.5,1,configuration manager,configuration perspective
+end,start, 0.5,2,end element,start element,end document,start document
+width,height, 0.8,1,get scrollable tracks viewport width,get scrollable tracks viewport height
+populate,cddbtable, 0.5,1,populate model,cddbtable model
+closing,deiconified, 0.5,1,window closing,window deiconified
+catalog,parameter, 0.5,1,catalog view,parameter view
+okcancel,navigation, 0.5,1,okcancel panel,navigation panel
+into,from, 0.5,1,add column into conf,remove column from conf
+file,directory, 0.5,6,file node,directory node,file manager,directory manager,remove file,remove directory,add file,add directory,register file,register directory,file filter,directory filter
+album,configuration, 0.5,1,album manager,configuration manager
+update,listener, 0.5,1,caret update,caret listener
+apply,directory, 0.5,1,apply filter,directory filter
+manager,listener, 0.5,1,action manager,action listener
+remove,refresh, 0.5,1,remove playlist,refresh playlist
+exit,click, 0.5,1,mouse exited,mouse clicked
+manager,wrapper, 0.5,1,action manager,action wrapper
+select,prefer, 0.666666666666667,1,get selected size,get preferred size
+help,device, 0.5,1,help view,device view
+double,string, 0.666666666666667,1,get double value,get string value
+name,extension, 0.5,2,get style by name,get type by extension,get ambience by name,get type by extension
+margin,selection, 0.666666666666667,1,column margin changed,column selection changed
+device,configuration, 0.5,1,device manager,configuration manager
+box,result, 0.5,1,search box,search result
+playlist,register, 0.5,1,playlist file,register file
+shuffle,continue, 0.666666666666667,1,shuffle mode action,continue mode action
+catalog,configuration, 0.5,1,catalog perspective,configuration perspective
+string,boolean, 0.666666666666667,1,get string value,get boolean value
+previous,playeable, 0.666666666666667,1,get previous file,get playeable file
+refresh,register, 0.5,1,refresh playlist,register playlist
+album,track, 0.666666666666667,8,album node,track node,previous track action,previous album action,change album name,change track name,next album action,next track action,album manager,track manager,register track,register album,set album name,set track name,get track name,get album name
+systray,container, 0.5,1,jajuk systray,jajuk container
+command,unidirectonal, 0.5,1,synchronize command,synchronize unidirectonal
+window,container, 0.5,1,jajuk window,jajuk container
+expand,collapse, 0.666666666666667,2,tree will expand,tree will collapse,tree expanded,tree collapsed
+author,property, 0.5,1,register author,register property
+djby,track, 0.666666666666667,1,get djby name,get track name
+style,directory, 0.666666666666667,6,style node,directory node,style to xml,directory to xml,style manager,directory manager,remove style,remove directory,add style,add directory,register style,register directory
+shown,adapter, 0.5,1,component shown,component adapter
+init,jajuk, 0.5,1,init table,jajuk table
+style,column, 0.666666666666667,1,get style name,get column name
+player,logical, 0.5,1,player perspective,logical perspective
+filter,writer, 0.5,1,file filter,file writer
+logical,physical, 0.75,7,logical playlist repository view,physical playlist repository view,logical playlist editor view,physical playlist repository view,physical playlist editor view,logical playlist repository view,logical playlist editor view,physical playlist editor view,logical table view,physical table view,logical tree view,physical tree view,logical perspective,physical perspective
+table,window, 0.5,1,jajuk table,jajuk window
+jajuk,jpress, 0.5,1,jajuk button,jpress button
+intro,repeat, 0.666666666666667,1,intro mode action,repeat mode action
+node,reader, 0.5,1,file node,file reader
+to,compare, 0.666666666666667,1,get to string,get compare string
+component,perspective, 0.5,1,component adapter,perspective adapter
+jajuk,export, 0.666666666666667,1,jajuk file filter,export file filter
+action,configuration, 0.5,1,action manager,configuration manager
+devices,playlist, 0.5,1,refresh devices,refresh playlist
+view,album, 0.666666666666667,2,view manager,album manager,get view name,get album name
+moved,change, 0.5,1,column moved,column change
+jradio,jpress, 0.5,1,jradio button,jpress button
+clean,remove, 0.5,1,clean device,remove device
+help,cover, 0.5,1,help view,cover view
+reader,filter, 0.5,1,file reader,file filter
+author,comment, 0.666666666666667,1,change track author,change track comment
+name,author, 0.666666666666667,1,change track name,change track author
+human,default, 0.666666666666667,1,get human value,get default value
+view,component, 0.5,1,view adapter,component adapter
+human,style, 0.666666666666667,1,get human name,get style name
+info,catalog, 0.5,1,info perspective,catalog perspective
+close,jajuk, 0.5,1,close systray,jajuk systray
+help,animation, 0.5,1,help view,animation view
+change,removed, 0.5,1,column change,column removed
+track,author, 0.666666666666667,6,track node,author node,change track name,change author name,track manager,author manager,register track,register author,set track name,set author name,get track name,get author name
+action,ambience, 0.5,1,action manager,ambience manager
+player,physical, 0.5,1,player perspective,physical perspective
+next,register, 0.5,1,next track,register track
+default,spinner, 0.666666666666667,1,default list model,spinner list model
+add,change, 0.666666666666667,1,add playlist file,change playlist file
+typed,adapter, 0.5,1,key typed,key adapter
+show,listen, 0.5,1,component shown,component listener
+device,catalog, 0.5,1,device view,catalog view
+popup,scroller, 0.5,1,create popup,create scroller
+info,player, 0.5,1,info perspective,player perspective
+apply,playlist, 0.5,1,apply filter,playlist filter
+on,off, 0.5,1,splash on,splash off
+jtool,jprogress, 0.5,1,jtool bar,jprogress bar
+widgets,selection, 0.5,1,update widgets,update selection
+state,table, 0.5,1,state changed,table changed
+adapter,activated, 0.5,1,window adapter,window activated
+rate,author, 0.666666666666667,1,change track rate,change track author
+resized,listener, 0.5,1,component resized,component listener
+stat,cover, 0.5,1,stat view,cover view
+help,parameter, 0.5,1,help view,parameter view
+property,ambience, 0.5,2,remove property,remove ambience,register ambience,register property
+double,formated, 0.666666666666667,1,get double value,get formated value
+human,device, 0.666666666666667,1,get human type,get device type
+key,perspective, 0.5,1,key adapter,perspective adapter
+manager,comparator, 0.5,1,track manager,track comparator
+thumbs,device, 0.5,1,clean thumbs,clean device
+image,directory, 0.5,1,image filter,directory filter
+default,boolean, 0.666666666666667,1,get default value,get boolean value
+closing,adapter, 0.5,1,window closing,window adapter
+command,interval, 0.666666666666667,1,set action command,set action interval
+okcancel,contributors, 0.5,1,okcancel panel,contributors panel
+resized,adapter, 0.5,1,component resized,component adapter
+exit,wizard, 0.5,1,exit action,wizard action
+jajuk,action, 0.5,1,jajuk listener,action listener
+double,boolean, 0.666666666666667,1,get double value,get boolean value
+activated,deiconified, 0.5,1,window activated,window deiconified
+album,playlist, 0.5,2,album manager,playlist manager,register album,register playlist
+thumbs,playlist, 0.5,1,refresh thumbs,refresh playlist
+util,wrapper, 0.5,1,action util,action wrapper
+view,playlist, 0.5,2,view manager,playlist manager,remove view,remove playlist
+chart,okcancel, 0.5,1,chart panel,okcancel panel
+row,column, 0.666666666666667,1,get row count,get column count
+create,populate, 0.5,1,create tree,populate tree
+remove,insert, 0.666666666666667,1,tree nodes removed,tree nodes inserted
+total,formated, 0.666666666666667,1,get total value,get formated value
+chart,contributors, 0.5,1,chart panel,contributors panel
+button,systray, 0.5,1,jajuk button,jajuk systray
+file,track, 0.666666666666667,4,file node,track node,files table model,tracks table model,file manager,track manager,register file,register track
+closing,iconified, 0.5,1,window closing,window iconified
+cover,animation, 0.5,1,cover view,animation view
+type,view, 0.5,1,type manager,view manager
+long,boolean, 0.666666666666667,1,get long value,get boolean value
+tree,view, 0.5,1,tree map,view map
+visible,invisible, 0.8,1,popup menu will become visible,popup menu will become invisible
+map,add, 0.666666666666667,1,map playlist file,add playlist file
+files,previous, 0.5,1,add files,add previous
+audio,directory, 0.5,1,audio filter,directory filter
+album,action, 0.5,1,album manager,action manager
+cover,remove, 0.5,1,cover view,remove view
+name,value, 0.666666666666667,1,get human name,get human value
+human,album, 0.666666666666667,1,get human name,get album name
+author,playlist, 0.5,2,author manager,playlist manager,register author,register playlist
+group,renderer, 0.5,1,button group,button renderer
+volume,position, 0.666666666666667,1,get current volume,get current position
+manager,performed, 0.5,1,action manager,action performed
+mono,veryfirst, 0.666666666666667,1,is mono file,is veryfirst file
+next,rewind, 0.666666666666667,1,next track action,rewind track action
+clean,populate, 0.5,1,clean tree,populate tree
+about,catalog, 0.5,1,about view,catalog view
+view,wizard, 0.5,1,device view,device wizard
+editor,repository, 0.75,4,physical playlist editor view,physical playlist repository view,logical playlist editor view,physical playlist repository view,physical playlist editor view,logical playlist repository view,logical playlist editor view,logical playlist repository view
+move,remove, 0.5,1,column moved,column removed
+wizard,manager, 0.5,2,device wizard,device manager,ambience wizard,ambience manager
+tree,playlist, 0.666666666666667,1,tree transfer handler,playlist transfer handler

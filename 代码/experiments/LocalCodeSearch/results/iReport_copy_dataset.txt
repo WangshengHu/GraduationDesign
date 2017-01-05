@@ -1,0 +1,225 @@
+PROJECT : iReport  QUERY : copy dataset
+****************************SWordNet****************************
+
+----------expansion num : 109 ----------
+----------expansion----------
+copy : paste open base syntax add cut
+dataset : numberdocument report reportpaneltooltip internalframeactivatedevent reportbandchangedevent massivecompiler jmdimenubar messagebox jrtextexpressionarea chart piechart valuechangedevent languagechangedevent fileentry hobby jrproperty transferableobject documenttreeentry scriptletcode formatelementsoperation fontlistloader groupelement iconedstring jnumbercombobox ircompilerdocument customexpression sheetproperty jrpdfexporter jrdatasourceproviderconnection jrsubreportreturnvalue jradiobuttonmenuitemmdiframe misc sheetpropertyvaluechanged piedataset chartcellrenderer reportlistenerelementchangedevent treetransferthandler treenode ireporttemplate ireportfont textfieldreportelement samplebean box unit jdbcconnection plot personbean elementfactory chartdescriptor actionshrinkselected pluginentry jrcvsdatasource reportelementsheetpanel imagecellrenderer jrulepane abstractlibraryobject charttitle pagenumberobject categoryseries pdfencoding reportlistenerelementsselectionevent jrchartreportelement jsqltablespane jrireportdefaultscriptlet jnumberfield addressbean statictextreportelement pieplot chartdefinition timeseriesdataset ireportcompiler jrsubreportparameter documentstructuretreenode jreportpanel chartreportelement projectinfo insertelementoperation irfont helloworld simplecomboboxeditor removemarginsoperation tag values viewed pcdata expression elements sub xmlfields xmlparameters dchart xydataset xmlsection sheet dplot library xyzseries xmlvariables series title xmlband xyseries xyzdataset
+----------search hits----------
+RectangleReportElement.copyBaseReportElement(ReportElement, ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\RectangleReportElement.java 129 136
+GraphicReportElement.copyBaseReportElement(ReportElement, ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\GraphicReportElement.java 89 100
+SubReportElement.copyBaseReportElement(ReportElement, ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\SubReportElement.java 308 334
+ChartReportElement2.copyBaseReportElement(ReportElement, ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\ChartReportElement2.java 142 154
+Plot.copyBasePlot(Plot)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\Plot.java 66 72
+Dataset.copyBaseDataset(Dataset)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\Dataset.java 79 94
+CategorySheetPanel.addCategory(String)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\sheet\CategorySheetPanel.java 369 377
+Report.addStyleChangedListener(StyleChangedListener)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\Report.java 5532 5541
+HighLowDatasetPanel.jRTextExpressionOpenTextChanged()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\HighLowDatasetPanel.java 144 147
+StackedBar3DChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\StackedBar3DChart.java 27 30
+JRTextExpressionArea.addEdit(UndoableEditEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JRTextExpressionArea.java 318 322
+Report.addGroup(Group)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\Report.java 3148 3154
+ReportPropertiesFrame.getResourceBundleBaseName()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ReportPropertiesFrame.java 1849 1851
+JRTextExpressionArea.jMenuItemCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JRTextExpressionArea.java 217 220
+CategorySheetPanel.addSheetProperty(String, SheetProperty)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\sheet\CategorySheetPanel.java 142 155
+XYDatasetPanel.jButtonAddActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYDatasetPanel.java 260 278
+SubDataset.addField(JRField)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\SubDataset.java 70 74
+Report.writeOpenCloseGroup(PrintWriter, String, String)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\Report.java 3916 3958
+SubDataset.getResourceBundleBaseName()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\SubDataset.java 202 204
+FrameReportElement.copyBaseReportElement(ReportElement, ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\FrameReportElement.java 92 100
+JReportFrame.pasteStyle()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 4202 4221
+Chart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\Chart.java 121 124
+CategorySheetPanel.addItem(SheetProperty)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\sheet\CategorySheetPanel.java 211 333
+IReportKeywordLookup.addKeyword(String, byte)  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\IReportKeywordLookup.java 21 25
+HighLowPlot.setShowOpenTicks(boolean)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\HighLowPlot.java 57 59
+XYZDatasetPanel.jMenuItemPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYZDatasetPanel.java 194 211
+BubbleChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\BubbleChart.java 27 30
+JReportFrame.cut()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 3792 3810
+MainFrame.addReportListener(ReportListener)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\MainFrame.java 8653 8663
+HighLowPlot.isShowOpenTicks()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\HighLowPlot.java 53 55
+JReportFrame.jMenuItemPasteOnBandMouseClicked(MouseEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 1238 1240
+JReportFrame.jMenuItemPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 755 757
+SubDatasetsDialog.addSubDataset(SubDataset)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\subdataset\SubDatasetsDialog.java 285 291
+ScatterChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\ScatterChart.java 27 30
+ChartPropertiesDialog.jButtonAddParameterActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 837 852
+TimePeriodDatasetPanel.jMenuItemCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimePeriodDatasetPanel.java 202 207
+JReportFrame.jMenuItemCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 759 761
+JReportFrame.jMenuItemPasteStyleActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 735 739
+SubDataset.addParameter(JRParameter)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\SubDataset.java 107 111
+DeleteElementsOperation.addElement(ReportElement, int)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\undo\DeleteElementsOperation.java 134 138
+AvailableCharts.addChartSheetProperties(ChartDefinition)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\AvailableCharts.java 131 149
+TimeSeriesDatasetPanel.jButtonAddActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimeSeriesDatasetPanel.java 307 323
+JReportFrame.addReportListener(ReportListener)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 3609 3618
+BarChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\BarChart.java 27 30
+LibraryPanel.jMenuItemCutActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\library\LibraryPanel.java 353 411
+ReportElement.copyBaseReportElement(ReportElement, ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\ReportElement.java 1518 1541
+ChartPropertiesDialog.jButtonCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1018 1023
+SubDataset.addVariable(JRVariable)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\SubDataset.java 130 134
+PieChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\PieChart.java 27 30
+TextFieldReportElement.copyBaseReportElement(ReportElement, ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\TextFieldReportElement.java 264 284
+TextReportElement.copyBaseReportElement(ReportElement, ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\TextReportElement.java 798 822
+ValuesPanel.jMenuItemPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesPanel.java 914 916
+XYZDatasetPanel.jButtonAddActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYZDatasetPanel.java 247 263
+JNumberComboBox.addEntry(String, double)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JNumberComboBox.java 84 100
+TimeSeriesDatasetPanel.jMenuItemPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimeSeriesDatasetPanel.java 246 264
+CategorySheetPanel.addSheetPropertyValueChangedListener(SheetPropertyValueChangedListener)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\sheet\CategorySheetPanel.java 600 610
+Report.addElementsTree(TreeNode)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\Report.java 5334 5353
+JReportFrame.addSelectedElement(ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 3381 3383
+TimeSeriesDatasetPanel.jMenuItemCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimeSeriesDatasetPanel.java 266 271
+AbstractLibraryObject.addField(JRVariable)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\library\AbstractLibraryObject.java 56 59
+JNumberComboBox.addValueChangedListener(ValueChangedListener)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JNumberComboBox.java 229 238
+TransformElementsOperation.addElement(Object)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\undo\TransformElementsOperation.java 167 197
+CategoryDatasetPanel.jButtonAddActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\CategoryDatasetPanel.java 260 276
+CategoryDatasetPanel.jMenuItemCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\CategoryDatasetPanel.java 204 210
+MainFrame.openNewReportWindow(Report)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\MainFrame.java 6331 6432
+JReportFrame.openElementPropertiesDialog()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 3917 3928
+JRTextExpressionArea.jMenuItemPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JRTextExpressionArea.java 222 225
+JReportFrame.addSelectedElement(ReportElement, boolean)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 3385 3409
+ReportElement.addToGroup(String)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\ReportElement.java 1610 1626
+XYAreaChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYAreaChart.java 27 30
+AbstractLibraryObject.addParameter(JRVariable)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\library\AbstractLibraryObject.java 50 54
+LibraryPanel.jMenuItemPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\library\LibraryPanel.java 269 306
+ImageReportElement.copyBaseReportElement(ReportElement, ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\ImageReportElement.java 341 364
+HighLowDataset.setOpenExpression(String)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\HighLowDataset.java 68 70
+SubDataset.addSubDatasetObjectChangedListener(SubDatasetObjectChangedListener)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\SubDataset.java 236 245
+XYLineChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYLineChart.java 27 30
+ValuesPanel.jMenuItemCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesPanel.java 918 929
+Report.addReportSubDatasetChangedListener(ReportSubDatasetChangedListener)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\Report.java 5490 5499
+LibraryPanel.addLibraryObject(String, AbstractLibraryObject)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\library\LibraryPanel.java 630 650
+IReportKeywordLookup.addKeyword(String)  @D:\Code\Repos\swordnet_java\projects\iReport\org\syntax\jedit\IReportKeywordLookup.java 16 19
+SheetPanel.addSheetProperty(SheetProperty)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\sheet\SheetPanel.java 88 140
+CategoryDatasetPanel.jMenuItemPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\CategoryDatasetPanel.java 212 231
+LibraryPanel.jMenuItemCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\library\LibraryPanel.java 308 351
+TimePeriodDatasetPanel.jMenuItemPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimePeriodDatasetPanel.java 183 200
+HighLowDataset.getOpenExpression()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\HighLowDataset.java 64 66
+ValuesPanel.jMenuItemCutActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesPanel.java 931 945
+Report.addImport(String)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\Report.java 3025 3029
+BoxPanel.addActionListener(ActionListener)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\box\BoxPanel.java 482 492
+JReportFrame.addUndoOperation(UndoOperation)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 3718 3738
+Report.addElementToGroup(TreeNode, String, ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\Report.java 5398 5434
+JReportFrame.jMenuItemCutActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 763 765
+TimeSeriesChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimeSeriesChart.java 27 30
+JReportFrame.jMenuItemCopyStyleActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 741 745
+Report.addGroup(Group, boolean)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\Report.java 3156 3207
+ReportElement.copyElementPropertiesTo(ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\ReportElement.java 1101 1114
+XYDatasetPanel.jMenuItemPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYDatasetPanel.java 206 220
+ExpressionSheetPropertyComponent.addActionListener(ActionListener)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\sheet\ExpressionSheetPropertyComponent.java 132 142
+XYDatasetPanel.jMenuItemCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYDatasetPanel.java 222 231
+SimpleComboBoxEditor.addActionListener(ActionListener)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\sheet\SimpleComboBoxEditor.java 30 31
+JReportFrame.copy()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 3812 3825
+LineReportElement.copyBaseReportElement(ReportElement, ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\LineReportElement.java 120 129
+AreaChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\AreaChart.java 27 30
+CandlestickChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\CandlestickChart.java 27 30
+JReportFrame.jMenuItemPasteOnBandActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 1231 1236
+SubDataset.setResourceBundleBaseName(String)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\SubDataset.java 206 208
+SheetProperty.addSheetPropertyValueChangedListener(SheetPropertyValueChangedListener)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\sheet\SheetProperty.java 370 380
+AbstractLibraryObject.addVariable(JRVariable)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\library\AbstractLibraryObject.java 45 48
+XYBarChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYBarChart.java 27 30
+JReportFrame.paste()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 3827 3830
+SubDatasetDialog.openValuesDialog(String)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\subdataset\SubDatasetDialog.java 361 370
+StackedBarChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\StackedBarChart.java 27 30
+FontSheetPropertyComponent.addActionListener(ActionListener)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\sheet\FontSheetPropertyComponent.java 107 117
+LineChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\LineChart.java 27 30
+Pie3DChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\Pie3DChart.java 27 30
+JRTextExpressionArea.jMenuItemCutActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JRTextExpressionArea.java 212 215
+ReplacedElementsOperation.addElement(ReportElement, ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\undo\ReplacedElementsOperation.java 145 148
+ChartPropertiesDialog.addCommonChartProperties()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1153 1223
+JReportFrame.pasteHere(Point)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 3832 3915
+JReportFrame.copyStyle()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 4256 4261
+HighLowChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\HighLowChart.java 27 30
+IReportScriptlet.addValueToSerie(String, Object)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\IReportScriptlet.java 173 178
+ChartPropertiesDialog.jButtonPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 923 1016
+JReportFrame.addFormatItemsToMenu(JComponent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\JReportFrame.java 783 1226
+Report.addJRProperty(JRProperty)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\Report.java 2820 2822
+Bar3DChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\Bar3DChart.java 27 30
+ReportPropertiesFrame.setResourceBundleBaseName(String)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ReportPropertiesFrame.java 1853 1856
+CategorySheetPanel.addItems(Vector)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\sheet\CategorySheetPanel.java 361 367
+TimePeriodDatasetPanel.jButtonAddActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimePeriodDatasetPanel.java 249 266
+ReportClassLoader.addNoRelodablePath(String)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\ReportClassLoader.java 130 139
+XYZDatasetPanel.jMenuItemCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYZDatasetPanel.java 213 218
+Report.addSubDataset(SubDataset)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\Report.java 5478 5482
+----------total 131 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 80 ----------
+----------expansion----------
+copy : copying copies copied pastes paste rename copys cloned clone cloning temp temporary pasting clipboard overwrite rezip pasted extracted folder coping zipping clones overwrites unzips unzip contents overwriting xcopy workdir renames put harddrive undeleteable directory shallow unzipped copier zipped merged renaming
+dataset : datasets plot lakhs ohlc records classifier rows arff training clusters chart timeseries table corpus series triples data trained columns csv graph datapoints values aplot 100k resultset categorical boxplots 30gb amout row classification barchart column tdb tables visualizes tsv millions svm
+----------search hits----------
+Plot.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\Plot.java 61 64
+TimeSeriesPlot.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimeSeriesPlot.java 61 71
+TimeSeriesChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimeSeriesChart.java 27 30
+TimeSeriesDataset.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimeSeriesDataset.java 45 56
+ScatterChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\ScatterChart.java 27 30
+XYDatasetPanel.jMenuItemCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYDatasetPanel.java 222 231
+XYZDatasetPanel.jMenuItemCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYZDatasetPanel.java 213 218
+Pie3DChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\Pie3DChart.java 27 30
+PiePlot.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\PiePlot.java 23 28
+Dataset.copyBaseDataset(Dataset)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\Dataset.java 79 94
+TimeSeriesDatasetPanel.jMenuItemPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimeSeriesDatasetPanel.java 246 264
+TimeSeriesDatasetPanel.jMenuItemCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimeSeriesDatasetPanel.java 266 271
+Plot.copyBasePlot(Plot)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\Plot.java 66 72
+CategoryDatasetPanel.jMenuItemPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\CategoryDatasetPanel.java 212 231
+ValuesPanel.getClipboardFields()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesPanel.java 1545 1554
+PieChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\PieChart.java 27 30
+Pie3DPlot.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\Pie3DPlot.java 34 41
+Chart.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\Chart.java 101 119
+BubbleChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\BubbleChart.java 27 30
+ValuesPanel.setClipboardParameters(Vector)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesPanel.java 1598 1606
+BubblePlot.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\BubblePlot.java 52 61
+TimeSeries.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimeSeries.java 69 78
+AreaPlot.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\AreaPlot.java 42 50
+TimePeriodDatasetPanel.jMenuItemCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimePeriodDatasetPanel.java 202 207
+BarPlot.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\BarPlot.java 70 81
+CandlestickPlot.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\CandlestickPlot.java 52 61
+XYZSeries.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYZSeries.java 69 78
+Dataset.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\Dataset.java 72 77
+ValuesDialog.getClipboardFields()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesDialog.java 220 228
+StackedBarChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\StackedBarChart.java 27 30
+CategoryDatasetPanel.jMenuItemCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\CategoryDatasetPanel.java 204 210
+ValuesDialog.setClipboardParameters(Vector)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesDialog.java 272 280
+Bar3DPlot.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\Bar3DPlot.java 70 81
+PieDataset.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\PieDataset.java 52 62
+ValuesDialog.setClipboardVariables(Vector)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesDialog.java 251 259
+ValuesDialog.setClipboardFields(Vector)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesDialog.java 230 238
+XYZDatasetPanel.jMenuItemPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYZDatasetPanel.java 194 211
+ValuesPanel.jMenuItemCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesPanel.java 918 929
+AreaChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\AreaChart.java 27 30
+CandlestickChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\CandlestickChart.java 27 30
+XYZDataset.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYZDataset.java 35 46
+ChartReportElement2.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\ChartReportElement2.java 135 140
+HighLowDataset.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\HighLowDataset.java 88 101
+TimePeriodDataset.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimePeriodDataset.java 35 45
+CategoryDataset.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\CategoryDataset.java 35 45
+Chart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\Chart.java 121 124
+ChartPropertiesDialog.jButtonPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 923 1016
+XYSeries.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYSeries.java 69 78
+ValuesPanel.getClipboardParameters()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesPanel.java 1587 1596
+LinePlot.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\LinePlot.java 61 71
+LineChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\LineChart.java 27 30
+CategorySeries.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\CategorySeries.java 69 78
+ChartTitle.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\ChartTitle.java 65 74
+StackedBar3DChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\StackedBar3DChart.java 27 30
+Bar3DChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\Bar3DChart.java 27 30
+ChartReportElement2.copyBaseReportElement(ReportElement, ReportElement)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\ChartReportElement2.java 142 154
+ValuesPanel.setClipboardFields(Vector)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesPanel.java 1556 1564
+ValuesPanel.getClipboardVariables()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesPanel.java 1566 1575
+XYBarChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYBarChart.java 27 30
+HighLowChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\HighLowChart.java 27 30
+BarChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\BarChart.java 27 30
+XYLineChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYLineChart.java 27 30
+ValuesDialog.getClipboardVariables()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesDialog.java 240 249
+ValuesDialog.getClipboardParameters()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesDialog.java 261 270
+XYDataset.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYDataset.java 36 47
+ValuesPanel.setClipboardVariables(Vector)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesPanel.java 1577 1585
+ScatterPlot.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\ScatterPlot.java 62 72
+TimePeriodDatasetPanel.jMenuItemPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimePeriodDatasetPanel.java 183 200
+XYDatasetPanel.jMenuItemPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYDatasetPanel.java 206 220
+XYAreaChart.cloneBaseChart()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYAreaChart.java 27 30
+ChartPropertiesDialog.jButtonCopyActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1018 1023
+HighLowPlot.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\HighLowPlot.java 61 71
+ValuesPanel.jMenuItemPasteActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\ValuesPanel.java 914 916
+TimePeriodSeries.cloneMe()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\TimePeriodSeries.java 78 88
+----------total 74 hits----------
+
+

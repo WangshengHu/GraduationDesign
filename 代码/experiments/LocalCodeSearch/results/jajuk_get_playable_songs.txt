@@ -1,0 +1,20 @@
+PROJECT : jajuk  QUERY : get playable songs
+****************************SWordNet****************************
+
+----------expansion num : 0 ----------
+----------expansion----------
+----------search hits----------
+----------total 0 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 120 ----------
+----------expansion----------
+songs : song lyrics artists playlist artist genres music playlists albums playcount musics movies titles videos lyric tracks clips mp3 items mp3s album genre brainz comedy mp3agic m4a seasons subtitle artwork beatles subgenres audios song1 dvd foods tunes movie karaoke words photos
+get : obtain retrieve retreive grab getting return receive returns pass retrive assign gives fetch returned reassign obtained obtaining display returning extract throws print set recieve recover find gets extarct append got parse remove giving gettting obtains show initialize spit send correlate
+playable : plays multiplayer played battlefield networked games player battleship sokoban game frogger draughts battleships stutters othello play jeopardy opponents reversi playing monopoly paced gameplay gaming arcade stuttering craps brickbreaker 1v1 pulpcore video vlc muting tictactoe lagging platforming nim surveillance solitaire blackjack
+----------search hits----------
+PlaylistManager.getPlayList(PlaylistFile)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistManager.java 236 253
+----------total 1 hits----------
+
+

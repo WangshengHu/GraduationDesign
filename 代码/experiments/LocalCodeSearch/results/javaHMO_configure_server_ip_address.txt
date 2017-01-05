@@ -1,0 +1,28 @@
+PROJECT : javaHMO  QUERY : configure server ip address
+****************************SWordNet****************************
+
+----------expansion num : 7 ----------
+----------expansion----------
+server : create datagram system help client context
+ip : mac
+----------search hits----------
+----------total 0 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 160 ----------
+----------expansion----------
+server : sever client webserver servers remote clients ejabberd pc nodejs machine backend connects application webservice host wamp service godaddy iis port localhost port1 websocket ftp connection hosted apache2 socket tomcat connect locally clinet tcp vsftpd scoket server1 zilla communicator web cpanel
+address : adress addresses adresses addess addres addr hostname netmask addresse portnumber fqdn ip computername ips nameserver address2 isp wlan0 spoofing ipv6 3309 eth0 postcode address1 vlan hostnames ipaddress zipcode subnet sharedfolder ddns name dhcp 50070 eaddrinuse 27017 host2 ban port 8091
+ip : netmask ips eaddrinuse hostname eth0 ipv6 ipv4 port loopback gear2 isp inet6 gear1 lan 61616 router portnumber pv6 host address inet4 adresses dhcp naples ipaddress subnet dyndns casp linksys ddns 3309 50075 ports hosts addess fqdn tcpping 27017 ethernet eth1
+configure : configured configuring setup reconfigure configuration instruct specify deploy config enable manage customize integrate reconfigured configurate configures use configs disable inject define configurable configurations tweak conf install settings configuraiton migrate exclude bypass surfire achieve centralize customization honor debug utilize customise externalize
+----------search hits----------
+ServerConfiguration.setIPAddress(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\server\ServerConfiguration.java 90 100
+ServerConfiguration.getIPAddress()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\server\ServerConfiguration.java 102 104
+ServerConfiguration.setConfiguredPort(int)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\server\ServerConfiguration.java 82 84
+ServerConfiguration.getConfiguredPort()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\server\ServerConfiguration.java 86 88
+Server.setConfiguredPort(int)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\server\Server.java 627 629
+Server.getConfiguredPort()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\server\Server.java 631 633
+----------total 6 hits----------
+
+

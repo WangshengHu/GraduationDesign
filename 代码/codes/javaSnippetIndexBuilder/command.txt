@@ -1,0 +1,1 @@
+-auto -apiFile .\result\apis\all.txt -codePath D:\Java -savePath ./result/data -output format -logFile ./result/log/log.txt -logCurrent ./result/log/current.txt -append -startProject 356

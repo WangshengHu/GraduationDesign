@@ -1,0 +1,218 @@
+PROJECT : jajuk  QUERY : get track author
+****************************SWordNet****************************
+
+----------expansion num : 17 ----------
+----------expansion----------
+author : album playlistfile file style track directory medium device
+track : playlist device style album author playlistfile directory next file
+----------search hits----------
+Directory.getFilesFromFile(File)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 197 213
+Track.getAlbum()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 130 135
+PlaylistFile.getDirectory()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFile.java 192 197
+Directory.getDevice()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 113 118
+FileManager.getGlobalNoveltiesPlaylist(boolean)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 390 426
+AbstractPlaylistEditorView.getCurrentPlaylistFileItem()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\AbstractPlaylistEditorView.java 923 928
+FileManager.getBestOfFiles(boolean)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 463 495
+Track.getFiles()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 137 142
+JajukTimer.getCurrentTrackTotalTime()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\JajukTimer.java 123 132
+JajukTimer.getCurrentTrackPosition()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\JajukTimer.java 116 121
+FileManager.getSortedByRate()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 428 440
+Style.getName2()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Style.java 53 63
+Playlist.getPlayeablePlaylistFile()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Playlist.java 115 128
+Style.getCount()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Style.java 104 109
+Style.getDesc()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Style.java 118 123
+AuthorManager.getAuthorsList()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\AuthorManager.java 186 194
+FileManager.getAllDirectory(File)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 587 609
+Author.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Author.java 44 46
+File.getIO()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\File.java 223 232
+Track.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 452 454
+PlaylistFileManager.getInstance()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFileManager.java 57 65
+ITagImpl.getAlbumName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\tag\ITagImpl.java 35 38
+FileManager.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 689 691
+Directory.getDesc()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 415 427
+Directory.getFilesRecursively()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 215 229
+AbstractPlaylistRepositoryView.getPlaylistFileItems()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\AbstractPlaylistRepositoryView.java 444 449
+NoTagsTagImpl.getTrackName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\tag\NoTagsTagImpl.java 48 50
+Directory.getHumanValue(String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 432 456
+StyleManager.getInstance()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\StyleManager.java 62 70
+NoTagsTagImpl.getAlbumName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\tag\NoTagsTagImpl.java 55 57
+Device.getMountPoint()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Device.java 789 794
+DeviceManager.getID(String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\DeviceManager.java 133 140
+TrackManager.getAssociatedTracks(IPropertyable)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\TrackManager.java 526 546
+LogicalTreeView.getTrackSelection()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\LogicalTreeView.java 1123 1128
+FileManager.getPreviousFile(File)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 537 568
+CatalogItem.getAlbum()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\CatalogView.java 770 772
+Directory.getParentDirectory()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 120 125
+Util.getFileChecksum(File)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\util\Util.java 738 758
+Directory.getRelativePath()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 347 373
+PlaylistFile.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFile.java 87 89
+PlaylistFileItem.getName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\PlaylistFileItem.java 107 137
+EntaggedTagImpl.getStyleName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\tag\EntaggedTagImpl.java 82 98
+TrackManager.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\TrackManager.java 506 508
+Proportion.getNextStyle()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\dj\Proportion.java 106 112
+Track.getAuthor()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 354 359
+Album.getCoverFile()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Album.java 131 192
+Directory.getFio()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 375 380
+PlaylistFile.getType()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFile.java 664 669
+StyleManager.getStylesList()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\StyleManager.java 196 204
+File.getAny()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\File.java 308 329
+TransitionDigitalDJ.getStartupStyle()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\dj\TransitionDigitalDJ.java 232 234
+DirectoryNode.getDirectory()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\PhysicalTreeView.java 1329 1334
+NoTagsTagImpl.getAuthorName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\tag\NoTagsTagImpl.java 62 64
+ITagImpl.getStyleName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\tag\ITagImpl.java 45 48
+Tag.getTrackName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Tag.java 75 94
+Tag.getAuthorName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Tag.java 128 151
+AuthorNode.getAuthor()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\LogicalTreeView.java 1199 1204
+TrackManager.getID(String, Album, Style, Author, long, long, long, Type)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\TrackManager.java 115 131
+AlbumManager.getInstance()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\AlbumManager.java 53 61
+Device.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Device.java 101 103
+PlaylistFile.getAbsolutePath()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFile.java 126 139
+AuthorManager.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\AuthorManager.java 182 184
+PlaylistFile.getFiles()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFile.java 218 295
+JajukFileFilter.getDescription()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\util\JajukFileFilter.java 370 387
+StyleManager.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\StyleManager.java 192 194
+Style.getTracksRecursively()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Style.java 137 152
+AlbumNode.getAlbum()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\LogicalTreeView.java 1232 1237
+DeviceView.getComponent()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\DeviceView.java 347 349
+CDDBTrack.getLength()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\CDDBWizard.java 125 128
+Device.getFio()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Device.java 839 844
+Track.getStars()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 296 318
+File.getQuality()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\File.java 134 139
+StyleManager.getStyleByName(String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\StyleManager.java 122 129
+Tag.getAlbumName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Tag.java 96 126
+Cover.getFile()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Cover.java 230 232
+EntaggedTagImpl.getAuthorName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\tag\EntaggedTagImpl.java 71 77
+Style.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Style.java 48 50
+DirectoryManager.getID(String, Device, Directory)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\DirectoryManager.java 89 104
+Directory.getAbsolutePath()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 101 103
+PlaylistFileManager.getID(String, Directory)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFileManager.java 81 91
+PhysicalPlaylistEditorView.getRepositoryCurrentPlaylistFileItem()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\PhysicalPlaylistEditorView.java 50 52
+PlaylistFile.getHashcode()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFile.java 166 171
+Author.getDesc()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Author.java 107 112
+Track.getTotalSize()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 172 184
+AbstractPlaylistEditorView.getRepositoryCurrentPlaylistFileItem()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\AbstractPlaylistEditorView.java 916 920
+HistoryItem.getFileId()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\HistoryItem.java 56 61
+Device.getDeviceTypeS()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Device.java 550 555
+FileManager.getNoveltyFile()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 367 376
+History.getLastFile()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\History.java 229 243
+TrackComparator.getCompareString(Track)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\TrackComparator.java 46 79
+File.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\File.java 73 75
+DeviceView.getInstance()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\DeviceView.java 351 360
+FileManager.getInstance()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 117 125
+Device.getUrl()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Device.java 565 570
+Track.getReadyFiles()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 144 155
+AlbumManager.getID(String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\AlbumManager.java 72 79
+JajukTimer.getCurrentTrackEllapsedTime()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\JajukTimer.java 109 114
+Track.getAdditionDate()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 320 325
+AuthorManager.getInstance()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\AuthorManager.java 59 67
+AlbumManager.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\AlbumManager.java 152 154
+Track.getDesc()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 456 461
+Track.getStyle()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 361 366
+Track.getStarsNumber()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 276 294
+DirectoryManager.getInstance()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\DirectoryManager.java 58 66
+AuthorManager.getID(String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\AuthorManager.java 80 87
+DirectoryManager.getDirectoryForIO(File)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\DirectoryManager.java 191 202
+File.getSize()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\File.java 113 118
+Track.getSessionHits()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 423 428
+CatalogItem.getCoverFile()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\CatalogView.java 759 761
+SearchResult.getFile()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\SearchResult.java 61 66
+Directory.getFiles()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 181 187
+Collection.getHmWrongRightFileID()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Collection.java 692 697
+DeviceManager.getDateLastGlobalRefresh()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\DeviceManager.java 318 320
+PlaylistFileNode.getPlaylistFile()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\PhysicalTreeView.java 1360 1365
+Author.getHumanValue(String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Author.java 118 125
+Track.getHits()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 232 237
+Track.getOrder()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 246 252
+DeviceManager.getDeviceTypesNumber()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\DeviceManager.java 201 206
+File.getDesc()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\File.java 254 259
+Track.getType()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 327 332
+StackItem.getFile()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\StackItem.java 99 104
+TrackManager.getComparator()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\TrackManager.java 554 556
+Track.getComment()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 239 244
+TrackNode.getTrack()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\LogicalTreeView.java 1264 1269
+ITagImpl.getTrackName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\tag\ITagImpl.java 30 33
+Track.getHumanValue(String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 468 518
+FileNode.getFile()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\PhysicalTreeView.java 1250 1255
+PlaylistFile.getFio()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFile.java 646 654
+AnyFileFilter.getInstance()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\util\JajukFileFilter.java 107 116
+Directory.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 78 80
+Track.getReadyFiles(HashSet)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 157 170
+Track.getYear()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 254 259
+LogicalPlaylistEditorView.getRepositoryCurrentPlaylistFileItem()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\LogicalPlaylistEditorView.java 52 54
+DeviceManager.getDeviceType(long)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\DeviceManager.java 215 222
+FileManager.getID(String, Directory)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 156 168
+Directory.getDirectories()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 127 132
+Album.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Album.java 106 108
+File.getDevice()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\File.java 127 132
+EntaggedTagImpl.getAlbumName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\tag\EntaggedTagImpl.java 60 66
+PlaylistFile.getHumanValue(String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFile.java 798 806
+FileManager.getGlobalNoveltiesPlaylist()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 379 387
+PlaylistFileItem.getPlaylistFile()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\PlaylistFileItem.java 93 98
+Tag.getStyleName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Tag.java 154 180
+TrackManager.getMaxRate()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\TrackManager.java 568 573
+DirectoryFilter.getInstance()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\util\JajukFileFilter.java 74 83
+TrackManager.getInstance()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\TrackManager.java 96 104
+Util.getOnlyFile(String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\util\Util.java 760 768
+ITagImpl.getAuthorName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\tag\ITagImpl.java 40 43
+File.getDirectory()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\File.java 120 125
+PlaylistFileManager.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFileManager.java 162 164
+DeviceView.getID()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\DeviceView.java 243 245
+Author.getName2()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Author.java 48 58
+StyleManager.getID(String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\StyleManager.java 82 89
+Device.getDesc()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Device.java 846 851
+Device.getDateLastRefresh()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Device.java 866 868
+Album.getDesc()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Album.java 110 115
+FileManager.getNextFile(File)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 497 534
+Style.getHumanValue(String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Style.java 128 135
+EntaggedTagImpl.getTrackName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\tag\EntaggedTagImpl.java 49 55
+PlaylistFile.getDesc()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFile.java 788 793
+ExportFileFilter.getDescription()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\exporters\ExportFileFilter.java 58 63
+FIFO.getCurrentFile()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FIFO.java 675 683
+Album.getName2()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Album.java 46 56
+File.getTrack()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\File.java 142 147
+FileManager.getBestOfFiles()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 453 461
+Device.getDirectories()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Device.java 599 604
+Device.getFilesRecursively()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Device.java 806 828
+DirectoryManager.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\DirectoryManager.java 187 189
+CDDBTrack.getPreciseLength()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\CDDBWizard.java 130 132
+DirectoryNode.getDirectoryNode(Directory)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\PhysicalTreeView.java 1318 1321
+DeviceItem.getDevice()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\DeviceView.java 542 547
+DeviceManager.getIdentifier()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\DeviceManager.java 314 316
+DeviceNode.getDeviceNode(Device)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\PhysicalTreeView.java 1278 1281
+FileManager.getShuffleFile()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 339 352
+DeviceView.getDesc()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\DeviceView.java 464 466
+File.getAbsolutePath()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\File.java 170 184
+PlaylistFileItem.getType()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\PlaylistFileItem.java 100 105
+Device.getHumanValue(String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Device.java 856 864
+Track.getLength()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 262 267
+Transition.getNextStyle()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\dj\Transition.java 150 165
+FileManager.getGlobalShufflePlaylist()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 354 364
+Directory.getPlaylistFiles()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 189 195
+FileManager.getAllDirectoryFrom(File)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 611 640
+DeviceManager.getDeviceTypes()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\DeviceManager.java 208 213
+FileManager.getFileByPath(String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 297 319
+Device.getDeviceType()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Device.java 557 562
+DeviceNode.getDevice()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\PhysicalTreeView.java 1289 1294
+StyleNode.getStyle()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\LogicalTreeView.java 1167 1172
+NoTagsTagImpl.getStyleName()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\tag\NoTagsTagImpl.java 69 71
+FileManager.getReadyFiles()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 321 337
+Album.getHumanValue(String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Album.java 121 128
+Track.getRate()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 269 274
+File.getHumanValue(String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\File.java 264 302
+DeviceManager.getInstance()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\DeviceManager.java 97 105
+FileManager.getGlobalBestofPlaylist()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\FileManager.java 442 451
+Track.getPlayeableFile(boolean)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 187 229
+----------total 196 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 120 ----------
+----------expansion----------
+author : authors article author2 book borrower article2 articleaut0 title manga dickens manning genre questioner blog bates raymond magazine arjan books spolsky dzone joel publication person cites artist bert chapter isbn bruno adsk bookinfo martin odersky fowler comments wrox jcip bruce gafter
+get : obtain retrieve retreive grab getting return receive returns pass retrive assign gives fetch returned reassign obtained obtaining display returning extract throws print set recieve recover find gets extarct append got parse remove giving gettting obtains show initialize spit send correlate
+track : tracking tracks alive tact alives counting counts rising rocker intact increasing tracked incrementing reappearing count nailing chugging growing decreasing bogging drilling randomizing reseting bumping piling hunt hold holding trail prioritized grenades going chasing counter strains identify detect blanking roofs condense
+----------search hits----------
+Track.getAuthor()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Track.java 354 359
+----------total 1 hits----------
+
+

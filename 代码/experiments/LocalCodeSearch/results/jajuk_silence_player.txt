@@ -1,0 +1,20 @@
+PROJECT : jajuk  QUERY : silence player
+****************************SWordNet****************************
+
+----------expansion num : 0 ----------
+----------expansion----------
+----------search hits----------
+----------total 0 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 80 ----------
+----------expansion----------
+silence : beep mute vibration tone beeps violin recording noise mutes decibels pulses loud buzzer vibrate audios sound equalizer waveform waves loudness audible tones wha louder ringing audiofile amplitude audiostream unmute wav stuttering soundfile clips amplitudes 11025 ogv audio ringer microphone noises
+player : players enemy opponent game player1 opponents ball hockey humanoids hero paintball spaceship teleport dealer teleports lobby zombie pawns pikachu tile sprite npc board zombies fireball asteroid monsters aliens rematch enemies enemys helicopter plow camera enemie pokemon goalkeeper ai player2 marble
+----------search hits----------
+Player.mute()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Player.java 177 203
+Player.mute(boolean)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Player.java 206 231
+----------total 2 hits----------
+
+

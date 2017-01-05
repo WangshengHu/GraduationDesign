@@ -1,0 +1,4 @@
+tab,round,0.666666666666667,1,Tab Rectangle Element,Round Rectangle Report Element
+tab,draw,0.666666666666667,2,Tab Graphics Element,draw Graphics Element,Tab Graphics Element,draw Graphics Element
+tab,read,0.666666666666667,1,Tab Font Element,read Font Element
+add,new,0.666666666666667,1,add undo operation,new undo

@@ -1,0 +1,55 @@
+PROJECT : javaHMO  QUERY : get movie thumbnail
+****************************SWordNet****************************
+
+----------expansion num : 30 ----------
+----------expansion----------
+thumbnail : cancel playlist recorded connection broadcast download image timed rotation listen recordings
+movie : jukebox stocks gallery playlists shoutcast email internet web weather organizer images music file games empty nntp playlist rss desktop
+----------search hits----------
+StocksItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\stocks\StocksItem.java 85 245
+PlaylistProxy.getFile(File, String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlaylistProxy.java 106 133
+PlaylistProxy.getItem(TiVoDocumentRequest)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlaylistProxy.java 181 192
+DesktopItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\desktop\DesktopItem.java 61 127
+EmailItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\email\EmailItem.java 69 230
+MovieItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\movies\MovieItem.java 72 369
+InternetImageItem.getCaptureDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\InternetImageItem.java 188 190
+InternetImageItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\InternetImageItem.java 62 67
+PlaylistProxy.getItems(TiVoQueryContainerRequest)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlaylistProxy.java 172 179
+RssItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\rss\RssItem.java 69 236
+PlaylistProxy.getGroup()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlaylistProxy.java 228 230
+InternetImageItem.getCreationDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\InternetImageItem.java 180 182
+WeatherItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\weather\WeatherItem.java 66 448
+InternetImageItem.getPath()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\InternetImageItem.java 159 169
+PlaylistProxy.getSourceFormat()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlaylistProxy.java 224 226
+RssChannel.getChannelImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\rss\RssChannel.java 227 236
+iTunesContainer.getPlaylistPath()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\iTunes\iTunesContainer.java 283 285
+InternetImageItem.getLastChangedDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\InternetImageItem.java 184 186
+PlaylistContainer.getItemByUrl(ArrayList, String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlaylistProxy.java 163 167
+RssChannel.getImagePath()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\rss\RssChannel.java 238 247
+PlaylistProxy.getContentType()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlaylistProxy.java 220 222
+----------total 21 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 120 ----------
+----------expansion----------
+thumbnail : thumbnails image gallery images photo logo1 video jpeg previews jpg pictures picture photos renditions png gridview 9gag gif imagename bitmap slideshow videos pics imageview 640x480 galleries pdf dicom album buffred crop dcard logos desert cropping bmp panoramic image1 4131 512x512
+movie : movies film theater theatre genre imdb song showtimes genres films hollywood subtitles subtitle artists artist playlist titles comedy cinema dvd ratings rating subgenres srt songs superman album jukebox hotel itinerary avi scenic goldeneye person directors cataloging article2 video lyrics lyric
+get : obtain retrieve retreive grab getting return receive returns pass retrive assign gives fetch returned reassign obtained obtaining display returning extract throws print set recieve recover find gets extarct append got parse remove giving gettting obtains show initialize spit send correlate
+----------search hits----------
+Mp3Wrapper.setAlbum(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 153 155
+AudioProxy.setAlbum(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\AudioProxy.java 107 109
+Mp3Wrapper.getAlbum()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 149 151
+AudioProxy.getAlbum()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\AudioProxy.java 102 105
+AudioTiVoItem.getAlbumYear()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\AudioTiVoItem.java 40 40
+Mp3UrlProxy.getAlbum()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\Mp3UrlProxy.java 51 53
+AudioTiVoItem.getAlbum()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\AudioTiVoItem.java 34 34
+MovieItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\movies\MovieItem.java 72 369
+Mp3Wrapper.setAlbumYear(int)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 177 179
+Mp3UrlProxy.getAlbumYear()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\Mp3UrlProxy.java 63 65
+AudioProxy.setAlbumYear(int)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\AudioProxy.java 134 136
+Mp3Wrapper.getAlbumYear()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 173 175
+AudioProxy.getAlbumYear()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\AudioProxy.java 129 132
+----------total 13 hits----------
+
+

@@ -1,0 +1,44 @@
+PROJECT : jajuk  QUERY : remove song playlist
+****************************SWordNet****************************
+
+----------expansion num : 12 ----------
+----------expansion----------
+playlist : item track device change album view refresh
+remove : request return add delete create
+----------search hits----------
+----------total 0 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 120 ----------
+----------expansion----------
+song : songs playlist music artist mp3 lyrics soundfile m4a playcount lyric artists chords sound mediaplayer movie mp3s wav audios album clip song1 audiotrack audio soundpool sound3 midis audiofile clips genre subtitle video musics clip9 tracks playback ogg metronome mp mp3agic playlists
+playlist : song songs playlists playcount m3u8 artist artists genres musics m3u music mp3 album lyric lyrics m4a movie karaoke audios brainz video genre theater mp3s webm favourites movies dvd mediaplayer audio mpeg4 youtube videoview subtitles song1 playback videos artwork quicktime mp
+remove : removes removing add delete removed replace deletes erase adds adding replaces deleting removal reinsert ignore replacing hide modify eliminate exclude overwrite omit discards eliminating added append skip highlight erases deleted discard put evict excluding preserve rearranges eldest ignoring change assign
+----------search hits----------
+Directory.changePlaylistFile(PlaylistFile, PlaylistFile)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 238 244
+AlbumManager.changeAlbumName(Album, String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\AlbumManager.java 99 125
+PlaylistFile.replaceFile(File, File)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFile.java 467 512
+Directory.addPlaylistFile(PlaylistFile)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 154 160
+PlaylistFile.addFile(File)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFile.java 344 352
+PlaylistFile.addFile(int, File)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFile.java 310 341
+AbstractPlaylistEditorView.columnChange()  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\AbstractPlaylistEditorView.java 469 473
+AbstractPlaylistEditorView.columnRemoved(TableColumnModelEvent)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\AbstractPlaylistEditorView.java 479 481
+TrackManager.changeTrackAlbum(Track, String, HashSet)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\TrackManager.java 150 184
+PlaylistManager.removePlaylist(Playlist)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistManager.java 130 171
+PlaylistManager.removePlaylistFile(PlaylistFile)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistManager.java 116 128
+AbstractPlaylistEditorView.columnAdded(TableColumnModelEvent)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\AbstractPlaylistEditorView.java 475 477
+Playlist.removePlaylistFile(PlaylistFile)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Playlist.java 145 150
+PlaylistFileManager.removePlaylistFile(PlaylistFile)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFileManager.java 93 119
+PlaylistFile.addFiles(ArrayList)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFile.java 354 372
+Playlist.addFile(PlaylistFile)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Playlist.java 130 142
+PlaylistFileManager.changePlaylistFileName(PlaylistFile, String)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFileManager.java 166 218
+PlaylistFile.remove(int)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFile.java 415 430
+PlaylistFile.remove(File)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\PlaylistFile.java 432 465
+PhysicalPlaylistRepositoryView.removeItem(PlaylistFileItem)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\PhysicalPlaylistRepositoryView.java 112 121
+LogicalPlaylistRepositoryView.removeItem(PlaylistFileItem)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\LogicalPlaylistRepositoryView.java 115 120
+AbstractPlaylistRepositoryView.removeItem(PlaylistFileItem)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\ui\views\AbstractPlaylistRepositoryView.java 377 377
+Directory.removePlaylistFile(PlaylistFile)  @D:\Code\Repos\swordnet_java\projects\jajuk\src\org\jajuk\base\Directory.java 162 170
+----------total 23 hits----------
+
+

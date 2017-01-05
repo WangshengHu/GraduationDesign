@@ -1,0 +1,8 @@
+IReportCompiler.IReportCompiler()
+IReportCompiler.run()
+IReportCompiler.start()
+MainFrame.getTranslatedCompileDirectory()
+MainFrame.isUsingCurrentFilesDirectoryForCompiles()
+MainFrame.jButtonCompilerActionPerformed(ActionEvent)
+MainFrame.jButtonRun1ActionPerformed(ActionEvent)
+MainFrame.jButtonRun2ActionPerformed(ActionEvent)

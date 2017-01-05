@@ -1,0 +1,48 @@
+PROJECT : iReport  QUERY : set chart attributes
+****************************SWordNet****************************
+
+----------expansion num : 110 ----------
+----------expansion----------
+set : return
+chart : documentstructuretreenode projectinfo jrcvsdatasource jrdatasourceproviderconnection ireportfont actionshrinkselected imagecellrenderer textfieldreportelement charttitle dataset fontlistloader jnumbercombobox abstractlibraryobject plot tag treetransferthandler report box ireportcompiler samplebean valuechangedevent jrpdfexporter simplecomboboxeditor ircompilerdocument pagenumberobject piedataset numberdocument groupelement reportbandchangedevent ireporttemplate scriptletcode jradiobuttonmenuitemmdiframe addressbean formatelementsoperation chartdefinition chartcellrenderer jrchartreportelement timeseriesdataset reportlistenerelementchangedevent hobby helloworld languagechangedevent iconedstring personbean reportelementsheetpanel pluginentry piechart fileentry jsqltablespane misc sheetproperty jmdimenubar jdbcconnection transferableobject unit insertelementoperation pieplot jrtextexpressionarea categoryseries messagebox reportlistenerelementsselectionevent treenode jnumberfield jrsubreportparameter pdfencoding sheetpropertyvaluechanged reportpaneltooltip jrulepane jreportpanel removemarginsoperation customexpression chartdescriptor documenttreeentry jrireportdefaultscriptlet jrproperty massivecompiler irfont jrsubreportreturnvalue elementfactory statictextreportelement internalframeactivatedevent chartreportelement property rectangle key xmlgraphic presentation sub barcode dchart dplot renew line text language serie frame xmlreport font xmltext selected jbtree parent graphic image find ellipse update info
+----------search hits----------
+----------total 0 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 120 ----------
+----------expansion----------
+set : setting sets setted change assign add specify adjusting assigns cate changed changing specified defined assigned binded returns get whose reassign reset default adjust inited specifying assigning unset added holds property determined define put attribute adding fill initialize return resets correspond
+attributes : attribute fields elements values tags objects parameters members property entities ids variables properties children subclasses names roles parents pojo member tag namespaces associated prefixes columns element id mappings object atribute attr params attrs atributes methods fileds field categories relationships relations
+chart : charts barchart chart3 plot freechart scatter candlestick jqplot timeseries gral graph thickens linechart pie plots boxplots jfreechart graphs achartengine ohlc xy doughnut teechart charting gantt piechart bargraphs bargraph plotting visualisation visualization gridline subplot highchart plotted amcharts donut legend datatip jfree
+----------search hits----------
+AvailableCharts.addChartSheetProperties(ChartDefinition)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\AvailableCharts.java 131 149
+ChartPropertiesDialog.sheetPropertyValueChanged(SheetPropertyValueChangedEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1242 1319
+ChartPropertiesDialog.setDatasetPanel(Dataset)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1378 1436
+ChartReportElement.getProps()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\ChartReportElement.java 87 89
+ChartPropertiesDialog.setPlotSheetProperties(Plot)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1438 1605
+DefaultChartFactory.setChartProperties(Properties, JFreeChart)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\DefaultChartFactory.java 262 289
+ChartPropertiesDialog.setChartElement(ChartReportElement2)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 31 174
+ChartPropertiesDialog.jTableDatasetParametersListSelectionValueChanged(ListSelectionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 279 288
+ChartDefinition.setSheetProperties(Vector)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\ChartDefinition.java 79 81
+IReportChartDialog.getProperties()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\IReportChartDialog.java 214 216
+ChartDefinition.getSheetProperties()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\ChartDefinition.java 75 77
+ChartPropertiesDialog.getJReportFrame()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1233 1235
+ChartPropertiesDialog.jButtonAddParameterActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 837 852
+ChartPropertiesDialog.jRTextExpressionAreaTextConnectionExpressionTextChanged()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 268 277
+ChartPropertiesDialog.setDialogResult(int)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1229 1231
+ChartPropertiesDialog.getDialogResult()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1225 1227
+ChartPropertiesDialog.jRTextExpressionAreaMapExpressionTextChanged()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 260 266
+DefaultChartFactory.parseProperties(String[])  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\DefaultChartFactory.java 293 304
+ChartPropertiesDialog.addCommonChartProperties()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1153 1223
+ChartPropertiesDialog.setInit(boolean)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1611 1613
+ChartPropertiesDialog.setJReportFrame(JReportFrame)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1237 1240
+ChartReportElement.setProps(Properties)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\ChartReportElement.java 91 93
+IReportChartDialog.setProperties(Properties)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\IReportChartDialog.java 154 204
+PageXYObject.getName()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\library\objects\PageXYObject.java 28 31
+PageXYObject.getIcon()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\gui\library\objects\PageXYObject.java 56 59
+ChartPropertiesDialog.jComboBoxResetGroupActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1079 1084
+ChartPropertiesDialog.jComboBoxResetTypeActionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1086 1106
+----------total 27 hits----------
+
+

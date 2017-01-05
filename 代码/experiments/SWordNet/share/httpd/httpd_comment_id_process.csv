@@ -1,0 +1,1727 @@
+eos,transient, 0.75,1,apr bucket eos make,apr bucket transient make
+maint,start, 0.5,1,cgid maint,cgid start
+pstrndup,pstrcatv, 0.5,1,apr pstrndup,apr pstrcatv
+ftp,balancer, 0.8,2,ap proxy ftp register hook,ap proxy balancer register hook,proxy ftp canon,proxy balancer canon
+win,netware, 0.666666666666667,1,win pre config,netware pre config
+usage,interrupted, 0.5,1,htdbm usage,htdbm interrupted
+create,signal, 0.5,1,create threads,signal threads
+entity,postfile, 0.5,1,open entity,open postfile
+prot,symlink, 0.5,1,resolve prot,resolve symlink
+eoc,immortal, 0.5,1,ap bucket eoc make,apr bucket immortal make
+exports,connection, 0.5,1,read exports,read connection
+init,release, 0.5,1,lock init,lock release
+palloc,pstrdup, 0.5,1,apr palloc,apr pstrdup
+report,delete, 0.666666666666667,1,dav method report,dav method delete
+exists,freedatum, 0.666666666666667,4,vt db exists,vt db freedatum,vt gdbm exists,vt gdbm freedatum,vt sdbm exists,vt sdbm freedatum,vt ndbm exists,vt ndbm freedatum
+atoi,pstrmemdup, 0.5,1,apr atoi,apr pstrmemdup
+mmap,cdata, 0.5,1,mmap handler,cdata handler
+copy,write, 0.5,1,copy request,write request
+fixup,needsdomain, 0.5,1,proxy fixup,proxy needsdomain
+quoted,connection, 0.5,1,read quoted,read connection
+type,access, 0.666666666666667,1,x type checker,x access checker
+child,reqtimeout, 0.5,1,child init,reqtimeout init
+kat,exists, 0.5,1,rand kat,rand exists
+check,unblock, 0.5,1,check signal,unblock signal
+suexec,filter, 0.5,1,suexec hooks,filter hooks
+excl,readwrite, 0.666666666666667,1,test open excl,test open readwrite
+socket,filename, 0.5,1,create socket,create filename
+oracle,sqlite, 0.8,12,dbd oracle num tuples,dbd sqlite num tuples,dbd oracle num cols,dbd sqlite num cols,dbd sqlite end transaction,dbd oracle end transaction,dbd sqlite transaction mode get,dbd oracle transaction mode get,dbd sqlite pselect,dbd oracle pselect,dbd sqlite query,dbd oracle query,dbd oracle bind,dbd sqlite bind,dbd oracle num cols,dbd sqlite num tuples,dbd sqlite num cols,dbd oracle num tuples,dbd oracle pbselect,dbd sqlite pbselect,dbd oracle pbquery,dbd sqlite pbquery,dbd sqlite pquery,dbd oracle pquery
+notrel,notrelfail, 0.5,1,merge notrel,merge notrelfail
+socket make,setaside notimpl, 0.5,1,apr bucket socket make,apr bucket setaside notimpl
+entity,listeners, 0.5,1,open entity,open listeners
+label,unlock, 0.666666666666667,1,dav method label,dav method unlock
+pre,process, 0.666666666666667,1,x pre connection,x process connection
+read,writecreate, 0.666666666666667,1,test open read,test open writecreate
+setget,incrdecr, 0.666666666666667,1,test memcache setget,test memcache incrdecr
+ipaddr,hostname, 0.666666666666667,1,proxy match ipaddr,proxy match hostname
+exec,multi, 0.5,1,handle exec,handle multi
+clear,inaddr, 0.5,1,hash clear,hash inaddr
+menu,terminate, 0.5,1,menu header,terminate header
+setup,pstrmemdup, 0.5,1,apr setup,apr pstrmemdup
+trans,server, 0.5,1,proxy trans,proxy server
+puts,flush, 0.75,1,bio filter out puts,bio filter out flush
+blank,footer, 0.5,1,menu blank,menu footer
+threads,testfile, 0.5,1,create threads,create testfile
+imap,start, 0.5,1,imap handler,start handler
+mime,winnt, 0.666666666666667,1,mime post config,winnt post config
+footer,comment, 0.5,1,menu footer,menu comment
+proc,accept, 0.666666666666667,1,proc mutex cleanup,accept mutex cleanup
+copymove,checkout, 0.666666666666667,1,dav method copymove,dav method checkout
+cookie,worker, 0.5,2,make cookie,make worker,add worker,add cookie
+export,import, 0.666666666666667,2,export log transaction,import log transaction,export register hooks,import register hooks
+child,master, 0.5,1,child main,master main
+beosd,prefork, 0.666666666666667,1,beosd pre config,prefork pre config
+receiver,processor, 0.666666666666667,1,null notice receiver,null notice processor
+dotdot,notabsfail, 0.5,1,merge dotdot,merge notabsfail
+connect,balancer, 0.8,2,ap proxy connect register hook,ap proxy balancer register hook,proxy connect canon,proxy balancer canon
+pcalloc,pstrndup, 0.5,1,apr pcalloc,apr pstrndup
+aboveroot,belowroot, 0.5,1,merge aboveroot,merge belowroot
+pool make,setaside notimpl, 0.5,1,apr bucket pool make,apr bucket setaside notimpl
+cerror,perror, 0.666666666666667,1,ap log cerror,ap log perror
+dbd,prefork, 0.5,1,dbd hooks,prefork hooks
+beos,header, 0.666666666666667,1,beos pre config,header pre config
+merge,propfind, 0.666666666666667,1,dav method merge,dav method propfind
+add,xchg, 0.5,1,busyloop add,busyloop xchg
+child,tables, 0.5,1,initialize child,initialize tables
+allprops,overwrite, 0.666666666666667,1,dav get allprops,dav get overwrite
+job,keepalive, 0.5,1,remove job,remove keepalive
+add,unset, 0.5,1,table add,table unset
+out,save, 0.666666666666667,1,cache out filter,cache save filter
+worker,cleanup, 0.5,1,worker thread,cleanup thread
+log,header, 0.666666666666667,1,log pre config,header pre config
+socket,threads, 0.5,1,create socket,create threads
+label,checkin, 0.666666666666667,1,dav method label,dav method checkin
+util ldap,accept mutex, 0.5,1,util ldap child init,accept mutex child init
+bind,delete, 0.666666666666667,1,dav method bind,dav method delete
+strtoi,pcalloc, 0.5,1,apr strtoi,apr pcalloc
+flush make,setaside notimpl, 0.5,1,apr bucket flush make,apr bucket setaside notimpl
+post,proppatch, 0.666666666666667,1,dav method post,dav method proppatch
+wait,launch, 0.5,1,wait child,launch child
+dbm error,internal walk, 0.5,1,dav fs dbm error,dav fs internal walk
+flush,socket, 0.75,1,apr bucket flush make,apr bucket socket make
+fix,isfixed, 0.75,1,ssl config global fix,ssl config global isfixed
+dtd,hash, 0.5,1,dtd reset,hash reset
+pstrndup,terminate, 0.5,1,apr pstrndup,apr terminate
+null,underflow, 0.5,1,snprintf null,snprintf underflow
+apr,htdbm, 0.5,1,apr terminate,htdbm terminate
+asis,imap, 0.5,1,asis handler,imap handler
+event,suexec, 0.5,1,event hooks,suexec hooks
+log,beosd, 0.666666666666667,1,log pre config,beosd pre config
+palloc,pstrcatv, 0.5,1,apr palloc,apr pstrcatv
+dir,dflt, 0.5,1,fixup dir,fixup dflt
+suexec,reqtimeout, 0.5,1,suexec hooks,reqtimeout hooks
+exec,yylex, 0.666666666666667,1,ssl expr exec,ssl expr yylex
+isapi,event, 0.5,1,isapi hooks,event hooks
+merge,proppatch, 0.666666666666667,1,dav method merge,dav method proppatch
+empty,unique, 0.5,1,overlay empty,overlay unique
+cgi,balancer, 0.5,1,cgi handler,balancer handler
+poll,pstrmemdup, 0.5,1,apr poll,apr pstrmemdup
+err,pstrndup, 0.5,1,apr err,apr pstrndup
+full,buffered, 0.666666666666667,1,test writev full,test writev buffered
+rprintf,proxyerror, 0.5,1,ap rprintf,ap proxyerror
+child,cookie, 0.5,1,make child,make cookie
+tcp,create, 0.5,1,tcp socket,create socket
+tz,gmt, 0.75,1,apr time exp tz,apr time exp gmt
+excl,writecreate, 0.666666666666667,1,test open excl,test open writecreate
+file,flush, 0.75,1,apr bucket file make,apr bucket flush make
+err,setup, 0.5,1,apr err,apr setup
+locale,default, 0.75,1,apr os locale encoding,apr os default encoding
+job,entity, 0.5,1,remove job,remove entity
+apr,error, 0.666666666666667,1,apr bucket destroy,error bucket destroy
+x,xlate, 0.666666666666667,1,x insert filter,xlate insert filter
+size,ssize, 0.666666666666667,1,size t fmt,ssize t fmt
+error,immortal, 0.5,1,ap bucket error make,apr bucket immortal make
+speling,hostalias, 0.5,1,check speling,check hostalias
+close,dummy, 0.5,2,close connection,dummy connection,close connection,dummy connection
+new,display, 0.5,1,new info,display info
+put,checkout, 0.666666666666667,1,dav method put,dav method checkout
+exit,cleanup, 0.5,1,exit thread,cleanup thread
+free,init, 0.75,1,ssl tmp keys free,ssl tmp keys init
+clear,count, 0.5,1,hash clear,hash count
+poll,create, 0.666666666666667,1,apr pollset poll,apr pollset create
+udp,create, 0.5,1,udp socket,create socket
+label,copymove, 0.666666666666667,1,dav method label,dav method copymove
+bind,merge, 0.666666666666667,1,dav method bind,dav method merge
+init,pquery, 0.666666666666667,4,dbd freetds init,dbd freetds pquery,odbc init,odbc pquery,dbd oracle init,dbd oracle pquery,dbd mysql init,dbd mysql pquery
+atomic,pollset, 0.666666666666667,1,apr atomic add,apr pollset add
+ctrl,write, 0.75,1,bio filter out ctrl,bio filter out write
+timeout,trigger, 0.5,1,timeout pollcb,trigger pollcb
+open,setup, 0.5,1,open listeners,setup listeners
+pcalloc,vformatter, 0.5,1,apr pcalloc,apr vformatter
+lob,file, 0.75,2,apr bucket lob make,apr bucket file make,lob bucket destroy,file bucket destroy
+setget,addreplace, 0.666666666666667,1,test memcache setget,test memcache addreplace
+imap,cdata, 0.5,1,imap handler,cdata handler
+oracle,freetds, 0.8,10,dbd oracle num tuples,dbd freetds num tuples,dbd oracle num cols,dbd freetds num cols,dbd oracle end transaction,dbd freetds end transaction,dbd oracle transaction mode get,dbd freetds transaction mode get,dbd oracle pselect,dbd freetds pselect,dbd oracle query,dbd freetds query,dbd oracle num cols,dbd freetds num tuples,dbd freetds num cols,dbd oracle num tuples,dbd oracle init,dbd freetds init,dbd oracle pquery,dbd freetds pquery
+make,reindex, 0.5,1,table make,table reindex
+dbd,beos, 0.5,1,dbd hooks,beos hooks
+exchange,decrement, 0.5,1,interlocked exchange,interlocked decrement
+recv,setup, 0.5,1,recv pollset,setup pollset
+sha,child, 0.5,1,sha init,child init
+sbcs,gzip, 0.5,1,check sbcs,check gzip
+trans,needsdomain, 0.5,1,proxy trans,proxy needsdomain
+core,xlate, 0.666666666666667,1,core insert filter,xlate insert filter
+ct,allowdeny, 0.5,1,find ct,find allowdeny
+magic,reqtimeout, 0.5,1,magic init,reqtimeout init
+main,init, 0.5,1,child main,child init
+server,needsdomain, 0.5,1,proxy server,proxy needsdomain
+setup,pstrcatv, 0.5,1,apr setup,apr pstrcatv
+same,empty, 0.5,1,overlay same,overlay empty
+read,readwrite, 0.666666666666667,1,test open read,test open readwrite
+recv,send, 0.666666666666667,2,recv pollset,send pollset,send large pollarray,recv large pollarray
+send,error, 0.5,1,send message,error message
+checkin,checkout, 0.666666666666667,1,dav method checkin,dav method checkout
+bytes,socket, 0.5,1,alloc bytes,alloc socket
+ssl,just, 0.5,1,ssl die,just die
+request note,include handler, 0.5,1,ap register request note,ap register include handler
+unlock,checkin, 0.666666666666667,1,dav method unlock,dav method checkin
+conn,config, 0.666666666666667,1,logio pre conn,logio pre config
+cpystrn,terminate, 0.5,1,apr cpystrn,apr terminate
+oc,users, 0.666666666666667,1,oc not impl,users not impl
+ct,thread, 0.5,1,find ct,find thread
+cleanup,userdata, 0.5,1,socket cleanup,socket userdata
+open,redir, 0.666666666666667,1,test file open,test file redir
+dotdot,lowercasedrive, 0.5,1,merge dotdot,merge lowercasedrive
+setup,strtoi, 0.5,1,apr setup,apr strtoi
+error,strtoff, 0.5,1,string error,string strtoff
+empty,setenvif, 0.666666666666667,1,create empty config,create setenvif config
+odbc,filter, 0.5,1,odbc init,filter init
+strtoi,pstrndup, 0.5,1,apr strtoi,apr pstrndup
+create,wakeup, 0.666666666666667,1,apr pollset create,apr pollset wakeup
+key,entry, 0.5,1,delete key,delete entry
+cgi,cdata, 0.5,1,cgi handler,cdata handler
+header,signal, 0.5,2,send headers,send signaled,send header,send signal
+file,pipe, 0.75,1,apr bucket file make,apr bucket pipe make
+cgid,status, 0.5,1,cgid handler,status handler
+log,send, 0.5,1,log headers,send headers
+isapi,register, 0.5,1,isapi hooks,register hooks
+pstrdup,pstrndup, 0.5,1,apr pstrdup,apr pstrndup
+gdbm,ndbm, 0.666666666666667,3,vt gdbm close,vt ndbm close,vt ndbm freedatum,vt gdbm freedatum,vt ndbm exists,vt gdbm exists
+secure,notabs, 0.5,1,merge secure,merge notabs
+file,pool, 0.75,2,apr bucket file make,apr bucket pool make,file bucket destroy,pool bucket destroy
+ef,reqtimeout, 0.5,1,ef init,reqtimeout init
+err,cpystrn, 0.5,1,apr err,apr cpystrn
+bind,pbquery, 0.666666666666667,2,dbd sqlite bind,dbd sqlite pbquery,dbd oracle bind,dbd oracle pbquery
+excl,write, 0.666666666666667,1,test open excl,test open write
+secure,notrel, 0.5,1,merge secure,merge notrel
+import,charset, 0.666666666666667,1,import register hooks,charset register hooks
+noflag,dotdot, 0.5,1,merge noflag,merge dotdot
+data,settings, 0.666666666666667,1,show server data,show server settings
+win,prefork, 0.666666666666667,1,win pre config,prefork pre config
+mmap,memcache, 0.666666666666667,1,test mmap create,test memcache create
+asis,cgid, 0.5,1,asis handler,cgid handler
+x,default, 0.5,1,x handler,default handler
+term,coredump, 0.5,1,sig term,sig coredump
+noflag,secure, 0.5,1,merge noflag,merge secure
+basic,digest, 0.666666666666667,1,authenticate basic user,authenticate digest user
+strtoi,pstrmemdup, 0.5,1,apr strtoi,apr pstrmemdup
+default,balancer, 0.5,1,default handler,balancer handler
+proc mutex,thread rwlock, 0.5,1,apr proc mutex destroy,apr thread rwlock destroy
+stop,remove, 0.666666666666667,1,stop console handler,remove console handler
+readwrite,writecreate, 0.666666666666667,1,test open readwrite,test open writecreate
+itoa,initialize, 0.5,1,apr itoa,apr initialize
+notabsfail,lowercasedrive, 0.5,1,merge notabsfail,merge lowercasedrive
+asis,status, 0.5,1,asis handler,status handler
+poll,setup, 0.5,1,apr poll,apr setup
+winnt,worker, 0.666666666666667,2,winnt open logs,worker open logs,winnt hooks,worker hooks
+dav,cdata, 0.5,1,dav handler,cdata handler
+sync,remove, 0.666666666666667,1,apr file sync,apr file remove
+udp,sslize, 0.5,1,udp socket,sslize socket
+error,cpystrn, 0.5,1,string error,string cpystrn
+lock,merge, 0.666666666666667,1,dav method lock,dav method merge
+read,flush, 0.75,1,bio filter out read,bio filter out flush
+isapi,filter, 0.5,1,isapi hooks,filter hooks
+mkcol,report, 0.666666666666667,1,dav method mkcol,dav method report
+log,netware, 0.666666666666667,1,log pre config,netware pre config
+lob,socket, 0.75,1,apr bucket lob make,apr bucket socket make
+oid,strcmplex, 0.75,1,ssl expr eval oid,ssl expr eval strcmplex
+cgid,mmap, 0.5,1,cgid handler,mmap handler
+detect,needsdomain, 0.5,1,proxy detect,proxy needsdomain
+pbquery,pbselect, 0.666666666666667,4,dbd sqlite pbquery,dbd sqlite pbselect,dbd oracle pbquery,dbd oracle pbselect,dbd mysql pbquery,dbd mysql pbselect,dbd pgsql pbquery,dbd pgsql pbselect
+add,swap, 0.5,1,atomic add,atomic swap
+send,edit, 0.5,1,send header,edit header
+request note,server version, 0.5,1,ap get request note,ap get server version
+put,uncheckout, 0.666666666666667,1,dav method put,dav method uncheckout
+pool,errfn, 0.5,1,child pool,child errfn
+inet,parse, 0.5,1,inet network,parse network
+bind,checkin, 0.666666666666667,1,dav method bind,dav method checkin
+vary,redir, 0.5,1,fixup vary,fixup redir
+dbd open,pollset create, 0.5,1,apr dbd open ex,apr pollset create ex
+strtoi,vformatter, 0.5,1,apr strtoi,apr vformatter
+query,pbquery, 0.666666666666667,4,dbd sqlite query,dbd sqlite pbquery,dbd oracle query,dbd oracle pbquery,dbd mysql query,dbd mysql pbquery,dbd pgsql query,dbd pgsql pbquery
+log,prefork, 0.666666666666667,1,log pre config,prefork pre config
+lob,error, 0.666666666666667,2,apr bucket lob make,ap bucket error make,lob bucket destroy,error bucket destroy
+x,y, 0.666666666666667,1,get x coord,get y coord
+create,addreplace, 0.666666666666667,1,test memcache create,test memcache addreplace
+proc,mimetype, 0.5,1,hook proc,hook mimetype
+win,winnt, 0.666666666666667,1,win pre config,winnt pre config
+pstrndup,initialize, 0.5,1,apr pstrndup,apr initialize
+smmem,shmem, 0.666666666666667,1,apr smmem init,apr shmem init
+multiget,addreplace, 0.666666666666667,1,test memcache multiget,test memcache addreplace
+thread,allowdeny, 0.5,1,find thread,find allowdeny
+apr,cache, 0.666666666666667,1,apr hash next,cache hash next
+func,state, 0.5,1,init func,init state
+init,hooks, 0.5,2,reqtimeout init,reqtimeout hooks,filter init,filter hooks
+eos,flush, 0.75,1,apr bucket eos make,apr bucket flush make
+dotdot,notrel, 0.5,1,merge dotdot,merge notrel
+cpystrn,pstrndup, 0.5,1,apr cpystrn,apr pstrndup
+socket,transient, 0.75,1,apr bucket socket make,apr bucket transient make
+setup,timeout, 0.5,1,setup pollcb,timeout pollcb
+cgid,start, 0.5,1,cgid handler,start handler
+pstrcatv,vformatter, 0.5,1,apr pstrcatv,apr vformatter
+string,brigade, 0.5,1,getsfunc string,getsfunc brigade
+message,signaled, 0.5,1,send message,send signaled
+stdin,stderr, 0.8,1,apr file open flags stdin,apr file open flags stderr
+fixups,cleanup, 0.5,1,dir fixups,dir cleanup
+log,listeners, 0.5,1,open log,open listeners
+create,multiget, 0.666666666666667,1,test memcache create,test memcache multiget
+pollcb,pollset, 0.75,3,apr pollcb create ex,apr pollset create ex,setup pollcb,setup pollset,pollcb default,pollset default
+create,sslize, 0.5,1,create socket,sslize socket
+prep,count, 0.5,1,prep string,count string
+self,equal, 0.5,1,pthread self,pthread equal
+pool,immortal, 0.75,1,apr bucket pool make,apr bucket immortal make
+lock,child, 0.5,1,lock init,child init
+yylex,yyerror, 0.666666666666667,1,ssl expr yylex,ssl expr yyerror
+activity,workspace, 0.75,1,dav method make activity,dav method make workspace
+def,call, 0.666666666666667,1,def window proc,call window proc
+make,reset, 0.5,1,hash make,hash reset
+atoi,vformatter, 0.5,1,apr atoi,apr vformatter
+meta,incrdecr, 0.666666666666667,1,test memcache meta,test memcache incrdecr
+write,writecreate, 0.666666666666667,1,test open write,test open writecreate
+isapi,winnt, 0.666666666666667,2,isapi pre config,winnt pre config,winnt hooks,isapi hooks
+init,destroy, 0.5,1,lock init,lock destroy
+listeners,rewritelog, 0.5,1,open listeners,open rewritelog
+search,compare, 0.8,3,util ldap search node hash,util ldap compare node hash,util ldap search node compare,util ldap compare node compare,util ldap search node hash,util ldap compare node compare
+dflt,redir, 0.5,1,fixup dflt,fixup redir
+action,default, 0.5,1,action handler,default handler
+on,init, 0.666666666666667,1,accept mutex on,accept mutex init
+proxy,cookie, 0.5,1,add proxy,add cookie
+start,balancer, 0.5,1,start handler,balancer handler
+poll,strtoi, 0.5,1,apr poll,apr strtoi
+open,close, 0.666666666666667,2,test file open,test file close,apr file open,apr file close
+mmap,start, 0.5,1,mmap handler,start handler
+clear,alphasort, 0.5,1,array clear,array alphasort
+proxy,sendfile, 0.5,1,proxy handler,sendfile handler
+notabs,notabsfail, 0.5,1,merge notabs,merge notabsfail
+logger,handler, 0.5,1,x logger,x handler
+url,search, 0.8,4,util ldap url node hash,util ldap search node hash,util ldap url node compare,util ldap search node compare,util ldap url node compare,util ldap search node hash,util ldap url node hash,util ldap search node compare
+main,hooks, 0.5,1,worker main,worker hooks
+make,nelts, 0.5,1,table make,table nelts
+exec,yyparse, 0.666666666666667,1,ssl expr exec,ssl expr yyparse
+add,create, 0.666666666666667,1,apr pollset add,apr pollset create
+imap,action, 0.5,1,imap handler,action handler
+locks,hostalias, 0.5,1,check locks,check hostalias
+rprintf,rgetline, 0.5,1,ap rprintf,ap rgetline
+init,cleanup, 0.666666666666667,1,accept mutex init,accept mutex cleanup
+setup,pstrdup, 0.5,1,apr setup,apr pstrdup
+dbd open,brigade split, 0.5,1,apr dbd open ex,apr brigade split ex
+isapi,prefork, 0.666666666666667,2,isapi pre config,prefork pre config,isapi hooks,prefork hooks
+lt,tz, 0.75,2,apr time exp lt,apr time exp tz,test exp tz,test exp lt
+open,create, 0.5,1,open entity,create entity
+start,server, 0.5,1,cgid start,cgid server
+hooks,accept, 0.5,1,winnt hooks,winnt accept
+x,dumpio, 0.666666666666667,1,x register hooks,dumpio register hooks
+dec,add, 0.666666666666667,2,atomic dec nv,atomic add nv,busyloop dec,busyloop add
+free,strncpy, 0.666666666666667,1,yy flex free,yy flex strncpy
+itoa,pstrmemdup, 0.5,1,apr itoa,apr pstrmemdup
+cache,memcache, 0.666666666666667,1,cache cache free,memcache cache free
+noflag,belowroot, 0.5,1,merge noflag,merge belowroot
+pid,after, 0.5,1,log pid,log after
+cgi,status, 0.5,1,cgi handler,status handler
+clear,traverse, 0.5,1,hash clear,hash traverse
+cgid,sendfile, 0.5,1,cgid handler,sendfile handler
+cdata,start, 0.5,1,cdata handler,start handler
+unlock,checkout, 0.666666666666667,1,dav method unlock,dav method checkout
+bytetoascii,charmatches, 0.5,2,big bytetoascii,big charmatches,little bytetoascii,little charmatches
+ajp,balancer, 0.666666666666667,1,proxy ajp canon,proxy balancer canon
+sha,odbc, 0.5,1,sha init,odbc init
+exists,barrier, 0.5,1,rand exists,rand barrier
+dotdot,belowroot, 0.5,1,merge dotdot,merge belowroot
+bind,update, 0.666666666666667,1,dav method bind,dav method update
+show,sslsessionget, 0.5,1,show time,sslsessionget time
+redir,remove, 0.666666666666667,1,test file redir,test file remove
+filter,thread, 0.5,1,filter init,thread init
+pstrdup,terminate, 0.5,1,apr pstrdup,apr terminate
+ldap,remote, 0.666666666666667,1,get ldap host,get remote host
+gets,write, 0.75,1,bio filter out gets,bio filter out write
+defname,unlock, 0.5,1,apr proc mutex defname,apr thread mutex unlock
+discard,register, 0.5,1,ap discard request body,ap register request note
+meta,create, 0.666666666666667,1,test memcache meta,test memcache create
+noflag,aboveroot, 0.5,1,merge noflag,merge aboveroot
+dbd open,pollcb create, 0.5,1,apr dbd open ex,apr pollcb create ex
+url,lockfile, 0.5,1,remove url,remove lockfile
+before,headers, 0.5,1,log before,log headers
+ef,child, 0.5,1,ef init,child init
+dav,sendfile, 0.5,1,dav handler,sendfile handler
+socket,entity, 0.5,1,create socket,create entity
+table,atomic, 0.5,1,table add,atomic add
+add,putchar, 0.666666666666667,1,magic rsl add,magic rsl putchar
+util ldap,unique id, 0.5,1,util ldap child init,unique id child init
+count,traverse, 0.5,1,hash count,hash traverse
+cgid,magic, 0.5,1,cgid init,magic init
+ssl hook,case filter, 0.5,1,ssl hook insert filter,case filter insert filter
+options,uncheckout, 0.666666666666667,1,dav method options,dav method uncheckout
+value,drive, 0.5,1,same value,same drive
+dav,asis, 0.5,1,dav handler,asis handler
+report,checkin, 0.666666666666667,1,dav method report,dav method checkin
+tcp,close, 0.5,1,tcp socket,close socket
+default,sendfile, 0.5,1,default handler,sendfile handler
+wait,nothing, 0.5,1,do wait,do nothing
+read,noreadwrite, 0.666666666666667,1,test open read,test open noreadwrite
+offset,delete, 0.666666666666667,1,test mmap offset,test mmap delete
+writecreate,noreadwrite, 0.666666666666667,1,test open writecreate,test open noreadwrite
+isapi,netware, 0.666666666666667,1,isapi pre config,netware pre config
+comment,directive, 0.5,1,menu comment,menu directive
+dav,cgi, 0.5,1,dav handler,cgi handler
+ajp,ftp, 0.666666666666667,1,proxy ajp canon,proxy ftp canon
+ct,prefix, 0.5,1,find ct,find prefix
+provider,overwrite, 0.666666666666667,1,dav get provider,dav get overwrite
+search,options, 0.666666666666667,1,dav method search,dav method options
+add,getnotthere, 0.5,1,table add,table getnotthere
+eval,yyparse, 0.666666666666667,1,ssl expr eval,ssl expr yyparse
+walk,trans, 0.5,1,proxy walk,proxy trans
+restart,serverpath, 0.5,1,check restart,check serverpath
+bind,uncheckout, 0.666666666666667,1,dav method bind,dav method uncheckout
+num tuples,end transaction, 0.5,5,dbd freetds num tuples,dbd freetds end transaction,dbd sqlite num tuples,dbd sqlite end transaction,dbd oracle num tuples,dbd oracle end transaction,dbd mysql num tuples,dbd mysql end transaction,dbd pgsql num tuples,dbd pgsql end transaction
+worker,prefork, 0.666666666666667,2,worker open logs,prefork open logs,worker hooks,prefork hooks
+core,nwssl, 0.666666666666667,1,core pre connection,nwssl pre connection
+cdata,sendfile, 0.5,1,cdata handler,sendfile handler
+pton,network, 0.5,1,inet pton,inet network
+start,sendfile, 0.5,1,start handler,sendfile handler
+pop,top, 0.666666666666667,1,yy pop state,yy top state
+setup,cpystrn, 0.5,1,apr setup,apr cpystrn
+dflt,vary, 0.5,1,fixup dflt,fixup vary
+update,proppatch, 0.666666666666667,1,dav method update,dav method proppatch
+store,traversal, 0.666666666666667,1,test dbm store,test dbm traversal
+init,maint, 0.5,1,cgid init,cgid maint
+notabs,belowroot, 0.5,1,merge notabs,merge belowroot
+pipe,entity, 0.5,1,create pipe,create entity
+log,count, 0.5,1,log headers,count headers
+ef,lock, 0.5,1,ef init,lock init
+err,pstrcatv, 0.5,1,apr err,apr pstrcatv
+bind,lock, 0.666666666666667,1,dav method bind,dav method lock
+string slot,last modified, 0.5,1,ap set string slot,ap set last modified
+add,spot, 0.5,1,add cookie,spot cookie
+exists,traversal, 0.666666666666667,1,test dbm exists,test dbm traversal
+allprops,provider, 0.666666666666667,1,dav get allprops,dav get provider
+nelts,unset, 0.5,1,table nelts,table unset
+put,label, 0.666666666666667,1,dav method put,dav method label
+merge,uncheckout, 0.666666666666667,1,dav method merge,dav method uncheckout
+match,count, 0.5,1,match headers,count headers
+pvt unhex,connection close, 0.5,1,apr ldap pvt unhex,apr ldap connection close
+child,global, 0.75,1,unique id child init,unique id global init
+cleanup,startup, 0.75,1,wsa cleanup with handle,wsa startup with handle
+after,before, 0.5,1,log after,log before
+create,broadcast, 0.5,1,create threads,broadcast threads
+write,readwrite, 0.666666666666667,1,test open write,test open readwrite
+send,terminate, 0.5,1,send header,terminate header
+child,filter, 0.5,1,child init,filter init
+before,backtrace, 0.5,1,log before,log backtrace
+file,immortal, 0.75,1,apr bucket file make,apr bucket immortal make
+store,fetch, 0.666666666666667,1,test dbm store,test dbm fetch
+eoc,lob, 0.5,1,ap bucket eoc make,apr bucket lob make
+speling,serverpath, 0.5,1,check speling,check serverpath
+find,worker, 0.5,1,find thread,worker thread
+select,pselect, 0.666666666666667,1,dbd freetds select,dbd freetds pselect
+beta,alpha, 0.666666666666667,1,test cve beta,test cve alpha
+fixup,process, 0.5,1,fixup dir,process dir
+cgid,child, 0.5,1,cgid init,child init
+null,overflow, 0.5,1,snprintf null,snprintf overflow
+flush,immortal, 0.75,1,apr bucket flush make,apr bucket immortal make
+string,globbingchars, 0.666666666666667,1,ftp check string,ftp check globbingchars
+filename,testfile, 0.5,1,create filename,create testfile
+eos,pool, 0.75,1,apr bucket eos make,apr bucket pool make
+cgid,reslist, 0.5,1,cgid maint,reslist maint
+dotdot,aboveroot, 0.5,1,merge dotdot,merge aboveroot
+yyerror,yyparse, 0.666666666666667,1,ssl expr yyerror,ssl expr yyparse
+sub,inc, 0.5,1,busyloop sub,busyloop inc
+entity,testfile, 0.5,1,create entity,create testfile
+read,gets, 0.75,1,bio filter out read,bio filter out gets
+end,imap, 0.5,1,end handler,imap handler
+dav,uri, 0.666666666666667,1,dav meets conditions,uri meets conditions
+init,delete, 0.666666666666667,1,yy init buffer,yy delete buffer
+init,pselect, 0.666666666666667,4,dbd freetds init,dbd freetds pselect,odbc init,odbc pselect,dbd oracle init,dbd oracle pselect,dbd mysql init,dbd mysql pselect
+eoc,mmap, 0.5,1,ap bucket eoc make,apr bucket mmap make
+hook,vhost, 0.666666666666667,1,dump a hook,dump a vhost
+end,status, 0.5,1,end handler,status handler
+hooks,insert, 0.5,1,filter hooks,filter insert
+dav,imap, 0.5,1,dav handler,imap handler
+ssl,decl, 0.5,1,ssl die,decl die
+flush,underflow, 0.5,1,snprintf flush,snprintf underflow
+dbm,method, 0.666666666666667,1,dav dbm delete,dav method delete
+parse,remove, 0.5,1,parse url,remove url
+notabsfail,notrelfail, 0.5,1,merge notabsfail,merge notrelfail
+pquery,pselect, 0.666666666666667,6,dbd freetds pquery,dbd freetds pselect,odbc pquery,odbc pselect,dbd sqlite pquery,dbd sqlite pselect,dbd oracle pquery,dbd oracle pselect,dbd pgsql pquery,dbd pgsql pselect,dbd mysql pquery,dbd mysql pselect
+much,little, 0.666666666666667,1,more ignore case,less ignore case
+update,checkin, 0.666666666666667,1,dav method update,dav method checkin
+body,headers, 0.666666666666667,1,reqtimeout after body,reqtimeout after headers
+event,prefork, 0.5,1,event hooks,prefork hooks
+eval,yygrowstack, 0.666666666666667,1,ssl expr eval,ssl expr yygrowstack
+load,unload, 0.666666666666667,2,test load library,test unload library,test load module,test unload module
+system,current, 0.666666666666667,1,get system time,get current time
+unix,netware, 0.75,1,apr unix setup time,apr netware setup time
+apr,fake, 0.666666666666667,1,apr file remove,fake file remove
+rw,find, 0.666666666666667,1,dav rw liveprop,dav find liveprop
+lob,immortal, 0.75,1,apr bucket lob make,apr bucket immortal make
+psprintf,snprintf, 0.5,1,psprintf flush,snprintf flush
+multi,single, 0.666666666666667,2,list split multi,list split single,list merge multi,list merge single
+logio,netware, 0.666666666666667,1,logio pre config,netware pre config
+header,default, 0.5,1,menu header,menu default
+report,copymove, 0.666666666666667,1,dav method report,dav method copymove
+expr,network, 0.5,1,parse expr,parse network
+make workspace,baseline control, 0.5,1,dav method make workspace,dav method baseline control
+balancer,sendfile, 0.5,1,balancer handler,sendfile handler
+string,headers, 0.5,1,count string,count headers
+send,match, 0.5,1,send headers,match headers
+context,status, 0.5,1,mpm post completion context,post queued completion status
+maint,handler, 0.5,1,cgid maint,cgid handler
+write,exports, 0.5,1,read write,read exports
+label,mkcol, 0.666666666666667,1,dav method label,dav method mkcol
+absolute,relative, 0.5,1,root absolute,root relative
+error,strfsize, 0.5,1,string error,string strfsize
+file,socket, 0.75,2,file cleanup,socket cleanup,apr bucket file make,apr bucket socket make
+pstrcatv,pstrmemdup, 0.5,1,apr pstrcatv,apr pstrmemdup
+feedfp,choosenum, 0.666666666666667,1,ssl rand feedfp,ssl rand choosenum
+put,update, 0.666666666666667,1,dav method put,dav method update
+worker,register, 0.5,1,worker hooks,register hooks
+lost,send, 0.5,1,lost signal,send signal
+brigade split,pollcb create, 0.5,1,apr brigade split ex,apr pollcb create ex
+end,cdata, 0.5,1,end handler,cdata handler
+db,ndbm, 0.666666666666667,3,vt db freedatum,vt ndbm freedatum,vt db close,vt ndbm close,vt db exists,vt ndbm exists
+lock,uncheckout, 0.666666666666667,1,dav method lock,dav method uncheckout
+bind,label, 0.666666666666667,1,dav method bind,dav method label
+close,create, 0.666666666666667,3,close pipe,create pipe,close all sockets,create all sockets,close socket,create socket
+post,unlock, 0.666666666666667,1,dav method post,dav method unlock
+nelts,reindex, 0.5,1,table nelts,table reindex
+label,search, 0.666666666666667,1,dav method label,dav method search
+input,output, 0.666666666666667,1,configured on input,configured on output
+meta,addreplace, 0.666666666666667,1,test memcache meta,test memcache addreplace
+dav,proxy, 0.5,1,dav handler,proxy handler
+imap,sendfile, 0.5,1,imap handler,sendfile handler
+free,strlen, 0.666666666666667,1,yy flex free,yy flex strlen
+strlen,strncpy, 0.666666666666667,1,yy flex strlen,yy flex strncpy
+pgsql,freetds, 0.8,9,dbd pgsql num tuples,dbd freetds num tuples,dbd pgsql num cols,dbd freetds num cols,dbd pgsql transaction mode get,dbd freetds transaction mode get,dbd pgsql end transaction,dbd freetds end transaction,dbd pgsql pselect,dbd freetds pselect,dbd pgsql query,dbd freetds query,dbd freetds num cols,dbd pgsql num tuples,dbd pgsql num cols,dbd freetds num tuples,dbd pgsql pquery,dbd freetds pquery
+child,parent, 0.5,1,child pool,parent pool
+err,atoi, 0.5,1,apr err,apr atoi
+task,worker, 0.5,1,add task,add worker
+odbc,reqtimeout, 0.5,1,odbc init,reqtimeout init
+delete,getsfunc, 0.5,1,delete file,getsfunc file
+read,write, 0.75,4,test fail read flush,test fail write flush,char buffer read,char buffer write,test open read,test open write,bio filter out read,bio filter out write
+merge,overlay, 0.666666666666667,1,apr hash merge,apr hash overlay
+ajp,connect, 0.666666666666667,1,proxy ajp canon,proxy connect canon
+mmap,flush, 0.75,1,apr bucket mmap make,apr bucket flush make
+end,action, 0.5,1,end handler,action handler
+error,cerror, 0.666666666666667,1,ap log error,ap log cerror
+isapi,reqtimeout, 0.5,1,isapi hooks,reqtimeout hooks
+add,poll, 0.666666666666667,1,apr pollset add,apr pollset poll
+error,transient, 0.5,1,ap bucket error make,apr bucket transient make
+atoi,poll, 0.5,1,apr atoi,apr poll
+pipe,error, 0.5,1,apr bucket pipe make,ap bucket error make
+dec,xchg, 0.5,1,busyloop dec,busyloop xchg
+hooks,lookup, 0.5,1,filter hooks,filter lookup
+log,rewritelog, 0.5,1,open log,open rewritelog
+rgetline,proxyerror, 0.5,1,ap rgetline,ap proxyerror
+x,cgid, 0.5,1,x handler,cgid handler
+pton,ntop, 0.5,1,inet pton,inet ntop
+add,remove, 0.5,1,add job,remove job
+secure,lowercasedrive, 0.5,1,merge secure,merge lowercasedrive
+delete,search, 0.666666666666667,1,dav method delete,dav method search
+cgi,proxy, 0.5,1,cgi handler,proxy handler
+x,status, 0.666666666666667,2,x child init,status child init,x handler,status handler
+pipe,filename, 0.5,1,create pipe,create filename
+ap discard,strip headers, 0.5,1,ap discard request body,strip headers request body
+overlap,getnotthere, 0.5,1,table overlap,table getnotthere
+charset,language, 0.666666666666667,1,set charset quality,set language quality
+gzip,hostalias, 0.5,1,check gzip,check hostalias
+winnt,event, 0.5,1,winnt hooks,event hooks
+locks,restart, 0.5,1,check locks,check restart
+make,traverse, 0.5,1,hash make,hash traverse
+cgid,reqtimeout, 0.5,1,cgid init,reqtimeout init
+mkcol,checkout, 0.666666666666667,1,dav method mkcol,dav method checkout
+prefork,register, 0.5,1,prefork hooks,register hooks
+beos,register, 0.5,1,beos hooks,register hooks
+await,initialize, 0.5,1,await child,initialize child
+checkin,options, 0.666666666666667,1,dav method checkin,dav method options
+walk,handler, 0.5,1,proxy walk,proxy handler
+cdata,status, 0.5,1,cdata handler,status handler
+smmem,atomic, 0.666666666666667,1,apr smmem init,apr atomic init
+comment,default, 0.5,1,menu comment,menu default
+header,netware, 0.666666666666667,1,header pre config,netware pre config
+eoc,pipe, 0.5,1,ap bucket eoc make,apr bucket pipe make
+join,signal, 0.5,1,join threads,signal threads
+proppatch,uncheckout, 0.666666666666667,1,dav method proppatch,dav method uncheckout
+notabs,notrelfail, 0.5,1,merge notabs,merge notrelfail
+cgi,asis, 0.5,1,cgi handler,asis handler
+hup,coredump, 0.5,1,sig hup,sig coredump
+noflag,notrel, 0.5,1,merge noflag,merge notrel
+long,cpystrn, 0.5,1,string long,string cpystrn
+proxy,server, 0.8,1,ssl init ctx cleanup proxy,ssl init ctx cleanup server
+beos,netware, 0.666666666666667,1,beos pre config,netware pre config
+external,internal, 0.5,1,external subset,internal subset
+poll,cpystrn, 0.5,1,apr poll,apr cpystrn
+unlock,uncheckout, 0.666666666666667,1,dav method unlock,dav method uncheckout
+show,display, 0.5,1,show info,display info
+destroy,initialize, 0.666666666666667,1,apr pool destroy,apr pool initialize
+checkin,uncheckout, 0.666666666666667,1,dav method checkin,dav method uncheckout
+join,create, 0.5,1,join threads,create threads
+bind,report, 0.666666666666667,1,dav method bind,dav method report
+core,winnt, 0.666666666666667,1,core post config,winnt post config
+pipe,testfile, 0.5,1,create pipe,create testfile
+count,getsfunc, 0.5,1,count string,getsfunc string
+delete,ignore, 0.5,1,delete entry,ignore entry
+cert,connection, 0.75,1,ssl print cert info,ssl print connection info
+pool,transient, 0.75,1,apr bucket pool make,apr bucket transient make
+logio,dumpio, 0.666666666666667,1,logio pre conn,dumpio pre conn
+kat,barrier, 0.5,1,rand kat,rand barrier
+select,pquery, 0.666666666666667,1,dbd freetds select,dbd freetds pquery
+entity,lockfile, 0.5,1,remove entity,remove lockfile
+atoi,pstrcatv, 0.5,1,apr atoi,apr pstrcatv
+header,directive, 0.5,1,menu header,menu directive
+ex,upgradeable, 0.75,1,is secure conn ex,is secure conn upgradeable
+mkcol,search, 0.666666666666667,1,dav method mkcol,dav method search
+put,propfind, 0.666666666666667,1,dav method put,dav method propfind
+put,lock, 0.666666666666667,1,dav method put,dav method lock
+event,register, 0.5,1,event hooks,register hooks
+search,checkout, 0.666666666666667,1,dav method search,dav method checkout
+ef,cgid, 0.5,1,ef init,cgid init
+hash,array, 0.5,1,hash clear,array clear
+bind,search, 0.666666666666667,1,dav method bind,dav method search
+url,keepalive, 0.5,1,remove url,remove keepalive
+handler,needsdomain, 0.5,1,proxy handler,proxy needsdomain
+strtoi,strtoff, 0.5,1,string strtoi,string strtoff
+pid,before, 0.5,1,log pid,log before
+bytetoascii,isnamecharminbpc, 0.5,2,big bytetoascii,big isnamecharminbpc,little bytetoascii,little isnamecharminbpc
+x,end, 0.5,1,x handler,end handler
+flush,delete, 0.666666666666667,1,yy flush buffer,yy delete buffer
+cgi,cgid, 0.5,1,cgi handler,cgid handler
+blank,header, 0.5,1,menu blank,menu header
+filter,reqtimeout, 0.5,2,filter hooks,reqtimeout hooks,filter init,reqtimeout init
+tail,preamble, 0.5,1,emit tail,emit preamble
+export,dumpio, 0.666666666666667,1,export register hooks,dumpio register hooks
+cpystrn,pstrmemdup, 0.5,1,apr cpystrn,apr pstrmemdup
+server,handler, 0.5,2,cgid server,cgid handler,proxy server,proxy handler
+send,unblock, 0.5,1,send signal,unblock signal
+lob,mmap, 0.75,2,apr bucket lob make,apr bucket mmap make,lob bucket destroy,mmap bucket destroy
+lock,delete, 0.666666666666667,1,dav method lock,dav method delete
+cb,banner, 0.5,1,ap down server cb,ap get server banner
+make,count, 0.5,1,hash make,hash count
+add,nelts, 0.5,1,table add,table nelts
+read,pipe, 0.5,1,read write,pipe write
+setup,palloc, 0.5,1,apr setup,apr palloc
+overflow,underflow, 0.5,1,snprintf overflow,snprintf underflow
+aboveroot,notabsfail, 0.5,1,merge aboveroot,merge notabsfail
+mkcol,update, 0.666666666666667,1,dav method mkcol,dav method update
+nelts,getnotthere, 0.5,1,table nelts,table getnotthere
+make,await, 0.5,1,make child,await child
+lb workers,clear connection, 0.5,1,ap proxy lb workers,ap proxy clear connection
+beosd,netware, 0.666666666666667,1,beosd pre config,netware pre config
+hash,table, 0.5,2,hash make,table make,hash clear,table clear
+make,initialize, 0.5,1,make child,initialize child
+itoa,pstrndup, 0.5,1,apr itoa,apr pstrndup
+delete,options, 0.666666666666667,1,dav method delete,dav method options
+table,busyloop, 0.5,1,table add,busyloop add
+task,password, 0.5,1,add task,add password
+locks,signal, 0.5,1,check locks,check signal
+cgid,default, 0.5,1,cgid handler,default handler
+message,pollset, 0.5,1,send message,send pollset
+lock,checkin, 0.666666666666667,1,dav method lock,dav method checkin
+par ent,entity content, 0.5,1,external par ent processor,external entity content processor
+immortal make,setaside notimpl, 0.5,1,apr bucket immortal make,apr bucket setaside notimpl
+init,query, 0.666666666666667,4,dbd freetds init,dbd freetds query,odbc init,odbc query,dbd oracle init,dbd oracle query,dbd mysql init,dbd mysql query
+merge,update, 0.666666666666667,1,dav method merge,dav method update
+query,pquery, 0.666666666666667,6,dbd freetds query,dbd freetds pquery,odbc query,odbc pquery,dbd sqlite query,dbd sqlite pquery,dbd oracle query,dbd oracle pquery,dbd pgsql query,dbd pgsql pquery,dbd mysql query,dbd mysql pquery
+rerror,perror, 0.666666666666667,1,ap log rerror,ap log perror
+eoc,pool, 0.5,1,ap bucket eoc make,apr bucket pool make
+notrel,notabsfail, 0.5,1,merge notrel,merge notabsfail
+find,cleanup, 0.5,1,find thread,cleanup thread
+fs,core, 0.75,1,dav fs is writable,dav core is writable
+existing,nonexisting, 0.5,1,link existing,link nonexisting
+key,file, 0.5,1,delete key,delete file
+pid,size, 0.666666666666667,1,pid t fmt,size t fmt
+sha,lock, 0.5,1,sha init,lock init
+imap,mmap, 0.5,1,imap handler,mmap handler
+lock,copymove, 0.666666666666667,1,dav method lock,dav method copymove
+int,off, 0.666666666666667,1,int t fmt,off t fmt
+pass,cookie, 0.5,1,add pass,add cookie
+pool,pipe, 0.75,1,apr bucket pool make,apr bucket pipe make
+offset,contents, 0.666666666666667,1,test mmap offset,test mmap contents
+signal,pollset, 0.5,1,send signal,send pollset
+beos,beosd, 0.666666666666667,1,beos pre config,beosd pre config
+reset,count, 0.5,1,hash reset,hash count
+post,report, 0.666666666666667,1,dav method post,dav method report
+filter,prefork, 0.5,1,filter hooks,prefork hooks
+eos,mmap, 0.75,1,apr bucket eos make,apr bucket mmap make
+cdata,default, 0.5,1,cdata handler,default handler
+init,make, 0.5,1,init child,make child
+remove,install, 0.666666666666667,1,remove console handler,install console handler
+send,nomessage, 0.5,1,send pollset,nomessage pollset
+lock,cgid, 0.5,1,lock init,cgid init
+start,action, 0.5,1,start handler,action handler
+transient make,setaside notimpl, 0.5,1,apr bucket transient make,apr bucket setaside notimpl
+equal,notequal, 0.666666666666667,2,test cas equal,test cas notequal,test casptr equal,test casptr notequal
+eval,yylex, 0.666666666666667,1,ssl expr eval,ssl expr yylex
+cgid,imap, 0.5,1,cgid handler,imap handler
+fetch,delete, 0.666666666666667,1,test dbm fetch,test dbm delete
+init,sqlite, 0.666666666666667,1,test dbd init,test dbd sqlite
+noflag,notabs, 0.5,1,merge noflag,merge notabs
+cpystrn,pcalloc, 0.5,1,apr cpystrn,apr pcalloc
+bind,options, 0.666666666666667,1,dav method bind,dav method options
+open,shutdown, 0.5,1,open listeners,shutdown listeners
+comp,getsfunc, 0.5,1,comp string,getsfunc string
+make,unset, 0.5,1,table make,table unset
+label,delete, 0.666666666666667,1,dav method label,dav method delete
+win,beosd, 0.666666666666667,1,win pre config,beosd pre config
+x,expires, 0.666666666666667,1,x insert filter,expires insert filter
+put,proppatch, 0.666666666666667,1,dav method put,dav method proppatch
+decrement,increment, 0.5,1,interlocked decrement,interlocked increment
+unlock,delete, 0.666666666666667,1,dav method unlock,dav method delete
+make,inaddr, 0.5,1,hash make,hash inaddr
+x,nwssl, 0.666666666666667,1,x pre connection,nwssl pre connection
+bucket,header, 0.5,1,count buckets,count headers
+bytetype,isnmstrtcharminbpc, 0.5,2,big bytetype,big isnmstrtcharminbpc,little bytetype,little isnmstrtcharminbpc
+pselect,pbselect, 0.666666666666667,4,dbd sqlite pselect,dbd sqlite pbselect,dbd oracle pselect,dbd oracle pbselect,dbd pgsql pselect,dbd pgsql pbselect,dbd mysql pselect,dbd mysql pbselect
+x,export, 0.666666666666667,1,x register hooks,export register hooks
+prolog,nothing, 0.5,1,do prolog,do nothing
+lock,defname, 0.5,1,apr thread mutex lock,apr proc mutex defname
+bytetoascii,isnmstrtcharminbpc, 0.5,2,big bytetoascii,big isnmstrtcharminbpc,little bytetoascii,little isnmstrtcharminbpc
+readwrite,noreadwrite, 0.666666666666667,1,test open readwrite,test open noreadwrite
+magic,child, 0.5,1,magic init,child init
+itoa,pcalloc, 0.5,1,apr itoa,apr pcalloc
+post,options, 0.666666666666667,1,dav method post,dav method options
+proc,urifile, 0.5,1,hook proc,hook urifile
+pquery,pbselect, 0.666666666666667,4,dbd sqlite pquery,dbd sqlite pbselect,dbd oracle pquery,dbd oracle pbselect,dbd pgsql pquery,dbd pgsql pbselect,dbd mysql pquery,dbd mysql pbselect
+ct,addresses, 0.5,1,find ct,find addresses
+await,launch, 0.5,1,await child,launch child
+hostalias,serverpath, 0.5,1,check hostalias,check serverpath
+cgid,action, 0.5,1,cgid handler,action handler
+merge,delete, 0.666666666666667,1,dav method merge,dav method delete
+pstrcatv,terminate, 0.5,1,apr pstrcatv,apr terminate
+encoding,hostname, 0.5,1,fix encoding,fix hostname
+send,check, 0.5,1,send signal,check signal
+beos,worker, 0.5,1,beos hooks,worker hooks
+wait,initialize, 0.5,1,wait child,initialize child
+write,connection, 0.5,1,read write,read connection
+pbquery,pselect, 0.666666666666667,4,dbd sqlite pbquery,dbd sqlite pselect,dbd oracle pbquery,dbd oracle pselect,dbd pgsql pbquery,dbd pgsql pselect,dbd mysql pselect,dbd mysql pbquery
+magic,thread, 0.5,1,magic init,thread init
+poll,vformatter, 0.5,1,apr poll,apr vformatter
+remove,readwrite, 0.666666666666667,1,test file remove,test file readwrite
+lock,unlock, 0.75,3,crypt mutex lock,crypt mutex unlock,apr thread mutex lock,apr thread mutex unlock,dav method lock,dav method unlock
+dup,redir, 0.666666666666667,1,test file dup,test file redir
+sdbm,cache, 0.5,1,sdbm hash,cache hash
+strtoi,cpystrn, 0.5,2,apr strtoi,apr cpystrn,string strtoi,string cpystrn
+cas,inc, 0.5,1,busyloop cas,busyloop inc
+bind,mkcol, 0.666666666666667,1,dav method bind,dav method mkcol
+delete,traversal, 0.666666666666667,1,test dbm delete,test dbm traversal
+prefork,reqtimeout, 0.5,1,prefork hooks,reqtimeout hooks
+error,disable, 0.75,1,ssl io filter error,ssl io filter disable
+mkcol,checkin, 0.666666666666667,1,dav method mkcol,dav method checkin
+add,clear, 0.5,1,table add,table clear
+error,rerror, 0.666666666666667,1,ap log error,ap log rerror
+job,proxy, 0.5,1,add job,add proxy
+asis,balancer, 0.5,1,asis handler,balancer handler
+read,dummy, 0.5,1,read connection,dummy connection
+wait,unlock, 0.75,1,nested lock and wait,nested lock and unlock
+trans,handler, 0.5,1,proxy trans,proxy handler
+sbcs,locks, 0.5,1,check sbcs,check locks
+cas,swap, 0.5,1,atomic cas,atomic swap
+update,copymove, 0.666666666666667,1,dav method update,dav method copymove
+request note,server description, 0.5,1,ap get request note,ap get server description
+item,string, 0.75,1,add list box item,add list box string
+url,compare, 0.8,3,util ldap url node hash,util ldap compare node hash,util ldap url node compare,util ldap compare node compare,util ldap url node hash,util ldap compare node compare
+pool,init, 0.5,1,child pool,child init
+menu,send, 0.5,1,menu header,send header
+merge,report, 0.666666666666667,1,dav method merge,dav method report
+notrel,aboveroot, 0.5,1,merge notrel,merge aboveroot
+copymove,uncheckout, 0.666666666666667,1,dav method copymove,dav method uncheckout
+util ldap,case filter, 0.5,1,util ldap register hooks,case filter register hooks
+put,report, 0.666666666666667,1,dav method put,dav method report
+proc,reslist, 0.666666666666667,1,apr proc create,apr reslist create
+reps,string, 0.5,1,count reps,count string
+search,checkin, 0.666666666666667,1,dav method search,dav method checkin
+cas,xchg, 0.5,1,busyloop cas,busyloop xchg
+ui,sigfunc, 0.666666666666667,1,apr uint t,apr sigfunc t
+put,bind, 0.666666666666667,1,dav method put,dav method bind
+bucket,brigade, 0.666666666666667,1,apr bucket destroy,apr brigade destroy
+err,itoa, 0.5,1,apr err,apr itoa
+multi,autoindex, 0.5,1,handle multi,handle autoindex
+cgi,default, 0.5,1,cgi handler,default handler
+seed,choosenum, 0.666666666666667,1,ssl rand seed,ssl rand choosenum
+mmap,heap, 0.666666666666667,1,mmap bucket destroy,heap bucket destroy
+err,pstrdup, 0.5,1,apr err,apr pstrdup
+put,post, 0.666666666666667,1,dav method put,dav method post
+thread,addresses, 0.5,1,find thread,find addresses
+cpystrn,vformatter, 0.5,1,apr cpystrn,apr vformatter
+file,entry, 0.5,1,delete file,delete entry
+word,hostname, 0.666666666666667,1,proxy match word,proxy match hostname
+post,merge, 0.666666666666667,1,dav method post,dav method merge
+pollset,signaled, 0.5,1,send pollset,send signaled
+remove,default, 0.5,1,pollset remove,pollset default
+dav,start, 0.5,1,dav handler,start handler
+int,uint, 0.666666666666667,1,int t fmt,uint t fmt
+wait,spawn, 0.5,1,wait child,spawn child
+pstrdup,pstrmemdup, 0.5,1,apr pstrdup,apr pstrmemdup
+job,pass, 0.5,1,add job,add pass
+time,overrides, 0.5,1,show time,show overrides
+menu,pollcb, 0.5,1,menu default,pollcb default
+pstrdup,pstrcatv, 0.5,1,apr pstrdup,apr pstrcatv
+wrlock,rdlock, 0.8,1,apr thread rwlock wrlock core,apr thread rwlock rdlock core
+prep,getsfunc, 0.5,1,prep string,getsfunc string
+setup,terminate, 0.5,1,apr setup,apr terminate
+arg,integer, 0.5,1,format arg,format integer
+worker,master, 0.5,1,worker main,master main
+report,propfind, 0.666666666666667,1,dav method report,dav method propfind
+bubble up,percolate down, 0.5,1,cache pq bubble up,cache pq percolate down
+proc,thread, 0.75,6,apr proc mutex defname,apr thread mutex destroy,apr proc mutex destroy,apr thread mutex destroy,apr thread mutex lock,apr proc mutex defname,apr thread mutex lock,apr proc mutex destroy,apr proc mutex defname,apr thread mutex unlock,apr proc mutex destroy,apr thread mutex unlock
+cb,version, 0.5,1,ap down server cb,ap get server version
+last,middle, 0.666666666666667,2,send last pollset,send middle pollset,clear last pollset,clear middle pollset
+cgi,mmap, 0.5,1,cgi handler,mmap handler
+cols,tuples, 0.75,26,dbd freetds num cols,dbd freetds num tuples,dbd sqlite num cols,dbd sqlite num tuples,dbd oracle num cols,dbd sqlite num tuples,dbd freetds num cols,dbd sqlite num tuples,dbd mysql num cols,dbd sqlite num tuples,dbd pgsql num cols,dbd sqlite num tuples,odbc num cols,odbc num tuples,dbd sqlite num cols,dbd mysql num tuples,dbd oracle num cols,dbd mysql num tuples,dbd freetds num cols,dbd mysql num tuples,dbd mysql num cols,dbd mysql num tuples,dbd pgsql num cols,dbd mysql num tuples,dbd sqlite num cols,dbd pgsql num tuples,dbd sqlite num cols,dbd oracle num tuples,dbd sqlite num cols,dbd freetds num tuples,dbd oracle num cols,dbd pgsql num tuples,dbd oracle num cols,dbd oracle num tuples,dbd oracle num cols,dbd freetds num tuples,dbd freetds num cols,dbd pgsql num tuples,dbd mysql num cols,dbd pgsql num tuples,dbd pgsql num cols,dbd pgsql num tuples,dbd freetds num cols,dbd oracle num tuples,dbd mysql num cols,dbd oracle num tuples,dbd mysql num cols,dbd freetds num tuples,dbd pgsql num cols,dbd oracle num tuples,dbd pgsql num cols,dbd freetds num tuples
+read,puts, 0.75,1,bio filter out read,bio filter out puts
+hook,include, 0.5,1,hook fixup,include fixup
+restart,speling, 0.5,1,check restart,check speling
+pstrdup,initialize, 0.5,1,apr pstrdup,apr initialize
+worker,pollset, 0.5,1,make worker,make pollset
+mutex lock,rwlock destroy, 0.5,1,apr thread mutex lock,apr thread rwlock destroy
+startup,broadcast, 0.5,1,startup threads,broadcast threads
+init,handler, 0.5,1,cgid init,cgid handler
+file,string, 0.75,2,ap set file slot,ap set string slot,getsfunc file,getsfunc string
+user,thread, 0.666666666666667,1,users not impl,threads not impl
+read,excl, 0.666666666666667,1,test open read,test open excl
+cerror,rerror, 0.666666666666667,1,ap log cerror,ap log rerror
+on,off, 0.666666666666667,1,accept mutex on,accept mutex off
+udp,alloc, 0.5,1,udp socket,alloc socket
+lock,reqtimeout, 0.5,1,lock init,reqtimeout init
+vformatter,pstrmemdup, 0.5,1,apr vformatter,apr pstrmemdup
+init,finish, 0.5,1,sha init,sha finish
+init,transform, 0.5,1,sha init,sha transform
+clear,overlap, 0.5,1,table clear,table overlap
+hup,term, 0.5,1,sig hup,sig term
+start,handler, 0.5,1,cgid start,cgid handler
+join,broadcast, 0.5,1,join threads,broadcast threads
+lob,pipe, 0.75,1,apr bucket lob make,apr bucket pipe make
+bytetype,charmatches, 0.5,2,big bytetype,big charmatches,little bytetype,little charmatches
+make,spawn, 0.5,1,make child,spawn child
+after,backtrace, 0.5,1,log after,log backtrace
+dir,file, 0.666666666666667,2,dir cleanup,file cleanup,apr dir close,apr file close
+child,freetds, 0.666666666666667,1,dbd child init,dbd freetds init
+recv,nomessage, 0.5,1,recv pollset,nomessage pollset
+post,checkout, 0.666666666666667,1,dav method post,dav method checkout
+cgid,filter, 0.5,1,cgid init,filter init
+make,setup, 0.5,1,make pollset,setup pollset
+asis,start, 0.5,1,asis handler,start handler
+create,destroy, 0.666666666666667,1,bio filter create,bio filter destroy
+put,mkcol, 0.666666666666667,1,dav method put,dav method mkcol
+dbd,status, 0.666666666666667,1,dbd child init,status child init
+walk,detect, 0.5,1,proxy walk,proxy detect
+lob,pool, 0.75,2,apr bucket lob make,apr bucket pool make,lob bucket destroy,pool bucket destroy
+lock,options, 0.666666666666667,1,dav method lock,dav method options
+redir,readwrite, 0.666666666666667,1,test file redir,test file readwrite
+file,named, 0.666666666666667,1,test file remove,test named remove
+locks,speling, 0.5,1,check locks,check speling
+socket,testfile, 0.5,1,create socket,create testfile
+finfo,pthread, 0.5,1,finfo equal,pthread equal
+clear,destroy, 0.666666666666667,1,pool clear debug,pool destroy debug
+proc,fixup, 0.5,1,hook proc,hook fixup
+restart,shutdown, 0.666666666666667,1,ap start restart,ap start shutdown
+write,consumer, 0.5,1,pipe write,pipe consumer
+reset,update, 0.5,1,reset status,update status
+label,proppatch, 0.666666666666667,1,dav method label,dav method proppatch
+fixup,mimetype, 0.5,1,hook fixup,hook mimetype
+ftp,connect, 0.8,2,ap proxy ftp register hook,ap proxy connect register hook,proxy ftp canon,proxy connect canon
+mmap,pool, 0.75,2,apr bucket mmap make,apr bucket pool make,mmap bucket destroy,pool bucket destroy
+remove,opendir, 0.666666666666667,1,test remove notthere,test opendir notthere
+signal,headers, 0.5,1,send signal,send headers
+end,default, 0.5,1,end handler,default handler
+stdin,stdout, 0.8,1,apr file open flags stdin,apr file open flags stdout
+child,oracle, 0.666666666666667,1,dbd child init,dbd oracle init
+lt,gmt, 0.75,2,test exp get lt,test exp get gmt,apr time exp lt,apr time exp gmt
+belowroot,notabsfail, 0.5,1,merge belowroot,merge notabsfail
+wait,make, 0.5,1,wait child,make child
+ssl,import, 0.666666666666667,1,ssl register hooks,import register hooks
+clear,unset, 0.5,1,table clear,table unset
+log,isapi, 0.666666666666667,1,log pre config,isapi pre config
+insert filter,register hooks, 0.6,2,case filter insert filter,case filter register hooks,case filter in insert filter,case filter in register hooks
+unlock,copymove, 0.666666666666667,1,dav method unlock,dav method copymove
+anon,mmap, 0.666666666666667,1,test anon create,test mmap create
+label,uncheckout, 0.666666666666667,1,dav method label,dav method uncheckout
+ssl,dumpio, 0.666666666666667,1,ssl register hooks,dumpio register hooks
+delete,checkin, 0.666666666666667,1,dav method delete,dav method checkin
+string,buckets, 0.5,1,count string,count buckets
+file slot,last modified, 0.5,1,ap set file slot,ap set last modified
+subnet,encoding, 0.5,1,fix subnet,fix encoding
+lock,thread, 0.5,1,lock init,thread init
+fixups,handler, 0.5,1,dav fixups,dav handler
+oid,comp, 0.75,1,ssl expr eval oid,ssl expr eval comp
+prolog,content, 0.5,1,prolog processor,content processor
+bind,proppatch, 0.666666666666667,1,dav method bind,dav method proppatch
+sha,magic, 0.5,1,sha init,magic init
+log,postfile, 0.5,1,open log,open postfile
+pool,error, 0.666666666666667,2,apr bucket pool make,ap bucket error make,pool bucket destroy,error bucket destroy
+top,push, 0.666666666666667,1,yy top state,yy push state
+socket,immortal, 0.75,1,apr bucket socket make,apr bucket immortal make
+post,delete, 0.666666666666667,1,dav method post,dav method delete
+hooks,thread, 0.5,1,worker hooks,worker thread
+imap,default, 0.5,1,imap handler,default handler
+exec,eval, 0.666666666666667,1,ssl expr exec,ssl expr eval
+puts,write, 0.75,1,bio filter out puts,bio filter out write
+postfile,rewritelog, 0.5,1,open postfile,open rewritelog
+child,mysql, 0.666666666666667,1,dbd child init,dbd mysql init
+launch,initialize, 0.5,1,launch child,initialize child
+dav,status, 0.5,1,dav handler,status handler
+vsn control,make workspace, 0.5,1,dav method vsn control,dav method make workspace
+spot,make, 0.5,1,spot cookie,make cookie
+dav,end, 0.5,1,dav handler,end handler
+init,await, 0.5,1,init child,await child
+apr,file, 0.666666666666667,1,apr bucket destroy,file bucket destroy
+x,asis, 0.5,1,x handler,asis handler
+end,sendfile, 0.5,1,end handler,sendfile handler
+default,directive, 0.5,1,menu default,menu directive
+host,logname, 0.666666666666667,1,get remote host,get remote logname
+put,search, 0.666666666666667,1,dav method put,dav method search
+echo,terminate, 0.5,1,echo header,terminate header
+strtoi,pstrdup, 0.5,1,apr strtoi,apr pstrdup
+gzip,restart, 0.5,1,check gzip,check restart
+init,ready, 0.5,1,thread init,thread ready
+hook,proxy, 0.5,1,hook fixup,proxy fixup
+fixup,server, 0.5,1,proxy fixup,proxy server
+x,sendfile, 0.5,1,x handler,sendfile handler
+write,quoted, 0.5,1,read write,read quoted
+post,propfind, 0.666666666666667,1,dav method post,dav method propfind
+clear,nelts, 0.5,1,table clear,table nelts
+cache,state, 0.5,1,init cache,init state
+search,proppatch, 0.666666666666667,1,dav method search,dav method proppatch
+odbc,child, 0.5,1,odbc init,child init
+alloc,create, 0.5,1,alloc socket,create socket
+pstrdup,pcalloc, 0.5,1,apr pstrdup,apr pcalloc
+pcalloc,pstrmemdup, 0.5,1,apr pcalloc,apr pstrmemdup
+accept,charset, 0.666666666666667,1,set accept quality,set charset quality
+query,pselect, 0.666666666666667,6,dbd freetds query,dbd freetds pselect,odbc query,odbc pselect,dbd sqlite query,dbd sqlite pselect,dbd oracle query,dbd oracle pselect,dbd pgsql query,dbd pgsql pselect,dbd mysql query,dbd mysql pselect
+ctrl,flush, 0.75,1,bio filter out ctrl,bio filter out flush
+quote,export, 0.5,1,read quoted,read exports
+multi,import, 0.666666666666667,1,multi log transaction,import log transaction
+eoc,file, 0.5,1,ap bucket eoc make,apr bucket file make
+task,cookie, 0.5,1,add task,add cookie
+delete,uncheckout, 0.666666666666667,1,dav method delete,dav method uncheckout
+options,proppatch, 0.666666666666667,1,dav method options,dav method proppatch
+end,mmap, 0.5,1,end handler,mmap handler
+unique id,accept mutex, 0.5,1,unique id child init,accept mutex child init
+mmap,file, 0.75,2,apr bucket mmap make,apr bucket file make,mmap bucket destroy,file bucket destroy
+file,open, 0.666666666666667,1,test file readwrite,test open readwrite
+mmap,immortal, 0.75,1,apr bucket mmap make,apr bucket immortal make
+error,perror, 0.666666666666667,1,ap log error,ap log perror
+maint,server, 0.5,1,cgid maint,cgid server
+par ent,entity init, 0.5,1,external par ent processor,external entity init processor
+long,strfsize, 0.5,1,string long,string strfsize
+setup,initialize, 0.5,1,apr setup,apr initialize
+err,initialize, 0.5,1,apr err,apr initialize
+lock expired,close lockdb, 0.5,2,dav fs lock expired,dav fs close lockdb,dav generic close lockdb,dav generic lock expired
+cgi,sendfile, 0.5,1,cgi handler,sendfile handler
+optional,required, 0.666666666666667,1,optional option notgiven,required option notgiven
+eval,yyerror, 0.666666666666667,1,ssl expr eval,ssl expr yyerror
+hup,restart, 0.5,1,sig hup,sig restart
+setup,vformatter, 0.5,1,apr setup,apr vformatter
+poll,wakeup, 0.666666666666667,1,apr pollset poll,apr pollset wakeup
+proxy,password, 0.5,1,add proxy,add password
+popup,services, 0.75,1,show try popup menu,show try services menu
+cookie,pollset, 0.5,1,make cookie,make pollset
+itoa,palloc, 0.5,1,apr itoa,apr palloc
+strtoi,terminate, 0.5,1,apr strtoi,apr terminate
+make,clear, 0.5,2,hash make,hash clear,table make,table clear
+lock expired,internal walk, 0.5,1,dav fs lock expired,dav fs internal walk
+meta,multiget, 0.666666666666667,1,test memcache meta,test memcache multiget
+url,entity, 0.5,1,remove url,remove entity
+merge,checkin, 0.666666666666667,1,dav method merge,dav method checkin
+cgi,start, 0.5,1,cgi handler,start handler
+log,match, 0.5,1,log headers,match headers
+word,domainname, 0.666666666666667,1,proxy match word,proxy match domainname
+delete,propfind, 0.666666666666667,1,dav method delete,dav method propfind
+new,stack, 0.5,1,new free,stack free
+err,poll, 0.5,1,apr err,apr poll
+mkcol,merge, 0.666666666666667,1,dav method mkcol,dav method merge
+propfind,checkout, 0.666666666666667,1,dav method propfind,dav method checkout
+child,worker, 0.5,3,make child,make worker,child main,worker main,startup workers,startup children
+dbd,event, 0.5,1,dbd hooks,event hooks
+lob make,setaside notimpl, 0.5,1,apr bucket lob make,apr bucket setaside notimpl
+ef,thread, 0.5,1,ef init,thread init
+asis,sendfile, 0.5,1,asis handler,sendfile handler
+sha,cgid, 0.5,1,sha init,cgid init
+mmap,socket, 0.75,1,apr bucket mmap make,apr bucket socket make
+init,launch, 0.5,1,init child,launch child
+palloc,vformatter, 0.5,1,apr palloc,apr vformatter
+auth,access, 0.666666666666667,1,x auth checker,x access checker
+pass,password, 0.5,1,add pass,add password
+eos,immortal, 0.75,1,apr bucket eos make,apr bucket immortal make
+delete,contents, 0.666666666666667,1,test mmap delete,test mmap contents
+file make,setaside notimpl, 0.5,1,apr bucket file make,apr bucket setaside notimpl
+mmap,transient, 0.75,1,apr bucket mmap make,apr bucket transient make
+dav,dir, 0.5,1,dav fixups,dir fixups
+suexec,prefork, 0.5,1,suexec hooks,prefork hooks
+log,entity, 0.5,1,open log,open entity
+notrelfail,lowercasedrive, 0.5,1,merge notrelfail,merge lowercasedrive
+lost,unblock, 0.5,1,lost signal,unblock signal
+odbc,magic, 0.5,1,odbc init,magic init
+add,puts, 0.666666666666667,1,magic rsl add,magic rsl puts
+search,propfind, 0.666666666666667,1,dav method search,dav method propfind
+merge,options, 0.666666666666667,1,dav method merge,dav method options
+belowroot,lowercasedrive, 0.5,1,merge belowroot,merge lowercasedrive
+banner,version, 0.75,1,ap get server banner,ap get server version
+flush,transient, 0.75,1,apr bucket flush make,apr bucket transient make
+sbcs,hostalias, 0.5,1,check sbcs,check hostalias
+next,merge, 0.666666666666667,1,apr hash next,apr hash merge
+header,footer, 0.5,1,menu header,menu footer
+open,sync, 0.666666666666667,1,apr file open,apr file sync
+write,noreadwrite, 0.666666666666667,1,test open write,test open noreadwrite
+yyparse,yygrowstack, 0.666666666666667,1,ssl expr yyparse,ssl expr yygrowstack
+winx,winnt, 0.666666666666667,2,winx get connection,winnt get connection,winx accept,winnt accept
+db,sdbm, 0.666666666666667,3,vt db freedatum,vt sdbm freedatum,vt db exists,vt sdbm exists,vt db close,vt sdbm close
+put,checkin, 0.666666666666667,1,dav method put,dav method checkin
+start,status, 0.5,1,start handler,status handler
+beos,event, 0.5,1,beos hooks,event hooks
+request note,server banner, 0.5,1,ap get request note,ap get server banner
+write,cleanup, 0.666666666666667,1,apr brigade write,apr brigade cleanup
+sdbm,gdbm, 0.666666666666667,3,vt sdbm freedatum,vt gdbm freedatum,vt gdbm exists,vt sdbm exists,vt sdbm close,vt gdbm close
+log,handle, 0.666666666666667,1,dav log err,dav handle err
+message,headers, 0.5,1,send message,send headers
+secure,notrelfail, 0.5,1,merge secure,merge notrelfail
+cgid,balancer, 0.5,1,cgid handler,balancer handler
+init,grab, 0.5,1,lock init,lock grab
+strtoff,cpystrn, 0.5,1,string strtoff,string cpystrn
+beosd,logio, 0.666666666666667,1,beosd pre config,logio pre config
+notrel,belowroot, 0.5,1,merge notrel,merge belowroot
+db,gdbm, 0.666666666666667,3,vt db freedatum,vt gdbm freedatum,vt db exists,vt gdbm exists,vt db close,vt gdbm close
+checkin,propfind, 0.666666666666667,1,dav method checkin,dav method propfind
+brigade split,pollset create, 0.5,1,apr brigade split ex,apr pollset create ex
+world,container, 0.5,1,free world,free container
+beosd,winnt, 0.666666666666667,1,beosd pre config,winnt pre config
+eos,error, 0.5,1,apr bucket eos make,ap bucket error make
+logio,prefork, 0.666666666666667,1,logio pre config,prefork pre config
+mmap,proxy, 0.5,1,mmap handler,proxy handler
+signal,broadcast, 0.5,1,signal threads,broadcast threads
+apr,includes, 0.5,1,apr setup,includes setup
+spawn,launch, 0.5,1,spawn child,launch child
+lock,filter, 0.5,1,lock init,filter init
+merge,unlock, 0.666666666666667,1,dav method merge,dav method unlock
+notabs,aboveroot, 0.5,1,merge notabs,merge aboveroot
+dir,socket, 0.5,1,dir cleanup,socket cleanup
+noflag,notabsfail, 0.5,1,merge noflag,merge notabsfail
+restart,coredump, 0.5,1,sig restart,sig coredump
+error,socket, 0.5,1,ap bucket error make,apr bucket socket make
+heap,error, 0.666666666666667,1,heap bucket destroy,error bucket destroy
+cpystrn,initialize, 0.5,1,apr cpystrn,apr initialize
+alloc,close, 0.5,1,alloc socket,close socket
+locks,serverpath, 0.5,1,check locks,check serverpath
+make,overlap, 0.5,1,table make,table overlap
+beos,logio, 0.666666666666667,1,beos pre config,logio pre config
+unlock,propfind, 0.666666666666667,1,dav method unlock,dav method propfind
+yylex,yygrowstack, 0.666666666666667,1,ssl expr yylex,ssl expr yygrowstack
+itoa,terminate, 0.5,1,apr itoa,apr terminate
+imap,balancer, 0.5,1,imap handler,balancer handler
+header,comment, 0.5,1,menu header,menu comment
+report,checkout, 0.666666666666667,1,dav method report,dav method checkout
+init,select, 0.666666666666667,1,dbd freetds init,dbd freetds select
+mkcol,unlock, 0.666666666666667,1,dav method mkcol,dav method unlock
+query,select, 0.666666666666667,1,dbd freetds query,dbd freetds select
+wait,signal, 0.666666666666667,1,lock and wait,lock and signal
+atoi,palloc, 0.5,1,apr atoi,apr palloc
+ident,filter, 0.5,1,ident lookup,filter lookup
+atomic,busyloop, 0.5,3,atomic add,busyloop add,atomic cas,busyloop cas,atomic sub,busyloop sub
+blank,default, 0.5,1,menu blank,menu default
+lock,checkout, 0.666666666666667,1,dav method lock,dav method checkout
+dup,file, 0.666666666666667,1,test dup readwrite,test file readwrite
+immortal,transient, 0.75,1,apr bucket immortal make,apr bucket transient make
+server,compile, 0.666666666666667,1,show server settings,show compile settings
+win,beos, 0.666666666666667,1,win pre config,beos pre config
+apr,lob, 0.666666666666667,1,apr bucket destroy,lob bucket destroy
+atoi,pstrndup, 0.5,1,apr atoi,apr pstrndup
+core,expires, 0.666666666666667,1,core insert filter,expires insert filter
+mmap,action, 0.5,1,mmap handler,action handler
+error,strtoi, 0.5,1,string error,string strtoi
+after,headers, 0.5,1,log after,log headers
+stderr,stdout, 0.8,1,apr file open flags stderr,apr file open flags stdout
+lock,magic, 0.5,1,lock init,magic init
+conn,upgradeable, 0.666666666666667,1,is secure conn,is secure upgradeable
+cleanup,destroy, 0.666666666666667,1,apr brigade cleanup,apr brigade destroy
+signal,serverpath, 0.5,1,check signal,check serverpath
+proxy,worker, 0.5,1,add proxy,add worker
+isapi,suexec, 0.5,1,isapi hooks,suexec hooks
+make,recv, 0.5,1,make pollset,recv pollset
+apros,update, 0.5,1,apros status,update status
+itoa,pstrdup, 0.5,1,apr itoa,apr pstrdup
+term,restart, 0.5,1,sig term,sig restart
+atoi,pstrdup, 0.5,1,apr atoi,apr pstrdup
+mmap,error, 0.666666666666667,2,apr bucket mmap make,ap bucket error make,mmap bucket destroy,error bucket destroy
+setup,trigger, 0.5,1,setup pollcb,trigger pollcb
+error,connect, 0.75,1,ssl io filter error,ssl io filter connect
+odbc,lock, 0.5,1,odbc init,lock init
+exist,nonexist, 0.5,1,append exist,append nonexist
+sub,swap, 0.5,1,atomic sub,atomic swap
+unset,reindex, 0.5,1,table unset,table reindex
+options,copymove, 0.666666666666667,1,dav method options,dav method copymove
+request note,rewrite mapfunc, 0.5,1,ap register request note,ap register rewrite mapfunc
+lock,update, 0.666666666666667,1,dav method lock,dav method update
+beos,prefork, 0.666666666666667,2,beos pre config,prefork pre config,beos hooks,prefork hooks
+new,show, 0.5,1,new info,show info
+close,remove, 0.666666666666667,2,test file close,test file remove,apr file close,apr file remove
+off,size, 0.666666666666667,1,off t fmt,size t fmt
+str,pthread, 0.5,1,str equal,pthread equal
+err,terminate, 0.5,1,apr err,apr terminate
+dbm,mmap, 0.666666666666667,1,test dbm delete,test mmap delete
+detect,handler, 0.5,1,proxy detect,proxy handler
+delete,exists, 0.666666666666667,2,test dbm delete,test dbm exists,dav dbm exists,dav dbm delete
+poll,pstrdup, 0.5,1,apr poll,apr pstrdup
+pipe make,setaside notimpl, 0.5,1,apr bucket pipe make,apr bucket setaside notimpl
+cgid,cdata, 0.5,1,cgid handler,cdata handler
+beos,reqtimeout, 0.5,1,beos hooks,reqtimeout hooks
+log,beos, 0.666666666666667,1,log pre config,beos pre config
+reindex,overlap, 0.5,1,table reindex,table overlap
+fetch,traversal, 0.666666666666667,1,test dbm fetch,test dbm traversal
+blank,directive, 0.5,1,menu blank,menu directive
+apr,heap, 0.666666666666667,1,apr bucket destroy,heap bucket destroy
+event,filter, 0.5,1,event hooks,filter hooks
+singleton,interesting, 0.666666666666667,1,test singleton subnets,test interesting subnets
+winnt,suexec, 0.5,1,winnt hooks,suexec hooks
+report,proppatch, 0.666666666666667,1,dav method report,dav method proppatch
+register,reqtimeout, 0.5,1,register hooks,reqtimeout hooks
+body,note, 0.5,2,ap discard request body,ap register request note,ap get request note,ap discard request body
+asis,action, 0.5,1,asis handler,action handler
+mmap,sendfile, 0.5,1,mmap handler,sendfile handler
+palloc,cpystrn, 0.5,1,apr palloc,apr cpystrn
+initialize,vformatter, 0.5,1,apr initialize,apr vformatter
+cpystrn,pstrcatv, 0.5,1,apr cpystrn,apr pstrcatv
+unset,overlap, 0.5,1,table unset,table overlap
+make,launch, 0.5,1,make child,launch child
+label,propfind, 0.666666666666667,1,dav method label,dav method propfind
+pollcb,listeners, 0.5,1,setup pollcb,setup listeners
+off,uint, 0.666666666666667,1,off t fmt,uint t fmt
+bind,copymove, 0.666666666666667,1,dav method bind,dav method copymove
+put,unlock, 0.666666666666667,1,dav method put,dav method unlock
+sbcs,restart, 0.5,1,check sbcs,check restart
+post,mkcol, 0.666666666666667,1,dav method post,dav method mkcol
+consumer,producer, 0.5,1,pipe consumer,pipe producer
+reclaim,relieve, 0.75,1,ap reclaim child processes,ap relieve child processes
+job,lockfile, 0.5,1,remove job,remove lockfile
+checkout,proppatch, 0.666666666666667,1,dav method checkout,dav method proppatch
+pgsql,oracle, 0.8,11,dbd pgsql num tuples,dbd oracle num tuples,dbd pgsql num cols,dbd oracle num cols,dbd pgsql end transaction,dbd oracle end transaction,dbd pgsql transaction mode get,dbd oracle transaction mode get,dbd pgsql pselect,dbd oracle pselect,dbd pgsql query,dbd oracle query,dbd oracle num cols,dbd pgsql num tuples,dbd pgsql num cols,dbd oracle num tuples,dbd pgsql pbselect,dbd oracle pbselect,dbd pgsql pbquery,dbd oracle pbquery,dbd pgsql pquery,dbd oracle pquery
+cdata,balancer, 0.5,1,cdata handler,balancer handler
+child,pollset, 0.5,1,make child,make pollset
+cond,rule, 0.666666666666667,1,apply rewrite cond,apply rewrite rule
+heap,pool, 0.666666666666667,1,heap bucket destroy,pool bucket destroy
+sub,xchg, 0.5,1,busyloop sub,busyloop xchg
+pgsql,mysql, 0.8,11,dbd pgsql num tuples,dbd mysql num tuples,dbd pgsql num cols,dbd mysql num cols,dbd pgsql end transaction,dbd mysql end transaction,dbd mysql transaction mode get,dbd pgsql transaction mode get,dbd mysql pselect,dbd pgsql pselect,dbd pgsql query,dbd mysql query,dbd pgsql num cols,dbd mysql num tuples,dbd mysql num cols,dbd pgsql num tuples,dbd mysql pbselect,dbd pgsql pbselect,dbd pgsql pbquery,dbd mysql pbquery,dbd mysql pquery,dbd pgsql pquery
+connect,disable, 0.75,1,ssl io filter connect,ssl io filter disable
+off,cleanup, 0.666666666666667,1,accept mutex off,accept mutex cleanup
+bind,checkout, 0.666666666666667,1,dav method bind,dav method checkout
+module,notthere, 0.666666666666667,1,test load module,test load notthere
+unset,getnotthere, 0.5,1,table unset,table getnotthere
+put,merge, 0.666666666666667,1,dav method put,dav method merge
+proxy,balancer, 0.5,1,proxy handler,balancer handler
+unlock,search, 0.666666666666667,1,dav method unlock,dav method search
+create,startup, 0.5,1,create threads,startup threads
+pollset,listeners, 0.5,1,setup pollset,setup listeners
+pid,ssize, 0.666666666666667,1,pid t fmt,ssize t fmt
+hook pre,init ssl, 0.5,1,ssl hook pre connection,ssl init ssl connection
+event,reqtimeout, 0.5,1,event hooks,reqtimeout hooks
+next,overlay, 0.666666666666667,1,apr hash next,apr hash overlay
+palloc,pcalloc, 0.5,1,apr palloc,apr pcalloc
+wait,prolog, 0.5,1,do wait,do prolog
+fork,barrier, 0.5,1,rand fork,rand barrier
+pipe,connection, 0.5,2,close pipe,close connection,close pipe,close connection
+dav,mmap, 0.5,1,dav handler,mmap handler
+send,clear, 0.666666666666667,2,send middle pollset,clear middle pollset,send last pollset,clear last pollset
+file,transient, 0.75,1,apr bucket file make,apr bucket transient make
+sig,check, 0.5,1,sig restart,check restart
+anon,memcache, 0.666666666666667,1,test anon create,test memcache create
+env,cookie, 0.666666666666667,1,do expand env,do expand cookie
+delete,copymove, 0.666666666666667,1,dav method delete,dav method copymove
+pid,uint, 0.666666666666667,1,pid t fmt,uint t fmt
+mpm,sig, 0.5,1,mpm term,sig term
+poll,terminate, 0.5,1,apr poll,apr terminate
+apr,mmap, 0.666666666666667,1,apr bucket destroy,mmap bucket destroy
+dummy,daemon, 0.666666666666667,1,dummy signal handler,daemon signal handler
+hash,compare, 0.833333333333333,8,util ldap compare node hash,util ldap compare node compare,util ldap dn compare node hash,util ldap dn compare node compare,util ldap search node hash,util ldap compare node compare,util ldap search node hash,util ldap search node compare,util ldap url node compare,util ldap search node hash,util ldap url node hash,util ldap compare node compare,util ldap url node hash,util ldap search node compare,util ldap url node hash,util ldap url node compare
+flush,overflow, 0.5,1,snprintf flush,snprintf overflow
+cgi,imap, 0.5,1,cgi handler,imap handler
+eos,file, 0.75,1,apr bucket eos make,apr bucket file make
+update,unlock, 0.666666666666667,1,dav method update,dav method unlock
+menu,pollset, 0.5,1,menu default,pollset default
+main,pool, 0.5,1,child main,child pool
+insert,lookup, 0.5,1,filter insert,filter lookup
+mm,logger, 0.5,1,x mm,x logger
+reset,traverse, 0.5,1,hash reset,hash traverse
+merge,split, 0.666666666666667,2,list merge single,list split single,list split multi,list merge multi
+release,destroy, 0.5,1,lock release,lock destroy
+options,propfind, 0.666666666666667,1,dav method options,dav method propfind
+unlock,options, 0.666666666666667,1,dav method unlock,dav method options
+ssl,charset, 0.666666666666667,1,ssl register hooks,charset register hooks
+reindex,getnotthere, 0.5,1,table reindex,table getnotthere
+finish,transform, 0.5,1,sha finish,sha transform
+atoi,terminate, 0.5,1,apr atoi,apr terminate
+isnamecharminbpc,isnmstrtcharminbpc, 0.5,2,big isnamecharminbpc,big isnmstrtcharminbpc,little isnamecharminbpc,little isnmstrtcharminbpc
+pid,off, 0.666666666666667,1,pid t fmt,off t fmt
+byte,kbyte, 0.666666666666667,1,format byte out,format kbyte out
+setget,multiget, 0.666666666666667,1,test memcache setget,test memcache multiget
+winnt,header, 0.666666666666667,1,winnt pre config,header pre config
+proxy,action, 0.5,1,proxy handler,action handler
+proxy,directory, 0.5,1,proxy walk,directory walk
+uint,ssize, 0.666666666666667,1,uint t fmt,ssize t fmt
+mkcol,proppatch, 0.666666666666667,1,dav method mkcol,dav method proppatch
+xlat,handler, 0.666666666666667,1,file cache xlat,file cache handler
+x,cdata, 0.5,1,x handler,cdata handler
+inaddr,traverse, 0.5,1,hash inaddr,hash traverse
+error,output, 0.8,1,ap headers insert error filter,ap headers insert output filter
+sha,reqtimeout, 0.5,1,sha init,reqtimeout init
+lock,destroy, 0.75,2,apr thread mutex lock,apr thread mutex destroy,apr thread mutex lock,apr proc mutex destroy
+lob,transient, 0.75,1,apr bucket lob make,apr bucket transient make
+init,process, 0.5,1,magic init,magic process
+fixup,detect, 0.5,1,proxy fixup,proxy detect
+lru,gdsf, 0.666666666666667,1,memcache lru algorithm,memcache gdsf algorithm
+array,fname, 0.5,1,array alphasort,fname alphasort
+dumpio,charset, 0.666666666666667,1,dumpio register hooks,charset register hooks
+read,close, 0.5,2,read connection,close connection,read connection,close connection
+setup,pstrndup, 0.5,1,apr setup,apr pstrndup
+lock,report, 0.666666666666667,1,dav method lock,dav method report
+func,child, 0.5,1,init func,init child
+fix console,windowsx service, 0.5,1,fix console ctrl handler,windowsx service ctrl handler
+make,getnotthere, 0.5,1,table make,table getnotthere
+pass,worker, 0.5,1,add pass,add worker
+open,remove, 0.666666666666667,3,test file open,test file remove,apr file open,apr file remove,open entity,remove entity
+url,network, 0.5,1,parse url,parse network
+aboveroot,lowercasedrive, 0.5,1,merge aboveroot,merge lowercasedrive
+strtoi,pstrcatv, 0.5,1,apr strtoi,apr pstrcatv
+store,delete, 0.666666666666667,2,dav dbm store,dav dbm delete,test dbm store,test dbm delete
+entity,filename, 0.5,1,create entity,create filename
+init,pbquery, 0.666666666666667,2,dbd oracle init,dbd oracle pbquery,dbd mysql init,dbd mysql pbquery
+send,setup, 0.5,1,send pollset,setup pollset
+on,cleanup, 0.666666666666667,1,accept mutex on,accept mutex cleanup
+prefix,allowdeny, 0.5,1,find prefix,find allowdeny
+uint,size, 0.666666666666667,1,uint t fmt,size t fmt
+win,header, 0.666666666666667,1,win pre config,header pre config
+worker,reqtimeout, 0.5,1,worker hooks,reqtimeout hooks
+udp,close, 0.5,1,udp socket,close socket
+unlock,destroy, 0.75,2,apr thread mutex unlock,apr thread mutex destroy,apr proc mutex destroy,apr thread mutex unlock
+detect,server, 0.5,1,proxy detect,proxy server
+label,report, 0.666666666666667,1,dav method label,dav method report
+service,computer, 0.75,1,am clear services st,am clear computers st
+reply,handler, 0.5,1,imap reply,imap handler
+end,proxy, 0.5,1,end handler,proxy handler
+comp,prep, 0.5,1,comp string,prep string
+register,unregister, 0.8,2,register app with win sock,unregister app with win sock,register nlm,unregister nlm
+gets,flush, 0.75,1,bio filter out gets,bio filter out flush
+job,url, 0.5,1,remove job,remove url
+terminate,initialize, 0.5,1,apr terminate,apr initialize
+pool,bucket, 0.666666666666667,1,apr pool destroy,apr bucket destroy
+reset,apros, 0.5,1,reset status,apros status
+fail,buffered, 0.5,1,test fail write flush,test buffered write size
+beosd,isapi, 0.666666666666667,1,beosd pre config,isapi pre config
+conn,upgraded, 0.666666666666667,1,is secure conn,is secure upgraded
+sync,close, 0.666666666666667,1,apr file sync,apr file close
+sdbm,ndbm, 0.666666666666667,3,vt sdbm close,vt ndbm close,vt ndbm exists,vt sdbm exists,vt ndbm freedatum,vt sdbm freedatum
+update,options, 0.666666666666667,1,dav method update,dav method options
+print,state, 0.666666666666667,1,ssl print cb,ssl state cb
+ap,apr, 0.75,21,ap bucket error make,apr bucket immortal make,ap bucket eoc make,apr bucket immortal make,ap bucket error make,apr bucket flush make,apr bucket lob make,ap bucket error make,ap bucket error make,apr bucket socket make,apr bucket pipe make,ap bucket error make,ap bucket error make,apr bucket transient make,apr bucket pool make,ap bucket error make,apr bucket file make,ap bucket error make,apr bucket mmap make,ap bucket error make,apr bucket eos make,ap bucket error make,ap bucket eoc make,apr bucket flush make,ap bucket eoc make,apr bucket lob make,ap bucket eoc make,apr bucket socket make,ap bucket eoc make,apr bucket pipe make,ap bucket eoc make,apr bucket transient make,ap bucket eoc make,apr bucket pool make,ap bucket eoc make,apr bucket file make,ap bucket eoc make,apr bucket mmap make,ap bucket eoc make,apr bucket eos make,ap queue interrupt all,apr queue interrupt all
+create,contents, 0.666666666666667,1,test mmap create,test mmap contents
+bind,propfind, 0.666666666666667,1,dav method bind,dav method propfind
+load,opendir, 0.666666666666667,1,test load notthere,test opendir notthere
+send,count, 0.5,1,send headers,count headers
+setup,shutdown, 0.5,1,setup listeners,shutdown listeners
+handler,connect, 0.5,1,start handler,start connect
+clear,reindex, 0.5,1,table clear,table reindex
+ctx cleanup,ssl connection, 0.5,1,ssl init ctx cleanup,ssl init ssl connection
+fs,generic, 0.8,4,dav fs really open lockdb,dav generic really open lockdb,dav fs close lockdb,dav generic close lockdb,dav fs save lock record,dav generic save lock record,dav fs lock expired,dav generic lock expired
+grab,destroy, 0.5,1,lock grab,lock destroy
+big,little, 0.5,5,big charmatches,little charmatches,big isnamecharminbpc,little isnamecharminbpc,big bytetoascii,little bytetoascii,big isnmstrtcharminbpc,little isnmstrtcharminbpc,big bytetype,little bytetype
+setget,create, 0.666666666666667,1,test memcache setget,test memcache create
+do,nested, 0.5,1,do wait,nested wait
+ef,odbc, 0.5,1,ef init,odbc init
+end,cgid, 0.5,1,end handler,cgid handler
+dir,vary, 0.5,1,fixup dir,fixup vary
+mmap,balancer, 0.5,1,mmap handler,balancer handler
+comp,strcmplex, 0.75,1,ssl expr eval comp,ssl expr eval strcmplex
+pipe,transient, 0.75,1,apr bucket pipe make,apr bucket transient make
+beos,isapi, 0.666666666666667,2,beos pre config,isapi pre config,beos hooks,isapi hooks
+update,propfind, 0.666666666666667,1,dav method update,dav method propfind
+oc,threads, 0.666666666666667,1,oc not impl,threads not impl
+dumpio,import, 0.666666666666667,1,dumpio register hooks,import register hooks
+status,sendfile, 0.5,1,status handler,sendfile handler
+redir,close, 0.666666666666667,1,test file redir,test file close
+init,server, 0.5,1,cgid init,cgid server
+load,remove, 0.666666666666667,1,test load notthere,test remove notthere
+poll,pcalloc, 0.5,1,apr poll,apr pcalloc
+ipaddr,domainname, 0.666666666666667,1,proxy match ipaddr,proxy match domainname
+init,lookup, 0.5,1,filter init,filter lookup
+pool,brigade, 0.666666666666667,1,apr pool destroy,apr brigade destroy
+worker,thread, 0.5,2,join workers,join threads,startup workers,startup threads
+flush,size, 0.5,1,test fail write flush,test buffered write size
+ef,filter, 0.5,1,ef init,filter init
+spawn,initialize, 0.5,1,spawn child,initialize child
+walk,server, 0.5,1,proxy walk,proxy server
+setup,pcalloc, 0.5,1,apr setup,apr pcalloc
+alloc,calloc, 0.5,1,alloc bytes,calloc bytes
+child,cache, 0.5,1,init child,init cache
+err,palloc, 0.5,1,apr err,apr palloc
+put,options, 0.666666666666667,1,dav method put,dav method options
+udp,tcp, 0.5,1,udp socket,tcp socket
+report,options, 0.666666666666667,1,dav method report,dav method options
+itoa,setup, 0.5,1,apr itoa,apr setup
+notabs,dotdot, 0.5,1,merge notabs,merge dotdot
+alloc,sslize, 0.5,1,alloc socket,sslize socket
+prefix,addresses, 0.5,1,find prefix,find addresses
+mysql,oracle, 0.8,12,dbd mysql num tuples,dbd oracle num tuples,dbd mysql num cols,dbd oracle num cols,dbd mysql end transaction,dbd oracle end transaction,dbd mysql transaction mode get,dbd oracle transaction mode get,dbd mysql pselect,dbd oracle pselect,dbd mysql query,dbd oracle query,dbd oracle num cols,dbd mysql num tuples,dbd mysql num cols,dbd oracle num tuples,dbd mysql pbselect,dbd oracle pbselect,dbd mysql pbquery,dbd oracle pbquery,dbd mysql pquery,dbd oracle pquery,dbd mysql init,dbd oracle init
+url,expr, 0.5,1,parse url,parse expr
+asis,default, 0.5,1,asis handler,default handler
+beos,filter, 0.5,1,beos hooks,filter hooks
+reps,headers, 0.5,1,count reps,count headers
+inc,mod, 0.666666666666667,1,test inc neg,test mod neg
+win,logio, 0.666666666666667,1,win pre config,logio pre config
+ctrl,gets, 0.75,1,bio filter out ctrl,bio filter out gets
+init,insert, 0.5,1,filter init,filter insert
+usage,terminate, 0.5,1,htdbm usage,htdbm terminate
+bind,pquery, 0.666666666666667,2,dbd sqlite bind,dbd sqlite pquery,dbd oracle bind,dbd oracle pquery
+err,vformatter, 0.5,1,apr err,apr vformatter
+copymove,proppatch, 0.666666666666667,1,dav method copymove,dav method proppatch
+tcp,sslize, 0.5,1,tcp socket,sslize socket
+x,charset, 0.666666666666667,1,x register hooks,charset register hooks
+asis,proxy, 0.5,1,asis handler,proxy handler
+type,auth, 0.666666666666667,1,x type checker,x auth checker
+cpystrn,pstrdup, 0.5,1,apr cpystrn,apr pstrdup
+rewrite mapfunc,include handler, 0.5,1,ap register rewrite mapfunc,ap register include handler
+cgi,action, 0.5,1,cgi handler,action handler
+write,flush, 0.75,1,bio filter out write,bio filter out flush
+update,uncheckout, 0.666666666666667,1,dav method update,dav method uncheckout
+wait,await, 0.5,1,wait child,await child
+long,strtoff, 0.5,1,string long,string strtoff
+pool,socket, 0.75,1,apr bucket pool make,apr bucket socket make
+entity,threads, 0.5,1,create entity,create threads
+mime,alias, 0.5,1,mime match,alias match
+winnt,reqtimeout, 0.5,1,winnt hooks,reqtimeout hooks
+suexec,register, 0.5,1,suexec hooks,register hooks
+suite,handler, 0.5,1,end suite,end handler
+mm,handler, 0.5,1,x mm,x handler
+gzip,serverpath, 0.5,1,check gzip,check serverpath
+cb,description, 0.5,1,ap down server cb,ap get server description
+imap,proxy, 0.5,1,imap handler,proxy handler
+log,mix, 0.5,1,log pid,mix pid
+child,reader, 0.5,1,launch child,launch reader
+pcalloc,pstrcatv, 0.5,1,apr pcalloc,apr pstrcatv
+mysql,freetds, 0.8,10,dbd mysql num tuples,dbd freetds num tuples,dbd mysql num cols,dbd freetds num cols,dbd mysql end transaction,dbd freetds end transaction,dbd mysql transaction mode get,dbd freetds transaction mode get,dbd mysql pselect,dbd freetds pselect,dbd mysql query,dbd freetds query,dbd freetds num cols,dbd mysql num tuples,dbd mysql num cols,dbd freetds num tuples,dbd mysql pquery,dbd freetds pquery,dbd mysql init,dbd freetds init
+dbm error,lock expired, 0.5,1,dav fs dbm error,dav fs lock expired
+yyerror,yygrowstack, 0.666666666666667,1,ssl expr yyerror,ssl expr yygrowstack
+pop,push, 0.666666666666667,1,yy pop state,yy push state
+propfind,uncheckout, 0.666666666666667,1,dav method propfind,dav method uncheckout
+long,error, 0.5,1,string long,string error
+pipe,immortal, 0.75,1,apr bucket pipe make,apr bucket immortal make
+alias,redirect, 0.666666666666667,1,add alias internal,add redirect internal
+pipe,threads, 0.5,1,create pipe,create threads
+cgi,end, 0.5,1,cgi handler,end handler
+pool,flush, 0.75,1,apr bucket pool make,apr bucket flush make
+cas,sub, 0.5,2,atomic cas,atomic sub,busyloop sub,busyloop cas
+mkcol,uncheckout, 0.666666666666667,1,dav method mkcol,dav method uncheckout
+proxy,include, 0.5,1,proxy fixup,include fixup
+start,default, 0.5,1,start handler,default handler
+child,state, 0.5,1,init child,init state
+terminate,vformatter, 0.5,1,apr terminate,apr vformatter
+pre,post, 0.666666666666667,1,winnt pre config,winnt post config
+library,notthere, 0.666666666666667,1,test load library,test load notthere
+dbd,suexec, 0.5,1,dbd hooks,suexec hooks
+mkcol,delete, 0.666666666666667,1,dav method mkcol,dav method delete
+mmap,status, 0.5,1,mmap handler,status handler
+status,action, 0.5,1,status handler,action handler
+atoi,cpystrn, 0.5,1,apr atoi,apr cpystrn
+cookie,password, 0.5,1,add cookie,add password
+multi,export, 0.666666666666667,1,multi log transaction,export log transaction
+version,description, 0.75,1,ap get server version,ap get server description
+count,inaddr, 0.5,1,hash count,hash inaddr
+x,balancer, 0.5,1,x handler,balancer handler
+mkcol,copymove, 0.666666666666667,1,dav method mkcol,dav method copymove
+open,readwrite, 0.666666666666667,1,test file open,test file readwrite
+odbc,thread, 0.5,1,odbc init,thread init
+mpm,compile, 0.666666666666667,1,show mpm settings,show compile settings
+task,pass, 0.5,1,add task,add pass
+x,ssl, 0.666666666666667,1,x register hooks,ssl register hooks
+grab,release, 0.5,1,lock grab,lock release
+job,cookie, 0.5,1,add job,add cookie
+winnt,status, 0.666666666666667,1,winnt child init,status child init
+incrdecr,addreplace, 0.666666666666667,1,test memcache incrdecr,test memcache addreplace
+dotdot,notrelfail, 0.5,1,merge dotdot,merge notrelfail
+atoi,itoa, 0.5,1,apr atoi,apr itoa
+post,uncheckout, 0.666666666666667,1,dav method post,dav method uncheckout
+module,library, 0.666666666666667,2,test load module,test load library,test unload module,test unload library
+mime,core, 0.666666666666667,1,mime post config,core post config
+x,proxy, 0.5,1,x handler,proxy handler
+job,password, 0.5,1,add job,add password
+next buffer,previous state, 0.5,1,yy get next buffer,yy get previous state
+cpystrn,strfsize, 0.5,1,string cpystrn,string strfsize
+dbd,winnt, 0.666666666666667,2,dbd child init,winnt child init,dbd hooks,winnt hooks
+task,proxy, 0.5,1,add task,add proxy
+winnt,logio, 0.666666666666667,1,winnt pre config,logio pre config
+action,sendfile, 0.5,1,action handler,sendfile handler
+x,core, 0.666666666666667,2,x pre connection,core pre connection,x insert filter,core insert filter
+delete,proppatch, 0.666666666666667,1,dav method delete,dav method proppatch
+comp,count, 0.5,1,comp string,count string
+end,balancer, 0.5,1,end handler,balancer handler
+secure,aboveroot, 0.5,1,merge secure,merge aboveroot
+read,destroy, 0.666666666666667,1,apr bucket read,apr bucket destroy
+pstrdup,vformatter, 0.5,1,apr pstrdup,apr vformatter
+dir,user, 0.666666666666667,1,check dir access,check user access
+post,search, 0.666666666666667,1,dav method post,dav method search
+dbd,worker, 0.5,1,dbd hooks,worker hooks
+threads,filename, 0.5,1,create threads,create filename
+belowroot,notrelfail, 0.5,1,merge belowroot,merge notrelfail
+multiget,incrdecr, 0.666666666666667,1,test memcache multiget,test memcache incrdecr
+fork,exists, 0.5,1,rand fork,rand exists
+noflag,notrelfail, 0.5,1,merge noflag,merge notrelfail
+cdata,proxy, 0.5,1,cdata handler,proxy handler
+poll,palloc, 0.5,1,apr poll,apr palloc
+dav,cgid, 0.5,1,dav handler,cgid handler
+pstrcatv,initialize, 0.5,1,apr pstrcatv,apr initialize
+update,report, 0.666666666666667,1,dav method update,dav method report
+headers,backtrace, 0.5,1,log headers,log backtrace
+nelts,overlap, 0.5,1,table nelts,table overlap
+apr,impl, 0.666666666666667,1,apr pollset poll,impl pollset poll
+sqlite,freetds, 0.8,9,dbd sqlite num tuples,dbd freetds num tuples,dbd sqlite num cols,dbd freetds num cols,dbd sqlite transaction mode get,dbd freetds transaction mode get,dbd sqlite end transaction,dbd freetds end transaction,dbd sqlite pselect,dbd freetds pselect,dbd sqlite query,dbd freetds query,dbd freetds num cols,dbd sqlite num tuples,dbd sqlite num cols,dbd freetds num tuples,dbd sqlite pquery,dbd freetds pquery
+subnet,hostname, 0.5,1,fix subnet,fix hostname
+x,action, 0.5,1,x handler,action handler
+ctrl,read, 0.75,1,bio filter out ctrl,bio filter out read
+eos,socket, 0.75,1,apr bucket eos make,apr bucket socket make
+exec,yygrowstack, 0.666666666666667,1,ssl expr exec,ssl expr yygrowstack
+apr,string, 0.5,2,apr cpystrn,string cpystrn,apr strtoi,string strtoi
+fixup,handler, 0.5,1,proxy fixup,proxy handler
+merge,search, 0.666666666666667,1,dav method merge,dav method search
+error,flush, 0.5,1,ap bucket error make,apr bucket flush make
+info,overrides, 0.5,1,show info,show overrides
+create,acquire, 0.666666666666667,1,apr reslist create,apr reslist acquire
+blank,comment, 0.5,1,menu blank,menu comment
+winnt,filter, 0.5,1,winnt hooks,filter hooks
+status,balancer, 0.5,1,status handler,balancer handler
+fetch,exists, 0.666666666666667,1,test dbm fetch,test dbm exists
+eoc,error, 0.75,1,ap bucket eoc make,ap bucket error make
+urifile,mimetype, 0.5,1,hook urifile,hook mimetype
+add,wakeup, 0.666666666666667,1,apr pollset add,apr pollset wakeup
+beosd,header, 0.666666666666667,1,beosd pre config,header pre config
+entity,rewritelog, 0.5,1,open entity,open rewritelog
+atoi,pcalloc, 0.5,1,apr atoi,apr pcalloc
+pcalloc,initialize, 0.5,1,apr pcalloc,apr initialize
+mkdir,strtol, 0.5,1,safe mkdir,safe strtol
+word,ipaddr, 0.666666666666667,1,proxy match word,proxy match ipaddr
+pid,backtrace, 0.5,1,log pid,log backtrace
+merge,checkout, 0.666666666666667,1,dav method merge,dav method checkout
+exec,yyerror, 0.666666666666667,1,ssl expr exec,ssl expr yyerror
+pollset,headers, 0.5,1,send pollset,send headers
+vsn control,make activity, 0.5,1,dav method vsn control,dav method make activity
+start,proxy, 0.5,1,start handler,proxy handler
+write,destroy, 0.666666666666667,1,apr brigade write,apr brigade destroy
+netware,prefork, 0.666666666666667,1,netware pre config,prefork pre config
+small,large, 0.666666666666667,1,setup small poll,setup large poll
+await,spawn, 0.5,1,await child,spawn child
+tcp,alloc, 0.5,1,tcp socket,alloc socket
+info,time, 0.5,1,show info,show time
+win,isapi, 0.666666666666667,1,win pre config,isapi pre config
+bind,unlock, 0.666666666666667,1,dav method bind,dav method unlock
+action,balancer, 0.5,1,action handler,balancer handler
+x,dbd, 0.666666666666667,1,x child init,dbd child init
+lock,mkcol, 0.666666666666667,1,dav method lock,dav method mkcol
+notabs,notrel, 0.5,1,merge notabs,merge notrel
+palloc,terminate, 0.5,1,apr palloc,apr terminate
+shmem,atomic, 0.666666666666667,1,apr shmem init,apr atomic init
+find,close, 0.666666666666667,1,uldap connection find,uldap connection close
+func,cache, 0.5,1,init func,init cache
+off,init, 0.666666666666667,1,accept mutex off,accept mutex init
+addresses,allowdeny, 0.5,1,find addresses,find allowdeny
+stop,install, 0.666666666666667,1,stop console handler,install console handler
+dbd,reqtimeout, 0.5,1,dbd hooks,reqtimeout hooks
+pipe,socket, 0.75,3,apr bucket pipe make,apr bucket socket make,create pipe,create socket,close pipe,close socket
+update,delete, 0.666666666666667,1,dav method update,dav method delete
+clear,getnotthere, 0.5,1,table clear,table getnotthere
+bind,pselect, 0.666666666666667,2,dbd sqlite bind,dbd sqlite pselect,dbd oracle bind,dbd oracle pselect
+encoding,language, 0.666666666666667,1,set encoding quality,set language quality
+eoc,socket, 0.5,1,ap bucket eoc make,apr bucket socket make
+edit,terminate, 0.5,1,edit header,terminate header
+init,content, 0.75,1,external entity init processor,external entity content processor
+exec,autoindex, 0.5,1,handle exec,handle autoindex
+epilog,content, 0.5,1,epilog processor,content processor
+child,thread, 0.5,2,child init,thread init,startup threads,startup children
+bind,pbselect, 0.666666666666667,2,dbd sqlite bind,dbd sqlite pbselect,dbd oracle bind,dbd oracle pbselect
+eos,pipe, 0.75,1,apr bucket eos make,apr bucket pipe make
+write,producer, 0.5,1,pipe write,pipe producer
+err,pcalloc, 0.5,1,apr err,apr pcalloc
+best,alias, 0.5,1,best match,alias match
+pcalloc,terminate, 0.5,1,apr pcalloc,apr terminate
+charmatches,isnamecharminbpc, 0.5,2,big charmatches,big isnamecharminbpc,little charmatches,little isnamecharminbpc
+sum,cache, 0.5,1,sum hash,cache hash
+ef,sha, 0.5,1,ef init,sha init
+add,schedule, 0.5,1,add task,schedule task
+eos,lob, 0.75,1,apr bucket eos make,apr bucket lob make
+join,startup, 0.5,2,join workers,startup workers,join threads,startup threads
+mmap,default, 0.5,1,mmap handler,default handler
+header,pollset, 0.5,1,send header,send pollset
+init,wait, 0.5,1,init child,wait child
+pstrndup,pstrmemdup, 0.5,1,apr pstrndup,apr pstrmemdup
+lockfile,keepalive, 0.5,1,remove lockfile,remove keepalive
+secure,belowroot, 0.5,1,merge secure,merge belowroot
+off,ssize, 0.666666666666667,1,off t fmt,ssize t fmt
+signal,message, 0.5,1,send signal,send message
+worker,password, 0.5,1,add worker,add password
+mmap,pipe, 0.75,1,apr bucket mmap make,apr bucket pipe make
+insert filter,pre connection, 0.5,1,ssl hook insert filter,ssl hook pre connection
+proxy,status, 0.5,1,proxy handler,status handler
+winnt,register, 0.5,1,winnt hooks,register hooks
+reset,inaddr, 0.5,1,hash reset,hash inaddr
+dbm error,close lockdb, 0.5,1,dav fs dbm error,dav fs close lockdb
+search,copymove, 0.666666666666667,1,dav method search,dav method copymove
+checkin,copymove, 0.666666666666667,1,dav method checkin,dav method copymove
+itoa,cpystrn, 0.5,1,apr itoa,apr cpystrn
+sbcs,speling, 0.5,1,check sbcs,check speling
+dec,sub, 0.5,1,busyloop dec,busyloop sub
+signal,speling, 0.5,1,check signal,check speling
+charset,encoding, 0.666666666666667,1,set charset quality,set encoding quality
+sha,filter, 0.5,1,sha init,filter init
+mpm,server, 0.666666666666667,1,show mpm settings,show server settings
+str,finfo, 0.5,1,str equal,finfo equal
+export,charset, 0.666666666666667,1,export register hooks,charset register hooks
+pstrndup,vformatter, 0.5,1,apr pstrndup,apr vformatter
+restart,hostalias, 0.5,1,check restart,check hostalias
+cb,info, 0.666666666666667,1,ssl print cb,ssl print info
+report,unlock, 0.666666666666667,1,dav method report,dav method unlock
+pquery,pbquery, 0.666666666666667,4,dbd sqlite pquery,dbd sqlite pbquery,dbd oracle pquery,dbd oracle pbquery,dbd pgsql pquery,dbd pgsql pbquery,dbd mysql pquery,dbd mysql pbquery
+mime,best, 0.5,1,mime match,best match
+eoc,transient, 0.5,1,ap bucket eoc make,apr bucket transient make
+accept,language, 0.666666666666667,1,set accept quality,set language quality
+palloc,pstrmemdup, 0.5,1,apr palloc,apr pstrmemdup
+pid,headers, 0.5,1,log pid,log headers
+unlock,proppatch, 0.666666666666667,1,dav method unlock,dav method proppatch
+ntop,network, 0.5,1,inet ntop,inet network
+nlm,hook, 0.5,1,register nlm,register hook
+twice,recurs, 0.666666666666667,1,test mkdir twice,test mkdir recurs
+xlate,expires, 0.666666666666667,1,xlate insert filter,expires insert filter
+add,cas, 0.5,2,atomic add,atomic cas,busyloop cas,busyloop add
+itoa,poll, 0.5,1,apr itoa,apr poll
+post,label, 0.666666666666667,1,dav method post,dav method label
+signal,restart, 0.5,1,check signal,check restart
+gets,writev, 0.666666666666667,1,test gets buffered,test writev buffered
+status,default, 0.5,1,status handler,default handler
+cas,casptr, 0.75,3,test cas equal nonnull,test casptr equal nonnull,test cas notequal,test casptr notequal,test cas equal,test casptr equal
+main,errfn, 0.5,1,child main,child errfn
+make,nomessage, 0.5,1,make pollset,nomessage pollset
+report,uncheckout, 0.666666666666667,1,dav method report,dav method uncheckout
+create,delete, 0.666666666666667,1,test mmap create,test mmap delete
+info,settings, 0.5,1,display info,display settings
+close,readwrite, 0.666666666666667,1,test file close,test file readwrite
+cdata,action, 0.5,1,cdata handler,action handler
+palloc,pstrndup, 0.5,1,apr palloc,apr pstrndup
+strdup,handler, 0.666666666666667,1,util ldap strdup,util ldap handler
+add,sub, 0.5,2,atomic add,atomic sub,busyloop sub,busyloop add
+mutex,rwlock, 0.75,2,test thread mutex,test thread rwlock,apr thread mutex destroy,apr thread rwlock destroy
+trans,detect, 0.5,1,proxy trans,proxy detect
+x,cgi, 0.5,1,x handler,cgi handler
+ctrl,puts, 0.75,1,bio filter out ctrl,bio filter out puts
+dir,redir, 0.5,1,fixup dir,fixup redir
+strtoff,strfsize, 0.5,1,string strtoff,string strfsize
+sha,thread, 0.5,1,sha init,thread init
+sum,sdbm, 0.5,1,sum hash,sdbm hash
+atoi,initialize, 0.5,1,apr atoi,apr initialize
+footer,directive, 0.5,1,menu footer,menu directive
+ef,magic, 0.5,1,ef init,magic init
+socket,connection, 0.5,2,close socket,close connection,close socket,close connection
+dav,balancer, 0.5,1,dav handler,balancer handler
+add,reindex, 0.5,1,table add,table reindex
+defname,destroy, 0.75,2,apr proc mutex defname,apr thread mutex destroy,apr proc mutex destroy,apr proc mutex defname
+palloc,initialize, 0.5,1,apr palloc,apr initialize
+pgsql,sqlite, 0.8,11,dbd pgsql num tuples,dbd sqlite num tuples,dbd pgsql num cols,dbd sqlite num cols,dbd pgsql end transaction,dbd sqlite end transaction,dbd pgsql transaction mode get,dbd sqlite transaction mode get,dbd pgsql pselect,dbd sqlite pselect,dbd pgsql query,dbd sqlite query,dbd pgsql num cols,dbd sqlite num tuples,dbd sqlite num cols,dbd pgsql num tuples,dbd pgsql pbselect,dbd sqlite pbselect,dbd pgsql pbquery,dbd sqlite pbquery,dbd pgsql pquery,dbd sqlite pquery
+gzip,signal, 0.5,1,check gzip,check signal
+isapi,worker, 0.5,1,isapi hooks,worker hooks
+int,ssize, 0.666666666666667,1,int t fmt,ssize t fmt
+gzip,speling, 0.5,1,check gzip,check speling
+sbcs,serverpath, 0.5,1,check sbcs,check serverpath
+ready,secure, 0.666666666666667,1,find ready listener,find secure listener
+null,flush, 0.5,1,snprintf null,snprintf flush
+main,thread, 0.5,1,worker main,worker thread
+lock,proppatch, 0.666666666666667,1,dav method lock,dav method proppatch
+end,asis, 0.5,1,end handler,asis handler
+itoa,strtoi, 0.5,1,apr itoa,apr strtoi
+beos,suexec, 0.5,1,beos hooks,suexec hooks
+strtoi,strfsize, 0.5,1,string strtoi,string strfsize
+create,incrdecr, 0.666666666666667,1,test memcache create,test memcache incrdecr
+secure,notabsfail, 0.5,1,merge secure,merge notabsfail
+yylex,yyparse, 0.666666666666667,1,ssl expr yylex,ssl expr yyparse
+make activity,baseline control, 0.5,1,dav method make activity,dav method baseline control
+fmt,message, 0.5,1,error fmt,error message
+hostname,domainname, 0.666666666666667,1,proxy match hostname,proxy match domainname
+walk,fixup, 0.5,1,proxy walk,proxy fixup
+x,imap, 0.5,1,x handler,imap handler
+child init,register hooks, 0.5,1,util ldap child init,util ldap register hooks
+cgid,proxy, 0.5,2,cgid server,proxy server,cgid handler,proxy handler
+lob,flush, 0.75,1,apr bucket lob make,apr bucket flush make
+report,search, 0.666666666666667,1,dav method report,dav method search
+close,exists, 0.666666666666667,5,vt ndbm close,vt ndbm exists,vt sdbm close,vt sdbm exists,vt db close,vt db exists,vt gdbm close,vt gdbm exists,dav propdb close,dav propdb exists
+mutex unlock,rwlock destroy, 0.5,1,apr thread mutex unlock,apr thread rwlock destroy
+echo,edit, 0.5,1,echo header,edit header
+num cols,end transaction, 0.5,5,dbd freetds num cols,dbd freetds end transaction,dbd sqlite num cols,dbd sqlite end transaction,dbd oracle num cols,dbd oracle end transaction,dbd pgsql num cols,dbd pgsql end transaction,dbd mysql num cols,dbd mysql end transaction
+menu,echo, 0.5,1,menu header,echo header
+bind,init, 0.666666666666667,1,dbd oracle bind,dbd oracle init
+init,initialize, 0.5,1,init child,initialize child
+worker,filter, 0.5,1,worker hooks,filter hooks
+string,overflow, 0.5,1,string strfsize,overflow strfsize
+quick,translate, 0.666666666666667,1,x quick handler,x translate handler
+post,update, 0.666666666666667,1,dav method post,dav method update
+put,copymove, 0.666666666666667,1,dav method put,dav method copymove
+suexec,worker, 0.5,1,suexec hooks,worker hooks
+itoa,pstrcatv, 0.5,1,apr itoa,apr pstrcatv
+strtoi,initialize, 0.5,1,apr strtoi,apr initialize
+copymove,propfind, 0.666666666666667,1,dav method copymove,dav method propfind
+poll,initialize, 0.5,1,apr poll,apr initialize
+kat,fork, 0.5,1,rand kat,rand fork
+checkout,uncheckout, 0.666666666666667,1,dav method checkout,dav method uncheckout
+wait,create, 0.666666666666667,1,apr proc wait,apr proc create
+entity,keepalive, 0.5,1,remove entity,remove keepalive
+winnt,netware, 0.666666666666667,1,winnt pre config,netware pre config
+table,array, 0.5,1,table clear,array clear
+mpm start,stop child, 0.5,1,mpm start console handler,stop child console handler
+lock,propfind, 0.666666666666667,1,dav method lock,dav method propfind
+connect,disconnect, 0.666666666666667,1,am connect computer,am disconnect computer
+err,pstrmemdup, 0.5,1,apr err,apr pstrmemdup
+eoc,flush, 0.5,1,ap bucket eoc make,apr bucket flush make
+odbc,cgid, 0.5,1,odbc init,cgid init
+open,flush, 0.5,1,open log,flush log
+magic,filter, 0.5,1,magic init,filter init
+hooks,unload, 0.5,1,isapi hooks,isapi unload
+end,start, 0.5,1,end handler,start handler
+badip,badmask, 0.666666666666667,1,test badip str,test badmask str
+merge,copymove, 0.666666666666667,1,dav method merge,dav method copymove
+update,checkout, 0.666666666666667,1,dav method update,dav method checkout
+log,globals, 0.666666666666667,1,init config log,init config globals
+update,search, 0.666666666666667,1,dav method update,dav method search
+sysv,fcntl, 0.75,1,proc mutex sysv setup,proc mutex fcntl setup
+x,dav, 0.5,1,x handler,dav handler
+filter,register, 0.5,1,filter hooks,register hooks
+nlm,hooks, 0.5,1,register nlm,register hooks
+now,make, 0.666666666666667,1,apr time now,apr time make
+charmatches,isnmstrtcharminbpc, 0.5,2,big charmatches,big isnmstrtcharminbpc,little charmatches,little isnmstrtcharminbpc
+palloc,strtoi, 0.5,1,apr palloc,apr strtoi
+post,copymove, 0.666666666666667,1,dav method post,dav method copymove
+label,options, 0.666666666666667,1,dav method label,dav method options
+log,winnt, 0.666666666666667,1,log pre config,winnt pre config
+setup,nomessage, 0.5,1,setup pollset,nomessage pollset
+lost,check, 0.5,1,lost signal,check signal
+prologue,epilogue, 0.5,1,prolog processor,epilog processor
+apr,pool, 0.666666666666667,1,apr bucket destroy,pool bucket destroy
+propfind,proppatch, 0.666666666666667,1,dav method propfind,dav method proppatch
+atoi,setup, 0.5,1,apr atoi,apr setup
+log,logio, 0.666666666666667,1,log pre config,logio pre config
+label,update, 0.666666666666667,1,dav method label,dav method update
+add,init, 0.666666666666667,1,apr atomic add,apr atomic init
+fixup,trans, 0.5,1,proxy fixup,proxy trans
+postfile,listeners, 0.5,1,open postfile,open listeners
+initialize,pstrmemdup, 0.5,1,apr initialize,apr pstrmemdup
+bind,query, 0.666666666666667,2,dbd sqlite bind,dbd sqlite query,dbd oracle bind,dbd oracle query
+bytetype,bytetoascii, 0.5,2,big bytetype,big bytetoascii,little bytetype,little bytetoascii
+winnt,prefork, 0.666666666666667,3,winnt pre config,prefork pre config,winnt open logs,prefork open logs,winnt hooks,prefork hooks
+ipports,version, 0.5,1,compare ipports,compare version
+excl,noreadwrite, 0.666666666666667,1,test open excl,test open noreadwrite
+imap,status, 0.5,1,imap handler,status handler
+eos make,setaside notimpl, 0.5,1,apr bucket eos make,apr bucket setaside notimpl
+clear,reset, 0.5,1,hash clear,hash reset
+header,signaled, 0.5,1,send header,send signaled
+pid,int, 0.666666666666667,1,pid t fmt,int t fmt
+poll,pstrndup, 0.5,1,apr poll,apr pstrndup
+dbd,register, 0.5,1,dbd hooks,register hooks
+dec,cas, 0.5,1,busyloop dec,busyloop cas
+init,flush, 0.666666666666667,1,yy init buffer,yy flush buffer
+store,exists, 0.666666666666667,2,test dbm store,test dbm exists,dav dbm store,dav dbm exists
+file,error, 0.666666666666667,2,apr bucket file make,ap bucket error make,file bucket destroy,error bucket destroy
+ssi,include, 0.666666666666667,1,add ssi vars,add include vars
+accept,encoding, 0.666666666666667,1,set accept quality,set encoding quality
+reslist,pollset, 0.666666666666667,1,apr reslist create,apr pollset create
+notabs,lowercasedrive, 0.5,1,merge notabs,merge lowercasedrive
+terminate,interrupted, 0.5,1,htdbm terminate,htdbm interrupted
+thread,prefix, 0.5,1,find thread,find prefix
+dup,open, 0.666666666666667,2,test file dup,test file open,test dup readwrite,test open readwrite
+send,pollset, 0.5,1,recv send,recv pollset
+footer,default, 0.5,1,menu footer,menu default
+dav,action, 0.5,1,dav handler,action handler
+lob,heap, 0.666666666666667,1,lob bucket destroy,heap bucket destroy
+job,task, 0.5,1,add job,add task
+dup,remove, 0.666666666666667,1,test file dup,test file remove
+inc,xchg, 0.5,1,busyloop inc,busyloop xchg
+inc,add, 0.666666666666667,2,atomic inc nv,atomic add nv,busyloop inc,busyloop add
+search,uncheckout, 0.666666666666667,1,dav method search,dav method uncheckout
+menu,edit, 0.5,1,menu header,edit header
+x,mmap, 0.5,1,x handler,mmap handler
+exit,find, 0.5,1,exit thread,find thread
+fixup,urifile, 0.5,1,hook fixup,hook urifile
+reps,buckets, 0.5,1,count reps,count buckets
+heap,file, 0.666666666666667,1,heap bucket destroy,file bucket destroy
+query,pbselect, 0.666666666666667,4,dbd sqlite query,dbd sqlite pbselect,dbd oracle query,dbd oracle pbselect,dbd mysql query,dbd mysql pbselect,dbd pgsql query,dbd pgsql pbselect
+x,winnt, 0.666666666666667,1,x child init,winnt child init
+put,delete, 0.666666666666667,1,dav method put,dav method delete
+init,errfn, 0.5,1,child init,child errfn
+put,string, 0.5,1,put long,string long
+close,sslize, 0.5,1,close socket,sslize socket
+notrel,lowercasedrive, 0.5,1,merge notrel,merge lowercasedrive
+menu,unclosed, 0.5,1,menu directive,unclosed directive
+beos,winnt, 0.666666666666667,2,beos pre config,winnt pre config,beos hooks,winnt hooks
+event,worker, 0.5,1,event hooks,worker hooks
+init,pbselect, 0.666666666666667,2,dbd oracle init,dbd oracle pbselect,dbd mysql init,dbd mysql pbselect
+noflag,lowercasedrive, 0.5,1,merge noflag,merge lowercasedrive
+thread,reqtimeout, 0.5,1,thread init,reqtimeout init
+meta,setget, 0.666666666666667,1,test memcache meta,test memcache setget
+job,worker, 0.5,1,add job,add worker
+add,make, 0.5,3,add cookie,make cookie,table add,table make,add worker,make worker
+params,results, 0.5,1,output params,output results
+seed,feedfp, 0.666666666666667,1,ssl rand seed,ssl rand feedfp
+mmap make,setaside notimpl, 0.5,1,apr bucket mmap make,apr bucket setaside notimpl
+banner,description, 0.75,1,ap get server banner,ap get server description
+info,free, 0.5,1,new info,new free
+init,start, 0.5,1,cgid init,cgid start
+same,unique, 0.5,1,overlay same,overlay unique
+dbd,filter, 0.5,1,dbd hooks,filter hooks
+itoa,vformatter, 0.5,1,apr itoa,apr vformatter
+err,strtoi, 0.5,1,apr err,apr strtoi
+signal,hostalias, 0.5,1,check signal,check hostalias
+dav,default, 0.5,1,dav handler,default handler
+dup,readwrite, 0.666666666666667,1,test file dup,test file readwrite
+tls,connection, 0.666666666666667,1,test ldap tls,test ldap connection
+vsn,baseline, 0.75,1,dav method vsn control,dav method baseline control
+lock,label, 0.666666666666667,1,dav method lock,dav method label
+label,merge, 0.666666666666667,1,dav method label,dav method merge
+terminate,pstrmemdup, 0.5,1,apr terminate,apr pstrmemdup
+os,netos, 0.75,1,apr get os error,apr get netos error
+log,win, 0.666666666666667,1,log pre config,win pre config
+x,import, 0.666666666666667,1,x register hooks,import register hooks
+getch,getline, 0.5,1,cfg getch,cfg getline
+sbcs,signal, 0.5,1,check sbcs,check signal
+label,checkout, 0.666666666666667,1,dav method label,dav method checkout
+puts,putchar, 0.666666666666667,1,magic rsl puts,magic rsl putchar
+checkin,proppatch, 0.666666666666667,1,dav method checkin,dav method proppatch
+proxy,default, 0.5,1,proxy handler,default handler
+asis,mmap, 0.5,1,asis handler,mmap handler
+long,strtoi, 0.5,1,string long,string strtoi
+signal,startup, 0.5,1,signal threads,startup threads
+ssl,export, 0.666666666666667,1,ssl register hooks,export register hooks
+logio,header, 0.666666666666667,1,logio pre config,header pre config
+close,freedatum, 0.666666666666667,4,vt db close,vt db freedatum,vt ndbm close,vt ndbm freedatum,vt gdbm close,vt gdbm freedatum,vt sdbm close,vt sdbm freedatum
+time,osversion, 0.666666666666667,1,get system time,get system osversion
+add,overlap, 0.5,1,table add,table overlap
+delete,checkout, 0.666666666666667,1,dav method delete,dav method checkout
+x,start, 0.5,1,x handler,start handler
+options,checkout, 0.666666666666667,1,dav method options,dav method checkout
+secure,dotdot, 0.5,1,merge secure,merge dotdot
+gzip,locks, 0.5,1,check gzip,check locks
+eoc,eos, 0.5,1,ap bucket eoc make,apr bucket eos make
+exchange,increment, 0.5,1,interlocked exchange,interlocked increment
+lock,search, 0.666666666666667,1,dav method lock,dav method search
+bytetype,isnamecharminbpc, 0.5,2,big bytetype,big isnamecharminbpc,little bytetype,little isnamecharminbpc
+bind,post, 0.666666666666667,1,dav method bind,dav method post
+mkcol,propfind, 0.666666666666667,1,dav method mkcol,dav method propfind
+aboveroot,notrelfail, 0.5,1,merge aboveroot,merge notrelfail
+header,message, 0.5,1,send header,send message
+create,remove, 0.5,1,create entity,remove entity
+isapi,logio, 0.666666666666667,1,isapi pre config,logio pre config
+asis,cdata, 0.5,1,asis handler,cdata handler
+pass,proxy, 0.5,1,add pass,add proxy
+decl,just, 0.5,1,decl die,just die
+int,size, 0.666666666666667,1,int t fmt,size t fmt
+put,get, 0.75,1,bio filter out puts,bio filter out gets
+inc,dec, 0.666666666666667,2,atomic inc nv,atomic dec nv,busyloop dec,busyloop inc
+walk,needsdomain, 0.5,1,proxy walk,proxy needsdomain
+exit,worker, 0.5,1,exit thread,worker thread
+isapi,header, 0.666666666666667,1,isapi pre config,header pre config
+dbd,isapi, 0.5,1,dbd hooks,isapi hooks
+post,checkin, 0.666666666666667,1,dav method post,dav method checkin
+poll,pstrcatv, 0.5,1,apr poll,apr pstrcatv
+offset,create, 0.666666666666667,1,test mmap offset,test mmap create
+lock,heap, 0.5,1,lock destroy,heap destroy
+make,send, 0.5,1,make pollset,send pollset
+init,spawn, 0.5,1,init child,spawn child
+close lockdb,internal walk, 0.5,1,dav fs close lockdb,dav fs internal walk
+dbm,propdb, 0.666666666666667,1,dav dbm exists,dav propdb exists
+dup,close, 0.666666666666667,1,test file dup,test file close
+mysql,sqlite, 0.8,11,dbd mysql num tuples,dbd sqlite num tuples,dbd mysql num cols,dbd sqlite num cols,dbd mysql end transaction,dbd sqlite end transaction,dbd mysql transaction mode get,dbd sqlite transaction mode get,dbd mysql pselect,dbd sqlite pselect,dbd mysql query,dbd sqlite query,dbd mysql num cols,dbd sqlite num tuples,dbd sqlite num cols,dbd mysql num tuples,dbd mysql pbselect,dbd sqlite pbselect,dbd mysql pbquery,dbd sqlite pbquery,dbd mysql pquery,dbd sqlite pquery
+begin,yield, 0.666666666666667,1,apr thread begin,apr thread yield
+echo,send, 0.5,1,echo header,send header
+post,lock, 0.666666666666667,1,dav method post,dav method lock
+mkcol,options, 0.666666666666667,1,dav method mkcol,dav method options
+proc,pollset, 0.666666666666667,1,apr proc create,apr pollset create
+atoi,strtoi, 0.5,1,apr atoi,apr strtoi
+pipe,flush, 0.75,1,apr bucket pipe make,apr bucket flush make
+header,prefork, 0.666666666666667,1,header pre config,prefork pre config
+cgid,thread, 0.5,1,cgid init,thread init
+file,brigade, 0.5,1,getsfunc file,getsfunc brigade

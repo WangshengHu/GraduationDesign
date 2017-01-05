@@ -1,0 +1,1849 @@
+static text,round rectangle, 0.5,1,static text report element,round rectangle report element
+insert,export, 0.5,1,insert string,export string
+plugins,configuration, 0.5,1,load plugins,load configuration
+state,language, 0.5,1,state changed,language changed
+low,high, 0.833333333333333,3,j rtext expression low text changed,j rtext expression high text changed,set low expression,set high expression,get low expression,get high expression
+key,serie, 0.666666666666667,4,get key expression,get serie expression,set key expression,set serie expression,get key name,get serie name,set key name,set serie name
+key,unit, 0.666666666666667,2,get key name,get unit name,set key name,set unit name
+reset,process, 0.5,1,reset series,process series
+close,zvalue, 0.666666666666667,2,set close expression,set zvalue expression,get close expression,get zvalue expression
+min,conversion, 0.666666666666667,2,get min value,get conversion value,set min value,set conversion value
+view,font, 0.666666666666667,2,get view mode,get font mode,set view mode,set font mode
+box,xmlgraphic, 0.666666666666667,1,write box element,write xmlgraphic element
+key,locale, 0.5,1,key adapter,locale adapter
+translated compile,default compilation, 0.5,1,get translated compile directory,get default compilation directory
+key,xvalue, 0.666666666666667,2,get key expression,get xvalue expression,set key expression,set xvalue expression
+handler,changed, 0.5,1,document handler,document changed
+focus,component, 0.5,1,focus handler,component handler
+connection,compatibility, 0.5,1,connection dialog,compatibility dialog
+height,directory, 0.666666666666667,2,set report height,set report directory,get report height,get report directory
+number,plugin, 0.5,1,number entry,plugin entry
+name,element, 0.666666666666667,1,set chart name,set chart element
+file,filename, 0.8,1,find report frame by file,find report frame by filename
+fonts,prompt, 0.5,1,fonts dialog,prompt dialog
+reset,expression, 0.666666666666667,2,set serie reset,set serie expression,get serie reset,get serie expression
+wizard,options, 0.5,1,wizard dialog,options dialog
+time period,data source, 0.5,2,get time period expression,get data source expression,set time period expression,set data source expression
+style,connection, 0.5,3,update styles,update connections,style dialog,connection dialog,styles dialog,connections dialog
+next,export, 0.5,1,next page,export page
+drag,press, 0.5,1,mouse dragged,mouse pressed
+entry,variable, 0.5,1,add entry,add variable
+start,finished, 0.5,2,start compiling,finished compiling,start find,finished find
+anchor name,hyperlink reference, 0.5,2,set anchor name expression,set hyperlink reference expression,get anchor name expression,get hyperlink reference expression
+write,read, 0.75,17,write chart sub title node,read chart sub title element,write chart title node,read chart title element,read time series plot,write time period series,read time series,write time series,read time series dataset,write time period series,read time period series,write time period series,read category series,write category series,read chart element,write chart element,read xyzseries,write xyzseries,read xmlreport element,write xmlreport element,read band elements,write band elements,write time period series,read time period dataset,read box element,write box element,read font element,write font element,read plot,write plot,read xyseries,write xyseries,read dataset,write dataset
+jrempty,dispose, 0.666666666666667,1,jrempty data source,dispose data source
+size,transformation, 0.5,1,page size,page transformation
+vertical axis,center horizontally, 0.6,1,format command align vertical axis,format command align center horizontally
+field,notify, 0.5,1,remove field,remove notify
+child,style, 0.5,1,add child,add style
+group,properties, 0.5,1,group dialog,properties dialog
+child,token, 0.5,1,add child,add token
+serie,prompt, 0.5,1,serie dialog,prompt dialog
+write,candlestick, 0.5,1,write plot,candlestick plot
+sub,image, 0.666666666666667,1,sub report element,image report element
+background,foreground, 0.666666666666667,2,get background alpha,get foreground alpha,set background alpha,set foreground alpha
+added,increment, 0.666666666666667,2,get added group,get increment group,set added group,set increment group
+boolean,integer, 0.75,3,get value as boolean,get value as integer,get attribute integer,get attribute boolean,get attribute as integer,get attribute as boolean
+prev,next, 0.5,5,prev step,next step,prev word,next word,next line,prev line,prev page,next page,next char,prev char
+at,ylocation, 0.666666666666667,1,get band at,get band ylocation
+bands,group, 0.5,1,bands dialog,group dialog
+old,element, 0.666666666666667,1,set old value,set element value
+selection,properties, 0.5,1,update selection,update properties
+style,splash, 0.5,1,style dialog,splash dialog
+update,intersects, 0.5,1,update elements,intersects elements
+line,highlight, 0.5,1,paint line,paint highlight
+panel,element, 0.666666666666667,1,get report panel,get report element
+panel,directory, 0.666666666666667,1,get report panel,get report directory
+import,jrfield, 0.5,1,import dialog,jrfield dialog
+group,center, 0.666666666666667,1,group selected elements,center selected elements
+unit,chart, 0.666666666666667,2,set unit name,set chart name,get unit name,get chart name
+delete,center, 0.666666666666667,1,delete selected elements,center selected elements
+jrgroup,jrparameter, 0.5,1,jrgroup dialog,jrparameter dialog
+object,element, 0.666666666666667,1,set selected object,set selected element
+new,jrsubreport, 0.5,1,new parameter,jrsubreport parameter
+report,design, 0.666666666666667,1,get report height,get design height
+sqltables,jmdidesktop, 0.666666666666667,1,get sqltables pane,get jmdidesktop pane
+wizard,splash, 0.5,1,wizard dialog,splash dialog
+sample,fields, 0.5,1,update sample,update fields
+field,parameter, 0.75,9,sort fields by name,sort parameters by name,modify field,modify parameter,update fields,update parameters,remove field,remove parameter,duplicate fields,duplicate parameters,add field,add parameter,set clipboard fields,set clipboard parameters,get clipboard fields,get clipboard parameters,new field,new parameter
+min,elements, 0.666666666666667,1,set min value,set elements value
+thread,templates, 0.666666666666667,1,update thread list,update templates list
+mark,caret, 0.666666666666667,1,get mark position,get caret position
+library,xyzdataset, 0.5,1,library panel,xyzdataset panel
+fonts,selection, 0.5,1,update fonts,update selection
+same height,align bottom, 0.5,1,format command same height,format command align bottom
+bar,area, 0.666666666666667,3,bar chart,area chart,read bar plot,read area plot,bar plot,area plot
+grid,lines, 0.666666666666667,2,set show grid,set show lines,is show grid,is show lines
+writer,buffer, 0.5,1,string writer,string buffer
+childs,variable, 0.5,1,add childs,add variable
+start date,yaxis label, 0.5,2,get start date expression,get yaxis label expression,set start date expression,set yaxis label expression
+check,remove, 0.5,1,check update,remove update
+fonts,connection, 0.5,1,fonts dialog,connection dialog
+fonts,import, 0.5,1,fonts dialog,import dialog
+apply,groups, 0.5,1,disable apply,disable groups
+string,integer, 0.666666666666667,1,get attribute string,get attribute integer
+next,paint, 0.5,1,next line,paint line
+same height,align center, 0.5,1,format command same height,format command align center
+same width,join right, 0.5,1,format command same width,format command join right
+lines,string, 0.5,1,insert lines,insert string
+import,element, 0.5,1,add import,add element
+fonts,jrproperty, 0.5,1,fonts dialog,jrproperty dialog
+group,compatible, 0.5,1,groups dialog,compatibility dialog
+thread,jrproperty, 0.5,1,remove thread,remove jrproperty
+xyarea,selected, 0.5,1,xyarea chart,selected chart
+text,shapes, 0.666666666666667,2,is show text,is show shapes,set show text,set show shapes
+log,thread, 0.5,1,remove log,remove thread
+start date,time period, 0.5,2,get start date expression,get time period expression,set start date expression,set time period expression
+value,style, 0.666666666666667,4,value changed event,style changed event,update styles,update values,styles dialog,values dialog,value changed,style changed
+idltoken,plsqltoken, 0.5,1,idltoken marker,plsqltoken marker
+person,address, 0.5,1,person bean,address bean
+load,update, 0.666666666666667,1,load file list,update file list
+line,frame, 0.666666666666667,1,line report element,frame report element
+low,value, 0.833333333333333,3,j rtext expression low text changed,j rtext expression value text changed,set low expression,set value expression,get low expression,get value expression
+undo,redo, 0.666666666666667,2,get undo operation,get redo operation,set undo enebled,set redo enebled
+title,bands, 0.5,1,update title,update bands
+groups,selection, 0.5,1,update groups,update selection
+values,dataset, 0.666666666666667,1,set values panel,set dataset panel
+font,document, 0.5,1,font changed,document changed
+values,jrfield, 0.5,1,values dialog,jrfield dialog
+pcdata,xyzdataset, 0.5,1,read pcdata,read xyzdataset
+pie,xyarea, 0.5,1,pie chart,xyarea chart
+jrtoken,htmltoken, 0.5,1,jrtoken marker,htmltoken marker
+frame,components, 0.5,1,init frame,init components
+node,window, 0.666666666666667,1,get node id,get window id
+end date,parameters map, 0.5,2,set end date expression,set parameters map expression,get end date expression,get parameters map expression
+enebled,password, 0.666666666666667,1,set save enebled,set save password
+font,band, 0.5,2,update fonts,update bands,bands dialog,fonts dialog
+mode,metrics, 0.666666666666667,1,get font mode,get font metrics
+top,left, 0.8,10,format command align top,format command align left,j spinner top state changed,j spinner left state changed,set top border color,set left border color,get top border color,get left border color,get top margin,get left margin,set top margin,set left margin,set top border,set left border,get top border,get left border,set top padding,set left padding,get top padding,get left padding
+serie,property, 0.666666666666667,2,get serie name,get property name,set serie name,set property name
+java,eiffel, 0.666666666666667,1,java token marker,eiffel token marker
+jrtable model,jrextended bean, 0.5,1,jrtable model data source,jrextended bean data source
+group,child, 0.5,1,add group,add child
+fonts,jrfield, 0.5,1,fonts dialog,jrfield dialog
+pie,sub, 0.666666666666667,3,get pie dataset,get sub dataset,set pie dataset,set sub dataset,pie dataset,sub dataset
+bound,parameter, 0.5,1,update bounds,update parameters
+values,library, 0.666666666666667,3,get values panel,get library panel,values panel,library panel,set values panel,set library panel
+text,find, 0.666666666666667,1,text report element,find report element
+done,string, 0.5,1,export done,export string
+file,thread, 0.666666666666667,1,update file list,update thread list
+new,property, 0.666666666666667,2,set new value,set property value,get new value,get property value
+count,enabled, 0.666666666666667,1,set repeat count,set repeat enabled
+groups,sample, 0.5,1,update groups,update sample
+title,elements, 0.5,1,update title,update elements
+jrparameter,connections, 0.5,1,jrparameter dialog,connections dialog
+key,area, 0.833333333333333,1,j rtext expression key text changed,j rtext expression area text changed
+key,property, 0.666666666666667,2,get key name,get property name,set key name,set property name
+join left,align center, 0.5,1,format command join left,format command align center
+end,handler, 0.5,1,document end,document handler
+xyseries,xyzdataset, 0.5,1,read xyseries,read xyzdataset
+yvalue,connection, 0.666666666666667,2,set yvalue expression,set connection expression,get yvalue expression,get connection expression
+next,old, 0.5,1,get next element key,get old element group
+plot,info, 0.5,1,line plot,line info
+date,xvalue, 0.666666666666667,2,get date expression,get xvalue expression,set date expression,set xvalue expression
+key,expression, 0.5,2,get string map key,get parameters map expression,get segment map key,get parameters map expression
+string,segment, 0.75,1,get string map key,get segment map key
+same width,align center, 0.5,1,format command same width,format command align center
+values,jrproperty, 0.5,1,values dialog,jrproperty dialog
+value,attribute, 0.75,2,get value as boolean,get attribute as boolean,get value as integer,get attribute as integer
+xmlband,xyzseries, 0.5,1,write xmlband,write xyzseries
+splash,connection, 0.5,1,splash dialog,connection dialog
+chart,property, 0.666666666666667,2,get chart name,get property name,set chart name,set property name
+only,text, 0.5,1,set compile selected only,overwrite set selected text
+edit,element, 0.5,1,add edit,add element
+plot,dchart, 0.5,2,bar plot,bar dchart,pie plot,pie dchart
+pcdata,xyseries, 0.5,1,read pcdata,read xyseries
+main,init, 0.5,1,main frame,init frame
+xaxis label,parameters map, 0.5,2,set xaxis label expression,set parameters map expression,get xaxis label expression,get parameters map expression
+cctoken,htmltoken, 0.5,1,cctoken marker,htmltoken marker
+edit,parameter, 0.5,1,add edit,add parameter
+text,legend, 0.666666666666667,2,is show text,is show legend,set show text,set show legend
+read,category, 0.5,1,read dataset,category dataset
+state,document, 0.5,1,state changed,document changed
+adapter,pressed, 0.5,1,key adapter,key pressed
+import,compatibility, 0.5,1,import dialog,compatibility dialog
+to,attributed, 0.5,1,to string,attributed string
+low,label, 0.833333333333333,3,j rtext expression low text changed,j rtext expression label text changed,set low expression,set label expression,get low expression,get label expression
+values,jrfont, 0.5,1,values dialog,jrfont dialog
+low,title, 0.666666666666667,2,set low expression,set title expression,get low expression,get title expression
+font,bound, 0.5,1,update fonts,update bounds
+viewed,dataset, 0.666666666666667,1,set viewed panel,set dataset panel
+jrfield,jrgroup, 0.5,1,jrfield dialog,jrgroup dialog
+panel,frame, 0.666666666666667,2,jreport panel,jreport frame,get report frame,get report panel
+import,connections, 0.5,1,import dialog,connections dialog
+log,tool, 0.666666666666667,1,set active log,set active tool
+remove,increase, 0.8,2,format command remove space v,format command increase space h,format command remove space v,format command increase space v
+font,connection, 0.666666666666667,6,set ireport font,set ireport connection,get ireport font,get ireport connection,get ireport font,get ireport connection,set ireport font,set ireport connection,update fonts,update connections,fonts dialog,connections dialog
+new,min, 0.666666666666667,2,get new value,get min value,set min value,set new value
+title,fields, 0.5,1,update title,update fields
+parameter,property, 0.5,1,update parameters,update properties
+chart,rectangle, 0.666666666666667,1,chart report element,rectangle report element
+ireport,massive, 0.5,1,ireport compiler,massive compiler
+horizontal axis,center vertically, 0.6,1,format command align horizontal axis,format command align center vertically
+mouse,adjust, 0.5,1,mouse handler,adjust handler
+frame,graphic, 0.666666666666667,1,frame report element,graphic report element
+value,property, 0.5,2,update values,update properties,values dialog,properties dialog
+xmltoken,plsqltoken, 0.5,1,xmltoken marker,plsqltoken marker
+group,jrproperty, 0.5,2,group dialog,jrproperty dialog,add group,add jrproperty
+delete,transform, 0.666666666666667,1,delete elements operation,transform elements operation
+key,open, 0.833333333333333,3,j rtext expression key text changed,j rtext expression open text changed,set key expression,set open expression,get key expression,get open expression
+splash,jrfield, 0.5,1,splash dialog,jrfield dialog
+project explorer,document structure, 0.6,1,project explorer tree cell renderer,document structure tree cell renderer
+items,token, 0.5,1,add items,add token
+styles,connection, 0.5,1,styles dialog,connection dialog
+backup,xmlfile, 0.5,1,save backup,save xmlfile
+start date,hyperlink anchor, 0.5,2,get start date expression,get hyperlink anchor expression,set start date expression,set hyperlink anchor expression
+area,high, 0.833333333333333,1,j rtext expression area text changed,j rtext expression high text changed
+start date,hyperlink reference, 0.5,2,set start date expression,set hyperlink reference expression,get start date expression,get hyperlink reference expression
+plot,dataset, 0.75,13,copy base plot,copy base dataset,read time series plot,set time series dataset,read time series plot,get time series dataset,read time series plot,read time series dataset,time series plot,time series dataset,read high low plot,get high low dataset,read high low plot,set high low dataset,read high low plot,read high low dataset,high low plot,high low dataset,read pie plot,read pie dataset,read plot,read dataset,pie plot,pie dataset,write plot,write dataset
+drag,document, 0.5,1,drag handler,document handler
+edit,keyword, 0.5,1,add edit,add keyword
+style,compatible, 0.5,1,styles dialog,compatibility dialog
+plot,xyzdataset, 0.5,1,read plot,read xyzdataset
+equals,increase, 0.8,4,format command equals space h,format command increase space h,format command equals space h,format command increase space v,format command equals space v,format command increase space h,format command equals space v,format command increase space v
+groups,prompt, 0.5,1,groups dialog,prompt dialog
+high,open, 0.833333333333333,3,j rtext expression high text changed,j rtext expression open text changed,set high expression,set open expression,get open expression,get high expression
+bands,splash, 0.5,1,bands dialog,splash dialog
+group,prompt, 0.5,1,group dialog,prompt dialog
+line,xyline, 0.5,1,line chart,xyline chart
+line,word, 0.5,2,next line,next word,prev word,prev line
+pcdata,dataset, 0.5,1,read pcdata,read dataset
+series plot,period dataset, 0.5,1,read time series plot,read time period dataset
+add,element, 0.5,1,add group,element group
+fonts,style, 0.5,1,fonts dialog,style dialog
+data source,anchor name, 0.5,2,get data source expression,get anchor name expression,set anchor name expression,set data source expression
+text,line, 0.666666666666667,1,text report element,line report element
+values,jreport, 0.5,1,values panel,jreport panel
+align left,same height, 0.5,1,format command align left,format command same height
+wizard,values, 0.5,1,wizard dialog,values dialog
+xyobject,transformation, 0.5,1,page xyobject,page transformation
+same size,element maximize, 0.5,1,format command same size,format command element maximize
+title,zvalue, 0.666666666666667,2,set title expression,set zvalue expression,get title expression,get zvalue expression
+edit,entry, 0.5,1,add edit,add entry
+line,xyarea, 0.5,1,line chart,xyarea chart
+stop,remove, 0.5,1,stop thread,remove thread
+find,compiling, 0.5,2,start find,start compiling,finished find,finished compiling
+item,group, 0.5,1,add item,add group
+log,jsqltables, 0.5,1,log pane,jsqltables pane
+property,conversion, 0.666666666666667,2,set property value,set conversion value,get property value,get conversion value
+jrextended bean,jrbean collection, 0.5,1,jrextended bean data source,jrbean collection data source
+add,paste, 0.5,1,add style,paste style
+log,project, 0.5,1,log pane,project pane
+zoom factor,element position, 0.5,1,get current zoom factor,get current element position
+font,variable, 0.5,1,update fonts,update variables
+find,ellipse, 0.666666666666667,1,find report element,ellipse report element
+box,library, 0.5,1,box panel,library panel
+label,series, 0.833333333333333,3,j rtext expression label text changed,j rtext expression series text changed,get label expression,get series expression,set label expression,set series expression
+max,editor, 0.666666666666667,2,get max value,get editor value,set max value,set editor value
+bar,line, 0.666666666666667,3,bar chart,line chart,read bar plot,read line plot,bar plot,line plot
+item,parameter, 0.5,1,add item,add parameter
+about,template, 0.5,1,ireport about,ireport template
+tokenizer,selection, 0.5,1,string tokenizer,string selection
+token,htmltoken, 0.5,1,token marker,htmltoken marker
+modify,jnumber, 0.5,1,modify field,jnumber field
+zvalue,category, 0.666666666666667,2,set zvalue expression,set category expression,get zvalue expression,get category expression
+low,volume, 0.833333333333333,3,j rtext expression low text changed,j rtext expression volume text changed,set low expression,set volume expression,get low expression,get volume expression
+report,usable, 0.666666666666667,1,get report width,get usable width
+cctoken,tsqltoken, 0.5,1,cctoken marker,tsqltoken marker
+path,editor, 0.666666666666667,1,get path value,get editor value
+box,xmlreport, 0.666666666666667,2,read box element,read xmlreport element,write box element,write xmlreport element
+volume,shapes, 0.666666666666667,2,is show volume,is show shapes,set show volume,set show shapes
+serie,jrparameter, 0.5,1,serie dialog,jrparameter dialog
+align top,element maximize, 0.5,1,format command align top,format command element maximize
+pie,selected, 0.5,1,pie chart,selected chart
+current,modified, 0.5,1,capture current,capture modified
+image,remove, 0.5,1,image update,remove update
+page,anchor, 0.857142857142857,5,j rtext expression area page text changed,j rtext expression area anchor text changed,set hyperlink page expression,set hyperlink anchor expression,set hyperlink page expression,get hyperlink anchor expression,get hyperlink page expression,set hyperlink anchor expression,get hyperlink page expression,get hyperlink anchor expression
+same size,align right, 0.5,1,format command same size,format command align right
+save,undo, 0.666666666666667,1,set save enebled,set undo enebled
+style,jrgroup, 0.5,1,style dialog,jrgroup dialog
+group,report, 0.666666666666667,2,after group init,after report init,before group init,before report init
+modify,jrsubreport, 0.5,1,modify parameter,jrsubreport parameter
+xyseries,xmlfields, 0.5,1,write xyseries,write xmlfields
+entry,parameter, 0.5,1,add entry,add parameter
+main,jreport, 0.666666666666667,3,main frame,jreport frame,set main frame,set jreport frame,get main frame,get jreport frame
+keyword,variable, 0.5,2,remove keyword,remove variable,add keyword,add variable
+hobby,explore, 0.5,1,hobby bean,explore bean
+plot,xmlparameters, 0.5,1,write plot,write xmlparameters
+line,image, 0.666666666666667,1,line report element,image report element
+add,modify, 0.5,3,add parameter,modify parameter,add field,modify field,add variable,modify variable
+add,jrversion, 0.5,1,add item,jrversion item
+node,datasource, 0.5,1,create node,create datasource
+prompt,jrproperty, 0.5,1,prompt dialog,jrproperty dialog
+value,state, 0.5,1,value changed,state changed
+serie,connection, 0.666666666666667,3,set serie expression,set connection expression,get serie expression,get connection expression,serie dialog,connection dialog
+high,category, 0.666666666666667,2,set high expression,set category expression,get high expression,get category expression
+report,maximized, 0.666666666666667,2,get report frame,get maximized frame,set report frame,set maximized frame
+field,property, 0.5,1,update fields,update properties
+mark,cursor, 0.666666666666667,1,get mark position,get cursor position
+splash,jrparameter, 0.5,1,splash dialog,jrparameter dialog
+name,type, 0.666666666666667,2,set serie name,set serie type,get serie name,get serie type
+element,directory, 0.666666666666667,2,get report element,get report directory,set report element,set report directory
+group,variable, 0.5,2,update groups,update variables,add group,add variable
+value,series, 0.833333333333333,3,j rtext expression value text changed,j rtext expression series text changed,set value expression,set series expression,get value expression,get series expression
+same width,align bottom, 0.5,1,format command same width,format command align bottom
+styles,jrfont, 0.5,1,styles dialog,jrfont dialog
+init,export, 0.666666666666667,1,after page init,after page export
+styles,jrparameter, 0.5,1,styles dialog,jrparameter dialog
+serie,reset, 0.666666666666667,2,set serie type,set reset type,get serie type,get reset type
+mouse,document, 0.5,1,mouse handler,document handler
+data source,hyperlink reference, 0.5,2,set data source expression,set hyperlink reference expression,get data source expression,get hyperlink reference expression
+find,graphic, 0.666666666666667,1,find report element,graphic report element
+write,category, 0.5,1,write dataset,category dataset
+key,chart, 0.666666666666667,2,get key name,get chart name,set key name,set chart name
+prev,export, 0.5,1,prev page,export page
+dialog,string, 0.5,1,import dialog,import string
+font,value, 0.666666666666667,5,update fonts,update values,fonts dialog,values dialog,set default font,set default value,get default font,get default value,font changed,value changed
+delete,ungroup, 0.666666666666667,1,delete selected elements,ungroup selected elements
+styles,jrfield, 0.5,1,styles dialog,jrfield dialog
+close,xvalue, 0.666666666666667,2,get close expression,get xvalue expression,set close expression,set xvalue expression
+fields,selection, 0.5,1,update fields,update selection
+import,jrparameter, 0.5,1,import dialog,jrparameter dialog
+open,close, 0.833333333333333,7,j rtext expression open text changed,j rtext expression close text changed,is show open ticks,set show close ticks,is show open ticks,is show close ticks,set show open ticks,set show close ticks,is show close ticks,set show open ticks,set open expression,set close expression,get open expression,get close expression
+project,jmdidesktop, 0.5,1,project pane,jmdidesktop pane
+fonts,jrparameter, 0.5,1,fonts dialog,jrparameter dialog
+prompt,compatibility, 0.5,1,prompt dialog,compatibility dialog
+font,compatible, 0.5,1,fonts dialog,compatibility dialog
+report,current, 0.666666666666667,2,set report directory,set current directory,get report directory,get current directory
+group,token, 0.5,1,add group,add token
+add,evaluate, 0.666666666666667,2,get added group,get evaluation group,set added group,set evaluation group
+edit,token, 0.5,1,add edit,add token
+key,group, 0.5,2,get next element key,get old element group,get next element key,get new element group
+iconed,import, 0.5,1,iconed string,import string
+entry,items, 0.5,1,add entry,add items
+margin,padding, 0.666666666666667,8,set left margin,set left padding,get left margin,get left padding,get top margin,get top padding,set top margin,set top padding,get bottom margin,get bottom padding,set bottom margin,set bottom padding,get right margin,get right padding,set right margin,set right padding
+variable,property, 0.5,1,update variables,update properties
+style,properties, 0.5,1,style dialog,properties dialog
+scale,jrfield, 0.666666666666667,1,get scale type,get jrfield type
+text,object, 0.666666666666667,1,set selected text,set selected object
+xmltoken,sqltoken, 0.5,1,xmltoken marker,sqltoken marker
+groups,connection, 0.5,1,groups dialog,connection dialog
+style,jrfield, 0.5,1,style dialog,jrfield dialog
+label,select, 0.666666666666667,2,set label expression,set select expression,get label expression,get select expression
+start date,anchor name, 0.5,2,get start date expression,get anchor name expression,set start date expression,set anchor name expression
+element,jrproperty, 0.5,1,add element,add jrproperty
+fonts,wizard, 0.5,1,fonts dialog,wizard dialog
+key,category, 0.666666666666667,2,set key expression,set category expression,get key expression,get category expression
+reset,category, 0.5,1,reset series,category series
+tree,create, 0.5,1,tree node,create node
+mouse,component, 0.5,1,mouse handler,component handler
+element,conversion, 0.666666666666667,1,set element value,set conversion value
+char,page, 0.5,2,next char,next page,prev page,prev char
+value,option, 0.5,1,values dialog,options dialog
+htmltoken,plsqltoken, 0.5,1,htmltoken marker,plsqltoken marker
+print,string, 0.5,1,print writer,string writer
+minimum,preferred, 0.666666666666667,2,minimum layout size,preferred layout size,get minimum size,get preferred size
+group,connections, 0.5,1,group dialog,connections dialog
+writer,tokenizer, 0.5,1,string writer,string tokenizer
+init,jtable, 0.5,1,init frame,jtable frame
+person beans,jrextended bean, 0.5,1,person beans data source,jrextended bean data source
+token,sqltoken, 0.5,1,token marker,sqltoken marker
+xmlreport,xmlgraphic, 0.666666666666667,1,write xmlreport element,write xmlgraphic element
+token,element, 0.5,1,add token,add element
+series,category, 0.666666666666667,2,get series expression,get category expression,set series expression,set category expression
+area,xyarea, 0.5,1,area chart,xyarea chart
+type,release, 0.5,1,key typed,key released
+combo number,properties dialog, 0.5,1,set element combo number,set element properties dialog
+style,jrproperty, 0.5,2,style dialog,jrproperty dialog,add style,add jrproperty
+date,connection, 0.666666666666667,2,get date expression,get connection expression,set date expression,set connection expression
+style,property, 0.5,2,update styles,update properties,styles dialog,properties dialog
+band,parameter, 0.5,1,update bands,update parameters
+xmltoken,htmltoken, 0.5,1,xmltoken marker,htmltoken marker
+fonts,splash, 0.5,1,fonts dialog,splash dialog
+hobby,person, 0.5,1,hobby bean,person bean
+anchor name,yaxis label, 0.5,2,get anchor name expression,get yaxis label expression,set yaxis label expression,set anchor name expression
+lost,handler, 0.5,1,focus lost,focus handler
+connection,jrproperty, 0.5,1,connection dialog,jrproperty dialog
+increment,decrement, 0.5,1,increment dirty,decrement dirty
+grid,labels, 0.666666666666667,2,is show grid,is show labels,set show grid,set show labels
+element,variable, 0.5,2,update elements,update variables,add element,add variable
+key,title, 0.666666666666667,2,get key expression,get title expression,set key expression,set title expression
+id,number, 0.666666666666667,1,set element id,set element number
+wizard,connection, 0.5,1,wizard dialog,connection dialog
+iconed,export, 0.5,1,iconed string,export string
+sample,parameters, 0.5,1,update sample,update parameters
+bar,read, 0.5,1,bar plot,read plot
+key,language, 0.666666666666667,2,get key name,get language name,set key name,set language name
+selected,candlestick, 0.5,1,selected chart,candlestick chart
+area,open, 0.833333333333333,1,j rtext expression area text changed,j rtext expression open text changed
+group,property, 0.5,2,update groups,update properties,groups dialog,properties dialog
+state,style, 0.5,1,state changed,style changed
+frame,height, 0.666666666666667,2,set report frame,set report height,get report frame,get report height
+items,category, 0.5,1,add items,add category
+jrgroup,options, 0.5,1,jrgroup dialog,options dialog
+new,remove, 0.5,3,new parameter,remove parameter,new field,remove field,new variable,remove variable
+idltoken,htmltoken, 0.5,1,idltoken marker,htmltoken marker
+plot,xmlband, 0.5,1,write plot,write xmlband
+group,splash, 0.5,1,group dialog,splash dialog
+count,length, 0.666666666666667,1,get line count,get line length
+print when,subreport map, 0.777777777777778,1,j rtext expression area print when expression text changed,j rtext expression area subreport map expression text changed
+old,cursor, 0.666666666666667,2,get old position,get cursor position,set old position,set cursor position
+group,style, 0.5,4,update groups,update styles,group dialog,style dialog,styles dialog,groups dialog,add group,add style
+undo,paste, 0.666666666666667,1,set undo enebled,set paste enebled
+yvalue,select, 0.666666666666667,2,get yvalue expression,get select expression,set select expression,set yvalue expression
+old,caret, 0.666666666666667,1,get old position,get caret position
+person beans,jrtable model, 0.5,1,person beans data source,jrtable model data source
+key,select, 0.666666666666667,2,get key expression,get select expression,set key expression,set select expression
+jrcsvdata,jrxmldata, 0.666666666666667,2,jrcsvdata source,jrxmldata source,jrxmldata source connection,jrcsvdata source connection
+open,title, 0.666666666666667,2,set open expression,set title expression,get open expression,get title expression
+tool,clipboard, 0.666666666666667,1,set active tool,set active clipboard
+width max,height min, 0.6,1,format command same width max,format command same height min
+jrdesign,jrsubreport, 0.5,1,jrdesign parameter,jrsubreport parameter
+wizard,jrparameter, 0.5,1,wizard dialog,jrparameter dialog
+path,jrfield, 0.5,1,tree path,tree jrfield
+format,delete, 0.666666666666667,1,format elements operation,delete elements operation
+add,plugin, 0.5,1,add entry,plugin entry
+fonts,sample, 0.5,1,update fonts,update sample
+ctoken,cctoken, 0.5,1,ctoken marker,cctoken marker
+max,path, 0.666666666666667,1,get max value,get path value
+title,bounds, 0.5,1,update title,update bounds
+resized,handler, 0.5,1,component resized,component handler
+title,sample, 0.5,1,update title,update sample
+iconed string,project explorer, 0.6,1,iconed string tree cell renderer,project explorer tree cell renderer
+reset page,element combo, 0.5,1,set reset page number,set element combo number
+plot,xmlsection, 0.5,1,write plot,write xmlsection
+pie,line, 0.666666666666667,3,pie chart,line chart,read pie plot,read line plot,pie plot,line plot
+add,jrsubreport, 0.5,1,add parameter,jrsubreport parameter
+modify,jrdesign, 0.5,1,modify parameter,jrdesign parameter
+add,expression, 0.666666666666667,1,add sheet property,expression sheet property
+editor,element, 0.666666666666667,1,set editor value,set element value
+key,date, 0.833333333333333,3,j rtext expression key text changed,j rtext expression date text changed,get key expression,get date expression,set key expression,set date expression
+join,align, 0.75,2,format command join right,format command align right,format command join left,format command align left
+pattern,transferable, 0.5,1,create pattern,create transferable
+area,scatter, 0.666666666666667,3,area chart,scatter chart,read area plot,read scatter plot,area plot,scatter plot
+find,remove, 0.5,1,find thread,remove thread
+min,default, 0.666666666666667,2,get min value,get default value,set min value,set default value
+bands,sample, 0.5,1,update bands,update sample
+safe,integer, 0.666666666666667,1,get attribute safe,get attribute integer
+dataset,expression, 0.75,8,get category dataset,get category expression,set category dataset,set category expression,read time period dataset,get time period expression,read time period dataset,set time period expression,set time period dataset,get time period expression,set time period dataset,set time period expression,get time period dataset,get time period expression,get time period dataset,set time period expression
+high,xvalue, 0.666666666666667,2,get high expression,get xvalue expression,set high expression,set xvalue expression
+type,press, 0.5,1,key typed,key pressed
+text,frame, 0.666666666666667,1,text report element,frame report element
+band,option, 0.5,1,bands dialog,options dialog
+stop,find, 0.5,1,stop thread,find thread
+styles,import, 0.5,1,styles dialog,import dialog
+style,parameter, 0.5,2,update styles,update parameters,add style,add parameter
+type,list, 0.666666666666667,1,update series type,update series list
+anodine,vertically, 0.5,1,tile anodine,tile vertically
+sheet panel,changed event, 0.5,1,report element sheet panel,report element changed event
+group,styles, 0.5,1,group dialog,styles dialog
+format,connection, 0.666666666666667,1,toolbar format panel,toolbar connection panel
+element,expression, 0.666666666666667,1,write chart element,write chart expression
+subreport,clipboard, 0.666666666666667,2,set subreport parameters,set clipboard parameters,get clipboard parameters,get subreport parameters
+sqltoken,plsqltoken, 0.5,1,sqltoken marker,plsqltoken marker
+sample,values, 0.5,1,update sample,update values
+dataset,elements, 0.666666666666667,1,remove sub dataset,remove sub elements
+center,ungroup, 0.666666666666667,1,center selected elements,ungroup selected elements
+list,tree, 0.666666666666667,1,default list model,default tree model
+line,repeat, 0.666666666666667,1,get line count,get repeat count
+group,value, 0.666666666666667,3,update groups,update values,groups dialog,values dialog,set element group,set element value
+document,component, 0.5,1,document handler,component handler
+wizard,import, 0.5,1,wizard dialog,import dialog
+equals,decrease, 0.8,4,format command equals space h,format command decrease space h,format command equals space h,format command decrease space v,format command equals space v,format command decrease space h,format command equals space v,format command decrease space v
+redo,paste, 0.666666666666667,1,set redo enebled,set paste enebled
+text,labels, 0.666666666666667,2,is show text,is show labels,set show text,set show labels
+group,wizard, 0.5,1,group dialog,wizard dialog
+high,yvalue, 0.666666666666667,2,set high expression,set yvalue expression,get high expression,get yvalue expression
+after,before, 0.666666666666667,5,after column init,before column init,after group init,before group init,after detail eval,before detail eval,after page init,before page init,after report init,before report init
+high low,time series, 0.5,5,high low dataset panel,time series dataset panel,read high low plot,read time series plot,read high low dataset,read time series dataset,set high low dataset,set time series dataset,get high low dataset,get time series dataset
+update,process, 0.5,1,update elements,process elements
+style,category, 0.5,1,add style,add category
+import,options, 0.5,1,import dialog,options dialog
+panel,height, 0.666666666666667,1,get report panel,get report height
+page,group, 0.666666666666667,2,after page init,after group init,before page init,before group init
+sub dataset,elements selection, 0.5,1,report sub dataset changed,report elements selection changed
+hyperlink,increment, 0.666666666666667,2,set hyperlink type,set increment type,get increment type,get hyperlink type
+to,import, 0.5,1,to string,import string
+child,keyword, 0.5,1,add child,add keyword
+default,property, 0.666666666666667,2,set default value,set property value,get default value,get property value
+sub path,last default, 0.5,1,get sub path value,get last default value
+group,option, 0.5,1,groups dialog,options dialog
+keyword,parameter, 0.5,2,remove keyword,remove parameter,add keyword,add parameter
+close,yvalue, 0.666666666666667,2,set close expression,set yvalue expression,get close expression,get yvalue expression
+entry,details, 0.5,1,file entry,file details
+copy,paste, 0.5,1,copy style,paste style
+jreport,maximized, 0.666666666666667,2,set jreport frame,set maximized frame,get jreport frame,get maximized frame
+enter,handler, 0.5,1,drag enter,drag handler
+text field,print when, 0.777777777777778,1,j rtext expression area text field expression text changed,j rtext expression area print when expression text changed
+jsqltables,jmdidesktop, 0.5,1,jsqltables pane,jmdidesktop pane
+child,field, 0.5,1,add child,add field
+file,print, 0.5,1,file writer,print writer
+title,close, 0.666666666666667,2,set title expression,set close expression,get title expression,get close expression
+time period,parameters map, 0.5,2,set time period expression,set parameters map expression,get time period expression,get parameters map expression
+number,expression, 0.5,1,set reset page number,set hyperlink page expression
+edit,import, 0.5,1,add edit,add import
+page,reference, 0.857142857142857,5,j rtext expression area page text changed,j rtext expression area reference text changed,set hyperlink page expression,set hyperlink reference expression,get hyperlink page expression,set hyperlink reference expression,set hyperlink page expression,get hyperlink reference expression,get hyperlink page expression,get hyperlink reference expression
+hobby,sample, 0.5,1,hobby bean,sample bean
+open ticks,tick marks, 0.5,2,is show open ticks,is show tick marks,set show open ticks,set show tick marks
+dataset,xmlfields, 0.5,1,write dataset,write xmlfields
+text field,subreport map, 0.777777777777778,1,j rtext expression area text field expression text changed,j rtext expression area subreport map expression text changed
+token,category, 0.5,1,add token,add category
+jrfont,connection, 0.5,1,jrfont dialog,connection dialog
+pie,write, 0.5,2,pie plot,write plot,pie dataset,write dataset
+to,export, 0.5,1,to string,export string
+to,dialog, 0.5,3,copy element properties to,set element properties dialog,copy element properties to,get element properties dialog,copy element properties to,open element properties dialog
+sheet,sorted, 0.666666666666667,1,get sheet properties,get sorted properties
+max,old, 0.666666666666667,2,get max value,get old value,set max value,set old value
+splash,jrgroup, 0.5,1,splash dialog,jrgroup dialog
+style,variable, 0.5,2,update styles,update variables,add style,add variable
+font,about, 0.5,1,ireport font,ireport about
+jrgroup,properties, 0.5,1,jrgroup dialog,properties dialog
+save,update, 0.666666666666667,1,save file list,update file list
+reset,object, 0.666666666666667,2,set reset type,set object type,get reset type,get object type
+language,property, 0.666666666666667,2,get language name,get property name,set property name,set language name
+text,element, 0.666666666666667,1,set selected text,set selected element
+child,jrproperty, 0.5,1,add child,add jrproperty
+do,add, 0.5,1,do keyword,add keyword
+image,insert, 0.5,1,image update,insert update
+xmlvariables,xmlparameters, 0.5,1,write xmlvariables,write xmlparameters
+process,register, 0.5,1,process elements,register elements
+line,page, 0.5,2,next line,next page,prev page,prev line
+chart,xmlgraphic, 0.666666666666667,1,write chart element,write xmlgraphic element
+grid,legend, 0.666666666666667,2,set show grid,set show legend,is show grid,is show legend
+jrfield,options, 0.5,1,jrfield dialog,options dialog
+top,center, 0.75,1,format command align top,format command align center
+time period,xaxis label, 0.5,2,set time period expression,set xaxis label expression,get time period expression,get xaxis label expression
+dataset,xmlparameters, 0.5,1,write dataset,write xmlparameters
+main,maximized, 0.666666666666667,2,set main frame,set maximized frame,get main frame,get maximized frame
+value,category, 0.8,4,set value axis label expression,set category axis label expression,get value axis label expression,get category axis label expression,set value expression,set category expression,get value expression,get category expression
+style,values, 0.5,1,style dialog,values dialog
+chart,presentation, 0.666666666666667,1,get chart name,get presentation name
+items,variable, 0.5,1,add items,add variable
+report form,style clipboard, 0.5,1,set active report form,set active style clipboard
+anodine,horizontally, 0.5,1,tile anodine,tile horizontally
+add,jnumber, 0.5,1,add field,jnumber field
+xaxis label,anchor name, 0.5,2,get xaxis label expression,get anchor name expression,set anchor name expression,set xaxis label expression
+home,handler, 0.5,1,document home,document handler
+jrfont,jrgroup, 0.5,1,jrfont dialog,jrgroup dialog
+title,yvalue, 0.666666666666667,2,set title expression,set yvalue expression,get title expression,get yvalue expression
+element,connection, 0.5,1,update elements,update connections
+jrule,xydataset, 0.5,1,jrule panel,xydataset panel
+person beans,jrbean collection, 0.5,1,person beans data source,jrbean collection data source
+log,clipboard, 0.666666666666667,1,set active log,set active clipboard
+path,default, 0.666666666666667,1,get path value,get default value
+line,barcode, 0.666666666666667,1,line report element,barcode report element
+bar,pie, 0.666666666666667,6,bar chart,pie chart,bar dchart,pie dchart,read bar dplot,read pie dplot,bar dplot,pie dplot,read bar plot,read pie plot,bar plot,pie plot
+box,sheet, 0.5,1,box panel,sheet panel
+group,options, 0.5,1,group dialog,options dialog
+panel,viewer, 0.666666666666667,1,get report panel,get report viewer
+pattern,datasource, 0.5,1,create pattern,create datasource
+input,output, 0.666666666666667,1,file input stream,file output stream
+font,style, 0.5,3,update fonts,update styles,fonts dialog,styles dialog,font changed,style changed
+xyseries,xyzseries, 0.5,2,read xyseries,read xyzseries,write xyseries,write xyzseries
+styles,wizard, 0.5,1,styles dialog,wizard dialog
+remove,jpassword, 0.5,1,remove field,jpassword field
+max,elements, 0.666666666666667,1,set max value,set elements value
+column,customizer, 0.666666666666667,1,get column class,get customizer class
+value,position, 0.666666666666667,4,get old value,get old position,set old value,set old position,get new value,get new position,set new value,set new position
+field,bound, 0.5,1,update fields,update bounds
+entry,reader, 0.5,1,file entry,file reader
+bands,prompt, 0.5,1,bands dialog,prompt dialog
+notify,keyword, 0.5,1,remove notify,remove keyword
+series,xvalue, 0.666666666666667,2,get series expression,get xvalue expression,set series expression,set xvalue expression
+jcombo,message, 0.5,1,jcombo box,message box
+group,fonts, 0.5,1,group dialog,fonts dialog
+copy,open, 0.5,1,copy element properties to,open element properties dialog
+low,connection, 0.666666666666667,2,set low expression,set connection expression,get low expression,get connection expression
+add,remove, 0.75,9,add layout component,remove layout component,add property change listener,remove property change listener,add parameter,remove parameter,add keyword,remove keyword,add field,remove field,add jrproperty,remove jrproperty,add key binding,remove key binding,add variable,remove variable,add sub dataset,remove sub dataset
+jrproperty,jrparameter, 0.5,1,jrproperty dialog,jrparameter dialog
+view,insert, 0.666666666666667,1,set view mode,set insert mode
+join left,align top, 0.5,1,format command join left,format command align top
+volume,select, 0.666666666666667,2,get volume expression,get select expression,set volume expression,set select expression
+font,compiler, 0.5,1,ireport font,ireport compiler
+item,category, 0.5,1,add item,add category
+old,property, 0.666666666666667,2,set old value,set property value,get old value,get property value
+style,connections, 0.5,1,style dialog,connections dialog
+sub,line, 0.666666666666667,1,sub report element,line report element
+project,jsqltables, 0.5,1,project pane,jsqltables pane
+bands,style, 0.5,1,bands dialog,style dialog
+band,sizes, 0.5,1,adjust band,adjust sizes
+item,token, 0.5,1,add item,add token
+title,groups, 0.5,1,update title,update groups
+band,text, 0.666666666666667,1,set selected band,set selected text
+category sheet,document structure, 0.5,2,get category sheet panel,get document structure panel,set category sheet panel,set document structure panel
+groups,jrfield, 0.5,1,groups dialog,jrfield dialog
+serie,jrproperty, 0.5,1,serie dialog,jrproperty dialog
+to band,right margin, 0.666666666666667,2,format command align bottom to band,format command align to right margin,format command align top to band,format command align to right margin
+sub,rectangle, 0.666666666666667,1,sub report element,rectangle report element
+export,attributed, 0.5,1,export string,attributed string
+dchart,dataset, 0.5,1,pie dchart,pie dataset
+volume,xvalue, 0.666666666666667,2,get volume expression,get xvalue expression,set volume expression,set xvalue expression
+reset,evaluation, 0.666666666666667,2,get reset group,get evaluation group,set reset group,set evaluation group
+map,image, 0.875,1,j rtext expression area map expression text changed,j rtext expression area image expression text changed
+gained,handler, 0.5,1,focus gained,focus handler
+remove,decrease, 0.8,2,format command remove space v,format command decrease space h,format command remove space v,format command decrease space v
+title,descriptor, 0.5,1,chart title,chart descriptor
+serie,hyperlink, 0.666666666666667,2,get serie type,get hyperlink type,set serie type,set hyperlink type
+exit,over, 0.5,1,drag exit,drag over
+zip,open, 0.5,1,zip file,open file
+node,element, 0.666666666666667,4,write chart sub title node,read chart sub title element,write chart title node,read chart title element,get node id,get element id,write chart node,write chart element
+frame,directory, 0.666666666666667,2,get report frame,get report directory,set report frame,set report directory
+label,zvalue, 0.666666666666667,2,set label expression,set zvalue expression,get label expression,get zvalue expression
+library,xydataset, 0.5,1,library panel,xydataset panel
+added,element, 0.666666666666667,2,get added group,get element group,set added group,set element group
+file,field, 0.5,1,file reader,field reader
+safe,double, 0.666666666666667,1,get attribute safe,get attribute double
+old,current, 0.5,1,get old element group,get current element position
+named,scrollable, 0.5,1,named list,scrollable list
+xydataset,xyzseries, 0.5,1,read xydataset,read xyzseries
+xyzseries,xyzdataset, 0.5,1,read xyzseries,read xyzdataset
+text,barcode, 0.666666666666667,1,text report element,barcode report element
+file,series, 0.666666666666667,1,update file list,update series list
+join left,same width, 0.5,1,format command join left,format command same width
+volume,yvalue, 0.666666666666667,2,set volume expression,set yvalue expression,get yvalue expression,get volume expression
+change,listen, 0.5,1,document changed,document listener
+wizard,jrfield, 0.5,1,wizard dialog,jrfield dialog
+iconed string,document structure, 0.6,1,iconed string tree cell renderer,document structure tree cell renderer
+rtext,rsq, 0.625,1,j rtext expression area anchor name text changed,j rsqlexpression area text connection expression text changed
+query,series, 0.666666666666667,1,report query dialog,report series dialog
+area,label, 0.833333333333333,1,j rtext expression area text changed,j rtext expression label text changed
+count,class, 0.666666666666667,1,get column count,get column class
+jrgroup,jrproperty, 0.5,1,jrgroup dialog,jrproperty dialog
+box,values, 0.5,1,box panel,values panel
+group by,scriptlet file, 0.5,1,get group by name,get scriptlet file name
+yvalue,category, 0.666666666666667,2,set yvalue expression,set category expression,get yvalue expression,get category expression
+sub,chart, 0.666666666666667,1,sub report element,chart report element
+xybar,candlestick, 0.5,1,xybar chart,candlestick chart
+new,current, 0.5,1,get new element group,get current element position
+tree,field, 0.5,1,tree node,field node
+jrfield,hyperlink, 0.666666666666667,1,get jrfield type,get hyperlink type
+series,imports, 0.666666666666667,2,update series list,update imports list,report series dialog,report imports dialog
+dataset,xydataset, 0.5,1,read dataset,read xydataset
+class,width, 0.666666666666667,1,get column class,get column width
+anchor name,hyperlink page, 0.5,2,get anchor name expression,get hyperlink page expression,set anchor name expression,set hyperlink page expression
+read,bubble, 0.5,1,read plot,bubble plot
+find,line, 0.666666666666667,1,find report element,line report element
+property,compatible, 0.5,1,properties dialog,compatibility dialog
+update,reposition, 0.666666666666667,1,update scroll bars,reposition scroll bars
+line,rectangle, 0.666666666666667,1,line report element,rectangle report element
+band,element, 0.75,3,report band changed event,report element changed event,set selected band,set selected element,update bands,update elements
+token,jrproperty, 0.5,1,add token,add jrproperty
+old,elements, 0.666666666666667,1,set old value,set elements value
+up,down, 0.666666666666667,2,move element up,move element down,move up,move down
+sample,elements, 0.5,1,update sample,update elements
+scan,expand, 0.5,1,scan path,expand path
+copy base,text field, 0.5,1,copy base report element,text field report element
+log,parameter, 0.5,1,remove log,remove parameter
+sample,person, 0.5,1,sample bean,person bean
+data source,parameters map, 0.5,2,set data source expression,set parameters map expression,get data source expression,get parameters map expression
+xybar,scatter, 0.5,1,xybar chart,scatter chart
+xmlband,xmlsection, 0.5,1,write xmlband,write xmlsection
+font,option, 0.5,1,fonts dialog,options dialog
+high,volume, 0.833333333333333,3,j rtext expression high text changed,j rtext expression volume text changed,set high expression,set volume expression,get high expression,get volume expression
+style,bound, 0.5,1,update styles,update bounds
+vertically,orizzontally, 0.75,1,snap to grid vertically,snap to grid orizzontally
+top,bottom, 0.833333333333333,11,format command align top,format command align bottom,format command align top to band,format command align bottom to band,j spinner top state changed,j spinner bottom state changed,get top border color,get bottom border color,set top border color,set bottom border color,get top margin,get bottom margin,set top margin,set bottom margin,set top border,set bottom border,get top border,get bottom border,set top padding,set bottom padding,get top padding,get bottom padding
+childs,keyword, 0.5,1,add childs,add keyword
+same width,element maximize, 0.5,1,format command same width,format command element maximize
+title,label, 0.666666666666667,2,set title expression,set label expression,get label expression,get title expression
+group,parameter, 0.5,2,update groups,update parameters,add group,add parameter
+key,close, 0.833333333333333,3,j rtext expression key text changed,j rtext expression close text changed,set key expression,set close expression,get key expression,get close expression
+sub,read, 0.5,1,sub dataset,read dataset
+load,evaluation, 0.666666666666667,2,get load time,get evaluation time,set load time,set evaluation time
+over,enter, 0.5,1,drag over,drag enter
+jrtoken,cctoken, 0.5,1,jrtoken marker,cctoken marker
+wizard,compatibility, 0.5,1,wizard dialog,compatibility dialog
+style,jrparameter, 0.5,1,style dialog,jrparameter dialog
+item,keyword, 0.5,1,add item,add keyword
+step,page, 0.5,2,next step,next page,prev step,prev page
+title,parameters, 0.5,1,update title,update parameters
+focus,mouse, 0.5,1,focus handler,mouse handler
+xyarea,candlestick, 0.5,1,xyarea chart,candlestick chart
+image,jbtree, 0.666666666666667,1,image cell renderer,jbtree cell renderer
+writer,reader, 0.5,2,file writer,file reader,string writer,string reader
+serie,compatibility, 0.5,1,serie dialog,compatibility dialog
+array,scrollable, 0.5,1,array list,scrollable list
+end,home, 0.5,1,document end,document home
+file,number, 0.5,1,file entry,number entry
+min,element, 0.666666666666667,1,set min value,set element value
+date,title, 0.666666666666667,2,get date expression,get title expression,set date expression,set title expression
+max records,locale text, 0.666666666666667,1,update jmenu item report max records,update jmenu item report locale text
+same size,align left, 0.5,1,format command same size,format command align left
+options,jrproperty, 0.5,1,options dialog,jrproperty dialog
+data source,yaxis label, 0.5,2,get data source expression,get yaxis label expression,set yaxis label expression,set data source expression
+style,element, 0.5,2,update styles,update elements,add style,add element
+area,write, 0.5,1,area plot,write plot
+style,items, 0.5,1,add style,add items
+line,scatter, 0.666666666666667,3,line chart,scatter chart,read line plot,read scatter plot,line plot,scatter plot
+jrgroup,compatibility, 0.5,1,jrgroup dialog,compatibility dialog
+select,series, 0.666666666666667,2,get select expression,get series expression,set series expression,set select expression
+report,library, 0.666666666666667,1,get report panel,get library panel
+line,bubble, 0.666666666666667,3,line chart,bubble chart,read line plot,read bubble plot,line plot,bubble plot
+new,jpassword, 0.5,1,new field,jpassword field
+new,caret, 0.666666666666667,1,get new position,get caret position
+hyperlink page,parameters map, 0.5,2,set hyperlink page expression,set parameters map expression,get parameters map expression,get hyperlink page expression
+title,variables, 0.5,1,update title,update variables
+left,bottom, 0.8,10,format command align left,format command align bottom,j spinner left state changed,j spinner bottom state changed,set left border color,set bottom border color,get left border color,get bottom border color,set left margin,set bottom margin,get left margin,get bottom margin,set left border,set bottom border,get left border,get bottom border,get left padding,get bottom padding,set left padding,set bottom padding
+dataset,xmlsection, 0.5,1,write dataset,write xmlsection
+adjust,component, 0.5,1,adjust handler,component handler
+start date,parameters map, 0.5,2,set start date expression,set parameters map expression,get start date expression,get parameters map expression
+selection,connections, 0.5,1,update selection,update connections
+date,volume, 0.833333333333333,3,j rtext expression date text changed,j rtext expression volume text changed,get date expression,get volume expression,set date expression,set volume expression
+type,group, 0.666666666666667,4,set reset type,set reset group,get reset type,get reset group,set increment type,set increment group,get increment type,get increment group
+paint,update, 0.666666666666667,1,paint bracket highlight,update bracket highlight
+bands,jrproperty, 0.5,1,bands dialog,jrproperty dialog
+remove,jrdesign, 0.5,1,remove parameter,jrdesign parameter
+font,language, 0.5,1,font changed,language changed
+action,change, 0.5,1,action listener,change listener
+zip,template, 0.5,1,zip file,template file
+ctoken,jrtoken, 0.5,1,ctoken marker,jrtoken marker
+modify,jpassword, 0.5,1,modify field,jpassword field
+xmltoken,tsqltoken, 0.5,1,xmltoken marker,tsqltoken marker
+same height,element maximize, 0.5,1,format command same height,format command element maximize
+chart,barcode, 0.666666666666667,1,chart report element,barcode report element
+read,default, 0.666666666666667,2,read category dataset,default category dataset,read pie dataset,default pie dataset
+pie,xyline, 0.5,1,pie chart,xyline chart
+category,parameter, 0.5,1,add category,add parameter
+low,serie, 0.666666666666667,2,set low expression,set serie expression,get low expression,get serie expression
+caret,cursor, 0.666666666666667,1,get caret position,get cursor position
+sheet,sample, 0.666666666666667,1,get sheet property,get sample property
+font,field, 0.5,1,update fonts,update fields
+serie,options, 0.5,1,serie dialog,options dialog
+field,childs, 0.5,1,add field,add childs
+inside,adjust, 0.5,1,inside band,adjust band
+group,compatibility, 0.5,1,group dialog,compatibility dialog
+label,connection, 0.666666666666667,2,set label expression,set connection expression,get label expression,get connection expression
+line,column, 0.666666666666667,1,get line count,get column count
+v,h, 0.833333333333333,14,format command equals space v,format command equals space h,format command equals space h,format command decrease space v,format command remove space v,format command equals space h,format command equals space h,format command increase space v,format command decrease space v,format command increase space h,format command remove space v,format command increase space h,format command equals space v,format command increase space h,format command increase space v,format command increase space h,format command decrease space v,format command decrease space h,format command remove space v,format command decrease space h,format command equals space v,format command decrease space h,format command increase space v,format command decrease space h,format command center in band h,format command center in band v,format command element maximize h,format command element maximize v
+area,value, 0.833333333333333,1,j rtext expression area text changed,j rtext expression value text changed
+style,keyword, 0.5,1,add style,add keyword
+bar,candlestick, 0.666666666666667,3,bar chart,candlestick chart,read bar plot,read candlestick plot,bar plot,candlestick plot
+find,barcode, 0.666666666666667,1,find report element,barcode report element
+new,modify, 0.5,3,new parameter,modify parameter,new field,modify field,new variable,modify variable
+field,element, 0.5,2,update fields,update elements,add field,add element
+zoom,depth, 0.666666666666667,2,set zoom factor,set depth factor,get zoom factor,get depth factor
+field,variable, 0.75,9,sort fields by name,sort variables by name,modify field,modify variable,update fields,update variables,remove field,remove variable,duplicate fields,duplicate variables,add field,add variable,get clipboard fields,get clipboard variables,set clipboard fields,set clipboard variables,new field,new variable
+moved,handler, 0.5,1,mouse moved,mouse handler
+items,parameter, 0.5,1,add items,add parameter
+xyseries,xydataset, 0.5,1,read xyseries,read xydataset
+color,boolean, 0.666666666666667,1,get attribute color,get attribute boolean
+jrule,values, 0.5,1,jrule panel,values panel
+vertical axis,center vertically, 0.6,1,format command align vertical axis,format command align center vertically
+jtext,jnumber, 0.5,1,jtext field,jnumber field
+entry,category, 0.5,1,add entry,add category
+style,options, 0.5,1,style dialog,options dialog
+column,report, 0.666666666666667,4,set column width,set report width,get report width,get column width,after report init,after column init,before report init,before column init
+increment,evaluation, 0.666666666666667,2,get increment group,get evaluation group,set increment group,set evaluation group
+main,report, 0.666666666666667,2,get main frame,get report frame,set main frame,set report frame
+segment,parameters, 0.5,1,get segment map key,get parameters map expression
+new page,date expression, 0.5,1,set start new page,set start date expression
+java,perl, 0.666666666666667,1,java token marker,perl token marker
+xybar,xyarea, 0.5,1,xybar chart,xyarea chart
+keyword,category, 0.5,1,add keyword,add category
+connection,properties, 0.5,1,connection dialog,properties dialog
+jrgroup,connection, 0.5,1,jrgroup dialog,connection dialog
+group,jrfont, 0.5,1,group dialog,jrfont dialog
+sizes,handler, 0.5,1,adjust sizes,adjust handler
+title,select, 0.666666666666667,2,get title expression,get select expression,set title expression,set select expression
+reset,increment, 0.666666666666667,4,set reset type,set increment type,get reset type,get increment type,get reset group,get increment group,set reset group,set increment group
+find element,default mutable, 0.5,1,find element tree node,default mutable tree node
+shapes,labels, 0.666666666666667,2,is show shapes,is show labels,set show shapes,set show labels
+sheet,report, 0.666666666666667,1,get sheet panel,get report panel
+height,element, 0.666666666666667,2,get report height,get report element,set report height,set report element
+band,compatible, 0.5,1,bands dialog,compatibility dialog
+style,document, 0.5,2,syntax style,syntax document,style changed,document changed
+end date,time period, 0.5,2,get end date expression,get time period expression,set end date expression,set time period expression
+entry,keyword, 0.5,1,add entry,add keyword
+user,selected, 0.666666666666667,2,get user object,get selected object,set user object,set selected object
+date,close, 0.833333333333333,3,j rtext expression date text changed,j rtext expression close text changed,get date expression,get close expression,set date expression,set close expression
+token,idltoken, 0.5,1,token marker,idltoken marker
+locale files,element properties, 0.5,2,get locale files dialog,get element properties dialog,set locale files dialog,set element properties dialog
+jreport,xyzdataset, 0.5,1,jreport panel,xyzdataset panel
+string,boolean, 0.666666666666667,1,get attribute string,get attribute boolean
+field,thread, 0.5,1,remove field,remove thread
+tick labels,close ticks, 0.5,2,set show tick labels,set show close ticks,is show close ticks,is show tick labels
+jrtoken,idltoken, 0.5,1,jrtoken marker,idltoken marker
+unit,serie, 0.666666666666667,2,set unit name,set serie name,get unit name,get serie name
+title,xvalue, 0.666666666666667,2,get title expression,get xvalue expression,set title expression,set xvalue expression
+notify,jrproperty, 0.5,1,remove notify,remove jrproperty
+style,compatibility, 0.5,1,style dialog,compatibility dialog
+pie,scatter, 0.666666666666667,3,pie chart,scatter chart,read pie plot,read scatter plot,pie plot,scatter plot
+save,redo, 0.666666666666667,1,set save enebled,set redo enebled
+chart,dchart, 0.666666666666667,3,stacked bar chart,stacked bar dchart,bar chart,bar dchart,pie chart,pie dchart
+title,volume, 0.666666666666667,2,get title expression,get volume expression,set title expression,set volume expression
+remove,changed, 0.5,1,remove update,changed update
+backup,configuration, 0.5,1,save backup,save configuration
+sub,barcode, 0.666666666666667,1,sub report element,barcode report element
+jrfont,jrproperty, 0.5,1,jrfont dialog,jrproperty dialog
+init,jreport, 0.5,1,init frame,jreport frame
+xyline,scatter, 0.5,1,xyline chart,scatter chart
+image,barcode, 0.666666666666667,1,image report element,barcode report element
+tsqltoken,htmltoken, 0.5,1,tsqltoken marker,htmltoken marker
+image,check, 0.5,1,image update,check update
+bar,scatter, 0.666666666666667,3,bar chart,scatter chart,read bar plot,read scatter plot,bar plot,scatter plot
+next,current, 0.5,1,get next element key,get current element position
+data,string, 0.5,1,import data,import string
+sample,explore, 0.5,1,sample bean,explore bean
+serie,select, 0.666666666666667,2,get serie expression,get select expression,set serie expression,set select expression
+xmlfields,xyzseries, 0.5,1,write xmlfields,write xyzseries
+log,selected, 0.5,1,set log text area,overwrite set selected text
+token,tsqltoken, 0.5,1,token marker,tsqltoken marker
+series,elements, 0.5,1,process series,process elements
+node,reader, 0.5,1,field node,field reader
+label,close, 0.833333333333333,3,j rtext expression label text changed,j rtext expression close text changed,set close expression,set label expression,get label expression,get close expression
+width,element, 0.666666666666667,2,get report width,get report element,set report width,set report element
+bound,property, 0.5,1,update bounds,update properties
+label,volume, 0.833333333333333,3,j rtext expression label text changed,j rtext expression volume text changed,set label expression,set volume expression,get label expression,get volume expression
+scatter,selected, 0.5,1,scatter chart,selected chart
+buffer,reader, 0.5,1,string buffer,string reader
+new,editor, 0.666666666666667,2,get new value,get editor value,set new value,set editor value
+xmlfields,xmlparameters, 0.5,1,write xmlfields,write xmlparameters
+category,plot, 0.5,1,set category sheet panel,set plot sheet properties
+value,number, 0.666666666666667,1,set element value,set element number
+count,width, 0.666666666666667,2,set column count,set column width,get column count,get column width
+use,synchronize, 0.5,1,is use report virtualizer,is synchronize report name
+update,string, 0.5,2,insert update,insert string,string selection,update selection
+serie,connections, 0.5,1,serie dialog,connections dialog
+ellipse,graphic, 0.666666666666667,1,ellipse report element,graphic report element
+edit,childs, 0.5,1,add edit,add childs
+data source,hyperlink page, 0.5,2,get data source expression,get hyperlink page expression,set data source expression,set hyperlink page expression
+series,expression, 0.75,10,get category series,get category expression,set category series,set category expression,write time period series,get time period expression,write time period series,set time period expression,read time period series,get time period expression,get time period series,get time period expression,set time period series,get time period expression,read time period series,set time period expression,get time period series,set time period expression,set time period series,set time period expression
+log,jrproperty, 0.5,1,remove log,remove jrproperty
+entry,document, 0.5,1,number entry,number document
+time period,anchor name, 0.5,2,get time period expression,get anchor name expression,set time period expression,set anchor name expression
+file,string, 0.5,2,file reader,string reader,file writer,string writer
+series,thread, 0.666666666666667,1,update series list,update thread list
+remove,equals, 0.8,2,format command remove space v,format command equals space h,format command equals space v,format command remove space v
+reader,details, 0.5,1,file reader,file details
+same height,align right, 0.5,1,format command same height,format command align right
+ctoken,htmltoken, 0.5,1,ctoken marker,htmltoken marker
+process,category, 0.5,1,process series,category series
+open,yvalue, 0.666666666666667,2,set open expression,set yvalue expression,get open expression,get yvalue expression
+sqltoken,htmltoken, 0.5,1,sqltoken marker,htmltoken marker
+align left,join right, 0.5,1,format command align left,format command join right
+data,dialog, 0.5,1,import data,import dialog
+report,positioned, 0.5,1,report element,positioned element
+count,spacing, 0.666666666666667,2,get column count,get column spacing,set column count,set column spacing
+legend,labels, 0.666666666666667,2,is show legend,is show labels,set show legend,set show labels
+jrparameter,compatibility, 0.5,1,jrparameter dialog,compatibility dialog
+element,parameter, 0.5,2,update elements,update parameters,add element,add parameter
+copy base,static text, 0.5,1,copy base report element,static text report element
+value,records, 0.666666666666667,2,get max value,get max records,set max value,set max records
+frame,barcode, 0.666666666666667,1,frame report element,barcode report element
+object,increment, 0.666666666666667,2,set object type,set increment type,get object type,get increment type
+groups,jrparameter, 0.5,1,groups dialog,jrparameter dialog
+end date,hyperlink reference, 0.5,2,set end date expression,set hyperlink reference expression,get end date expression,get hyperlink reference expression
+import,variable, 0.5,1,add import,add variable
+title,styles, 0.5,1,update title,update styles
+anchor name,image expression, 0.75,1,j rtext expression area anchor name text changed,j rtext expression area image expression text changed
+sheet,dataset, 0.666666666666667,2,set sheet panel,set dataset panel,category sheet panel,category dataset panel
+title,summary, 0.8,4,set title on new page,set summary on new page,is title on new page,is summary on new page,is is title new page,is is summary new page,set is title new page,set is summary new page
+chart,dataset, 0.666666666666667,3,time series chart,time series dataset,high low chart,high low dataset,pie chart,pie dataset
+view,value, 0.666666666666667,1,set viewed panel,set values panel
+close,volume, 0.833333333333333,3,j rtext expression close text changed,j rtext expression volume text changed,set close expression,set volume expression,get close expression,get volume expression
+connection,compatible, 0.5,1,connections dialog,compatibility dialog
+serie,import, 0.5,1,serie dialog,import dialog
+serie,value, 0.666666666666667,2,set serie expression,set value expression,get value expression,get serie expression
+new,add, 0.5,3,new parameter,add parameter,new field,add field,add variable,new variable
+update,selection, 0.5,1,check update,check selection
+update,register, 0.5,1,update elements,register elements
+field,string, 0.5,1,field reader,string reader
+cctoken,plsqltoken, 0.5,1,cctoken marker,plsqltoken marker
+thread,keyword, 0.5,1,remove thread,remove keyword
+files,thread, 0.5,1,find files,find thread
+open,xvalue, 0.666666666666667,2,get open expression,get xvalue expression,set open expression,set xvalue expression
+total,transferable, 0.5,1,total object,transferable object
+series,templates, 0.666666666666667,1,update series list,update templates list
+token,keyword, 0.5,1,add token,add keyword
+ctoken,idltoken, 0.5,1,ctoken marker,idltoken marker
+property,presentation, 0.666666666666667,1,get property name,get presentation name
+id,group, 0.666666666666667,2,set element id,set element group,get element id,get element group
+title,serie, 0.666666666666667,2,get title expression,get serie expression,set title expression,set serie expression
+groups,jrproperty, 0.5,1,groups dialog,jrproperty dialog
+add,double, 0.666666666666667,1,add sheet property,double sheet property
+title,series, 0.666666666666667,2,get title expression,get series expression,set title expression,set series expression
+high,value, 0.833333333333333,3,j rtext expression high text changed,j rtext expression value text changed,set high expression,set value expression,get high expression,get value expression
+virtualizer,name, 0.5,1,is use report virtualizer,is synchronize report name
+file,project, 0.75,1,update recent file menu,update recent project menu
+font,property, 0.5,2,update fonts,update properties,fonts dialog,properties dialog
+box,xyzdataset, 0.5,1,box panel,xyzdataset panel
+area,bubble, 0.666666666666667,3,area chart,bubble chart,read area plot,read bubble plot,area plot,bubble plot
+import,splash, 0.5,1,import dialog,splash dialog
+style,field, 0.5,2,update styles,update fields,add style,add field
+pie,xybar, 0.5,1,pie chart,xybar chart
+join left,align bottom, 0.5,1,format command join left,format command align bottom
+color,integer, 0.666666666666667,1,get attribute color,get attribute integer
+frame,ellipse, 0.666666666666667,1,frame report element,ellipse report element
+serie,close, 0.666666666666667,2,set serie expression,set close expression,get serie expression,get close expression
+line,graphic, 0.666666666666667,1,line report element,graphic report element
+size,xyobject, 0.5,1,page size,page xyobject
+wizard,column, 0.5,1,text wizard,text column
+reset,element, 0.666666666666667,2,get reset group,get element group,set reset group,set element group
+jrfield,jrparameter, 0.5,1,jrfield dialog,jrparameter dialog
+frame,element, 0.666666666666667,2,get report frame,get report element,set report frame,set report element
+safe,boolean, 0.666666666666667,1,get attribute safe,get attribute boolean
+name,position, 0.75,2,get band by name,get band by position,get group by name,get band by position
+entry,childs, 0.5,1,add entry,add childs
+ctoken,tsqltoken, 0.5,1,ctoken marker,tsqltoken marker
+iconed,attributed, 0.5,1,iconed string,attributed string
+item,variable, 0.5,1,add item,add variable
+high,select, 0.666666666666667,2,set high expression,set select expression,get high expression,get select expression
+action,document, 0.5,1,action listener,document listener
+height,viewer, 0.666666666666667,2,get report height,get report viewer,set report height,set report viewer
+box,jrule, 0.5,1,box panel,jrule panel
+write,scatter, 0.5,1,write plot,scatter plot
+done,report, 0.5,1,export done,export report
+find,compile, 0.5,1,find thread,compile thread
+join left,element maximize, 0.5,1,format command join left,format command element maximize
+scale,increment, 0.666666666666667,2,set scale type,set increment type,get scale type,get increment type
+new,jrdesign, 0.5,1,new parameter,jrdesign parameter
+type,reset, 0.666666666666667,2,set serie type,set serie reset,get serie type,get serie reset
+jrfield,connection, 0.5,1,jrfield dialog,connection dialog
+jrfield,properties, 0.5,1,jrfield dialog,properties dialog
+name,value, 0.666666666666667,2,set property name,set property value,get property name,get property value
+sample,properties, 0.5,1,update sample,update properties
+reset,jrfield, 0.666666666666667,1,get reset type,get jrfield type
+next,new, 0.5,1,get next element key,get new element group
+right,bottom, 0.8,10,format command align right,format command align bottom,j spinner right state changed,j spinner bottom state changed,get right border color,get bottom border color,set right border color,set bottom border color,get right margin,get bottom margin,set right margin,set bottom margin,set right border,set bottom border,get right border,get bottom border,get right padding,get bottom padding,set right padding,set bottom padding
+new,jtext, 0.5,1,new field,jtext field
+xyzseries,xmlvariables, 0.5,1,write xyzseries,write xmlvariables
+font,xmlgraphic, 0.666666666666667,1,write font element,write xmlgraphic element
+item,edit, 0.5,1,add item,add edit
+prompt,properties, 0.5,1,prompt dialog,properties dialog
+join left,align right, 0.5,1,format command join left,format command align right
+parameter,jrproperty, 0.5,2,remove parameter,remove jrproperty,add parameter,add jrproperty
+unit,language, 0.666666666666667,2,set unit name,set language name,get unit name,get language name
+editor,conversion, 0.666666666666667,2,get editor value,get conversion value,set editor value,set conversion value
+double,expression, 0.666666666666667,1,double sheet property,expression sheet property
+dplot,dataset, 0.666666666666667,2,read pie dplot,read pie dataset,pie dplot,pie dataset
+frame,viewer, 0.666666666666667,2,get report frame,get report viewer,set report frame,set report viewer
+hobby,address, 0.5,1,hobby bean,address bean
+child,variable, 0.5,1,add child,add variable
+log,jmdidesktop, 0.666666666666667,2,log pane,jmdidesktop pane,get log pane,get jmdidesktop pane
+prompt,options, 0.5,1,prompt dialog,options dialog
+group,jrgroup, 0.5,1,group dialog,jrgroup dialog
+library,dataset, 0.666666666666667,1,set library panel,set dataset panel
+parse,jrdesign, 0.5,1,parse expression,jrdesign expression
+close,select, 0.666666666666667,2,set close expression,set select expression,get close expression,get select expression
+low,area, 0.833333333333333,1,j rtext expression low text changed,j rtext expression area text changed
+chart,dplot, 0.5,2,bar chart,bar dplot,pie chart,pie dplot
+handler,orientation, 0.5,1,adjust handler,adjust orientation
+end date,hyperlink page, 0.5,2,get end date expression,get hyperlink page expression,set end date expression,set hyperlink page expression
+line,caret, 0.5,1,paint line,paint caret
+viewer,element, 0.666666666666667,2,get report viewer,get report element,set report viewer,set report element
+value,close, 0.833333333333333,3,j rtext expression value text changed,j rtext expression close text changed,set close expression,set value expression,get value expression,get close expression
+token,jrtoken, 0.5,1,token marker,jrtoken marker
+end date,yaxis label, 0.5,2,get end date expression,get yaxis label expression,set end date expression,set yaxis label expression
+values,splash, 0.5,1,values dialog,splash dialog
+chart,renew, 0.5,1,chart title,renew title
+zvalue,connection, 0.666666666666667,2,set zvalue expression,set connection expression,get zvalue expression,get connection expression
+max,conversion, 0.666666666666667,2,get max value,get conversion value,set max value,set conversion value
+line,chart, 0.666666666666667,1,line report element,chart report element
+key,position, 0.5,1,get next element key,get current element position
+type,target, 0.666666666666667,2,get hyperlink type,get hyperlink target,set hyperlink type,set hyperlink target
+pie,candlestick, 0.666666666666667,3,pie chart,candlestick chart,read pie plot,read candlestick plot,pie plot,candlestick plot
+xmlsection,xmlvariables, 0.5,1,write xmlsection,write xmlvariables
+values,connection, 0.5,1,values dialog,connection dialog
+dataset,xyzseries, 0.5,2,read dataset,read xyzseries,write dataset,write xyzseries
+save,apply, 0.5,1,save configuration,apply configuration
+language,presentation, 0.666666666666667,1,get language name,get presentation name
+join right,same height, 0.5,1,format command join right,format command same height
+xmlband,xmlfields, 0.5,1,write xmlband,write xmlfields
+grid,preferred, 0.666666666666667,1,get grid size,get preferred size
+horizontal axis,center horizontally, 0.6,1,format command align horizontal axis,format command align center horizontally
+box,xmltext, 0.666666666666667,1,read box element,read xmltext element
+jrtoken,sqltoken, 0.5,1,jrtoken marker,sqltoken marker
+font,lens, 0.666666666666667,1,set font mode,set lens mode
+child,category, 0.5,1,add child,add category
+wizard,jrproperty, 0.5,1,wizard dialog,jrproperty dialog
+serie,jrfont, 0.5,1,serie dialog,jrfont dialog
+first,anchor, 0.5,1,get first name free,get anchor name expression
+image,ellipse, 0.666666666666667,1,image report element,ellipse report element
+notify,update, 0.5,1,remove notify,remove update
+jtext,modify, 0.5,1,jtext field,modify field
+id,value, 0.666666666666667,1,set element id,set element value
+open,template, 0.5,1,open file,template file
+java,python, 0.666666666666667,1,java token marker,python token marker
+sample,variables, 0.5,1,update sample,update variables
+group by,chart key, 0.5,1,get group by name,get chart key name
+import,attributed, 0.5,1,import string,attributed string
+menu window,opened documents, 0.5,1,update menu window list,update opened documents list
+old,conversion, 0.666666666666667,2,get old value,get conversion value,set old value,set conversion value
+end,listener, 0.5,1,document end,document listener
+update,jrproperty, 0.5,1,remove update,remove jrproperty
+file,imports, 0.666666666666667,1,update file list,update imports list
+serie,object, 0.666666666666667,2,set serie type,set object type,get serie type,get object type
+bubble,scatter, 0.666666666666667,3,bubble chart,scatter chart,read bubble plot,read scatter plot,bubble plot,scatter plot
+plot,chart, 0.666666666666667,9,candlestick plot,candlestick chart,time series plot,time series chart,bubble plot,bubble chart,scatter plot,scatter chart,bar plot,bar chart,high low plot,high low chart,line plot,line chart,pie plot,pie chart,area plot,area chart
+jtext,jpassword, 0.5,1,jtext field,jpassword field
+styles,splash, 0.5,1,styles dialog,splash dialog
+node,pattern, 0.5,1,create node,create pattern
+open ticks,tick labels, 0.5,2,is show open ticks,is show tick labels,set show open ticks,set show tick labels
+font,element, 0.5,1,update fonts,update elements
+title,definition, 0.5,1,chart title,chart definition
+values,xyzdataset, 0.5,1,values panel,xyzdataset panel
+x,xy, 0.666666666666667,1,x to offset,xy to offset
+item,style, 0.5,1,add item,add style
+entry,token, 0.5,1,add entry,add token
+ctoken,sqltoken, 0.5,1,ctoken marker,sqltoken marker
+items,childs, 0.5,1,add items,add childs
+field,keyword, 0.5,2,remove field,remove keyword,add field,add keyword
+new,elements, 0.666666666666667,1,set new value,set elements value
+insert,delete, 0.5,1,insert lines,delete lines
+category,connection, 0.666666666666667,2,set category expression,set connection expression,get category expression,get connection expression
+sample,connections, 0.5,1,update sample,update connections
+default,conversion, 0.666666666666667,2,get default value,get conversion value,set default value,set conversion value
+style,groups, 0.5,1,style dialog,groups dialog
+path,conversion, 0.666666666666667,1,get path value,get conversion value
+volume,series, 0.833333333333333,3,j rtext expression volume text changed,j rtext expression series text changed,get volume expression,get series expression,set series expression,set volume expression
+xmlband,xyseries, 0.5,1,write xmlband,write xyseries
+group,items, 0.5,1,add group,add items
+log,sqltables, 0.666666666666667,2,set log pane,set sqltables pane,get log pane,get sqltables pane
+size,width, 0.75,1,format command same size,format command same width
+fire,mutable, 0.666666666666667,1,fire caret event,mutable caret event
+name,reset, 0.666666666666667,2,get serie name,get serie reset,set serie name,set serie reset
+focus,document, 0.5,1,focus handler,document handler
+close,category, 0.666666666666667,2,set close expression,set category expression,get close expression,get category expression
+copy,syntax, 0.5,1,copy style,syntax style
+key,series, 0.833333333333333,3,j rtext expression key text changed,j rtext expression series text changed,get key expression,get series expression,set key expression,set series expression
+old,editor, 0.666666666666667,2,get old value,get editor value,set old value,set editor value
+text,chart, 0.666666666666667,1,text report element,chart report element
+check,update, 0.5,1,check selection,update selection
+painter,defaults, 0.666666666666667,1,text area painter,text area defaults
+sub,write, 0.5,1,sub dataset,write dataset
+line,read, 0.5,1,line plot,read plot
+token,parameter, 0.5,1,add token,add parameter
+hash,keyword, 0.5,1,hash map,keyword map
+group,childs, 0.5,1,add group,add childs
+option,property, 0.5,1,options dialog,properties dialog
+time,process, 0.5,1,time series,process series
+library tree,default table, 0.5,1,library tree cell renderer,default table cell renderer
+to,subreport, 0.666666666666667,2,get to variable,get subreport variable,set to variable,set subreport variable
+serie,fonts, 0.5,1,serie dialog,fonts dialog
+import,category, 0.5,1,add import,add category
+chart,language, 0.666666666666667,2,set chart name,set language name,get chart name,get language name
+values,import, 0.5,1,values dialog,import dialog
+insert,attributed, 0.5,1,insert string,attributed string
+header,footer, 0.75,2,get header band height,get footer band height,set footer band height,set header band height
+import,export, 0.5,1,import string,export string
+line,candlestick, 0.666666666666667,3,line chart,candlestick chart,read line plot,read candlestick plot,line plot,candlestick plot
+max,element, 0.666666666666667,1,set max value,set element value
+jrfont,jrparameter, 0.5,1,jrfont dialog,jrparameter dialog
+plot,xyzseries, 0.5,2,read plot,read xyzseries,write plot,write xyzseries
+window,element, 0.666666666666667,2,get window id,get element id,set window id,set element id
+add,font, 0.666666666666667,1,add sheet property,font sheet property
+serie,values, 0.5,1,serie dialog,values dialog
+move,align, 0.833333333333333,6,format command move to left margin,format command align to left margin,format command move to right margin,format command align to left margin,format command align top to band,format command move to left margin,format command align top to band,format command move to right margin,format command move to left margin,format command align to right margin,format command move to right margin,format command align to right margin
+new,cursor, 0.666666666666667,2,get new position,get cursor position,set new position,set cursor position
+pane,info, 0.5,1,project pane,project info
+prompt,jrfield, 0.5,1,prompt dialog,jrfield dialog
+language,document, 0.5,1,language changed,document changed
+size,height, 0.75,1,format command same size,format command same height
+bands,import, 0.5,1,bands dialog,import dialog
+error,width, 0.666666666666667,1,set columns error,set columns width
+design,viewer, 0.5,1,jasper design,jasper viewer
+start,title, 0.8,4,set is start new page,set is title new page,is is title new page,is is start new page,set is title new page,set is start new column,is is title new page,is is start new column
+error,spacing, 0.666666666666667,1,set columns error,set columns spacing
+grid,minimum, 0.666666666666667,1,get grid size,get minimum size
+bands,jrparameter, 0.5,1,bands dialog,jrparameter dialog
+area text,field name, 0.6,1,j text area text changed,j text field name changed
+report,columns, 0.666666666666667,2,set report width,set columns width,get report width,get columns width
+tree,expand, 0.5,1,tree path,expand path
+element,keyword, 0.5,1,add element,add keyword
+format,transform, 0.666666666666667,1,format elements operation,transform elements operation
+variable,connection, 0.5,1,update variables,update connections
+import,connection, 0.5,1,import dialog,connection dialog
+char,line, 0.5,2,next char,next line,prev char,prev line
+draw,total, 0.5,1,draw object,total object
+jrfont,jrfield, 0.5,1,jrfont dialog,jrfield dialog
+chart key,scriptlet file, 0.5,1,get chart key name,get scriptlet file name
+join left,same height, 0.5,1,format command join left,format command same height
+date,yvalue, 0.666666666666667,2,get date expression,get yvalue expression,set date expression,set yvalue expression
+join right,align bottom, 0.5,1,format command join right,format command align bottom
+series,enumeration, 0.5,1,reset series,reset enumeration
+shrink,adjust, 0.5,1,shrink band,adjust band
+buffer,selection, 0.5,1,string buffer,string selection
+grid,container, 0.5,1,layout grid,layout container
+token,plsqltoken, 0.5,1,token marker,plsqltoken marker
+import,jrproperty, 0.5,2,import dialog,jrproperty dialog,add import,add jrproperty
+open,series, 0.833333333333333,3,j rtext expression open text changed,j rtext expression series text changed,get open expression,get series expression,set open expression,set series expression
+anchor name,parameters map, 0.5,2,set anchor name expression,set parameters map expression,get anchor name expression,get parameters map expression
+volume,legend, 0.666666666666667,2,set show volume,set show legend,is show volume,is show legend
+old,mark, 0.666666666666667,1,get old position,get mark position
+left,center, 0.75,1,format command align left,format command align center
+yaxis label,hyperlink page, 0.5,2,get yaxis label expression,get hyperlink page expression,set yaxis label expression,set hyperlink page expression
+field,category, 0.5,1,add field,add category
+sample,address, 0.5,1,sample bean,address bean
+group,number, 0.666666666666667,1,set element group,set element number
+high,serie, 0.666666666666667,2,set high expression,set serie expression,get high expression,get serie expression
+end date,hyperlink anchor, 0.5,2,get end date expression,get hyperlink anchor expression,set end date expression,set hyperlink anchor expression
+node,jrfield, 0.5,1,tree node,tree jrfield
+group,ungroup, 0.666666666666667,1,group selected elements,ungroup selected elements
+grid,volume, 0.666666666666667,2,set show grid,set show volume,is show grid,is show volume
+path,property, 0.666666666666667,1,get path value,get property value
+add,jtext, 0.5,1,add field,jtext field
+focus,adjust, 0.5,1,focus handler,adjust handler
+yvalue,zvalue, 0.666666666666667,2,set yvalue expression,set zvalue expression,get yvalue expression,get zvalue expression
+left,right, 0.833333333333333,15,format command join left,format command join right,format command align to left margin,format command align to right margin,format command move to right margin,format command align to left margin,format command move to left margin,format command align to right margin,format command move to left margin,format command move to right margin,format command align left,format command align right,j spinner left state changed,j spinner right state changed,get left border color,get right border color,set left border color,set right border color,set left margin,set right margin,get left margin,get right margin,set left border,set right border,get left border,get right border,get left padding,get right padding,set left padding,set right padding
+do,remove, 0.5,1,do keyword,remove keyword
+key,value, 0.833333333333333,3,j rtext expression key text changed,j rtext expression value text changed,set key expression,set value expression,get key expression,get value expression
+band by,scriptlet file, 0.5,1,get band by name,get scriptlet file name
+size,mode, 0.666666666666667,2,get font size,get font mode,set font mode,set font size
+modify,remove, 0.5,3,modify parameter,remove parameter,modify field,remove field,modify variable,remove variable
+fonts,jrfont, 0.5,1,fonts dialog,jrfont dialog
+on error,new object, 0.5,2,set on error type,set new object type,get on error type,get new object type
+close,series, 0.833333333333333,3,j rtext expression close text changed,j rtext expression series text changed,get close expression,get series expression,set close expression,set series expression
+key,label, 0.833333333333333,3,j rtext expression key text changed,j rtext expression label text changed,set key expression,set label expression,get key expression,get label expression
+jrgroup,connections, 0.5,1,jrgroup dialog,connections dialog
+date,time, 0.75,1,update list date types,update list time types
+serie,splash, 0.5,1,serie dialog,splash dialog
+serie,chart, 0.666666666666667,2,set serie name,set chart name,get serie name,get chart name
+volume,connection, 0.666666666666667,2,set volume expression,set connection expression,get volume expression,get connection expression
+open,connection, 0.666666666666667,2,set open expression,set connection expression,get open expression,get connection expression
+title,datasets, 0.666666666666667,2,set sub title,set sub datasets,get sub title,get sub datasets
+required,specific, 0.5,2,is save all required,disable save all specific,is save all required,enable save all specific
+xyzseries,xmlparameters, 0.5,1,write xyzseries,write xmlparameters
+start date,data source, 0.5,2,get start date expression,get data source expression,set start date expression,set data source expression
+field,jrproperty, 0.5,2,remove field,remove jrproperty,add field,add jrproperty
+xmlfields,xmlvariables, 0.5,1,write xmlfields,write xmlvariables
+variable,parameter, 0.75,9,sort variables by name,sort parameters by name,modify variable,modify parameter,update variables,update parameters,remove variable,remove parameter,duplicate variables,duplicate parameters,add variable,add parameter,set clipboard variables,set clipboard parameters,get clipboard variables,get clipboard parameters,new variable,new parameter
+bar,write, 0.5,1,bar plot,write plot
+prompt,jrfont, 0.5,1,prompt dialog,jrfont dialog
+value,document, 0.5,1,value changed,document changed
+parameters map,hyperlink reference, 0.5,2,set parameters map expression,set hyperlink reference expression,get parameters map expression,get hyperlink reference expression
+edit,variable, 0.5,1,add edit,add variable
+token,ctoken, 0.5,1,token marker,ctoken marker
+check,string, 0.5,1,check selection,string selection
+box,jreport, 0.5,1,box panel,jreport panel
+items,jrproperty, 0.5,1,add items,add jrproperty
+high,title, 0.666666666666667,2,set high expression,set title expression,get high expression,get title expression
+band by,current element, 0.5,1,get band by position,get current element position
+jreport,xydataset, 0.5,1,jreport panel,xydataset panel
+plot,xyseries, 0.5,2,read plot,read xyseries,write plot,write xyseries
+double,integer, 0.666666666666667,1,get attribute double,get attribute integer
+remove,compile, 0.5,1,remove thread,compile thread
+group,values, 0.5,1,group dialog,values dialog
+value,label, 0.833333333333333,3,j rtext expression value text changed,j rtext expression label text changed,set label expression,set value expression,get value expression,get label expression
+align top,same height, 0.5,1,format command align top,format command same height
+old,path, 0.666666666666667,1,get old value,get path value
+import,jrfont, 0.5,1,import dialog,jrfont dialog
+groups,import, 0.5,1,groups dialog,import dialog
+char,word, 0.5,2,next char,next word,prev char,prev word
+pie,read, 0.5,2,pie plot,read plot,pie dataset,read dataset
+low,zvalue, 0.666666666666667,2,set low expression,set zvalue expression,get low expression,get zvalue expression
+xmlsection,xmlparameters, 0.5,1,write xmlsection,write xmlparameters
+log,notify, 0.5,1,remove log,remove notify
+graphic,rectangle, 0.666666666666667,1,graphic report element,rectangle report element
+time period,hyperlink page, 0.5,2,set time period expression,set hyperlink page expression,get time period expression,get hyperlink page expression
+notify,thread, 0.5,1,remove notify,remove thread
+open,serie, 0.666666666666667,2,set open expression,set serie expression,get open expression,get serie expression
+tree,scan, 0.5,1,tree path,scan path
+serie,jrgroup, 0.5,1,serie dialog,jrgroup dialog
+delete,replaced, 0.666666666666667,1,delete elements operation,replaced elements operation
+box,font, 0.666666666666667,2,read box element,read font element,write box element,write font element
+group,entry, 0.5,1,add group,add entry
+add,syntax, 0.5,1,add style,syntax style
+bands,serie, 0.5,1,bands dialog,serie dialog
+item,field, 0.5,1,add item,add field
+variable,parameters, 0.666666666666667,2,get subreport variable,get subreport parameters,set subreport variable,set subreport parameters
+iconed,insert, 0.5,1,iconed string,insert string
+start date,hyperlink page, 0.5,2,get start date expression,get hyperlink page expression,set start date expression,set hyperlink page expression
+mark,label, 0.75,4,is show tick marks,is show tick labels,is show tick marks,set show tick labels,is show tick labels,set show tick marks,set show tick marks,set show tick labels
+update,parameter, 0.5,1,remove update,remove parameter
+select,zvalue, 0.666666666666667,2,set select expression,set zvalue expression,get zvalue expression,get select expression
+line,selected, 0.5,1,line chart,selected chart
+key,low, 0.833333333333333,3,j rtext expression key text changed,j rtext expression low text changed,set key expression,set low expression,get key expression,get low expression
+high,label, 0.833333333333333,3,j rtext expression high text changed,j rtext expression label text changed,set high expression,set label expression,get high expression,get label expression
+notify,parameter, 0.5,1,remove notify,remove parameter
+sizes,orientation, 0.5,1,adjust sizes,adjust orientation
+import,template, 0.666666666666667,1,update imports list,update templates list
+new,path, 0.666666666666667,1,get new value,get path value
+color,string, 0.666666666666667,1,get attribute color,get attribute string
+delta,ylocation, 0.666666666666667,1,get band delta,get band ylocation
+pie,category, 0.666666666666667,6,pie dataset panel,category dataset panel,read pie dataset,read category dataset,default pie dataset,default category dataset,pie dataset,category dataset,get pie dataset,get category dataset,set pie dataset,set category dataset
+elements,selection, 0.5,1,update elements,update selection
+group,delete, 0.666666666666667,1,group selected elements,delete selected elements
+sub,frame, 0.666666666666667,1,sub report element,frame report element
+jrule,jreport, 0.5,1,jrule panel,jreport panel
+system,custom, 0.666666666666667,1,load system objects,load custom objects
+border,margin, 0.666666666666667,8,set left border,set left margin,get left border,get left margin,get top border,get top margin,set top margin,set top border,set bottom margin,set bottom border,get bottom margin,get bottom border,get right border,get right margin,set right margin,set right border
+yaxis label,parameters map, 0.5,2,set yaxis label expression,set parameters map expression,get yaxis label expression,get parameters map expression
+options,connection, 0.5,1,options dialog,connection dialog
+serie,zvalue, 0.666666666666667,2,set serie expression,set zvalue expression,get serie expression,get zvalue expression
+here,style, 0.5,1,paste here,paste style
+volume,zvalue, 0.666666666666667,2,set volume expression,set zvalue expression,get zvalue expression,get volume expression
+sub,text, 0.666666666666667,1,sub report element,text report element
+volume,labels, 0.666666666666667,2,is show volume,is show labels,set show volume,set show labels
+yvalue,xvalue, 0.666666666666667,2,get yvalue expression,get xvalue expression,set xvalue expression,set yvalue expression
+frame,rectangle, 0.666666666666667,1,frame report element,rectangle report element
+sheet,jrule, 0.5,1,sheet panel,jrule panel
+group,import, 0.5,2,group dialog,import dialog,add group,add import
+width,spacing, 0.666666666666667,4,get column width,get column spacing,set column width,set column spacing,set columns width,set columns spacing,get columns width,get columns spacing
+prompt,import, 0.5,1,prompt dialog,import dialog
+new,jnumber, 0.5,1,new field,jnumber field
+value,volume, 0.833333333333333,3,j rtext expression value text changed,j rtext expression volume text changed,set value expression,set volume expression,get value expression,get volume expression
+syntax,ircompiler, 0.5,1,syntax document,ircompiler document
+serie,style, 0.5,1,serie dialog,style dialog
+find,image, 0.666666666666667,1,find report element,image report element
+xyarea,bubble, 0.5,1,xyarea chart,bubble chart
+object type,element group, 0.5,2,get new object type,get new element group,set new object type,set new element group
+move,drag, 0.5,1,mouse moved,mouse dragged
+pie,area, 0.666666666666667,3,pie chart,area chart,read pie plot,read area plot,pie plot,area plot
+buffer,tokenizer, 0.5,1,string buffer,string tokenizer
+elements,ylocation, 0.666666666666667,1,get band elements,get band ylocation
+decrease space,element maximize, 0.6,2,format command decrease space h,format command element maximize h,format command decrease space v,format command element maximize v
+token,cctoken, 0.5,1,token marker,cctoken marker
+adapter,released, 0.5,1,key adapter,key released
+field,value, 0.5,1,update fields,update values
+field,update, 0.5,1,remove field,remove update
+map,subreport, 0.875,1,j rtext expression area map expression text changed,j rtext expression area subreport expression text changed
+property,connection, 0.5,2,update properties,update connections,properties dialog,connections dialog
+new,conversion, 0.666666666666667,2,get new value,get conversion value,set new value,set conversion value
+close,activate, 0.666666666666667,1,internal frame closed,internal frame activated
+handler,pressed, 0.5,1,mouse handler,mouse pressed
+vertical,horizontal, 0.8,1,format command align vertical axis,format command align horizontal axis
+end date,xaxis label, 0.5,2,set end date expression,set xaxis label expression,get end date expression,get xaxis label expression
+yaxis label,hyperlink anchor, 0.5,2,get yaxis label expression,get hyperlink anchor expression,set yaxis label expression,set hyperlink anchor expression
+frame,chart, 0.666666666666667,1,frame report element,chart report element
+xmlband,xmlvariables, 0.5,1,write xmlband,write xmlvariables
+align center,element maximize, 0.5,1,format command align center,format command element maximize
+same size,align bottom, 0.5,1,format command same size,format command align bottom
+bands,wizard, 0.5,1,bands dialog,wizard dialog
+values,xydataset, 0.5,1,values panel,xydataset panel
+serie,volume, 0.666666666666667,2,get serie expression,get volume expression,set serie expression,set volume expression
+ellipse,barcode, 0.666666666666667,1,ellipse report element,barcode report element
+entry,import, 0.5,1,add entry,add import
+styles,prompt, 0.5,1,styles dialog,prompt dialog
+add,report, 0.5,1,add element,report element
+area,series, 0.833333333333333,1,j rtext expression area text changed,j rtext expression series text changed
+scatter,candlestick, 0.666666666666667,3,scatter chart,candlestick chart,read scatter plot,read candlestick plot,scatter plot,candlestick plot
+new,element, 0.666666666666667,1,set new value,set element value
+scale,hyperlink, 0.666666666666667,2,set scale type,set hyperlink type,get scale type,get hyperlink type
+variable,jrproperty, 0.5,2,remove variable,remove jrproperty,add variable,add jrproperty
+adjust,document, 0.5,1,adjust handler,document handler
+text,graphic, 0.666666666666667,1,text report element,graphic report element
+date,zvalue, 0.666666666666667,2,get date expression,get zvalue expression,set date expression,set zvalue expression
+customizer,implementation, 0.666666666666667,2,get customizer class,get implementation class,set customizer class,set implementation class
+string,report, 0.5,1,export string,export report
+end,changed, 0.5,1,document end,document changed
+update,variable, 0.5,1,remove update,remove variable
+key,high, 0.833333333333333,3,j rtext expression key text changed,j rtext expression high text changed,set key expression,set high expression,get key expression,get high expression
+select,connection, 0.666666666666667,2,set select expression,set connection expression,get select expression,get connection expression
+vertically,horizontally, 0.8,2,format command align center vertically,format command align center horizontally,tile vertically,tile horizontally
+value,language, 0.666666666666667,2,value changed event,language changed event,value changed,language changed
+open,zvalue, 0.666666666666667,2,set open expression,set zvalue expression,get open expression,get zvalue expression
+time,group, 0.666666666666667,2,get evaluation time,get evaluation group,set evaluation time,set evaluation group
+equals space,element maximize, 0.6,2,format command equals space h,format command element maximize h,format command equals space v,format command element maximize v
+element,property, 0.666666666666667,2,update elements,update properties,set element value,set property value
+jtable,jreport, 0.5,1,jtable frame,jreport frame
+prompt,values, 0.5,1,prompt dialog,values dialog
+bound,value, 0.5,1,update bounds,update values
+dataset,xmlvariables, 0.5,1,write dataset,write xmlvariables
+style,prompt, 0.5,1,style dialog,prompt dialog
+default,elements, 0.666666666666667,1,set default value,set elements value
+font,insert, 0.666666666666667,1,set font mode,set insert mode
+jrfont,splash, 0.5,1,jrfont dialog,splash dialog
+safe,color, 0.666666666666667,1,get attribute safe,get attribute color
+copy base,round rectangle, 0.5,1,copy base report element,round rectangle report element
+child,items, 0.5,1,add child,add items
+min,property, 0.666666666666667,2,set min value,set property value,get min value,get property value
+to,iconed, 0.5,1,to string,iconed string
+top,right, 0.8,10,format command align top,format command align right,j spinner top state changed,j spinner right state changed,get top border color,get right border color,set top border color,set right border color,get top margin,get right margin,set top margin,set right margin,set top border,set right border,get top border,get right border,get top padding,get right padding,set top padding,set right padding
+serie,groups, 0.5,1,serie dialog,groups dialog
+object,hyperlink, 0.666666666666667,2,set object type,set hyperlink type,get object type,get hyperlink type
+xmltoken,idltoken, 0.5,1,xmltoken marker,idltoken marker
+fields from,increment factory, 0.5,1,get fields from class,get increment factory class
+stop,compile, 0.5,1,stop thread,compile thread
+page,word, 0.5,2,next page,next word,prev page,prev word
+cctoken,idltoken, 0.5,1,cctoken marker,idltoken marker
+series dataset,period expression, 0.5,2,set time series dataset,set time period expression,get time series dataset,get time period expression
+reader,tokenizer, 0.5,1,string reader,string tokenizer
+data source,hyperlink anchor, 0.5,2,get data source expression,get hyperlink anchor expression,set data source expression,set hyperlink anchor expression
+perl,python, 0.666666666666667,1,perl token marker,python token marker
+label,xvalue, 0.666666666666667,2,get label expression,get xvalue expression,set label expression,set xvalue expression
+right,center, 0.75,1,format command align right,format command align center
+xyseries,xmlsection, 0.5,1,write xyseries,write xmlsection
+increase space,element maximize, 0.6,2,format command increase space h,format command element maximize h,format command increase space v,format command element maximize v
+parameters map,hyperlink anchor, 0.5,2,set parameters map expression,set hyperlink anchor expression,get parameters map expression,get hyperlink anchor expression
+draw,transferable, 0.5,1,draw object,transferable object
+low,series, 0.833333333333333,3,j rtext expression low text changed,j rtext expression series text changed,set low expression,set series expression,get low expression,get series expression
+xyarea,xyline, 0.5,1,xyarea chart,xyline chart
+listen,perform, 0.5,1,action listener,action performed
+band by,chart key, 0.5,1,get band by name,get chart key name
+bar,xyline, 0.5,1,bar chart,xyline chart
+exception,expression, 0.5,1,parse exception,parse expression
+array,named, 0.5,1,array list,named list
+bottom,center, 0.75,1,format command align bottom,format command align center
+add,jrdesign, 0.5,1,add parameter,jrdesign parameter
+scroll,border, 0.5,1,scroll layout,border layout
+label,category, 0.666666666666667,2,set label expression,set category expression,get label expression,get category expression
+chart,report, 0.666666666666667,1,set chart element,set report element
+graphic,barcode, 0.666666666666667,1,graphic report element,barcode report element
+low,close, 0.833333333333333,3,j rtext expression low text changed,j rtext expression close text changed,set low expression,set close expression,get low expression,get close expression
+style,childs, 0.5,1,add style,add childs
+query,imports, 0.666666666666667,1,report query dialog,report imports dialog
+bands,selection, 0.5,1,update bands,update selection
+page,column, 0.8,14,after page init,after column init,is start new page,set start new column,is start new page,is start new column,set is title new page,set is start new column,is is start new page,set is start new column,set is summary new page,set is start new column,set is start new page,set is start new column,set start new page,set start new column,is is start new column,is is summary new page,is is start new page,is is start new column,set is start new page,is is start new column,is is title new page,is is start new column,set start new page,is start new column,before page init,before column init
+update,disable, 0.5,1,update groups,disable groups
+styled,ireport, 0.666666666666667,2,get styled font,get ireport font,get styled font,get ireport font
+item,element, 0.5,1,add item,add element
+group,jrparameter, 0.5,1,group dialog,jrparameter dialog
+align left,element maximize, 0.5,1,format command align left,format command element maximize
+fonts,jrgroup, 0.5,1,fonts dialog,jrgroup dialog
+area,read, 0.5,1,area plot,read plot
+line,bracket, 0.666666666666667,1,paint line highlight,paint bracket highlight
+drag,focus, 0.5,1,drag handler,focus handler
+xyarea,scatter, 0.5,1,xyarea chart,scatter chart
+pcdata,xydataset, 0.5,1,read pcdata,read xydataset
+properties,expression, 0.5,1,parse properties,parse expression
+width,directory, 0.666666666666667,2,get report width,get report directory,set report width,set report directory
+styles,jrgroup, 0.5,1,styles dialog,jrgroup dialog
+style,jrfont, 0.5,1,style dialog,jrfont dialog
+tabular,columnar, 0.666666666666667,1,create tabular report,create columnar report
+border,padding, 0.666666666666667,8,set left border,set left padding,get left border,get left padding,set top border,set top padding,get top border,get top padding,set bottom border,set bottom padding,get bottom border,get bottom padding,get right border,get right padding,set right border,set right padding
+width,panel, 0.666666666666667,1,get report width,get report panel
+insert,tokenize, 0.5,1,insert lines,tokenize lines
+line,project, 0.5,1,line info,project info
+class,spacing, 0.666666666666667,1,get column class,get column spacing
+font,xmlreport, 0.666666666666667,2,read font element,read xmlreport element,write font element,write xmlreport element
+anchor name,map expression, 0.75,1,j rtext expression area anchor name text changed,j rtext expression area map expression text changed
+sqltoken,tsqltoken, 0.5,1,sqltoken marker,tsqltoken marker
+token,xmltoken, 0.5,1,token marker,xmltoken marker
+bubble,candlestick, 0.666666666666667,3,bubble chart,candlestick chart,read bubble plot,read candlestick plot,bubble plot,candlestick plot
+usable,columns, 0.666666666666667,1,get usable width,get columns width
+align top,join right, 0.5,1,format command align top,format command join right
+chart,xmlreport, 0.666666666666667,2,read chart element,read xmlreport element,write chart element,write xmlreport element
+renew,update, 0.5,1,renew title,update title
+update,thread, 0.5,1,remove update,remove thread
+serie,label, 0.666666666666667,2,set serie expression,set label expression,get label expression,get serie expression
+band,field, 0.5,1,update bands,update fields
+font,state, 0.5,1,font changed,state changed
+bound,variable, 0.5,1,update bounds,update variables
+values,selection, 0.5,1,update values,update selection
+group,jrfield, 0.5,1,group dialog,jrfield dialog
+end,begin, 0.666666666666667,1,end compound edit,begin compound edit
+xyline,selected, 0.5,1,xyline chart,selected chart
+mouse wheel,undoable edit, 0.5,1,simple mouse wheel listener,simple undoable edit listener
+band,bound, 0.5,1,update bands,update bounds
+xaxis label,hyperlink reference, 0.5,2,set xaxis label expression,set hyperlink reference expression,get xaxis label expression,get hyperlink reference expression
+plot,xydataset, 0.5,1,read plot,read xydataset
+key,mouse, 0.5,1,key pressed,mouse pressed
+field,import, 0.5,1,add field,add import
+child,element, 0.5,1,add child,add element
+xyline,candlestick, 0.5,1,xyline chart,candlestick chart
+group,bound, 0.5,1,update groups,update bounds
+open,select, 0.666666666666667,2,set open expression,set select expression,get open expression,get select expression
+xyseries,xmlvariables, 0.5,1,write xyseries,write xmlvariables
+volume,category, 0.666666666666667,2,set volume expression,set category expression,get volume expression,get category expression
+panel,tree, 0.5,2,get document structure panel,update document structure tree,set document structure panel,update document structure tree
+max,min, 0.8,4,format command same height max,format command same height min,format command same width max,format command same width min,get max value,get min value,set max value,set min value
+jrule,xyzdataset, 0.5,1,jrule panel,xyzdataset panel
+end date,anchor name, 0.5,2,get end date expression,get anchor name expression,set end date expression,set anchor name expression
+reader,selection, 0.5,1,string reader,string selection
+image,graphic, 0.666666666666667,1,image report element,graphic report element
+document,utilities, 0.5,1,syntax document,syntax utilities
+jrfont,connections, 0.5,1,jrfont dialog,connections dialog
+band,variable, 0.5,1,update bands,update variables
+open,label, 0.833333333333333,3,j rtext expression open text changed,j rtext expression label text changed,set open expression,set label expression,get open expression,get label expression
+parent,report, 0.666666666666667,2,get parent element,get report element,set report element,set parent element
+step,word, 0.5,2,next step,next word,prev step,prev word
+low,yvalue, 0.666666666666667,2,set low expression,set yvalue expression,get low expression,get yvalue expression
+wizard,jrfont, 0.5,1,wizard dialog,jrfont dialog
+category,variable, 0.5,1,add category,add variable
+style,language, 0.666666666666667,2,style changed event,language changed event,style changed,language changed
+move,press, 0.5,1,mouse moved,mouse pressed
+max,default, 0.666666666666667,2,get max value,get default value,set max value,set default value
+resize,adjust, 0.5,1,resize band,adjust band
+insert,remove, 0.666666666666667,2,fire insert update,fire remove update,insert update,remove update
+keyword,jrproperty, 0.5,2,remove keyword,remove jrproperty,add keyword,add jrproperty
+xydataset,xyzdataset, 0.5,2,xydataset panel,xyzdataset panel,read xydataset,read xyzdataset
+bar,bubble, 0.666666666666667,3,bar chart,bubble chart,read bar plot,read bubble plot,bar plot,bubble plot
+low,select, 0.666666666666667,2,set low expression,set select expression,get low expression,get select expression
+event,listener, 0.75,3,change event,change listener,value changed event,value changed listener,internal frame activated event,internal frame activated listener
+band,style, 0.5,2,update bands,update styles,bands dialog,styles dialog
+parameter,expression, 0.5,1,jrdesign parameter,jrdesign expression
+same width,align right, 0.5,1,format command same width,format command align right
+data source,xaxis label, 0.5,2,set data source expression,set xaxis label expression,get xaxis label expression,get data source expression
+properties,jrparameter, 0.5,1,properties dialog,jrparameter dialog
+delta,elements, 0.666666666666667,1,get band delta,get band elements
+tick marks,close ticks, 0.5,2,is show tick marks,is show close ticks,set show tick marks,set show close ticks
+item,import, 0.5,1,add item,add import
+group,column, 0.666666666666667,2,after group init,after column init,before group init,before column init
+jrtoken,tsqltoken, 0.5,1,jrtoken marker,tsqltoken marker
+thread,parameter, 0.5,1,remove thread,remove parameter
+jrfield,jrproperty, 0.5,1,jrfield dialog,jrproperty dialog
+band,background, 0.8,1,format command center in band,format command center in background
+old,min, 0.666666666666667,2,get old value,get min value,set min value,set old value
+text,rectangle, 0.666666666666667,1,text report element,rectangle report element
+safe,string, 0.666666666666667,1,get attribute safe,get attribute string
+unit,property, 0.666666666666667,2,set unit name,set property name,get unit name,get property name
+token,import, 0.5,1,add token,add import
+to,layout, 0.5,1,scroll to,scroll layout
+prev,paint, 0.5,1,prev line,paint line
+parse,custom, 0.5,1,parse expression,custom expression
+xybar,selected, 0.5,1,xybar chart,selected chart
+unit,presentation, 0.666666666666667,1,get unit name,get presentation name
+xmlfile,configuration, 0.5,1,save xmlfile,save configuration
+remove,jrsubreport, 0.5,1,remove parameter,jrsubreport parameter
+anchor name,subreport expression, 0.75,1,j rtext expression area anchor name text changed,j rtext expression area subreport expression text changed
+plot,xmlfields, 0.5,1,write plot,write xmlfields
+bands,jrfont, 0.5,1,bands dialog,jrfont dialog
+serie,enumeration, 0.5,1,reset serie,reset enumeration
+yx,xy, 0.5,1,sort yx,sort xy
+xvalue,connection, 0.666666666666667,2,get xvalue expression,get connection expression,set xvalue expression,set connection expression
+label,yvalue, 0.666666666666667,2,set label expression,set yvalue expression,get label expression,get yvalue expression
+ellipse,rectangle, 0.666666666666667,1,ellipse report element,rectangle report element
+low,xvalue, 0.666666666666667,2,set low expression,set xvalue expression,get low expression,get xvalue expression
+style,import, 0.5,2,style dialog,import dialog,add style,add import
+image,changed, 0.5,1,image update,changed update
+column,implementation, 0.666666666666667,1,get column class,get implementation class
+read,candlestick, 0.5,1,read plot,candlestick plot
+dragged,handler, 0.5,1,mouse dragged,mouse handler
+bands,jrfield, 0.5,1,bands dialog,jrfield dialog
+exit,enter, 0.5,1,drag exit,drag enter
+sample,bounds, 0.5,1,update sample,update bounds
+bubble,selected, 0.5,1,bubble chart,selected chart
+key,volume, 0.833333333333333,3,j rtext expression key text changed,j rtext expression volume text changed,get key expression,get volume expression,set key expression,set volume expression
+high,series, 0.833333333333333,3,j rtext expression high text changed,j rtext expression series text changed,get high expression,get series expression,set high expression,set series expression
+update,keyword, 0.5,1,remove update,remove keyword
+xybar,xyline, 0.5,1,xybar chart,xyline chart
+add,del, 0.5,1,add group,del group
+sample,styles, 0.5,1,update sample,update styles
+write,bubble, 0.5,1,write plot,bubble plot
+serie,xvalue, 0.666666666666667,2,get serie expression,get xvalue expression,set serie expression,set xvalue expression
+add,jpassword, 0.5,1,add field,jpassword field
+value,xvalue, 0.666666666666667,2,set value expression,set xvalue expression,get value expression,get xvalue expression
+thread,variable, 0.5,1,remove thread,remove variable
+subreport map,text connection, 0.777777777777778,1,j rtext expression area subreport map expression text changed,j rtext expression area text connection expression text changed
+open,volume, 0.833333333333333,3,j rtext expression open text changed,j rtext expression volume text changed,set open expression,set volume expression,get open expression,get volume expression
+grid,text, 0.666666666666667,2,is show grid,is show text,set show text,set show grid
+handler,listener, 0.5,1,document handler,document listener
+area,selected, 0.5,1,area chart,selected chart
+groups,wizard, 0.5,1,groups dialog,wizard dialog
+date,series, 0.833333333333333,3,j rtext expression date text changed,j rtext expression series text changed,get date expression,get series expression,set date expression,set series expression
+grid,shapes, 0.666666666666667,2,set show grid,set show shapes,is show grid,is show shapes
+period,series, 0.75,19,time period dataset panel,time series dataset panel,read time series dataset,read time period dataset,set time period dataset,time series dataset panel,read time period dataset,time series dataset panel,get time period dataset,time series dataset panel,set time series dataset,set time period dataset,get time series dataset,set time period dataset,set time period dataset,read time series dataset,set time series,set time period,time period dataset,time series dataset,set time series dataset,read time period dataset,get time period dataset,set time series dataset,set time series dataset,time period dataset panel,get time series dataset,read time period dataset,get time period dataset,get time series dataset,get time series dataset,time period dataset panel,get time period,get time series,get time period dataset,read time series dataset,read time series dataset,time period dataset panel
+actual,childs, 0.666666666666667,1,get actual path,get childs path
+jreport,library, 0.5,1,jreport panel,library panel
+values,jrgroup, 0.5,1,values dialog,jrgroup dialog
+font,chart, 0.666666666666667,2,read font element,read chart element,write font element,write chart element
+frame,width, 0.666666666666667,2,get report frame,get report width,set report frame,set report width
+xmlband,xmlparameters, 0.5,1,write xmlband,write xmlparameters
+free,expression, 0.5,1,get first name free,get anchor name expression
+chart,xmltext, 0.666666666666667,1,read chart element,read xmltext element
+area,line, 0.666666666666667,3,area chart,line chart,read area plot,read line plot,line plot,area plot
+image,rectangle, 0.666666666666667,1,image report element,rectangle report element
+chart,selected, 0.666666666666667,1,set chart element,set selected element
+items,import, 0.5,1,add items,add import
+barcode,rectangle, 0.666666666666667,1,barcode report element,rectangle report element
+jrproperty,connections, 0.5,1,jrproperty dialog,connections dialog
+properties,jrproperty, 0.5,1,properties dialog,jrproperty dialog
+serie,increment, 0.666666666666667,2,get serie type,get increment type,set serie type,set increment type
+new,mark, 0.666666666666667,1,get new position,get mark position
+align right,element maximize, 0.5,1,format command align right,format command element maximize
+box,chart, 0.666666666666667,2,read box element,read chart element,write box element,write chart element
+low,date, 0.833333333333333,3,j rtext expression low text changed,j rtext expression date text changed,get low expression,get date expression,set low expression,set date expression
+jrfield,increment, 0.666666666666667,1,get jrfield type,get increment type
+sheet,jreport, 0.5,1,sheet panel,jreport panel
+variables,selection, 0.5,1,update variables,update selection
+person,explore, 0.5,1,person bean,explore bean
+node,expression, 0.666666666666667,1,write chart node,write chart expression
+min,editor, 0.666666666666667,2,get min value,get editor value,set min value,set editor value
+chart,jbtree, 0.666666666666667,1,chart cell renderer,jbtree cell renderer
+token,childs, 0.5,1,add token,add childs
+bound,connection, 0.5,1,update bounds,update connections
+splash,properties, 0.5,1,splash dialog,properties dialog
+main,jtable, 0.5,1,main frame,jtable frame
+serie,group, 0.5,2,add value to serie,add element to group,group dialog,serie dialog
+log,field, 0.5,1,remove log,remove field
+xaxis label,hyperlink page, 0.5,2,set xaxis label expression,set hyperlink page expression,get xaxis label expression,get hyperlink page expression
+jrproperty,compatibility, 0.5,1,jrproperty dialog,compatibility dialog
+align bottom,element maximize, 0.5,1,format command align bottom,format command element maximize
+zoomed,logical, 0.666666666666667,1,get zoomed dim,get logical dim
+entry,jrproperty, 0.5,1,add entry,add jrproperty
+insert,changed, 0.5,1,insert update,changed update
+align top,same width, 0.5,1,format command align top,format command same width
+chart,parent, 0.666666666666667,1,set chart element,set parent element
+over,handler, 0.5,1,drag over,drag handler
+xyseries,xmlparameters, 0.5,1,write xyseries,write xmlparameters
+object,portion, 0.666666666666667,1,get selected object,get selected portion
+update,report, 0.5,1,update sub dataset node,report sub dataset changed
+ctoken,plsqltoken, 0.5,1,ctoken marker,plsqltoken marker
+chart,graphic, 0.666666666666667,1,chart report element,graphic report element
+jrfield,connections, 0.5,1,jrfield dialog,connections dialog
+time,category, 0.8,7,write time series,write category series,read time series,read category series,get time series,get category series,time series,category series,set time series,set category series,set time axis label expression,set category axis label expression,get time axis label expression,get category axis label expression
+name,expression, 0.666666666666667,4,set serie name,set serie expression,get serie name,get serie expression,set key name,set key expression,get key name,get key expression
+group,element, 0.5,2,update groups,update elements,add group,add element
+show,selected, 0.666666666666667,1,set show text,set selected text
+sheet,library, 0.666666666666667,3,sheet panel,library panel,get sheet panel,get library panel,set sheet panel,set library panel
+field,token, 0.5,1,add field,add token
+font,grid, 0.666666666666667,2,set font size,set grid size,get font size,get grid size
+value,variable, 0.5,1,update values,update variables
+add,copy, 0.5,2,add element to group,copy element properties to,add style,copy style
+shapes,legend, 0.666666666666667,2,set show shapes,set show legend,is show legend,is show shapes
+lines,shapes, 0.666666666666667,2,is show lines,is show shapes,set show lines,set show shapes
+loadi,savei, 0.666666666666667,1,loadi report configuration,savei report configuration
+items,keyword, 0.5,1,add items,add keyword
+area,xybar, 0.5,1,area chart,xybar chart
+import,parameter, 0.5,1,add import,add parameter
+process,intersects, 0.5,1,process elements,intersects elements
+file,plugin, 0.5,1,file entry,plugin entry
+chart,image, 0.666666666666667,2,chart cell renderer,image cell renderer,image report element,chart report element
+sub,find, 0.666666666666667,1,sub report element,find report element
+line,xybar, 0.5,1,line chart,xybar chart
+value,parameter, 0.5,1,update values,update parameters
+band,orientation, 0.5,1,adjust band,adjust orientation
+enable,disable, 0.75,5,enable compile directory browse,disable compile directory browse,enable apply and ok,disable apply and ok,enable apply,disable apply,enable save specific,disable save specific,enable save all specific,disable save all specific
+custom,jrdesign, 0.5,1,custom expression,jrdesign expression
+find element,document structure, 0.5,1,find element tree node,document structure tree node
+date,category, 0.666666666666667,2,get date expression,get category expression,set date expression,set category expression
+category,jrproperty, 0.5,1,add category,add jrproperty
+band,connection, 0.5,2,update bands,update connections,bands dialog,connections dialog
+time period,hyperlink anchor, 0.5,2,get time period expression,get hyperlink anchor expression,set time period expression,set hyperlink anchor expression
+edit,style, 0.5,1,add edit,add style
+wizard,jrgroup, 0.5,1,wizard dialog,jrgroup dialog
+new,old, 0.75,6,get new value,get old value,set new value,set old value,set new position,set old position,get new position,get old position,get new element group,get old element group,set old element group,set new element group
+element,increment, 0.666666666666667,2,set element group,set increment group,get element group,get increment group
+title,dataset, 0.666666666666667,2,get sub title,get sub dataset,set sub title,set sub dataset
+time,value, 0.8,2,set time axis label expression,set value axis label expression,get time axis label expression,get value axis label expression
+sub,graphic, 0.666666666666667,1,sub report element,graphic report element
+writer,details, 0.5,1,file writer,file details
+elements,property, 0.666666666666667,1,set elements value,set property value
+groups,jrfont, 0.5,1,groups dialog,jrfont dialog
+items,element, 0.5,1,add items,add element
+idltoken,tsqltoken, 0.5,1,idltoken marker,tsqltoken marker
+options,jrparameter, 0.5,1,options dialog,jrparameter dialog
+expression,connection, 0.5,2,set data source expression,jrcustom data source connection,get data source expression,jrcustom data source connection
+elements,conversion, 0.666666666666667,1,set elements value,set conversion value
+xyzseries,xmlsection, 0.5,1,write xyzseries,write xmlsection
+text,lines, 0.666666666666667,2,is show text,is show lines,set show text,set show lines
+caret,highlight, 0.5,1,paint caret,paint highlight
+childs,parameter, 0.5,1,add childs,add parameter
+start,summary, 0.8,4,is is start new page,is is summary new page,set is start new page,set is summary new page,set is summary new page,set is start new column,is is start new column,is is summary new page
+string,parameters, 0.5,1,get string map key,get parameters map expression
+find,chart, 0.666666666666667,1,find report element,chart report element
+find,report, 0.666666666666667,1,get find directory,get report directory
+number,ircompiler, 0.5,1,number document,ircompiler document
+jrtable model,jrbean collection, 0.5,1,jrtable model data source,jrbean collection data source
+low,category, 0.666666666666667,2,set low expression,set category expression,get low expression,get category expression
+child,import, 0.5,1,add child,add import
+group,position, 0.5,2,get old element group,get current element position,get new element group,get current element position
+data,loader, 0.666666666666667,1,get class data,get class loader
+high,date, 0.833333333333333,3,j rtext expression high text changed,j rtext expression date text changed,get high expression,get date expression,set date expression,set high expression
+childs,category, 0.5,1,add childs,add category
+group,connection, 0.5,3,update groups,update connections,group dialog,connection dialog,groups dialog,connections dialog
+view,lens, 0.666666666666667,1,set view mode,set lens mode
+default,ireport, 0.666666666666667,4,set default font,set ireport font,set ireport font,set default font,get default font,get ireport font,get default font,get ireport font
+area,volume, 0.833333333333333,1,j rtext expression area text changed,j rtext expression volume text changed
+drag,component, 0.5,1,drag handler,component handler
+perl,eiffel, 0.666666666666667,1,perl token marker,eiffel token marker
+splash,compatibility, 0.5,1,splash dialog,compatibility dialog
+select,xvalue, 0.666666666666667,2,get select expression,get xvalue expression,set xvalue expression,set select expression
+sub,category, 0.666666666666667,3,sub dataset,category dataset,get sub dataset,get category dataset,set sub dataset,set category dataset
+jtext,remove, 0.5,1,jtext field,remove field
+shrink,resize, 0.5,1,shrink band,resize band
+import,childs, 0.5,1,add import,add childs
+join right,element maximize, 0.5,1,format command join right,format command element maximize
+step,line, 0.5,2,next step,next line,prev step,prev line
+line,write, 0.5,1,line plot,write plot
+bubble,xyline, 0.5,1,bubble chart,xyline chart
+jrfont,properties, 0.5,1,jrfont dialog,properties dialog
+font,template, 0.5,1,ireport font,ireport template
+about,compiler, 0.5,1,ireport about,ireport compiler
+same size,join right, 0.5,1,format command same size,format command join right
+min,path, 0.666666666666667,1,get min value,get path value
+import,jrgroup, 0.5,1,import dialog,jrgroup dialog
+number,syntax, 0.5,1,number document,syntax document
+default mutable,document structure, 0.5,1,default mutable tree node,document structure tree node
+sample,selection, 0.5,1,update sample,update selection
+jrfont,options, 0.5,1,jrfont dialog,options dialog
+series,connection, 0.666666666666667,2,get series expression,get connection expression,set series expression,set connection expression
+plot,pcdata, 0.5,1,read plot,read pcdata
+font,preferred, 0.666666666666667,1,get font size,get preferred size
+dataset,xmlband, 0.5,1,write dataset,write xmlband
+area,candlestick, 0.666666666666667,3,area chart,candlestick chart,read area plot,read candlestick plot,area plot,candlestick plot
+field,connection, 0.888888888888889,2,j rtext expression area text field expression text changed,j rtext expression area text connection expression text changed,update fields,update connections
+field,create, 0.5,1,field node,create node
+string map,next element, 0.5,1,get string map key,get next element key
+edit,field, 0.5,1,add edit,add field
+panel,properties, 0.666666666666667,3,set category sheet panel,set plot sheet properties,get sheet panel,get sheet properties,set sheet panel,set sheet properties
+width min,height max, 0.6,1,format command same width min,format command same height max
+style,wizard, 0.5,1,style dialog,wizard dialog
+load,save, 0.666666666666667,2,load file list,save file list,save configuration,load configuration
+font,double, 0.666666666666667,1,font sheet property,double sheet property
+styles,jrproperty, 0.5,1,styles dialog,jrproperty dialog
+child,entry, 0.5,1,add child,add entry
+token,variable, 0.5,1,add token,add variable
+jnumber,jpassword, 0.5,1,jnumber field,jpassword field
+parameter,connection, 0.5,1,update parameters,update connections
+center,directory, 0.666666666666667,1,get current center,get current directory
+high,connection, 0.666666666666667,2,set high expression,set connection expression,get high expression,get connection expression
+chart,ellipse, 0.666666666666667,1,chart report element,ellipse report element
+serie,presentation, 0.666666666666667,1,get serie name,get presentation name
+page,report, 0.666666666666667,3,export page,export report,after page init,after report init,before page init,before report init
+viewer,directory, 0.666666666666667,2,get report viewer,get report directory,set report viewer,set report directory
+column,repeat, 0.666666666666667,2,set column count,set repeat count,get column count,get repeat count
+text,image, 0.666666666666667,1,text report element,image report element
+serie,jrfield, 0.666666666666667,2,get serie type,get jrfield type,serie dialog,jrfield dialog
+serie,styles, 0.5,1,serie dialog,styles dialog
+object,jrfield, 0.666666666666667,1,get object type,get jrfield type
+childs,element, 0.5,1,add childs,add element
+title,properties, 0.5,1,update title,update properties
+node,transferable, 0.5,1,create node,create transferable
+element,category, 0.5,1,add element,add category
+save,paste, 0.666666666666667,1,set save enebled,set paste enebled
+frame,image, 0.666666666666667,1,frame report element,image report element
+prompt,jrparameter, 0.5,1,prompt dialog,jrparameter dialog
+area,date, 0.833333333333333,1,j rtext expression area text changed,j rtext expression date text changed
+title,connection, 0.666666666666667,2,set title expression,set connection expression,get title expression,get connection expression
+parse,update, 0.5,1,parse properties,update properties
+cut copy,caret blink, 0.5,1,set cut copy enabled,set caret blink enabled
+add,positioned, 0.5,1,add element,positioned element
+yaxis label,hyperlink reference, 0.5,2,get yaxis label expression,get hyperlink reference expression,set yaxis label expression,set hyperlink reference expression
+log,variable, 0.5,1,remove log,remove variable
+join left,same size, 0.5,1,format command join left,format command same size
+styled,default, 0.666666666666667,1,get styled font,get default font
+high,zvalue, 0.666666666666667,2,set high expression,set zvalue expression,get high expression,get zvalue expression
+line,ellipse, 0.666666666666667,1,line report element,ellipse report element
+type,expression, 0.666666666666667,2,set serie type,set serie expression,get serie type,get serie expression
+text field,round rectangle, 0.5,1,text field report element,round rectangle report element
+serie,wizard, 0.5,1,serie dialog,wizard dialog
+border,attribute, 0.666666666666667,1,get border color,get attribute color
+bar,xyarea, 0.5,1,bar chart,xyarea chart
+bounds,selection, 0.5,1,update bounds,update selection
+sheet,xydataset, 0.5,1,sheet panel,xydataset panel
+pie,bubble, 0.666666666666667,3,pie chart,bubble chart,read pie plot,read bubble plot,pie plot,bubble plot
+page,string, 0.5,1,export page,export string
+done,page, 0.5,1,export done,export page
+new,max, 0.666666666666667,2,get new value,get max value,set max value,set new value
+key,connection, 0.666666666666667,2,set key expression,set connection expression,get key expression,get connection expression
+serie,category, 0.666666666666667,2,get serie expression,get category expression,set serie expression,set category expression
+at,elements, 0.666666666666667,1,get band at,get band elements
+width,viewer, 0.666666666666667,2,get report width,get report viewer,set report width,set report viewer
+segment map,next element, 0.5,1,get segment map key,get next element key
+notify,variable, 0.5,1,remove notify,remove variable
+splash,options, 0.5,1,splash dialog,options dialog
+childs,jrproperty, 0.5,1,add childs,add jrproperty
+dplot,dchart, 0.5,2,bar dplot,bar dchart,pie dplot,pie dchart
+decrease,increase, 0.8,4,format command decrease space h,format command increase space h,format command decrease space v,format command increase space h,format command increase space v,format command decrease space h,format command increase space v,format command decrease space v
+font,xmltext, 0.666666666666667,1,read font element,read xmltext element
+sheet,viewed, 0.666666666666667,1,set sheet panel,set viewed panel
+descriptor,definition, 0.5,1,chart descriptor,chart definition
+chart,update, 0.5,1,chart title,update title
+band,elements, 0.666666666666667,1,report band changed,report elements changed
+lines,update, 0.5,1,insert lines,insert update
+find,rectangle, 0.666666666666667,1,find report element,rectangle report element
+column,usable, 0.666666666666667,1,get column width,get usable width
+drag,adjust, 0.5,1,drag handler,adjust handler
+font,minimum, 0.666666666666667,1,get font size,get minimum size
+tsqltoken,plsqltoken, 0.5,1,tsqltoken marker,plsqltoken marker
+del,element, 0.5,1,del group,element group
+node,path, 0.5,1,tree node,tree path
+title,values, 0.5,1,update title,update values
+band,value, 0.5,2,update bands,update values,bands dialog,values dialog
+font,parameter, 0.5,1,update fonts,update parameters
+find,current, 0.666666666666667,1,get find directory,get current directory
+open,value, 0.833333333333333,3,j rtext expression open text changed,j rtext expression value text changed,set open expression,set value expression,get open expression,get value expression
+default,element, 0.666666666666667,1,set default value,set element value
+xmlfields,xmlsection, 0.5,1,write xmlfields,write xmlsection
+datasource,transferable, 0.5,1,create datasource,create transferable
+log,update, 0.5,1,remove log,remove update
+xmltext,xmlreport, 0.75,2,read xmltext element,read xmlreport element,write xmltext element element,write xmlreport element element
+register,intersects, 0.5,1,register elements,intersects elements
+bar,xybar, 0.5,1,bar chart,xybar chart
+at,delta, 0.666666666666667,1,get band at,get band delta
+press,release, 0.5,1,key pressed,key released
+title,fonts, 0.5,1,update title,update fonts
+end date,data source, 0.5,2,get end date expression,get data source expression,set end date expression,set data source expression
+case,pagination, 0.666666666666667,1,set ignore case,set ignore pagination
+id,icon, 0.666666666666667,1,get element id,get element icon
+style,utilities, 0.5,1,syntax style,syntax utilities
+band,property, 0.5,2,update bands,update properties,bands dialog,properties dialog
+format,replaced, 0.666666666666667,1,format elements operation,replaced elements operation
+group,transformation, 0.5,1,element group,element transformation
+bands,jrgroup, 0.5,1,bands dialog,jrgroup dialog
+mode,scrollbars, 0.666666666666667,1,set view mode,set view scrollbars
+date,select, 0.666666666666667,2,get date expression,get select expression,set date expression,set select expression
+option,compatible, 0.5,1,options dialog,compatibility dialog
+left margin,to band, 0.666666666666667,2,format command align to left margin,format command align bottom to band,format command align top to band,format command align to left margin
+jrule,library, 0.5,1,jrule panel,library panel
+scale,reset, 0.666666666666667,2,set scale type,set reset type,get scale type,get reset type
+title,selection, 0.5,1,update title,update selection
+font,expression, 0.75,2,font sheet property component,expression sheet property component,font sheet property,expression sheet property
+value,zvalue, 0.666666666666667,2,set value expression,set zvalue expression,get value expression,get zvalue expression
+dataset,xyseries, 0.5,2,read dataset,read xyseries,write dataset,write xyseries
+item,entry, 0.5,1,add item,add entry
+prompt,splash, 0.5,1,prompt dialog,splash dialog
+print when,text connection, 0.777777777777778,1,j rtext expression area print when expression text changed,j rtext expression area text connection expression text changed
+style,token, 0.5,1,add style,add token
+node,changed, 0.5,1,update sub dataset node,report sub dataset changed
+entry,element, 0.5,1,add entry,add element
+groups,splash, 0.5,1,groups dialog,splash dialog
+same size,align center, 0.5,1,format command same size,format command align center
+key,presentation, 0.666666666666667,1,get key name,get presentation name
+sheet,xyzdataset, 0.5,1,sheet panel,xyzdataset panel
+xvalue,category, 0.666666666666667,2,get xvalue expression,get category expression,set xvalue expression,set category expression
+home,listener, 0.5,1,document home,document listener
+image,subreport, 0.875,1,j rtext expression area image expression text changed,j rtext expression area subreport expression text changed
+max,property, 0.666666666666667,2,set max value,set property value,get max value,get property value
+init,jrtext, 0.666666666666667,1,init expression area,jrtext expression area
+drag,mouse, 0.5,1,drag handler,mouse handler
+jrtoken,plsqltoken, 0.5,1,jrtoken marker,plsqltoken marker
+use,ireport, 0.666666666666667,1,set use connection,set ireport connection
+splash,connections, 0.5,1,splash dialog,connections dialog
+item,childs, 0.5,1,add item,add childs
+thread,imports, 0.666666666666667,1,update thread list,update imports list
+wizard,connections, 0.5,1,wizard dialog,connections dialog
+bar,selected, 0.5,1,bar chart,selected chart
+entry,field, 0.5,1,add entry,add field
+style,option, 0.5,1,styles dialog,options dialog
+lose,gain, 0.5,1,focus lost,focus gained
+add,file, 0.5,1,add entry,file entry
+connection,jrparameter, 0.5,1,connection dialog,jrparameter dialog
+xaxis,yaxis, 0.75,2,get xaxis label expression,get yaxis label expression,set yaxis label expression,set xaxis label expression
+close,connection, 0.666666666666667,2,set close expression,set connection expression,get close expression,get connection expression
+key,zvalue, 0.666666666666667,2,set key expression,set zvalue expression,get key expression,get zvalue expression
+python,eiffel, 0.666666666666667,1,python token marker,eiffel token marker
+new column,date expression, 0.5,1,set start new column,set start date expression
+panel,dialog, 0.5,1,values panel,values dialog
+remove,jnumber, 0.5,1,remove field,jnumber field
+area,xyline, 0.5,1,area chart,xyline chart
+end,start, 0.75,4,set end date expression,set start date expression,get end date expression,get start date expression,get line end offset,get line start offset,get selection end,get selection start
+check,changed, 0.5,1,check update,changed update
+load,apply, 0.5,1,load configuration,apply configuration
+width,height, 0.8,5,format command same width min,format command same height min,format command same width max,format command same height max,format command same width,format command same height,get report width,get report height,set report width,set report height
+lens,insert, 0.666666666666667,2,set lens mode,set insert mode,is lens mode,is insert mode
+panel,property, 0.666666666666667,2,sheet panel,sheet property,get sheet panel,get sheet property
+size,metrics, 0.666666666666667,1,get font size,get font metrics
+title,value, 0.666666666666667,2,set title expression,set value expression,get value expression,get title expression
+serie,yvalue, 0.666666666666667,2,set serie expression,set yvalue expression,get serie expression,get yvalue expression
+cache,console, 0.5,1,clear cache,clear console
+date,serie, 0.666666666666667,2,get date expression,get serie expression,set date expression,set serie expression
+text,volume, 0.666666666666667,2,is show text,is show volume,set show text,set show volume
+double,string, 0.666666666666667,1,get attribute double,get attribute string
+plot,xmlvariables, 0.5,1,write plot,write xmlvariables
+to,insert, 0.5,1,to string,insert string
+time period,yaxis label, 0.5,2,get time period expression,get yaxis label expression,set time period expression,set yaxis label expression
+cctoken,sqltoken, 0.5,1,cctoken marker,sqltoken marker
+paste,syntax, 0.5,1,paste style,syntax style
+shrink,inside, 0.5,1,shrink band,inside band
+title,category, 0.666666666666667,2,set title expression,set category expression,get title expression,get category expression
+replaced,transform, 0.666666666666667,1,replaced elements operation,transform elements operation
+update,duplicate, 0.5,3,update parameters,duplicate parameters,update variables,duplicate variables,update fields,duplicate fields
+element,evaluation, 0.666666666666667,2,get element group,get evaluation group,set element group,set evaluation group
+add,abstract, 0.666666666666667,1,add library object,abstract library object
+open,category, 0.666666666666667,2,set open expression,set category expression,get open expression,get category expression
+dialogue,change, 0.5,1,style dialog,style changed
+values,jrparameter, 0.5,1,values dialog,jrparameter dialog
+prompt,jrgroup, 0.5,1,prompt dialog,jrgroup dialog
+editor,property, 0.666666666666667,2,set editor value,set property value,get editor value,get property value
+file,templates, 0.666666666666667,1,update file list,update templates list
+xybar,bubble, 0.5,1,xybar chart,bubble chart
+editor,elements, 0.666666666666667,1,set editor value,set elements value
+jrtoken,xmltoken, 0.5,1,jrtoken marker,xmltoken marker
+high low,time period, 0.5,4,high low dataset panel,time period dataset panel,read high low dataset,read time period dataset,set high low dataset,set time period dataset,get high low dataset,get time period dataset
+change,document, 0.5,1,change listener,document listener
+edit,group, 0.5,1,add edit,add group
+font,object, 0.666666666666667,1,update report fonts,update report objects
+report band,fire selection, 0.5,1,report band changed event,fire selection changed event
+text,ellipse, 0.666666666666667,1,text report element,ellipse report element
+group,category, 0.5,1,add group,add category
+join right,align center, 0.5,1,format command join right,format command align center
+field,items, 0.5,1,add field,add items
+prompt,connection, 0.5,1,prompt dialog,connection dialog
+icon,group, 0.666666666666667,1,get element icon,get element group
+find,frame, 0.666666666666667,1,find report element,frame report element
+edit,jrproperty, 0.5,1,add edit,add jrproperty
+jrfield,compatibility, 0.5,1,jrfield dialog,compatibility dialog
+page,element, 0.5,1,page transformation,element transformation
+wizard,properties, 0.5,1,wizard dialog,properties dialog
+info,chart, 0.5,1,line info,line chart
+insert,import, 0.5,1,insert string,import string
+import,keyword, 0.5,1,add import,add keyword
+entry,writer, 0.5,1,file entry,file writer
+date,open, 0.833333333333333,3,j rtext expression date text changed,j rtext expression open text changed,get open expression,get date expression,set date expression,set open expression
+font,group, 0.5,2,update fonts,update groups,fonts dialog,groups dialog
+edit,child, 0.5,1,add edit,add child
+serie,scale, 0.666666666666667,2,set serie type,set scale type,get scale type,get serie type
+xaxis label,hyperlink anchor, 0.5,2,set xaxis label expression,set hyperlink anchor expression,get xaxis label expression,get hyperlink anchor expression
+added,reset, 0.666666666666667,2,get added group,get reset group,set added group,set reset group
+lines,legend, 0.666666666666667,2,set show lines,set show legend,is show lines,is show legend
+new,default, 0.666666666666667,2,get new value,get default value,set new value,set default value
+value,yvalue, 0.666666666666667,2,set value expression,set yvalue expression,get value expression,get yvalue expression
+writer,selection, 0.5,1,string writer,string selection
+lines,volume, 0.666666666666667,2,set show lines,set show volume,is show lines,is show volume
+date,value, 0.833333333333333,3,j rtext expression date text changed,j rtext expression value text changed,get date expression,get value expression,set date expression,set value expression
+anchor,reference, 0.857142857142857,5,j rtext expression area anchor text changed,j rtext expression area reference text changed,set hyperlink anchor expression,set hyperlink reference expression,get hyperlink anchor expression,set hyperlink reference expression,set hyperlink anchor expression,get hyperlink reference expression,get hyperlink anchor expression,get hyperlink reference expression
+start date,xaxis label, 0.5,2,get start date expression,get xaxis label expression,set start date expression,set xaxis label expression
+edit,category, 0.5,1,add edit,add category
+form,frame, 0.5,1,set active report form,get active report frame
+typed,adapter, 0.5,1,key typed,key adapter
+report,transformation, 0.666666666666667,1,find report element,find transformation element
+value,connection, 0.666666666666667,4,update values,update connections,set value expression,set connection expression,get value expression,get connection expression,values dialog,connections dialog
+explore,address, 0.5,1,explore bean,address bean
+band,handler, 0.5,1,adjust band,adjust handler
+same size,align top, 0.5,1,format command same size,format command align top
+box,xydataset, 0.5,1,box panel,xydataset panel
+low,open, 0.833333333333333,3,j rtext expression low text changed,j rtext expression open text changed,set low expression,set open expression,get low expression,get open expression
+add,number, 0.5,1,add entry,number entry
+value,compatible, 0.5,1,values dialog,compatibility dialog
+bound,element, 0.5,1,update bounds,update elements
+reset,hyperlink, 0.666666666666667,3,set reset type,set hyperlink type,get reset type,get hyperlink type,set reset page number,set hyperlink page expression
+ctoken,xmltoken, 0.5,1,ctoken marker,xmltoken marker
+serie,language, 0.666666666666667,2,set serie name,set language name,get serie name,get language name
+inside,resize, 0.5,1,inside band,resize band
+edit,items, 0.5,1,add edit,add items
+cctoken,xmltoken, 0.5,1,cctoken marker,xmltoken marker
+scale,object, 0.666666666666667,2,set scale type,set object type,get scale type,get object type
+compiler,template, 0.5,1,ireport compiler,ireport template
+color,double, 0.666666666666667,1,get attribute color,get attribute double
+bands,connection, 0.5,1,bands dialog,connection dialog
+sub,ellipse, 0.666666666666667,1,sub report element,ellipse report element
+report frame,style clipboard, 0.5,1,get active report frame,get active style clipboard
+pcdata,xyzseries, 0.5,1,read pcdata,read xyzseries
+entry,style, 0.5,1,add entry,add style
+series,dataset, 0.75,17,read time period series,read time period dataset,read category series,read category dataset,category series,category dataset,set category series,set category dataset,get category series,get category dataset,write time period series,read time period dataset,get time period series,read time period dataset,set time period series,read time period dataset,set time period dataset,write time period series,get time period dataset,write time period series,read time period series,set time period dataset,get time period series,set time period dataset,set time period series,set time period dataset,read time period series,get time period dataset,get time period series,get time period dataset,set time period series,get time period dataset,time period series,time period dataset
+log,keyword, 0.5,1,remove log,remove keyword
+splash,jrproperty, 0.5,1,splash dialog,jrproperty dialog
+high,close, 0.833333333333333,3,j rtext expression high text changed,j rtext expression close text changed,set high expression,set close expression,get high expression,get close expression
+read,scatter, 0.5,1,read plot,scatter plot
+band,object, 0.666666666666667,1,set selected band,set selected object
+time,reset, 0.5,1,time series,reset series
+idltoken,sqltoken, 0.5,1,idltoken marker,sqltoken marker
+home,changed, 0.5,1,document home,document changed
+date,label, 0.833333333333333,3,j rtext expression date text changed,j rtext expression label text changed,get date expression,get label expression,set date expression,set label expression
+char,step, 0.5,2,next char,next step,prev step,prev char
+old,default, 0.666666666666667,2,get old value,get default value,set old value,set default value
+report,jreport, 0.666666666666667,2,get report frame,get jreport frame,set report frame,set jreport frame
+option,connection, 0.5,1,options dialog,connections dialog
+same width,align left, 0.5,1,format command same width,format command align left
+time period,hyperlink reference, 0.5,2,set time period expression,set hyperlink reference expression,get time period expression,get hyperlink reference expression
+double,boolean, 0.666666666666667,1,get attribute double,get attribute boolean
+group,keyword, 0.5,1,add group,add keyword
+plot,dplot, 0.666666666666667,4,read bar plot,read bar dplot,bar plot,bar dplot,read pie plot,read pie dplot,pie plot,pie dplot
+delete,tokenize, 0.5,1,delete lines,tokenize lines
+prompt,connections, 0.5,1,prompt dialog,connections dialog
+zvalue,xvalue, 0.666666666666667,2,get zvalue expression,get xvalue expression,set xvalue expression,set zvalue expression
+fire selection,report element, 0.5,1,fire selection changed event,report element changed event
+editor,default, 0.666666666666667,2,set editor value,set default value,get editor value,get default value
+band,group, 0.75,4,get band by name,get group by name,get group by name,get band by position,update bands,update groups,bands dialog,groups dialog
+report,values, 0.666666666666667,1,get report panel,get values panel
+log,jedit, 0.666666666666667,1,log text area,jedit text area
+exit,handler, 0.5,1,drag exit,drag handler
+parent,selected, 0.666666666666667,1,set parent element,set selected element
+serie,properties, 0.5,1,serie dialog,properties dialog
+item,child, 0.5,1,add item,add child
+groups,jrgroup, 0.5,1,groups dialog,jrgroup dialog
+child,parameter, 0.5,1,add child,add parameter
+sheet,values, 0.666666666666667,3,get sheet panel,get values panel,set sheet panel,set values panel,sheet panel,values panel
+key,yvalue, 0.666666666666667,2,set key expression,set yvalue expression,get key expression,get yvalue expression
+import,properties, 0.5,1,import dialog,properties dialog
+selection,parameters, 0.5,1,update selection,update parameters
+line,label, 0.666666666666667,2,is show lines,is show labels,set show lines,set show labels
+value,element, 0.5,2,update values,update elements,add value to serie,add element to group
+yvalue,series, 0.666666666666667,2,get yvalue expression,get series expression,set series expression,set yvalue expression
+select,category, 0.666666666666667,2,get select expression,get category expression,set select expression,set category expression
+exception,properties, 0.5,1,parse exception,parse properties
+dataset,xyzdataset, 0.5,1,read dataset,read xyzdataset
+check,insert, 0.5,1,check update,insert update
+viewed,library, 0.666666666666667,1,set viewed panel,set library panel
+title,connections, 0.5,1,update title,update connections
+zvalue,series, 0.666666666666667,2,get zvalue expression,get series expression,set series expression,set zvalue expression
+report,selected, 0.666666666666667,1,set report element,set selected element
+styles,selection, 0.5,1,update styles,update selection
+value,select, 0.666666666666667,2,set value expression,set select expression,get value expression,get select expression
+item,jrproperty, 0.5,1,add item,add jrproperty
+prompt,wizard, 0.5,1,prompt dialog,wizard dialog
+jrfont,compatibility, 0.5,1,jrfont dialog,compatibility dialog
+area,close, 0.833333333333333,1,j rtext expression area text changed,j rtext expression close text changed
+group,field, 0.5,2,update groups,update fields,add group,add field

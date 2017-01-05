@@ -1,0 +1,20 @@
+PROJECT : jBidWatcher  QUERY : translate currency
+****************************SWordNet****************************
+
+----------expansion num : 2 ----------
+----------expansion----------
+currency : token tab
+----------search hits----------
+----------total 0 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 80 ----------
+----------expansion----------
+currency : euro currencies rupee chf inr gbp rupees eur yen monetary dollar usd euros 4217 bitcoins decimal pound pounds cnh cents bigdecimal indian denomination date peru locale arabia connot penny denominations money price european rates simbol stock bulgarian nasdaq vat dollars
+translate : translating translated translates convert covert transform converts translation interpret converting morse reconstruct transformed combine incorporate translator transforming transliterate converted sinhala manipulate rotate transforms integrate decompose parse preprocess formulate tranform decode translators apply tranformation croatian urdu affinetransform bend equivalents afrikaans reconvert
+----------search hits----------
+Currency.convertToUSD(Currency, Currency, Currency)  @D:\Code\Repos\swordnet_java\projects\jBidWatcher\src\Currency.java 30 37
+----------total 1 hits----------
+
+

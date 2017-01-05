@@ -1,0 +1,101 @@
+PROJECT : javaHMO  QUERY : find image files
+****************************SWordNet****************************
+
+----------expansion num : 34 ----------
+----------expansion----------
+image : backgroundimage represents audio mp thread playlist jukebox reader add find media game lazy port thumbnail service document rotation categories combo weather recordings desktop source stream reload
+find : image add weather jukebox desktop
+files : organizer folders item
+----------search hits----------
+AddPluginDialog.itemStateChanged(ItemEvent)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\gui\MainFrame.java 414 432
+DesktopItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\desktop\DesktopItem.java 61 127
+ImageOrganizerThread.findFiles()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\imageOrganizer\OrganizerContainer.java 237 307
+Mp3OrganizerThread.findFiles()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 285 363
+InternetImageItem.toString()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\InternetImageItem.java 171 178
+RssItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\rss\RssItem.java 69 236
+DefaultImageItem.drawString(Graphics2D, String, int, int, Color)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\DefaultImageItem.java 190 200
+ImageItem.stream(OutputStream, TiVoRequest)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\ImageItem.java 58 99
+WeatherItem.drawString(Graphics2D, String, int, int, Color)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\weather\WeatherItem.java 450 460
+ImageItem.getCreationDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\ImageItem.java 122 124
+InternetImageItem.getLastChangedDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\InternetImageItem.java 184 186
+InternetImageItem.getPath()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\InternetImageItem.java 159 169
+WeatherItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\weather\WeatherItem.java 66 448
+ThumbnailThread.findFiles(FileSystemContainer)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\util\ThumbnailThread.java 77 98
+ImageOrganizerThread.run()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\imageOrganizer\OrganizerContainer.java 189 234
+ImageItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\ImageItem.java 51 55
+OrganizerContainer.findTags()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\imageOrganizer\OrganizerContainer.java 99 110
+DefaultImageItem.DefaultImageItem(String, int, String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\DefaultImageItem.java 59 71
+ImageOrganizerOptionsPanel.save()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\imageOrganizer\ImageOrganizerOptionsPanel.java 263 286
+OrganizerContainer.addPath(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\imageOrganizer\OrganizerContainer.java 679 681
+ImageItem.toString()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\ImageItem.java 101 111
+OrganizerContainer.findItem(Container, String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\imageOrganizer\OrganizerContainer.java 594 602
+OrganizerContainer.findItem(Container, String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 644 652
+JukeboxItem.JukeboxItem(String, String, JukeboxContainer)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\jukebox\JukeboxItem.java 40 43
+ImageOrganizerThread.ImageOrganizerThread(OrganizerContainer)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\imageOrganizer\OrganizerContainer.java 183 187
+OrganizerContainer.findTags()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 103 114
+WeatherItem.getCreationDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\weather\WeatherItem.java 462 464
+Container.addItem(TiVoItem)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\model\Container.java 546 548
+ImageOrganizerOptionsPanel.actionPerformed(ActionEvent)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\imageOrganizer\ImageOrganizerOptionsPanel.java 231 258
+TiVoConnect.addItem(TiVoItem)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\model\TiVoConnect.java 392 394
+MovieItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\movies\MovieItem.java 72 369
+TicTacToeItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\games\TicTacToeItem.java 51 94
+DesktopItem.getCaptureDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\desktop\DesktopItem.java 137 139
+InternetImageItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\InternetImageItem.java 62 67
+ImageItem.getLastChangedDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\ImageItem.java 130 132
+ImageItem.setLastChangedDate(Date)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\ImageItem.java 134 136
+EmailItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\email\EmailItem.java 69 230
+ImageItem.setCaptureDate(Date)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\ImageItem.java 142 144
+ImageTiVoItem.getCreationDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\ImageTiVoItem.java 33 33
+ImageTiVoItem.getLastChangedDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\ImageTiVoItem.java 37 37
+ImageItem.setCreationDate(Date)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\ImageItem.java 126 128
+OrganizerContainer.addGroup(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 747 749
+PlaylistProxy.findItem(ArrayList, String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\PlaylistProxy.java 194 218
+AlertItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\weather\AlertItem.java 70 237
+DesktopItem.getLastChangedDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\desktop\DesktopItem.java 133 135
+DesktopItem.DesktopItem(DesktopContainer, String, String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\desktop\DesktopItem.java 56 59
+InternetImageItem.getCreationDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\InternetImageItem.java 180 182
+DefaultImageItem.getCaptureDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\DefaultImageItem.java 210 212
+WeatherItem.getCaptureDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\weather\WeatherItem.java 470 472
+InternetImageItem.InternetImageItem(String, String, String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\InternetImageItem.java 57 60
+test.addListItem(NameValue)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\test\test.java 332 334
+ImageItem.getImageFormat()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\ImageItem.java 117 119
+DefaultImageItem.getCreationDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\DefaultImageItem.java 202 204
+ImageOrganizerOptionsPanel.populateCombo(JComboBox)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\imageOrganizer\ImageOrganizerOptionsPanel.java 221 229
+InternetImageItem.reload()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\InternetImageItem.java 69 157
+ImageOrganizerOptionsPanel.load()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\imageOrganizer\ImageOrganizerOptionsPanel.java 260 261
+OrganizerContainer.addGroup(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\imageOrganizer\OrganizerContainer.java 699 701
+WeatherItem.getLastChangedDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\weather\WeatherItem.java 466 468
+JukeboxItem.gatherItems(TiVoQueryContainerRequest)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\jukebox\JukeboxItem.java 46 51
+DesktopItem.getCreationDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\desktop\DesktopItem.java 129 131
+DefaultImageItem.getLastChangedDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\DefaultImageItem.java 206 208
+ImageItem.ImageItem(String, String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\ImageItem.java 47 49
+ImageItem.getSourceFormat()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\ImageItem.java 113 115
+StocksItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\stocks\StocksItem.java 85 245
+WeatherItem.WeatherItem(WeatherContainer, String, String, int)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\weather\WeatherItem.java 60 64
+InternetImageItem.getCaptureDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\InternetImageItem.java 188 190
+ImageItem.getCaptureDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\ImageItem.java 138 140
+ImageOrganizerOptionsPanel.ImageOrganizerOptionsPanel(OrganizerContainer)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\imageOrganizer\ImageOrganizerOptionsPanel.java 120 219
+OrganizerContainer.addPath(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\organizer\OrganizerContainer.java 735 737
+DefaultImageItem.getImage(TiVoImageDocumentRequest, BufferedImage)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\media\DefaultImageItem.java 73 188
+ImageTiVoItem.getCaptureDate()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\meta\ImageTiVoItem.java 35 35
+----------total 71 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 120 ----------
+----------expansion----------
+image : images picture png bitmap bufferedimage gif logo1 thumbnail 512x512 imageview jpeg imge jpg imagename pictures image1 photo img imag bmp 640x480 image3 icon 50x50 thumbnails canvas imageicon 128px 64x64 monochrome 80x80 32x32 200x200 40x40 48x48 128x128 greyscale pic 500x500 tiff
+find : locate finding figure found comprehend searched resolve pinpoint searching identify understand see figureout reveal solve googled perused glean finde refer recognize discover get reproduce determine fathom fix seem definitive isolate formulate decipher deduce satisfactory obtain googling predict fleshed dissect conclusive
+files : file folders directories folder jars directory subdirectories binaries packages sources archives zipped subfolders documents filenames textfiles archive zips images jpgs projects xmls libraries resources dlls myfile paths zip subfolder somefile filesystem libs archive1 artifacts assets webcontent pdfs executables zipfiles contents
+----------search hits----------
+ImagesContainer.getPaths()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\images\ImagesContainer.java 116 118
+ThumbnailThread.findFiles(FileSystemContainer)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\util\ThumbnailThread.java 77 98
+ImagesContainer.getStatus()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\images\ImagesContainer.java 90 94
+ImagesContainer.getUrl()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\images\ImagesContainer.java 102 106
+ImagesContainer.getStatusMessage()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\images\ImagesContainer.java 96 100
+ImagesContainer.getOptionsPanel()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\images\ImagesContainer.java 108 114
+ImagesContainer.getLastModified()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\images\ImagesContainer.java 141 143
+ImageOrganizerThread.findFiles()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\plugins\imageOrganizer\OrganizerContainer.java 237 307
+----------total 8 hits----------
+
+

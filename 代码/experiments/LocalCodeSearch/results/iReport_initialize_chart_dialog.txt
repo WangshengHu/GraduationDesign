@@ -1,0 +1,32 @@
+PROJECT : iReport  QUERY : initialize chart dialog
+****************************SWordNet****************************
+
+----------expansion num : 113 ----------
+----------expansion----------
+dialog : string to data panel
+chart : documentstructuretreenode projectinfo jrcvsdatasource jrdatasourceproviderconnection ireportfont actionshrinkselected imagecellrenderer textfieldreportelement charttitle dataset fontlistloader jnumbercombobox abstractlibraryobject plot tag treetransferthandler report box ireportcompiler samplebean valuechangedevent jrpdfexporter simplecomboboxeditor ircompilerdocument pagenumberobject piedataset numberdocument groupelement reportbandchangedevent ireporttemplate scriptletcode jradiobuttonmenuitemmdiframe addressbean formatelementsoperation chartdefinition chartcellrenderer jrchartreportelement timeseriesdataset reportlistenerelementchangedevent hobby helloworld languagechangedevent iconedstring personbean reportelementsheetpanel pluginentry piechart fileentry jsqltablespane misc sheetproperty jmdimenubar jdbcconnection transferableobject unit insertelementoperation pieplot jrtextexpressionarea categoryseries messagebox reportlistenerelementsselectionevent treenode jnumberfield jrsubreportparameter pdfencoding sheetpropertyvaluechanged reportpaneltooltip jrulepane jreportpanel removemarginsoperation customexpression chartdescriptor documenttreeentry jrireportdefaultscriptlet jrproperty massivecompiler irfont jrsubreportreturnvalue elementfactory statictextreportelement internalframeactivatedevent chartreportelement property rectangle key xmlgraphic presentation sub barcode dchart dplot renew line text language serie frame xmlreport font xmltext selected jbtree parent graphic image find ellipse update info
+----------search hits----------
+----------total 0 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 120 ----------
+----------expansion----------
+dialog : dialogue popup dialogs dialogbox window dialoge alert jdialog button joptionpane chooser frame menu toast messagebox showinput alertdialog filechooser modal progressdialog dailog dilog optionpane popout jframe progressbar dilaog dismisses popups dialog1 modeless pop panel box internalframe messagedialog combo combox pane popupmenu
+initialize : initialise instantiate initializing declare initialized intialize initializes instantiating instantiated initialised assign reinitialize define initialising initialization init assigns instantiates declaring decalred create declared inject construct reassign intialized pass instanciate instanciated assigning declares injected load serialize initializer constructed allocate defining instatiated bind
+chart : charts barchart chart3 plot freechart scatter candlestick jqplot timeseries gral graph thickens linechart pie plots boxplots jfreechart graphs achartengine ohlc xy doughnut teechart charting gantt piechart bargraphs bargraph plotting visualisation visualization gridline subplot highchart plotted amcharts donut legend datatip jfree
+----------search hits----------
+ChartPropertiesDialog.initComponents()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 291 776
+PieDatasetPanel.initComponents()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\PieDatasetPanel.java 86 169
+XYDatasetPanel.initComponents()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYDatasetPanel.java 57 192
+XYSeriesDialog.initComponents()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\XYSeriesDialog.java 32 201
+ChartPropertiesDialog.initAll()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 188 257
+ChartPropertiesDialog.isInit()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1607 1609
+ChartPropertiesDialog.setInit(boolean)  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartPropertiesDialog.java 1611 1613
+ChartSelectionJDialog.initAll()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartSelectionJDialog.java 43 94
+ChartSelectionJDialog.initComponents()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\ChartSelectionJDialog.java 96 179
+IReportChartDialog.initAll()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\IReportChartDialog.java 44 115
+IReportChartDialog.initComponents()  @D:\Code\Repos\swordnet_java\projects\iReport\it\businesslogic\ireport\chart\gui\IReportChartDialog.java 219 456
+----------total 11 hits----------
+
+

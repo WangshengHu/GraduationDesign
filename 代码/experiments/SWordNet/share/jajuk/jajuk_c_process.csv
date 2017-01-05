@@ -1,0 +1,203 @@
+dj,stop, 0.714285714285714,1,used when the dj button is pressed,used when the stop button has been pressed
+add,register, 0.75,1,add the new item,register the new item
+view refresh,device unmount, 0.714285714285714,1,used when a view refresh is requested,used when a device unmount is requested
+font,colour, 0.857142857142857,1,font to use when drawing the text,colour to use when drawing the text
+style,device, 0.75,1,upgrade for style ids,upgrade for device ids
+device refresh,playlist change, 0.714285714285714,1,used when a device refresh is requested,used when a playlist change is requested
+unmount,synchronization, 0.857142857142857,1,used when a device unmount is requested,used when a device synchronization is requested
+select,request, 0.8,1,a new device is selected,used when a new device is requested
+token,used, 0.714285714285714,1,check this name is not already token,check if this property is not already used
+device mount,playlist refresh, 0.714285714285714,1,used when a device mount is requested,used when a playlist refresh is requested
+one,perspective, 0.75,1,this one is selected,this perspective is selected
+transitions,proportions, 0.8,1,now add all known transitions,now add all known proportions
+$non-nls-$ $non-nls-$,$non-nls-$$non-nls-$$non-nls-$ $non-nls-$, 0.75,1,$non-nls-$ $non-nls-$ $non-nls-$ $non-nls-$,$non-nls-$ $non-nls-$ $non-nls-$$non-nls-$$non-nls-$ $non-nls-$
+display,refresh, 0.714285714285714,1,used when the help should be displayed,used when the cover should be refreshed
+cover,property, 0.714285714285714,1,test the cover is not already used,check the property is not already used internaly
+remove,request, 0.833333333333333,6,used when a device is removed,used when a new device is requested,used when a device is removed,used when a device mount is requested,used when a device is removed,used when a device refresh is requested,used when a device is removed,used when a device test is requested,used when a device is removed,used when a device unmount is requested,used when a device is removed,used when a device synchronization is requested
+take,select, 0.75,1,take it as default,select it as default
+manages,current, 0.75,1,manages look and feel,current look and feel
+new,corrupted, 0.888888888888889,1,number of new files found during refresh for stats,number of corrupted files found during refresh for stats
+item,playlist, 0.75,1,register the new item,register the new playlist
+play,resume, 0.875,4,the play button has been pressed,used when the resume button has been pressed,the play button has been pressed,the resume button has been pressed,used when the play button has been pressed,used when the resume button has been pressed,the resume button has been pressed,used when the play button has been pressed
+device unmount,playlist refresh, 0.714285714285714,1,used when a device unmount is requested,used when a playlist refresh is requested
+file,style, 0.75,1,upgrade for file ids,upgrade for style ids
+info-level,warning-level, 0.75,2,log a info-level message,log a warning-level message,log a info-level message,log a warning-level message with info sup
+history,fifo, 0.75,1,first element in history,come back to first element in fifo
+give,play, 0.75,1,if track is given,if a track is playing
+refresh,change, 0.857142857142857,2,request for cover refresh,request for a cover change,used when a playlist change is requested,used when a playlist refresh is requested
+visible,planned, 0.75,1,number of visible tracks,number of planned tracks between and
+tracks,playlists, 0.875,1,this way we clean up all orphan tracks,this way we clean up all orphan playlists
+change,increase, 0.8,1,used to change the volume,used to increase the volume
+dj,novelties, 0.857142857142857,1,used when the dj button is pressed,used when the novelties button is pressed
+track,playlist, 0.857142857142857,1,perform a track cleanup delete useless items,perform a playlist cleanup delete useless items
+def,wai, 0.833333333333333,1,set current cursor as default cursor,set current cursor as waiting cursor
+unmount,refresh, 0.857142857142857,1,used when a device unmount is requested,used when a device refresh is requested
+limit,maximum, 0.8,1,limit number of remote covers,maximum number of remote covers
+data,audio, 0.8,1,data buffer size in bytes,audio buffer size in bytes
+proportion,transaction, 0.875,1,check if the proportion is fully selected now,check if the transaction is fully selected now
+standard,absolute, 0.833333333333333,1,look for standard cover in collection,look for absolute cover in collection
+album,author, 0.875,9,check if current album is same as previous album,check if current author is same as the previous author,check if current album is same as previous album,check if current author is same as the previous author,check if current album is same as previous,check if current author is same as the previous author,register an album with a known id,register an author with a known id,check if the album doesnt,check if the author doesnt,gather information on current album,gather information on current author,upgrade for album ids,upgrade for author ids,add all tracks from the same album,add all tracks from the same author,album accuracy $non-nls-$ $non-nls-$,author accuracy $non-nls-$ $non-nls-$
+device mount,playlist change, 0.714285714285714,1,used when a device mount is requested,used when a playlist change is requested
+device,playlist, 0.857142857142857,1,used when a device refresh is requested,used when a playlist refresh is requested
+intro mode,repeat status, 0.714285714285714,1,used when the intro mode was changed,used when the repeat status was changed
+model,property, 0.75,1,create a new model,create a new property
+author,playlistfile, 0.857142857142857,1,register an author with a known id,register an playlistfile with a known id
+pause,resume, 0.875,4,the pause button has been pressed,used when the resume button has been pressed,the pause button has been pressed,the resume button has been pressed,used when the pause button has been pressed,used when the resume button has been pressed,the resume button has been pressed,used when the pause button has been pressed
+mount,synchronize, 0.75,1,check device is mounted,check this device is synchronized
+fifo,repeat, 0.714285714285714,1,there are yet some tracks in fifo,if there are some tracks in repeat
+end,start, 0.75,1,called at parsing end,called at parsing start
+class,variable, 0.75,1,dj type class name,dj type variable name
+name,type, 0.75,1,dj name variable name,dj type variable name
+width,height, 0.75,1,take all possible width,take all possible height
+create,request, 0.714285714285714,1,used when a new property is created,used when a new device is requested
+take,return, 0.8,1,take first file we find,return first cover file we find
+file,directory, 0.8,2,upgrade for file ids,upgrade for directory ids,file filter used in refresh,directory filter used in refresh
+request,make, 0.714285714285714,1,used when a playlist change is requested,used when a request for a cover change is made
+mount,refresh, 0.857142857142857,1,used when a device mount is requested,used when a device refresh is requested
+track,device, 0.75,1,upgrade for track ids,upgrade for device ids
+image,thumbnails, 0.8,1,check for image cache presence,check for thumbnails cache presence
+property,device, 0.714285714285714,1,used when a new property is created,used when a new device is requested
+jajuk,system, 0.75,1,display user jajuk configuration,display user system configuration
+remove,return, 0.75,1,remove a given item,return a given item
+continue mode,repeat status, 0.714285714285714,1,used when the continue mode was changed,used when the repeat status was changed
+data,tracks, 0.75,1,fill model with data,fill model with tracks
+shuffle,continue, 0.857142857142857,1,used when the shuffle mode was changed,used when the continue mode was changed
+cach,pixels, 0.75,1,play icon in cach,play icon columns size in pixels
+album,device, 0.75,1,upgrade for album ids,upgrade for device ids
+current selection,existing transitions, 0.75,1,create list of styles used in current selection,create list of styles used in existing transitions
+refresh,synchronization, 0.857142857142857,1,used when a device refresh is requested,used when a device synchronization is requested
+style,album, 0.75,3,sort by style $non-nls-$,sort by album $non-nls-$,check the style doesnt,check if the album doesnt,upgrade for album ids,upgrade for style ids
+current,register, 0.75,1,current look and feel,register look and feel
+view refresh,playlist change, 0.714285714285714,1,used when a view refresh is requested,used when a playlist change is requested
+bflorat,administrateur, 0.75,1,jajuk copyright c bflorat,jajuk copyright c administrateur
+item,album, 0.857142857142857,2,remove this item if no more references,remove this album if no more references,register the new item,register the new album
+file,author, 0.857142857142857,2,register an file with a known id,register an author with a known id,upgrade for file ids,upgrade for author ids
+play,stop, 0.875,4,the play button has been pressed,used when the stop button has been pressed,used when the play button has been pressed,used when the stop button has been pressed,the stop button has been pressed,the play button has been pressed,the stop button has been pressed,used when the play button has been pressed
+delete,create, 0.833333333333333,1,used when a property is deleted,used when a new property is created
+style,directory, 0.875,3,register a style with a known id,register a directory with a known id,equal method to check two styles are identical,equal method to check two directories are identical,upgrade for style ids,upgrade for directory ids
+refreshing,sychronizing, 0.9,1,make sure to unlock refreshing even if an error occured,make sure to unlock sychronizing even if an error occured
+path,directories, 0.75,1,check if path exists,check if directories exists
+item,transition, 0.75,1,add a void item,add a void transition
+new device,playlist change, 0.714285714285714,1,used when a new device is requested,used when a playlist change is requested
+local,local-standard, 0.75,1,both are local covers,both are local-standard covers
+next album,previous track, 0.75,2,action class for jumping to the next album,action class for jumping to the previous track,used to jump to the next album,used to jump to the previous track
+show,close, 0.857142857142857,1,used when view needs to be shown,used when a view needs to be closed
+show,launch, 0.714285714285714,1,used when view needs to be shown,used when the first time wizard needs to be launched
+program,library, 0.8,1,this program is free software,this library is free software
+track,style, 0.75,1,upgrade for track ids,upgrade for style ids
+play,pause, 0.875,4,the play button has been pressed,the pause button has been pressed,the pause button has been pressed,used when the play button has been pressed,the play button has been pressed,used when the pause button has been pressed,used when the play button has been pressed,used when the pause button has been pressed
+view,model, 0.75,1,selected row in view,selected row in model
+remove,add, 0.857142857142857,1,used when a custom property is removed,used when a new custom property is added
+local,defautl, 0.875,1,im a local cover and the other not,im a defautl cover and the other not
+logical,physical, 0.8,2,logical table edition state,physical table edition state,computes logical selection if any,computes physical selection if any
+manages,register, 0.75,1,manages look and feel,register look and feel
+next,current, 0.714285714285714,1,action class for jumping to the next track,action class for rewinding the current track
+refresh,compare, 0.75,1,perform a fast refresh,perform a fast compare
+view refresh,device mount, 0.714285714285714,1,used when a view refresh is requested,used when a device mount is requested
+delete,remove, 0.833333333333333,1,used when a property is deleted,used when a custom property is removed
+request,add, 0.714285714285714,1,used when a new device is requested,used when a new custom property is added
+file,item, 0.8,1,it is a planned file,tell it is a planned item
+worse,better, 0.8,1,we go to worse covers,if we go to better covers
+rate,score, 0.8,1,file comparator based on rate,file comparator based on score
+refresh,synchronize, 0.833333333333333,1,tells if a device is refreshing,tells if a device is synchronizing
+file,album, 0.857142857142857,2,register an file with a known id,register an album with a known id,upgrade for file ids,upgrade for album ids
+range,domain, 0.75,1,range axis label $non-nls-$,domain axis label $non-nls-$
+track,album, 0.875,8,action class for jumping to the previous track,action class for jumping to the previous album,used to jump to the previous album,used to jump to the previous track,register an album with a known id,register an track with a known id,album hashcode used by the equals method,track hashcode used by the equals method,gather information on current album,gather information on current track,upgrade for album ids,upgrade for track ids,action class for jumping to the next album,action class for jumping to the next track,used to jump to the next album,used to jump to the next track
+device,directory, 0.8,3,return associated device node,return associated directory node,gather information about the device,gather information about the directory,upgrade for device ids,upgrade for directory ids
+novelties,stop, 0.714285714285714,1,used when the novelties button is pressed,used when the stop button has been pressed
+intro,continue, 0.857142857142857,1,used when the intro mode was changed,used when the continue mode was changed
+playlist change,device synchronization, 0.714285714285714,1,used when a playlist change is requested,used when a device synchronization is requested
+style,author, 0.75,2,check the style doesnt,check if the author doesnt,upgrade for style ids,upgrade for author ids
+help,cover, 0.714285714285714,1,used when the help should be displayed,used when the cover should be refreshed
+play,delete, 0.75,1,play a playlist file,delete a playlist file
+name,property, 0.714285714285714,1,check this name is not already token,check if this property is not already used
+dj,play, 0.714285714285714,1,used when the dj button is pressed,used when the play button has been pressed
+given,repeat, 0.75,1,if track is given,if next track is repeat
+new device,view refresh, 0.714285714285714,1,used when a new device is requested,used when a view refresh is requested
+next,previous, 0.875,4,action class for jumping to the next album,action class for jumping to the previous album,used to jump to the next album,used to jump to the previous album,action class for jumping to the next track,action class for jumping to the previous track,used to jump to the next track,used to jump to the previous track
+directory,session, 0.75,1,check for jajuk directory,check for a concurrent jajuk session
+styles,proportion, 0.833333333333333,1,intermediate styles variable used during parsing,intermediate proportion variable used during parsing
+track,author, 0.857142857142857,3,register an track with a known id,register an author with a known id,gather information on current track,gather information on current author,upgrade for track ids,upgrade for author ids
+current,selected, 0.75,1,current playlist file item,selected playlist file item
+change,decrease, 0.8,1,used to change the volume,used to decrease the volume
+mount,unmount, 0.857142857142857,2,used when a device mount is requested,used when a device unmount is requested,try to mount it,try to unmount it
+method,call, 0.8,1,recursive method to traverse directories,recursive call to traverse child directories
+delete,add, 0.833333333333333,1,used when a property is deleted,used when a new custom property is added
+try,propose, 0.75,1,try to mount device,propose to mount device if unmounted
+stop,pauseresume, 0.75,1,used to stop playing,used to pauseresume playing
+rewind,fast-forward, 0.833333333333333,1,used to rewind the current track,used to fast-forward the current track
+novelties,play, 0.714285714285714,1,used when the novelties button is pressed,used when the play button has been pressed
+pause,stop, 0.875,4,the pause button has been pressed,used when the stop button has been pressed,used when the stop button has been pressed,used when the pause button has been pressed,the stop button has been pressed,the pause button has been pressed,the stop button has been pressed,used when the pause button has been pressed
+check,means, 0.8,1,check this device is synchronized,means this device is not synchronized $non-nls-$
+history,ambience, 0.833333333333333,1,notify interested items like history manager,notify interested items like ambience manager
+dj,pause, 0.714285714285714,1,used when the dj button is pressed,used when the pause button has been pressed
+show,display, 0.8,1,show tip of the day,display tip of the day
+track,playlistfile, 0.857142857142857,1,register an track with a known id,register an playlistfile with a known id
+new,custom, 0.714285714285714,1,used when a new property is created,used when a custom property is removed
+end,panel, 0.75,1,add to the end,add the components to the panel
+dj,resume, 0.714285714285714,1,used when the dj button is pressed,used when the resume button has been pressed
+plan,fifo, 0.8,2,remove this file from plan,remove this file from fifo,remove this file from plan,remove this file from fifo
+dj,references, 0.75,2,if no more dj,remove this album if no more references,if no more dj,remove this item if no more references
+need,perform, 0.75,1,need a fast refresh,perform a fast refresh
+dir,file, 0.833333333333333,1,item is not an unmounted dir,item is not an unmounted file
+new device,playlist refresh, 0.714285714285714,1,used when a new device is requested,used when a playlist refresh is requested
+styles,authors, 0.875,3,note that we cant add new styles dynamically,note that we cant add new authors dynamically,list of all known styles,list of all known authors,create a combo box for styles,create a combo box for authors
+icon,name, 0.9,2,construct an action with the given icon,construct an action with the given name,construct an action with the given icon and accelerator keystroke,construct an action with the given name and accelerator keystroke
+given,right, 0.75,1,if track is given,upgrade check if track id is right
+album,medium, 0.75,1,album accuracy $non-nls-$ $non-nls-$,medium accuracy $non-nls-$ $non-nls-$
+file,playlistfile, 0.857142857142857,1,register an file with a known id,register an playlistfile with a known id
+path,extension, 0.75,1,check name and path,check file name and extension
+bflorat,fdutron, 0.75,1,jajuk copyright c bflorat,jajuk copyright c fdutron
+sync,synchronize, 0.8,1,sync table and tree views,synchronize table and tree views
+ms,secs, 0.8,1,cross fade duration in ms,cross fade duration in secs
+create,add, 0.857142857142857,1,used when a new property is created,used when a new custom property is added
+stop,resume, 0.875,4,used when the stop button has been pressed,used when the resume button has been pressed,the resume button has been pressed,used when the stop button has been pressed,the stop button has been pressed,used when the resume button has been pressed,the stop button has been pressed,the resume button has been pressed
+track,directory, 0.75,1,upgrade for track ids,upgrade for directory ids
+command,information, 0.75,1,create the command bar,create the information bar panel
+file,device, 0.75,1,upgrade for file ids,upgrade for device ids
+increase,decrease, 0.833333333333333,2,used to increase the volume,used to decrease the volume,action class for increasing the volume,action class for decreasing the volume
+pdf,html, 0.75,1,filter new exportfilefilter pdf,filter new exportfilefilter html
+mounted,accessible, 0.833333333333333,1,none mounted file for this track,none accessible file for this track
+author,directory, 0.75,1,upgrade for author ids,upgrade for directory ids
+selection,file, 0.75,1,notify the selection change,notify everybody for the file change
+current,previous, 0.714285714285714,1,action class for rewinding the current track,action class for jumping to the previous track
+device unmount,playlist change, 0.714285714285714,1,used when a device unmount is requested,used when a playlist change is requested
+novelties,pause, 0.714285714285714,1,used when the novelties button is pressed,used when the pause button has been pressed
+exist,exit, 0.75,2,if file doesnt exist,if config file doesnt exit,if file doesnt exist,if history file doesnt exit
+end,begin, 0.9,1,look for a correct file from index to collection end,look for a correct file from index to collection begin
+up,down, 0.777777777777778,1,put up an item from given index to index-,put down an item from given index to index+
+dj,factory, 0.75,1,dj type class name,factory type class name
+album,playlist, 0.75,1,register the new album,register the new playlist
+album,playlistfile, 0.857142857142857,1,register an album with a known id,register an playlistfile with a known id
+view,playlist, 0.857142857142857,1,used when a view refresh is requested,used when a playlist refresh is requested
+droping,clicking, 0.9,1,default action play or push when droping on an item,default action play or push when clicking on an item
+garbager,autocommit, 0.75,1,garbager delay in ms,autocommit delay in ms
+view,device, 0.857142857142857,1,used when a view refresh is requested,used when a device refresh is requested
+row,column, 0.75,1,selected row in view,selected column in view
+views,perspectives, 0.75,1,default implementation for views,provide default implementation for perspectives
+-jan-,-dec-, 0.875,2,author bart cremers real software date -jan- time,author bart cremers real software date -dec- time,author bart cremers date -dec- time,author bart cremers real software date -jan- time
+debug-level,warning-level, 0.75,2,log a debug-level message,log a warning-level message,log a debug-level message,log a warning-level message with info sup
+create,remove, 0.714285714285714,1,used when a new property is created,used when a custom property is removed
+nothing,perspective, 0.75,1,when nothing is selected,activate calls when perspective is selected
+medium,author, 0.75,1,medium accuracy $non-nls-$ $non-nls-$,author accuracy $non-nls-$ $non-nls-$
+next track,previous album, 0.75,2,action class for jumping to the next track,action class for jumping to the previous album,used to jump to the next track,used to jump to the previous album
+persisted,official, 0.75,1,load persisted collection file,try to load official collection file
+file,track, 0.857142857142857,3,register an file with a known id,register an track with a known id,upgrade for file ids,upgrade for track ids,it is a planned file,means it is a planned track
+playlist refresh,device synchronization, 0.714285714285714,1,used when a playlist refresh is requested,used when a device synchronization is requested
+info-level,debug-level, 0.75,1,log a info-level message,log a debug-level message
+parse,delete, 0.75,1,parse a playlist file,delete a playlist file
+play,parse, 0.75,1,play a playlist file,parse a playlist file
+fdutron,administrateur, 0.75,1,jajuk copyright c fdutron,jajuk copyright c administrateur
+config,history, 0.8,1,if config file doesnt exit,if history file doesnt exit
+djs,jajuk, 0.75,1,check for djs directory,check for jajuk directory
+rate,name, 0.8,1,used when file rate changes,used when a file name changes
+album,directory, 0.75,1,upgrade for album ids,upgrade for directory ids
+view refresh,device synchronization, 0.714285714285714,1,used when a view refresh is requested,used when a device synchronization is requested
+mount,synchronization, 0.857142857142857,1,used when a device mount is requested,used when a device synchronization is requested
+give,change, 0.75,1,if track is given,if current track author name is changed
+finish album,global shuffle, 0.75,1,used when the finish album button is pressed,used when the global shuffle button is pressed
+shuffle mode,repeat status, 0.714285714285714,1,used when the shuffle mode was changed,used when the repeat status was changed
+author,device, 0.75,1,upgrade for author ids,upgrade for device ids
+intro,shuffle, 0.857142857142857,1,used when the intro mode was changed,used when the shuffle mode was changed
+ambiance,ambience, 0.75,1,select first ambiance found,select first ambience found
+novelties,resume, 0.714285714285714,1,used when the novelties button is pressed,used when the resume button has been pressed

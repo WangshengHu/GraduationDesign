@@ -1,0 +1,1169 @@
+signalling,hd64465pcmcia,0.666666666666667,1,signalling event thread,hd64465pcmcia event thread
+just,acpitz,0.666666666666667,1,Just print last status,acpitz print status
+install,tap,0.666666666666667,1,Install sysctl handler,tap sysctl handler
+require,sector,0.666666666666667,1,Buffered flash require erase,flash sector erase
+allocate,db,0.666666666666667,1,allocate cmd list,db cmd list
+error,pic,0.666666666666667,1,Error ext intr,pic ext intr
+now,cz,0.666666666666667,1,Now load firmware,cz load firmware
+signalling,mmeyepcmcia,0.666666666666667,1,signalling event thread,mmeyepcmcia event thread
+perform,acu,0.666666666666667,1,perform codec cold reset,acu codec reset
+software,iha,0.666666666666667,1,Software reset Tulip chip,iha reset chip
+copyzero,next,0.666666666666667,1,pmap copyzero page,pmap next page
+setrunnable,acpi,0.666666666666667,1,setrunnable release lock,acpi release global lock
+xc,hifn,0.666666666666667,1,xc reset board run,hifn reset board
+call,p9100,0.666666666666667,1,Call power management hook,p9100 power hook
+serial,pppoe,0.666666666666667,1,Serial data input,pppoe data input
+xxx,uhci,0.666666666666667,1,XXX free chain,uhci free std chain
+acknowledge,rt2560,0.666666666666667,1,acknowledge media change,rt2560 media change
+ignore,rt2560,0.666666666666667,1,ignore media change,rt2560 media change
+update,zapm,0.666666666666667,1,update battery life softc,zapm battery life
+ams,atw,0.666666666666667,1,AMS media change,atw media change
+memory,slhci,0.666666666666667,1,memory read multi okay,slhci read multi
+rw,esa,0.666666666666667,1,rw enable interrupts,esa enable interrupts
+update,awi,0.666666666666667,1,Update media status,awi media status
+unibus,mv88e1xxx,0.666666666666667,1,unibus power down,mv88e1xxx power down
+silently,ka43,0.666666666666667,1,Silently clear latched errors,ka43 clear errors
+convert,ofpackage,0.666666666666667,1,convert to unix path,OFpackage to path
+scope,nfsmb,0.666666666666667,1,scope check done,nfsmb check done
+both,ael1002,0.666666666666667,1,both power down,ael1002 power down
+do,auixp,0.666666666666667,1,do disable interrupts debugging,auixp disable interrupts
+l,arm3,0.666666666666667,1,l cache flush,arm3 cache flush
+analog,ael1006,0.666666666666667,1,Analog power down,ael1006 power down
+protection,cmpci,0.666666666666667,1,protection rate index,cmpci rate to index
+report,ka43,0.666666666666667,1,Report clear soft errors,ka43 clear errors
+signalling,cardslot,0.666666666666667,1,signalling event thread,cardslot event thread
+rusage,error,0.666666666666667,1,update rusage counters,ray update error counters
+check,atu,0.666666666666667,1,check media change,atu media change
+only,timer,0.666666666666667,1,only one shot at ,timer one shot
+local,clear,0.666666666666667,1,Local video memory,clear video memory
+audio,radeonfb,0.666666666666667,1,audio engine reset,radeonfb engine reset
+warm,auvia,0.666666666666667,1,warm reset AC' codec,auvia reset codec
+unlink,pccbb,0.666666666666667,1,Unlink free packet tag,pccbb free tag
+receive,scatter,0.666666666666667,1,receive buf size,scatter buf set size
+disk,inflate,0.666666666666667,1,disk blocks free,inflate blocks free
+output,atppc,0.666666666666667,1,output fifo write enable,atppc fifo write
+channel,bus,0.666666666666667,1,channel space handle,bus space compose handle
+update,atu,0.666666666666667,1,Update media status,atu media status
+global,aqm,0.666666666666667,1,global int enable,aqm int enable
+sanity,udf,0.666666666666667,1,sanity check tag needed,udf check tag
+enable,btbc,0.666666666666667,1,Enable activity led,btbc activity led timeout
+check,awi,0.666666666666667,1,check media change,awi media change
+setup,bios,0.666666666666667,1,setup display info,bios display info
+adaptor,mv88e1xxx,0.666666666666667,1,adaptor power down,mv88e1xxx power down
+known,engine,0.666666666666667,1,dump known info,mach64 dump engine info
+register,make,0.666666666666667,1,pci register tag,pci make tag
+threshold,ctx,0.666666666666667,1,fifo threshold size,nouveau fifo ctx size
+safely,auixp,0.666666666666667,1, safely enable interrupts,auixp enable interrupts
+signalling,plumpcmcia,0.666666666666667,1,signalling event thread,plumpcmcia event thread
+reset,ausmbus,0.666666666666667,1,waiting bus reset release,ausmbus release bus
+create,pmap,0.666666666666667,2,Create pmap pool,pmap pmap pool dtor,Create pmap pool,pmap pmap pool ctor
+memory,ray,0.666666666666667,2,Memory read region,ray read region,Memory write region,ray write region
+time,omsal400,0.666666666666667,1,time slot status register,omsal400 slot status
+post,spiflash,0.666666666666667,2,post process write action,spiflash process write,post process read action,spiflash process read
+tunnel,frame,0.666666666666667,1,tunnel sanity check failure,frame sanity check
+gigabit,awi,0.666666666666667,1,Gigabit media status only,awi media status
+gigabit,lii,0.666666666666667,1,Gigabit media status only,lii media status
+cold,auacer,0.666666666666667,1,cold reset AC' codec,auacer reset codec
+point,seq,0.666666666666667,1,point to new home,seq to new
+when,acpi,0.666666666666667,1,When acquire lock,acpi acquire global lock
+nfs_flushstalebuf,xpq,0.666666666666667,1,nfs_flushstalebuf flush cache stale,xpq flush cache
+suppress,fd,0.666666666666667,1,suppress motor on sequence,fd motor on
+busy,sys,0.666666666666667,1, do busy wait,do sys wait
+unibus,ael1002,0.666666666666667,1,unibus power down,ael1002 power down
+uvm_pagecopy,pmap,0.666666666666667,1,uvm_pagecopy copy page,pmap copy page
+nav,rt,0.666666666666667,1,NAV timer count read,rt timer count
+convert,target,0.666666666666667,1,convert to internal unit,target to unit
+ams,iwi,0.666666666666667,1,AMS media change,iwi media change
+turn,hd64461video,0.666666666666667,1,Turn display on clear ,hd64461video display on
+handle,ural,0.666666666666667,1,Handle media change request,ural media change
+interval,rt,0.666666666666667,1,Interval timer count,rt timer count
+gigabit,ray,0.666666666666667,1,Gigabit media status only,ray media status
+soft,init,0.666666666666667,1,Soft interrupt masks,init interrupt masks
+memory,log,0.666666666666667,1,allocate memory file,wapbl allocate log file
+d,ka43,0.666666666666667,1,D cache invalidate ,ka43 cache invalidate
+priority,sysmon,0.666666666666667,4,priority task queue,sysmon task queue preinit,priority task queue,sysmon task queue thread,priority task queue,sysmon task queue init,priority task queue,sysmon task queue fini
+xxx,rtw,0.666666666666667,2,XXX enable interrupts,rtw enable interrupts,XXX disable periodic interrupts,rtw disable interrupts
+xxx,stic,0.666666666666667,1,XXX clear screen,stic clear screen
+acknowledge,ray,0.666666666666667,1,acknowledge media change,ray media change
+enable,tctrl,0.666666666666667,1,Enable power button,tctrl power button pressed
+transmit,tmpfs,0.666666666666667,1,transmit fifo write enable,tmpfs fifo write
+init,sysmon,0.666666666666667,4,Init task queue,sysmon task queue preinit,Init task queue,sysmon task queue thread,Init task queue,sysmon task queue init,Init task queue,sysmon task queue fini
+copyzero,flush,0.666666666666667,1,pmap copyzero page,pmap flush page
+we've,bpf,0.666666666666667,1, we've timed out,bpf timed out
+just,tbf,0.666666666666667,1,just send packet,tbf send packet
+warm,cs4280,0.666666666666667,1,warm reset AC' codec,cs4280 reset codec
+enable,lance,0.666666666666667,3,Enable internal loopback,lance internal loopback test,Enable internal loopback,lance internal loopback setup,Enable internal loopback,lance internal loopback testdata
+cpu-independent,hypersparc,0.666666666666667,1,CPU-independent cache flush,hypersparc cache flush all
+pmap,global,0.666666666666667,1,release pmap lock,acpi release global lock
+tx,sunscpal,0.666666666666667,1,tx data xfer request,sunscpal data xfer
+io,tels08,0.666666666666667,1,IO write timeout reg,tels08 write reg
+cold,autri,0.666666666666667,1,cold reset AC' codec,autri reset codec
+main,softpic,0.666666666666667,1,main source file name,softpic source name
+cold,yds,0.666666666666667,1,cold reset AC' codec,yds reset codec
+reset,fd,0.666666666666667,1,reset motor off,fd motor off
+joystick,ael1006,0.666666666666667,1,Joystick power down,ael1006 power down
+device,vsc8211,0.666666666666667,1, device power down,vsc8211 power down
+wide,ncr5380,0.666666666666667,1, Wide data xfer,ncr5380 data xfer
+mbuf,std,0.666666666666667,1,free mbuf chain,uhci free std chain
+account,io,0.666666666666667,1,account read bytes,io read bytes
+cmd,bpf,0.666666666666667,1,cmd timed out,bpf timed out
+initialize,pmap,0.666666666666667,2,Initialize pmap pool,pmap pmap pool dtor,Initialize pmap pool,pmap pmap pool ctor
+create,fr,0.666666666666667,1,Create state entry,fr state flush entry
+adaptor,ael1006,0.666666666666667,1,adaptor power down,ael1006 power down
+zero,linux,0.666666666666667,1,zero init area,linux init thread area
+driver,rtw,0.666666666666667,1,driver key delete failed,rtw key delete
+remov,awi,0.666666666666667,1,remov media status notif,awi media status
+global,asus,0.666666666666667,1,Global notify handler installed,asus notify handler
+specified,pfi,0.666666666666667,1,SIOCALIFADDR add specified address,pfi address add
+do,l2cap,0.666666666666667,1,do recv command,l2cap recv command rej
+graphic,boot,0.666666666666667,1,graphics dev open,booted dev open
+data,release,0.666666666666667,2,dl data req,i4b dl release req,dl release req,i4b dl data req
+remove,hpckbd,0.666666666666667,1,remove input hook,hpckbd input hook
+interrupt,hci,0.666666666666667,1,Interrupt event status,hci event command status
+clear,hd64461video,0.666666666666667,1,clear display on startup,hd64461video display on
+warm,fms,0.666666666666667,1,warm reset AC' codec,fms reset codec
+address,print,0.666666666666667,1,Address stack pointer,print stack pointer
+clear,generic,0.666666666666667,1,Clear mixer indexes,generic mixer fix indexes
+needs,arm8,0.666666666666667,1,needs cache flush,arm8 cache flush ID
+ignore,ath,0.666666666666667,1,ignore media change,ath media change
+mark,gus,0.666666666666667,1,mark start playing,gus start playing
+audio,r128,0.666666666666667,1,audio engine reset,r128 engine reset
+signalling,maple,0.666666666666667,1,signalling event thread,maple event thread
+ignore,atw,0.666666666666667,1,ignore media change,atw media change
+select,bpf,0.666666666666667,1,Select timed out,bpf timed out
+indent,os,0.666666666666667,1,indent new line,os new line
+turn,pm,0.666666666666667,1,turn cursor off,pm cursor off
+world,xenbus,0.666666666666667,1,World switch state,xenbus switch state
+store,sh,0.666666666666667,1, store cache information,sh cache information
+call,nhpib,0.666666666666667,2,Call common attach routines,nhpib common attach,call common attach code,nhpib common attach
+needs,ms1,0.666666666666667,1,needs cache flush,ms1 cache flush all
+install,cplsw,0.666666666666667,1,install intr handler,cplsw intr handler
+io,avma1pp2,0.666666666666667,1,IO write timeout reg,avma1pp2 write reg
+device,clear,0.666666666666667,4,hfsc device interface,hfsc clear interface,jobs device interface,jobs clear interface,priq device interface,priq clear interface,cbq device interface,cbq clear interface
+ac,sme,0.666666666666667,1,AC battery critical value,sme battery critical
+mailbox,awi,0.666666666666667,2,mailbox cmd done fail,awi cmd done,mailbox cmd done ok,awi cmd done
+handle,wpi,0.666666666666667,1,Handle media change request,wpi media change
+install,cim,0.666666666666667,1,install intr handler,cim intr handler
+acknowledge,zyd,0.666666666666667,1,acknowledge media change,zyd media change
+copy,trm,0.666666666666667,1,copy eeprom data,trm eeprom set data
+mgt,emac3,0.666666666666667,1,mgt tx done,emac3 tx done
+receive,crime,0.666666666666667,1,receive watchdog disable,crime watchdog disable
+handle,ieee80211,0.666666666666667,1,Handle media change request,ieee80211 media change
+signalling,sapcic,0.666666666666667,1,signalling event thread,sapcic event thread
+channel,scsipi,0.666666666666667,1,channel grow resources,scsipi grow resources
+cs,itkix1,0.666666666666667,1,cs write fifo,itkix1 write fifo
+nanosecond,fp,0.666666666666667,1,nanosecond divide by,fp divide by 0
+control,log,0.666666666666667,1,Check open control file,open log file
+cold,auvia,0.666666666666667,1,cold reset AC' codec,auvia reset codec
+memory,cuda,0.666666666666667,1,Memory error handler,cuda error handler
+next,init,0.666666666666667,1,load next block ,rb load init block
+ams,ath,0.666666666666667,1,AMS media change,ath media change
+now,kue,0.666666666666667,1,now open pipes,kue open pipes
+copyzero,copy,0.666666666666667,1,pmap copyzero page,pmap copy page
+pmap_update,config,0.666666666666667,1,pmap_update process deferred invalidations,config process deferred
+cold,esm,0.666666666666667,1,cold reset AC' codec,esm reset codec
+mp,hci,0.666666666666667,1,MP event status,hci event command status
+now,esa,0.666666666666667,1,Now enable interrupts,esa enable interrupts
+known,packet,0.666666666666667,1,dump known info,dump packet info
+ok,unreliable,0.666666666666667,1,tx ok pkt,bcsp tx unreliable pkt
+freelist,uvm,0.666666666666667,1,Freelist map entry,uvm map entry unwire
+whole,qd,0.666666666666667,1,clear whole screen,clear qd screen
+wake,sppp,0.666666666666667,2,wake up event,sppp up event,wake up power event,sppp up event
+time,dbau1550,0.666666666666667,1,time slot status register,dbau1550 slot status
+rw,auixp,0.666666666666667,1,rw enable interrupts,auixp enable interrupts
+error,apic,0.666666666666667,1,cpu error address,cpu apic address
+receive,gt,0.666666666666667,1,receive watchdog disable,gt watchdog disable
+signalling,pcic,0.666666666666667,1,signalling event thread,pcic event thread
+[],agp,0.666666666666667,1,[] flush data cache,agp flush cache
+check,cuda,0.666666666666667,1,check error handler first,cuda error handler
+rx,sunscpal,0.666666666666667,1,rx data xfer request,sunscpal data xfer
+old,proc,0.666666666666667,1,remove old entry,remove proc entry
+watchdog,rt,0.666666666666667,2,watchdog timer count high,rt timer count,watchdog timer count low,rt timer count
+cpu-independent,arm3,0.666666666666667,1,CPU-independent cache flush,arm3 cache flush
+save,kmkbd,0.666666666666667,1,Save new state,kmkbd new state
+xxx,frame,0.666666666666667,2,XXX sanity check address,frame sanity check,XXX sanity check data,frame sanity check
+mpu,mv88e1xxx,0.666666666666667,1,MPU power down,mv88e1xxx power down
+included,softpic,0.666666666666667,1,included source file name,softpic source name
+do,mcd,0.666666666666667,1,do hard reset,mcd hard reset
+abort,bpf,0.666666666666667,2,Abort timed out,bpf timed out,abort timed out,bpf timed out
+initialize,ofppc,0.666666666666667,1,Initialize bootstrap console,ofppc bootstrap console
+display,source,0.666666666666667,1,setup display info,ac97 setup source info
+io,dynalink,0.666666666666667,1,IO write timeout reg,dynalink write reg
+output,xb,0.666666666666667,1,output fifo empty,xb fifo empty
+rx,xb,0.666666666666667,1,rx fifo empty,xb fifo empty
+xxxx,pf,0.666666666666667,1,XXXX print flags,pf print flags
+now,psycho,0.75,1,now register power button,psycho register power button
+response,hw,0.666666666666667,1,setup response type,adb setup hw type
+needs,arm7tdmi,0.666666666666667,1,needs cache flush,arm7tdmi cache flush ID
+update,tr,0.666666666666667,1,update stored type,tr stored type only
+install,mv88e1xxx,0.666666666666667,1,install intr handler,mv88e1xxx intr handler
+reads,kloader,0.666666666666667,1,Reads from file,kloader from file
+user,print,0.666666666666667,2,user stack pointer,print stack pointer,user stack pointer +,print stack pointer
+last,port,0.666666666666667,1,Just print last status,print port status
+read,kloader,0.666666666666667,1,Read from file,kloader from file
+establish,fd,0.666666666666667,1,Establish mountroot hook,fd mountroot hook
+'fixup',image,0.666666666666667,1,load 'fixup' data segment,load image data
+now,isp,0.666666666666667,1,now read whole nvram ,isp read nvram
+to,xengnt,0.666666666666667,1, to free entry,xengnt free entry
+just,xpq,0.666666666666667,1,just flush route cache,xpq flush cache
+issue,eso,0.666666666666667,3,issue write enable cmd,eso write cmd,issue write cmd,eso write cmd,issue write disable cmd,eso write cmd
+out-of-band,transmitted,0.666666666666667,1,process out-of-band data,pdq process transmitted data
+reference,resident,0.666666666666667,1,pmap reference count,pmap resident count
+fill,ipsec6,0.666666666666667,1,Fill common input args,ipsec6 common input
+en_reset,hifn,0.666666666666667,1,en_reset reset board,hifn reset board
+regulator,hd64461pcmcia,0.666666666666667,1,Regulator power on,hd64461pcmcia power on
+current,radeonfb,0.666666666666667,2, current cursor position,radeonfb cursor position,current cursor position,radeonfb cursor position
+input,atppc,0.666666666666667,1,input fifo write enable,atppc fifo write
+low-,kstack,0.666666666666667,1,low- check magic,kstack check magic
+device,bpf,0.666666666666667,1,device timed out,bpf timed out
+perr,aqm,0.666666666666667,1,perr int enable,aqm int enable
+select,s3c24x0,0.666666666666667,1,select clock freq,s3c24x0 clock freq
+copyzero,clean,0.666666666666667,1,pmap copyzero page,pmap clean page
+storage,sh,0.666666666666667,1,storage cache information,sh cache information
+rx,ncr5380,0.666666666666667,1,rx data xfer request,ncr5380 data xfer
+initialise,ioc,0.666666666666667,1,Initialise counter start values,ioc counter start
+kernel,pic,0.666666666666667,1,Kernel watchdog tickle routine,pic watchdog tickle
+do,pxe,0.666666666666667,2,do netif open,pxe netif open,do netif close,pxe netif close
+sync,iha,0.666666666666667,1,sync xfer data buffer,iha xfer data
+window,bus,0.666666666666667,1,window space handle,bus space compose handle
+signalling,pxapcic,0.666666666666667,1,signalling event thread,pxapcic event thread
+add,seq,0.666666666666667,1,add to new hash,seq to new
+now,pmap,0.666666666666667,2,Now clear reference modify,pmap clear modify,Now clear reference modify,pmap clear reference
+cs,tels0163,0.666666666666667,1,cs write fifo,tels0163 write fifo
+tx,atppc,0.666666666666667,1,tx fifo write cycles,atppc fifo write
+autoneg,pmap,0.666666666666667,1,autoneg next page wait,pmap next page
+ethernet,print,0.666666666666667,1,Ethernet interface descriptor First,print interface descriptor
+install,thinkpad,0.666666666666667,2,Install notify handler,thinkpad notify handler,Install notify handler events,thinkpad notify handler
+xxx,n8,0.666666666666667,1,XXX bounds check values,n8 bounds check
+acknowledge,ural,0.666666666666667,1,acknowledge media change,ural media change
+remov,wi,0.666666666666667,1,remov media status notif,wi media status
+ignore,ural,0.666666666666667,1,ignore media change,ural media change
+rw,sskbd,0.666666666666667,1,rw soft intr mask,sskbd soft intr
+first,ohare,0.666666666666667,1,first disable status irq,ohare disable irq
+waiting,ausm,0.666666666666667,1,waiting bus reset release,ausmbus release bus
+collisions,i82586,0.666666666666667,1,Collisions count output errors,i82586 count errors
+call,uvm,0.666666666666667,1,call pager init functions,uvm pager init
+graphics,xenbus,0.666666666666667,1,graphics dev open,xenbus dev open
+force,gt,0.666666666666667,1,Force watchdog reset,gt watchdog reset
+pci,tab,0.666666666666667,4,PCI Window Base ,Tab Window Base,PCI Window Translated Base ,Tab Window Base,PCI Window Base C,Tab Window Base,PCI Window Base B,Tab Window Base
+just,sq,0.666666666666667,1,Just dump buffer,sq dump buffer
+before,dbri,0.666666666666667,1,Before process buffer,dbri process interrupt buffer
+parse,process,0.666666666666667,1,parse kernel args,process kernel args
+where,remove,0.666666666666667,1,pmap where mapping lies,pmap remove mapping
+disable,ntwoc,0.666666666666667,1,disable pci clock,ntwoc pci clock callback
+to,iha,0.666666666666667,1, to next state,iha next state
+check,cxgb,0.666666666666667,1,check media change,cxgb media change
+fragments,bpf,0.666666666666667,1,fragments timed out,bpf timed out
+global,acpibut,0.666666666666667,1,Global notify handler installed,acpibut notify handler
+update,sbmac,0.666666666666667,1,Update promiscuous mode,sbmac promiscuous mode
+type,global,0.666666666666667,1,release type lock,acpi release global lock
+-pointer,flits,0.666666666666667,1,-pointer to next desc,flits to desc
+install,mps,0.666666666666667,1,install intr handler,mps intr handler
+l,srmmu,0.666666666666667,1,l cache flush,srmmu cache flush all
+rs-like,cy,0.666666666666667,1,RS-like modem control sigs,cy modem control
+check,rt2661,0.666666666666667,1,check media change,rt2661 media change
+init,bootstrap,0.666666666666667,1,consinit init console,init bootstrap console
+wait,acpitz,0.666666666666667,1,wait power off,acpitz power off
+first,bebox,0.666666666666667,1,first disable status irq,bebox disable irq
+actually,zyd,0.666666666666667,1,Actually open pipes,zyd open pipes
+status,shift,0.666666666666667,1,mii status bits,mii shift bits
+transfer,dock,0.666666666666667,1,update transfer status,pnpbios update dock status
+ams,cxgb,0.666666666666667,1,AMS media change,cxgb media change
+remov,ep,0.666666666666667,1,remov media status notif,ep media status
+otherwise,gxiic,0.666666666666667,1,otherwise release bus,gxiic release bus
+configuration,statvfs,0.666666666666667,1,copy configuration info,copy statvfs info
+mechanical,xenbus,0.666666666666667,1,mechanical switch state,xenbus switch state
+allocate,pmap,0.666666666666667,2,Allocate virtual memory space,pmap virtual space,allocate virtual space,pmap virtual space
+copyzero,invalidate,0.666666666666667,1,pmap copyzero page,pmap invalidate page
+turn,sunkbd,0.666666666666667,1,turn bell off,sunkbd bell off
+watchdog,xen,0.666666666666667,1,Watchdog timer handler,xen timer handler
+first,pic,0.666666666666667,1,first disable status irq,pic disable irq
+on,ieee80211,0.666666666666667,1,on node table,ieee80211 node table cleanup
+section,volume,0.666666666666667,1,read section header,hfslib read volume header
+desc,tp,0.666666666666667,1,desc protocol error,tp protocol error
+tranceiver,hd64461pcmcia,0.666666666666667,1,Tranceiver power on,hd64461pcmcia power on
+check,wpi,0.666666666666667,1,check media change,wpi media change
+attach,target,0.666666666666667,1,attach to unit,target to unit
+gigabit,atu,0.666666666666667,1,Gigabit media status only,atu media status
+warm,esa,0.666666666666667,1,warm reset AC' codec,esa reset codec
+l,arm8,0.666666666666667,1,l cache flush,arm8 cache flush ID
+force,imc,0.666666666666667,1,Force watchdog reset,imc watchdog reset
+shared,pmap,0.666666666666667,1,shared real memory,pmap real memory
+copyzero,pv,0.666666666666667,2,pmap copyzero page,pmap pv page free,pmap copyzero page,pmap pv page free
+mpu,ael1002,0.666666666666667,1,MPU power down,ael1002 power down
+acknowledge,cxgb,0.666666666666667,1,acknowledge media change,cxgb media change
+clear,mga,0.666666666666667,2,Clear dma buffers,mga dma get buffers,Clear dma buffers,mga dma buffers
+d,pool,0.666666666666667,1,D cache invalidate ,pool cache invalidate groups
+update,ray,0.666666666666667,1,Update media status,ray media status
+handle,rt2661,0.666666666666667,1,Handle media change request,rt2661 media change
+nfs_flushstalebuf,agp,0.666666666666667,1,nfs_flushstalebuf flush cache stale,agp flush cache
+check,ipw,0.666666666666667,1,check media change,ipw media change
+l,ms1,0.666666666666667,1,l cache flush,ms1 cache flush all
+needs,srmmu,0.666666666666667,1,needs cache flush,srmmu cache flush all
+otherwise,gpiic,0.666666666666667,1,otherwise release bus,gpiic release bus
+ams,ipw,0.666666666666667,1,AMS media change,ipw media change
+uvm_mapent_,xengnt,0.666666666666667,1,uvm_mapent_free free map entry,xengnt free entry
+tx,tmpfs,0.666666666666667,1,tx fifo write cycles,tmpfs fifo write
+link,acpilid,0.666666666666667,2,link status changed,acpilid status changed,link status changed en,acpilid status changed
+install,ulptx,0.666666666666667,1,install intr handler,ulptx intr handler
+audio,mach64,0.666666666666667,1,audio engine reset,mach64 engine reset
+auto,trm,0.666666666666667,1,auto request sense err,trm request sense
+xc,ubsec,0.666666666666667,1,xc reset board run,ubsec reset board
+xxx,auixp,0.666666666666667,2,XXX enable interrupts,auixp enable interrupts,XXX disable periodic interrupts,auixp disable interrupts
+otherwise,viapcib,0.666666666666667,1,otherwise release bus,viapcib release bus
+map,kloader,0.666666666666667,1,map from file default,kloader from file
+main,geminiicu,0.666666666666667,1,main source file name,geminiicu source name
+exclusive,log,0.666666666666667,1,open exclusive file lock,open log file
+clear,esa,0.666666666666667,2,Clear enable interrupts,esa enable interrupts, clear enable interrupts,esa enable interrupts
+pt,next,0.666666666666667,1,pmap PT page,pmap next page
+ignore,atu,0.666666666666667,1,ignore media change,atu media change
+perform,twa,0.666666666666667,1,perform soft reset,twa soft reset
+io,tels016,0.666666666666667,1,IO write timeout reg,tels016 write reg
+index,resource,0.666666666666667,1,Index Source Index Result,Resource Source Index
+map,free,0.666666666666667,1,uvm_mapent_free free map entry,xengnt free entry
+debug,driver,0.666666666666667,1,print debug info,print driver info
+class,rmc,0.666666666666667,1,Class drop action,rmc drop action
+issue,twa,0.666666666666667,1,Issue soft reset,twa soft reset
+receive,pic,0.666666666666667,1,receive watchdog disable,pic watchdog disable
+old,pmap,0.666666666666667,1,Old zero page unused,pmap zero page
+otherwise,pcf8584,0.666666666666667,1,otherwise release bus,pcf8584 release bus
+out,fat,0.666666666666667,1,print out stats,print fat stats
+change,radeonfb,0.666666666666667,1,Change cursor shape,radeonfb cursor shape
+rw,rtw,0.666666666666667,1,rw enable interrupts,rtw enable interrupts
+length,scsipi,0.666666666666667,1,length run queue,scsipi run queue
+data,emac3,0.666666666666667,1,data tx done,emac3 tx done
+far,db,0.666666666666667,1,far end line loopback,db end line
+current,ieee80211,0.666666666666667,1,current beacon miss count,ieee80211 beacon miss
+probe,hpibbus,0.666666666666667,1,probe attach children,hpibbus attach children
+configure,softpic,0.666666666666667,1,configure enable irq,softpic enable irq
+used,gemini,0.666666666666667,1,Used global reset,gemini global reset
+unibus,sysmon,0.666666666666667,1,unibus power init,sysmon power init
+xxx,ray,0.666666666666667,1,XXX free chain,ray free ccs chain
+cpu-independent,xscale,0.666666666666667,3,CPU-independent cache flush,xscale cache flush I,CPU-independent cache flush,xscale cache flush D,CPU-independent cache flush,xscale cache flush ID
+register,ds1687,0.666666666666667,1,Register bank select,ds1687 bank select
+check,ath,0.666666666666667,1,check media change,ath media change
+just,fr,0.666666666666667,1,just send reset once,fr send reset
+device,make,0.666666666666667,1,pci device tag,pci make tag
+next,ext,0.666666666666667,1,m next free stack,m ext free
+warm,yds,0.666666666666667,1,warm reset AC' codec,yds reset codec
+decrsps,ddb,0.666666666666667,1,DECRSPS restore presentation state,ddb restore state
+joystick,vsc8211,0.666666666666667,1,Joystick power down,vsc8211 power down
+receive,transmitted,0.666666666666667,1,process receive data,pdq process transmitted data
+signalling,pnpbios,0.666666666666667,1,signalling event thread,pnpbios event thread
+silently,ie,0.666666666666667,1,silently drop packet,ie drop packet buffer
+included,geminiicu,0.666666666666667,1,included source file name,geminiicu source name
+configure,opic,0.666666666666667,1,configure enable irq,opic enable irq
+pmap_zero_page,pmap,0.666666666666667,1,pmap_zero_page zero page,pmap zero page
+cuda,vcons,0.666666666666667,1,cuda do prog switch,vcons do switch
+xxx,esa,0.666666666666667,1,XXX enable interrupts,esa enable interrupts
+cpu-independent,cypress,0.666666666666667,1,CPU-independent cache flush,cypress cache flush all
+register,vr,0.666666666666667,1,register null pnp handler,vr null handler
+gfx,via,0.666666666666667,1,gfx dma sync,via dma blit sync
+xxx,pf,0.666666666666667,1,XXX print flags,pf print flags
+clear,tl,0.666666666666667,1,Clear multicast hash table,tl multicast hash
+turn,opm,0.666666666666667,2,turn bell off,opm bell off,turn bell on,opm bell on
+adaptor,ael1002,0.666666666666667,1,adaptor power down,ael1002 power down
+aka,pxa2x0,0.666666666666667,1,aka turbo mode,pxa2x0 turbo mode
+install,pmrx,0.666666666666667,1,install intr handler,pmrx intr handler
+signalling,aupcm,0.666666666666667,1,signalling event thread,aupcm event thread
+cold,fms,0.666666666666667,1,cold reset AC' codec,fms reset codec
+rw,fp,0.666666666666667,1,RW divide by,fp divide by 0
+which,uhci,0.666666666666667,4,which device done,uhci device ctrl done,which device done,uhci device isoc done,which device done,uhci device intr done,which device done,uhci device bulk done
+allocate,scsipi,0.666666666666667,1,Allocate run queue,scsipi run queue
+next,master,0.75,1,read next directory block,hfsplib read master directory block
+create,kmkbd,0.666666666666667,2,Create new walk state,kmkbd new state,create new state,kmkbd new state
+security,init,0.666666666666667,1,ipsec security policy entry,ipsec init policy
+device,ael1006,0.666666666666667,1, device power down,ael1006 power down
+mbuf,ccs,0.666666666666667,1,free mbuf chain,ray free ccs chain
+gigabit,cxgb,0.666666666666667,1,Gigabit media status only,cxgb media status
+needs,cpu,0.666666666666667,1,needs cache flush,cpu cache flush
+mii,lance,0.666666666666667,3,MII internal loopback,lance internal loopback test,MII internal loopback,lance internal loopback setup,MII internal loopback,lance internal loopback testdata
+warm,esm,0.666666666666667,1,warm reset AC' codec,esm reset codec
+write,elf,0.666666666666667,1,Write check header data,elf check header
+gigabit,ep,0.666666666666667,1,Gigabit media status only,ep media status
+install,mac,0.666666666666667,1,install intr handler,mac intr handler
+link,verify,0.666666666666667,1,fwmem link speed,sysctl fwmem verify speed
+account,mem,0.666666666666667,1,account read bytes,mem read bytes
+associate,pf,0.666666666666667,1,Associate tag packet,pf tag packet
+status,state,0.666666666666667,1,link status change,if link state change
+key,reset,0.666666666666667,1,wait key release,njsc32 wait reset release
+copyzero,update,0.666666666666667,1,pmap copyzero page,pmap update page
+pcic,global,0.666666666666667,1,release PCIC lock,acpi release global lock
+io,esp,0.666666666666667,1,IO write timeout reg,esp write reg
+check,ray,0.666666666666667,1,check media change,ray media change
+update,iwi,0.666666666666667,1,Update media status,iwi media status
+nd,radeon,0.666666666666667,1,nd mem alloc required,radeon mem alloc
+series,cmpci,0.666666666666667,1,series rate index,cmpci rate to index
+tx,fp,0.666666666666667,1,init Tx rings,esh init fp rings
+compare,aac,0.666666666666667,1,Compare host data command,aac host command
+per,bios,0.666666666666667,1,per display info,bios display info
+install,acpibat,0.666666666666667,2,Install notify handler,acpibat notify handler,Install notify handler events,acpibat notify handler
+establish,release,0.666666666666667,2,dl establish req,i4b dl release req,dl release req,i4b dl establish req
+destination,image,0.666666666666667,1,load destination data,load image data
+interface,seq,0.666666666666667,1,Interface to new debugger,seq to new
+device,chipset,0.666666666666667,1,pci device tag,pci chipset tag type
+memory,upc1,0.666666666666667,1,memory read config,upc1 read config
+modulus,msg,0.666666666666667,1,load modulus to,load msg to iop
+global,acpitz,0.666666666666667,1,Global notify handler installed,acpitz notify handler
+s,scsipi,0.666666666666667,1,s run queue,scsipi run queue
+maybe,rtw,0.666666666666667,1,maybe enable interrupts,rtw enable interrupts
+saved,print,0.666666666666667,1,saved stack pointer,print stack pointer
+xfer,trm,0.666666666666667,1,xfer request sense,trm request sense
+mainbus,ieee80211,0.666666666666667,1,mainbus node table,ieee80211 node table cleanup
+handle,atu,0.666666666666667,1,Handle media change request,atu media change
+joystick,ael1002,0.666666666666667,1,Joystick power down,ael1002 power down
+siocalifaddr,pfi,0.666666666666667,1,SIOCALIFADDR add specified address,pfi address add
+null,data,0.666666666666667,1,Null abort fixup routine,data abort fixup
+system,hppa,0.666666666666667,1,System machine check,hppa machine check
+doing,debug,0.666666666666667,1,which cpu doing dump,cpu debug dump
+lwp_continue,acpi,0.666666666666667,1,lwp_continue release lock,acpi release global lock
+gigabit,ieee80211,0.666666666666667,1,Gigabit media status only,ieee80211 media status
+do,iwn,0.666666666666667,1,do post alive initialization,iwn post alive
+ams,ieee80211,0.666666666666667,1,AMS media change,ieee80211 media change
+nb,rf,0.666666666666667,1,NB print message,rf print panic message
+output,tmpfs,0.666666666666667,1,output fifo write enable,tmpfs fifo write
+s,xbdback,0.666666666666667,1,s send reply list,xbdback send reply
+perform,emac3,0.666666666666667,1,perform soft reset,emac3 soft reset
+signalling,usb,0.666666666666667,1,signalling event thread,usb event thread
+amdebugtm,emac3,0.666666666666667,1,AMDebugtm soft reset detect,emac3 soft reset
+force,uda1341,0.666666666666667,1,force output low,uda1341 output low
+dc,sme,0.666666666666667,1,DC battery critical value,sme battery critical
+block,vblank,0.666666666666667,1,update block count,drm update vblank count
+issue,emac3,0.666666666666667,1,Issue soft reset,emac3 soft reset
+do,topcat,0.666666666666667,1,Do common attach stuff,topcat common attach
+win,pxapcic,0.666666666666667,1, win attach card,pxapcic attach card
+check,zyd,0.666666666666667,1,check media change,zyd media change
+or,bpf,0.666666666666667,1,or timed out,bpf timed out
+anything,pmap,0.666666666666667,1,anything free bucket,pmap free l2 bucket
+known,ring,0.666666666666667,1,dump known info,mach64 dump ring info
+ignore,ep,0.666666666666667,1,ignore media change,ep media change
+command,bpf,0.666666666666667,1,command timed out,bpf timed out
+now,iwi,0.666666666666667,1,Now load firmware,iwi load firmware
+on,match,0.666666666666667,1, zs on mainbus,zs match mainbus
+amdebugtm,twa,0.666666666666667,1,AMDebugtm soft reset detect,twa soft reset
+handle,awi,0.666666666666667,1,Handle media change request,awi media change
+use,tl,0.666666666666667,1,use multicast hash table,tl multicast hash
+find,uvm,0.666666666666667,1,Find map entry,uvm map entry unwire
+decrsps,i915,0.666666666666667,1,DECRSPS restore presentation state,i915 restore state
+cursor,load,0.666666666666667,1,cursor image data,load image data
+remov,atu,0.666666666666667,1,remov media status notif,atu media status
+drive,acpilid,0.666666666666667,1,Drive status changed,acpilid status changed
+register,chipset,0.666666666666667,1,pci register tag,pci chipset tag type
+s,print,0.666666666666667,1,S stack pointer,print stack pointer
+global,acpibat,0.666666666666667,1,Global notify handler installed,acpibat notify handler
+lcd,ym,0.666666666666667,1,LCD power hook,ym power hook
+to,rtw,0.666666666666667,1,to enable specific interrupts,rtw enable interrupts
+-,agp,0.666666666666667,1,- flush L cache,agp flush cache
+rf,ahd,0.666666666666667,1,RF chip init,ahd chip init
+first,real,0.666666666666667,1,setup first page,setup real page tables
+when,diradd,0.666666666666667,1,When inode written,diradd inode written
+so,ie,0.666666666666667,1,so drop packet,ie drop packet buffer
+null,early,0.666666666666667,1,Null abort fixup routine,early abort fixup
+dma,ds1687,0.666666666666667,1,DMA bank select,ds1687 bank select
+main,omap2icu,0.666666666666667,1,main source file name,omap2icu source name
+ignore,zyd,0.666666666666667,1,ignore media change,zyd media change
+system,s3c2800,0.666666666666667,1,System clock freq fs,s3c2800 clock freq
+requires,i915,0.666666666666667,1,Requires kernel context,i915 kernel lost context
+attribute,reserved,0.666666666666667,1,skip attribute area,riebl skip reserved area
+null,late,0.666666666666667,1,Null abort fixup routine,late abort fixup
+initial,print,0.666666666666667,1,Initial stack pointer,print stack pointer
+just,esa,0.666666666666667,1,Just enable interrupts,esa enable interrupts
+clr,adb,0.666666666666667,1,clr soft intr mask,adb soft intr
+do,nhpib,0.666666666666667,1,Do common attach stuff,nhpib common attach
+to,symbol,0.666666666666667,1,add to table,db add symbol table
+move,xen,0.666666666666667,1,move bootstrap tables necessary,xen bootstrap tables
+new,rx,0.666666666666667,1,alloc new buffer,xennet alloc rx buffer
+global,thinkpad,0.666666666666667,1,Global notify handler installed,thinkpad notify handler
+exec,volume,0.666666666666667,1,read exec header,hfslib read volume header
+select,s3c2800,0.666666666666667,1,select clock freq,s3c2800 clock freq
+cold,eap1371,0.666666666666667,1,cold reset AC' codec,eap1371 reset codec
+mask,tl,0.666666666666667,1,Mask multicast hash value,tl multicast hash
+l,xscale,0.666666666666667,3,l cache flush,xscale cache flush I,l cache flush,xscale cache flush D,l cache flush,xscale cache flush ID
+check,atw,0.666666666666667,1,check media change,atw media change
+cold,neo,0.666666666666667,1,cold reset AC' codec,neo reset codec
+pt,invalidate,0.666666666666667,1,pmap PT page,pmap invalidate page
+unhook,cxgb,0.666666666666667,1,Unhook tick handler,cxgb tick handler
+gpib,pci,0.666666666666667,1,GPIB chipset tag,pci chipset tag type
+fiq,print,0.666666666666667,1, fiq stack pointer,print stack pointer
+io,itkix1,0.666666666666667,1,IO write timeout reg,itkix1 write reg
+ticks,sppp,0.666666666666667,1,ticks to event,sppp to event
+nd,i915,0.666666666666667,1,nd mem alloc required,i915 mem alloc
+check,rum,0.666666666666667,1,check media change,rum media change
+decrement,pmap,0.666666666666667,1,decrement wired entry count,pmap wired count
+joystick,mv88e1xxx,0.666666666666667,1,Joystick power down,mv88e1xxx power down
+now,wm,0.666666666666667,1,Now validate checksum,wm validate eeprom checksum
+check,iwn,0.666666666666667,1,check media change,iwn media change
+input,read,0.666666666666667,1,Device raw input queue,raw read queue
+now,zyd,0.666666666666667,1,now open pipes,zyd open pipes
+connection,bpf,0.666666666666667,1,Connection timed out,bpf timed out
+siop_reset,iha,0.666666666666667,1,siop_reset reset chip,iha reset chip
+handle,zyd,0.666666666666667,1,Handle media change request,zyd media change
+dma,upc2,0.666666666666667,2,dma read config,upc2 read config,dma write config,upc2 write config
+enable,at91pmc,0.666666666666667,1,enable peripheral clock,at91pmc peripheral clock
+en_reset,ubsec,0.666666666666667,1,en_reset reset board,ubsec reset board
+install,msk,0.666666666666667,1,Install sysctl handler,msk sysctl handler
+ams,ural,0.666666666666667,1,AMS media change,ural media change
+cs,tels016,0.666666666666667,1,cs write fifo,tels016 write fifo
+cuda,stic,0.666666666666667,1,cuda do prog switch,stic do switch
+gpi,aqm,0.666666666666667,1,gpi int enable,aqm int enable
+pt,copy,0.666666666666667,1,pmap PT page,pmap copy page
+alert,event,0.666666666666667,1,send ALERT request,mpt send event request
+did,cpu,0.666666666666667,1,Did cache flush above,cpu cache flush
+remov,cxgb,0.666666666666667,1,remov media status notif,cxgb media status
+l,cypress,0.666666666666667,1,l cache flush,cypress cache flush all
+return,kernel,0.666666666666667,1,return image size,kernel image magic size
+to,esa,0.666666666666667,1,to enable specific interrupts,esa enable interrupts
+enable,psycho,0.666666666666667,1,Enable power button,psycho power button pressed
+handle,rum,0.666666666666667,1,Handle media change request,rum media change
+logical,uvideo,0.666666666666667,1, logical unit free,uvideo unit free
+cpu,dev,0.666666666666667,1,CPU type associated dump,dev type dump
+l,cpu,0.666666666666667,1,l cache flush,cpu cache flush
+mailbox,ray,0.666666666666667,2,mailbox cmd done fail,ray cmd done,mailbox cmd done ok,ray cmd done
+hat,global,0.666666666666667,2,release hat lock,acpi release global lock,acquire hat lock,acpi acquire global lock
+call,cpu,0.666666666666667,1,Call exec hook,cpu exec ecoff hook
+software,init,0.666666666666667,1,Software interrupt masks,init interrupt masks
+fdc,ael1006,0.666666666666667,1,FDC power down,ael1006 power down
+create,ieee80211,0.666666666666667,1,create sysctl node sensor,ieee80211 sysctl node
+ok,reliable,0.666666666666667,1,tx ok pkt,bcsp tx reliable pkt
+both,vsc8211,0.666666666666667,1,both power down,vsc8211 power down
+pt,pv,0.666666666666667,2,pmap PT page,pmap pv page free,pmap PT page,pmap pv page free
+bus,ray,0.666666666666667,2,Bus write region operations,ray write region,Bus read region operations,ray read region
+look,emac3,0.666666666666667,1,look soft reset AEN,emac3 soft reset
+rx,cmd,0.666666666666667,1,reset Rx ring,iwi reset cmd ring
+unibus,ael1006,0.666666666666667,1,unibus power down,ael1006 power down
+which,ehci,0.666666666666667,4,which device done,ehci device bulk done,which device done,ehci device ctrl done,which device done,ehci device intr done,which device done,ehci device isoc done
+want,tlp,0.666666666666667,2,want filter setup,tlp filter setup, want filter setup,tlp filter setup
+expected,hppa,0.666666666666667,1, expected machine check,hppa machine check
+cold,cs4280,0.666666666666667,1,cold reset AC' codec,cs4280 reset codec
+just,agp,0.666666666666667,1,just flush route cache,agp flush cache
+mapped,bus,0.666666666666667,1,mapped space handle,bus space compose handle
+nubus,load,0.666666666666667,1,Nubus image data structure,load image data
+shortcut,xen,0.666666666666667,1,Shortcut debug handler,xen debug handler
+input,tmpfs,0.666666666666667,1,input fifo write enable,tmpfs fifo write
+first,xengnt,0.666666666666667,1,first free entry,xengnt free entry
+caller,pmeg,0.666666666666667,1,Caller verify that empty,pmeg verify empty
+enable,emac3,0.666666666666667,1,enable tx done interrupts,emac3 tx done
+remocon,pppoe,0.666666666666667,1,Remocon data input,pppoe data input
+update,radeonfb,0.666666666666667,3,update cursor position coordinates,radeonfb cursor position,update cursor screen position,radeonfb cursor position,update cursor position registers,radeonfb cursor position
+reset,ucb1200,0.666666666666667,1,reset state to idle,ucb1200 state idle
+enable,at91sam9261bus,0.666666666666667,1,enable peripheral clock,at91sam9261bus peripheral clock
+actually,kue,0.666666666666667,1,Actually open pipes,kue open pipes
+install,extintr,0.666666666666667,1,install intr handler,extintr intr handler
+monitoring,event,0.666666666666667,4,create monitoring thread,at91cf create event thread,create monitoring thread,pxapcic create event thread,create monitoring thread,tcic create event thread,create monitoring thread,usb create event thread
+call,event,0.666666666666667,1,send call request,mpt send event request
+host,pnpbios,0.666666666666667,1,host id string,pnpbios id to string
+drive,fd,0.666666666666667,1,Drive motor on,fd motor on
+search,intr,0.666666666666667,1,Search list handler,intr list handler
+processor,hppa,0.666666666666667,1,Processor machine check,hppa machine check
+monitoring,completion,0.666666666666667,1,create monitoring thread,scsipi create completion thread
+setget,radeonfb,0.666666666666667,1,setget cursor position,radeonfb cursor position
+jump,seq,0.666666666666667,1,jump to new microsequence,seq to new
+ignore,rt2661,0.666666666666667,1,ignore media change,rt2661 media change
+now,ipw,0.666666666666667,1,Now load firmware,ipw load firmware
+ignore,wi,0.666666666666667,1,ignore media change,wi media change
+maybe,xpq,0.666666666666667,1,Maybe flush cache tlb,xpq flush cache
+configure,cpc700,0.666666666666667,1,configure enable irq,cpc700 enable irq
+check,sbmac,0.666666666666667,1,Check promiscuous mode,sbmac promiscuous mode
+masked,radeon,0.666666666666667,1,masked irq state,radeon irq set state
+buffer,queue,0.666666666666667,4,tx buffer empty,rbch tx queue empty,tx buffer empty,i4bisppp tx queue empty,tx buffer empty,ipr tx queue empty,tx buffer empty,tel tx queue empty
+terminate,darwin,0.666666666666667,1,Terminate iohidsystem kernel thread,darwin iohidsystem thread
+similar,bsd,0.666666666666667,4,similar to linux,bsd to linux stat,similar to linux,bsd to linux ioflags,similar to linux,bsd to linux domain,similar to linux,bsd to linux wstat
+low-priority,hppa,0.666666666666667,1,low-priority machine check,hppa machine check
+signalling,tcic,0.666666666666667,1,signalling event thread,tcic event thread
+establish,data,0.666666666666667,2,dl establish req,i4b dl data req,dl data req,i4b dl establish req
+adaptor,wpi,0.666666666666667,1,adaptor power up,wpi power up
+fifo,queue,0.666666666666667,4,tx fifo empty,rbch tx queue empty,tx fifo empty,i4bisppp tx queue empty,tx fifo empty,ipr tx queue empty,tx fifo empty,tel tx queue empty
+acknowledge,wi,0.666666666666667,1,acknowledge media change,wi media change
+create,open,0.666666666666667,1,create log file debugging,open log file
+lock,ubsec,0.666666666666667,1,lock free page q,ubsec free q
+lc,hci,0.666666666666667,1,LC event status,hci event command status
+now,rtw,0.666666666666667,2,Now disable interrupts,rtw disable interrupts,Now enable interrupts,rtw enable interrupts
+to,db,0.666666666666667,1,To write text segment,db write text
+safely,rtw,0.666666666666667,1, safely enable interrupts,rtw enable interrupts
+cpu-independent,arm8,0.666666666666667,1,CPU-independent cache flush,arm8 cache flush ID
+current,rt,0.666666666666667,1, current timer count,rt timer count
+seek,kloader,0.666666666666667,1,Seek from beginning file,kloader from file
+mouse,sca,0.666666666666667,1,Mouse port power down,sca port down
+qdss,qd,0.666666666666667,1,clear QDSS screen,clear qd screen
+capture,pic,0.666666666666667,1,Capture ext intr,pic ext intr
+acknowledge,iwi,0.666666666666667,1,acknowledge media change,iwi media change
+useful,driver,0.666666666666667,1,print useful info,print driver info
+just,rtw,0.666666666666667,1,Just enable interrupts,rtw enable interrupts
+ignore,iwn,0.666666666666667,1,ignore media change,iwn media change
+included,avic,0.666666666666667,1,included source file name,avic source name
+turn,vesafb,0.666666666666667,1,Turn display on clear ,vesafb display on
+ams,wpi,0.666666666666667,1,AMS media change,wpi media change
+now,wpi,0.666666666666667,1,Now load firmware,wpi load firmware
+cold,auixp,0.666666666666667,1,cold reset AC' codec,auixp reset codec
+dma,bus,0.666666666666667,1,DMA space handle,bus space compose handle
+otherwise,ausmbus,0.666666666666667,1,otherwise release bus,ausmbus release bus
+reference,wired,0.666666666666667,1,pmap reference count,pmap wired count
+detected,driver,0.666666666666667,1,print detected info,print driver info
+setup,tlp,0.666666666666667,1,Setup filter setup function,tlp filter setup
+mac,bus,0.666666666666667,1,MAC space handle,bus space compose handle
+to,auixp,0.666666666666667,1,to enable specific interrupts,auixp enable interrupts
+cpu-independent,cpu,0.666666666666667,1,CPU-independent cache flush,cpu cache flush
+pt,flush,0.666666666666667,1,pmap PT page,pmap flush page
+clr,sskbd,0.666666666666667,1,clr soft intr mask,sskbd soft intr
+cpu,init,0.666666666666667,1,CPU interrupt masks,init interrupt masks
+parallel,sca,0.666666666666667,1,Parallel port power down,sca port down
+now,itesio,0.666666666666667,1,Now setup U sensors,itesio setup sensors
+mpu,ael1006,0.666666666666667,1,MPU power down,ael1006 power down
+ttya,read,0.666666666666667,1,ttya system serial port,read system serial
+l,sa1,0.666666666666667,3,l cache flush,sa1 cache flush D,l cache flush,sa1 cache flush ID,l cache flush,sa1 cache flush I
+idle,fd,0.666666666666667,1,idle motor on,fd motor on
+acknowledge,ipw,0.666666666666667,1,acknowledge media change,ipw media change
+handle,ep,0.666666666666667,1,Handle media change request,ep media change
+to,ress,0.666666666666667,1,add to address,pfi address add
+clear,vrpiu,0.666666666666667,1,clear tp scan timeout,vrpiu tp timeout
+configure,distopic,0.666666666666667,1,configure enable irq,distopic enable irq
+to,isic,0.666666666666667,1, to next state,isic next state
+look,sppp,0.666666666666667,1,Look up event,sppp up event
+handle,cxgb,0.666666666666667,1,Handle media change request,cxgb media change
+dr,tp,0.666666666666667,1,dr protocol error,tp protocol error
+nb,frame,0.666666666666667,1,NB sanity check,frame sanity check
+which,ahci,0.666666666666667,4,which device done,ahci device isoc done,which device done,ahci device bulk done,which device done,ahci device intr done,which device done,ahci device ctrl done
+suitable,ar531x,0.666666666666667,1,suitable early console use,ar531x early console
+gigabit,iwi,0.666666666666667,1,Gigabit media status only,iwi media status
+now,lm,0.666666666666667,1,Now setup U sensors,lm setup sensors
+maybe,auixp,0.666666666666667,1,maybe enable interrupts,auixp enable interrupts
+maybe,esa,0.666666666666667,1,maybe enable interrupts,esa enable interrupts
+signalling,eppcic,0.666666666666667,1,signalling event thread,eppcic event thread
+clear,vesafb,0.666666666666667,1,clear display on startup,vesafb display on
+read,zapm,0.666666666666667,1,Read battery state,zapm battery state
+didn't,*agp,0.666666666666667,1,didn't find other device,*agp find device
+kernel,uvm,0.666666666666667,1,kernel map entry,uvm map entry unwire
+acknowledge,atu,0.666666666666667,1,acknowledge media change,atu media change
+ps,emac3,0.666666666666667,1,PS tx done,emac3 tx done
+call,ym,0.666666666666667,1,Call power management hook,ym power hook
+pnp,ael1006,0.666666666666667,1,PnP power down,ael1006 power down
+$netbsd,mtd,0.666666666666667,1,$NetBSD irq h,mtd irq h
+biled,source,0.666666666666667,1,setup biled info,ac97 setup source info
+acknowledge,lii,0.666666666666667,1,acknowledge media change,lii media change
+install,acpibut,0.666666666666667,2,Install notify handler,acpibut notify handler,Install notify handler events,acpibut notify handler
+mask,synth,0.666666666666667,1,Mask shift flag bits,synth shift bits
+now,iwn,0.666666666666667,1,Now load firmware,iwn load firmware
+out,driver,0.666666666666667,1,print out info,print driver info
+ams,lii,0.666666666666667,1,AMS media change,lii media change
+data,arm67,0.666666666666667,3,data cache flush line,arm67 cache flush,data cache flush page,arm67 cache flush,Data cache flush assist,arm67 cache flush
+unibus,vsc8211,0.666666666666667,1,unibus power down,vsc8211 power down
+allocate,xengnt,0.666666666666667,1,Allocate free LT entry,xengnt free entry
+ams,rt2560,0.666666666666667,1,AMS media change,rt2560 media change
+else,pic,0.666666666666667,1,else mark them pending,pic mark pending
+error,copy,0.666666666666667,1,error on fault,copy on fault
+soft,hifn,0.666666666666667,1,soft reset board,hifn reset board
+cpu,driver,0.666666666666667,1,print CPU info,print driver info
+pf,casefolding,0.666666666666667,1,create pf table,hfslib create casefolding table
+nfs,bfs,0.666666666666667,1,nfs file rename call,bfs file rename
+update,init,0.666666666666667,1,Update interrupt priority masks,init interrupt masks
+after,diradd,0.666666666666667,1,After inode written,diradd inode written
+cs,avma1pp2,0.666666666666667,1,cs write fifo,avma1pp2 write fifo
+card,hw,0.666666666666667,1,setup card type,adb setup hw type
+button,i4bisppp,0.666666666666667,1, button state changed,i4bisppp state changed
+setclear,pxa2x0,0.666666666666667,1,Setclear turbo mode,pxa2x0 turbo mode
+rw,imc,0.666666666666667,1,rw enable parity,imc enable sysad parity
+ext,scatter,0.666666666666667,1,ext buf size,scatter buf set size
+specific,tag,0.666666666666667,1,chipset specific type,pci chipset tag type
+otherwise,iociic,0.666666666666667,1,otherwise release bus,iociic release bus
+serial,sca,0.666666666666667,1,Serial port power down,sca port down
+defines,wsemul,0.666666666666667,1,defines sun control space,wsemul sun control
+modify,cy,0.666666666666667,1,modify modem control state,cy modem control
+sxp,ds1687,0.666666666666667,1,SXP bank select,ds1687 bank select
+just,frame,0.666666666666667,1,Just sanity check,frame sanity check
+ams,zyd,0.666666666666667,1,AMS media change,zyd media change
+receive,imc,0.666666666666667,1,receive watchdog disable,imc watchdog disable
+completed,sunscpal,0.666666666666667,1, completed data xfer,sunscpal data xfer
+cs,sws,0.666666666666667,1,cs write fifo,sws write fifo
+enable,hd64461pcmcia,0.666666666666667,1,Enable power on interface,hd64461pcmcia power on
+check,xennet,0.666666666666667,1,check tx complete,xennet tx complete
+mpu,vsc8211,0.666666666666667,1,MPU power down,vsc8211 power down
+remov,ipw,0.666666666666667,1,remov media status notif,ipw media status
+otherwise,armadillo9iic,0.666666666666667,1,otherwise release bus,armadillo9iic release bus
+signalling,stp4020,0.666666666666667,1,signalling event thread,stp4020 event thread
+tx,ncr5380,0.666666666666667,1,tx data xfer request,ncr5380 data xfer
+protection,map,0.666666666666667,1,protection gateway page,map gateway page
+hardware,init,0.666666666666667,1,Hardware interrupt masks,init interrupt masks
+want,atw,0.666666666666667,2,want filter setup,atw filter setup, want filter setup,atw filter setup
+install,etherip,0.666666666666667,1,Install sysctl handler,etherip sysctl handler
+writeback,via,0.666666666666667,1,writeback invalidate caches,via invalidate caches
+now,aiboost,0.666666666666667,1,Now setup U sensors,aiboost setup sensors
+needed,ar531x,0.666666666666667,1,needed early console operation,ar531x early console
+first,init,0.666666666666667,1,load first block,rb load init block
+transfer,videochip,0.666666666666667,1,update transfer status,hd64461video update videochip status
+install,pcie,0.666666666666667,1,install intr handler,pcie intr handler
+data,task,0.666666666666667,1,receive data ready,iavc receive task ready
+bss,load,0.666666666666667,2,BSS segment start end,load segment end,BSS segment start end,load segment start
+dsr,radeonfb,0.666666666666667,1,DSR cursor position report,radeonfb cursor position
+cs,tels08,0.666666666666667,1,cs write fifo,tels08 write fifo
+d,pci,0.666666666666667,1,D config data offset,pci config offset
+codec,aqm,0.666666666666667,1,codec int enable,aqm int enable
+unlock,scsipi,0.666666666666667,1,Unlock run queue,scsipi run queue
+install,acpilid,0.666666666666667,2,Install notify handler,acpilid notify handler,Install notify handler events,acpilid notify handler
+clear,rtw,0.666666666666667,2,Clear enable interrupts,rtw enable interrupts, clear enable interrupts,rtw enable interrupts
+chip,dock,0.666666666666667,1,update chip status,pnpbios update dock status
+configure,vi,0.666666666666667,1,Configure mem base limit,vi mem limit
+do,ipsec6,0.666666666666667,1,do process packet,ipsec6 process packet
+first,pll,0.666666666666667,1,load first block,rb load pll block
+acknowledge,ep,0.666666666666667,1,acknowledge media change,ep media change
+driver,atw,0.666666666666667,1,driver key delete failed,atw key delete
+perform,esa,0.666666666666667,1,perform codec cold reset,esa codec reset
+error,cxgb,0.666666666666667,1,Error ext intr,cxgb ext intr handler
+gen,ieee80211,0.666666666666667,1,gen timeout scan,ieee80211 timeout scan candidates
+pnp,mv88e1xxx,0.666666666666667,1,PnP power down,mv88e1xxx power down
+report,tctrl,0.666666666666667,1,Report lid state,tctrl lid state
+pick,print,0.666666666666667,1,Pick stack pointer,print stack pointer
+ignore,iwi,0.666666666666667,1,ignore media change,iwi media change
+ignore,ray,0.666666666666667,1,ignore media change,ray media change
+force,crime,0.666666666666667,1,Force watchdog reset,crime watchdog reset
+adapter,buf,0.666666666666667,1,Get Adapter Info,drm Get Buf Info
+rx,snap,0.666666666666667,1,init Rx ring,esh init snap ring
+queued,control,0.666666666666667,1,free queued mbuf,free control mbuf
+mouse,kbd,0.666666666666667,1,mouse input event structures,kbd input event
+configure,pic,0.666666666666667,1,configure enable irq,pic enable irq
+acknowledge,iwn,0.666666666666667,1,acknowledge media change,iwn media change
+warm,cs4281,0.666666666666667,1,warm reset AC' codec,cs4281 reset codec
+media,nouveau,0.666666666666667,1,media init card,nouveau init card mappings
+check,iwi,0.666666666666667,1,check media change,iwi media change
+message,arc,0.6,1,Message queue bus space handle,arc sparse bus space dispose handle
+only,st,0.666666666666667,1, only write filemarks,st write filemarks
+cpu-independent,arm7tdmi,0.666666666666667,1,CPU-independent cache flush,arm7tdmi cache flush ID
+transmit,atppc,0.666666666666667,1,transmit fifo write enable,atppc fifo write
+gigabit,ipw,0.666666666666667,1,Gigabit media status only,ipw media status
+load,kbd,0.666666666666667,1,load input event queue,kbd input event
+install,ulprx,0.666666666666667,1,install intr handler,ulprx intr handler
+enable,mpcsabus,0.666666666666667,1,enable peripheral clock,mpcsabus peripheral clock
+attached,bsd,0.666666666666667,1,attached to domain,bsd to linux domain
+cold,esa,0.666666666666667,1,cold reset AC' codec,esa reset codec
+allocate,iwn,0.666666666666667,1,Allocate setup beacon frame,iwn setup beacon
+convert,ofinstance,0.666666666666667,1,convert to unix path,OFinstance to path
+specified,osmemory,0.666666666666667,1,Specified page invalid op,osmemory page op
+notify,iop,0.666666666666667,1,notify message sent,iop message sent
+look,print,0.666666666666667,1,look stack pointer adjustment,print stack pointer
+existing,proc,0.666666666666667,1,remove existing entry present,remove proc entry
+adapter,aic,0.666666666666667,1,adapter scsi reset,aic scsi reset
+global,acpiacad,0.666666666666667,1,Global notify handler installed,acpiacad notify handler
+idle,epp,0.666666666666667,1,check idle timeout,atppc check epp timeout
+extra,frame,0.666666666666667,1,extra sanity check,frame sanity check
+pin,intr,0.666666666666667,1,gpio pin wakeup,omap gpio intr wakeup
+ack,vblank,0.666666666666667,1,update ack count,drm update vblank count
+acknowledge,rt2661,0.666666666666667,1,acknowledge media change,rt2661 media change
+cs,avma1pp,0.666666666666667,1,cs write fifo,avma1pp write fifo
+io,bus,0.666666666666667,1,IO space handle,bus space compose handle
+initialize,vr41xx,0.666666666666667,2,initialize asm code,vr41xx asm code,initialize asm code,vr41xx asm code end
+pad,val,0.666666666666667,1,pad to K,val to u K
+pt,syncicache,0.666666666666667,1,pmap PT page,pmap syncicache page
+turn,fd,0.666666666666667,1,Turn motor off,fd motor off
+update,wi,0.666666666666667,1,Update media status,wi media status
+audio,radeon,0.666666666666667,1,audio engine reset,radeon engine reset
+did,arm3,0.666666666666667,1,Did cache flush above,arm3 cache flush
+io,asc,0.666666666666667,1,IO write timeout reg,asc write reg
+lwp_unsleep,acpi,0.666666666666667,1,lwp_unsleep release lock,acpi release global lock
+warm,autri,0.666666666666667,1,warm reset AC' codec,autri reset codec
+now,cue,0.666666666666667,1,now open pipes,cue open pipes
+search,hpibbus,0.666666666666667,1,Search attach children,hpibbus attach children
+needs,arm3,0.666666666666667,1,needs cache flush,arm3 cache flush
+maybe,agp,0.666666666666667,1,Maybe flush cache tlb,agp flush cache
+memory,db,0.666666666666667,3,memory read line enable,db read line,memory read line,db read line,memory read line okay,db read line
+own,ress,0.666666666666667,1,add own address,pfi address add
+nodes,bpf,0.666666666666667,1,nodes timed out inactivity,bpf timed out
+acknowledge,atw,0.666666666666667,1,acknowledge media change,atw media change
+b,msg,0.666666666666667,1,load b to,load msg to iop
+cs,drnngo,0.666666666666667,1,cs write fifo,drnngo write fifo
+configure,iocc,0.666666666666667,1,configure enable irq,iocc enable irq
+remov,ray,0.666666666666667,1,remov media status notif,ray media status
+processor,nvsram,0.666666666666667,1,processor type e g,nvsram type e
+index,agten,0.666666666666667,1,index move cursor down,agten move cursor
+kernel,completion,0.666666666666667,1,create kernel thread,scsipi create completion thread
+install,acpitz,0.666666666666667,2,Install notify handler,acpitz notify handler,Install notify handler events,acpitz notify handler
+restore,write,0.666666666666667,1, restore user windows,write user windows
+program,tl,0.666666666666667,1,Program multicast hash table,tl multicast hash
+io,pcscp,0.666666666666667,1,IO write timeout reg,pcscp write reg
+isac,ioc,0.666666666666667,1, isac irq status,ioc irq status
+initialize,tx39xx,0.666666666666667,2,initialize asm code,tx39xx asm code end,initialize asm code,tx39xx asm code
+similar,native,0.666666666666667,1,similar to linux,native to linux sigflags
+try,twa,0.666666666666667,1,Try soft reset,twa soft reset
+needs,hypersparc,0.666666666666667,1,needs cache flush,hypersparc cache flush all
+txrx,smap,0.666666666666667,1,txrx fifo reset auto-cleared,smap fifo reset
+rw,adb,0.666666666666667,1,rw soft intr mask,adb soft intr
+long,sbdsp,0.666666666666667,2,LONG block input operations,sbdsp block input,LONG block output operations,sbdsp block output
+signal,print,0.666666666666667,1,signal stack pointer,print stack pointer
+out,statvfs,0.666666666666667,1,copy out info,copy statvfs info
+ignore,wpi,0.666666666666667,1,ignore media change,wpi media change
+cs,dynalink,0.666666666666667,1,cs write fifo,dynalink write fifo
+pmap_copy_page,pmap,0.666666666666667,1,pmap_copy_page copy page,pmap copy page
+io,avma1,0.666666666666667,1,IO write timeout reg,avma1 write reg
+l,arm7tdmi,0.666666666666667,1,l cache flush,arm7tdmi cache flush ID
+skc,lfs,0.666666666666667,1,skc sysctl setup,lfs sysctl setup
+init,zyd,0.666666666666667,1,init maxim radio,zyd maxim switch radio
+analog,mv88e1xxx,0.666666666666667,1,Analog power down,mv88e1xxx power down
+handle,atw,0.666666666666667,1,Handle media change request,atw media change
+needs,cypress,0.666666666666667,1,needs cache flush,cypress cache flush all
+signalling,at91cf,0.666666666666667,1,signalling event thread,at91cf event thread
+fdc,ael1002,0.666666666666667,1,FDC power down,ael1002 power down
+reserved,map,0.666666666666667,1,reserved pal code,map pal code
+do,rtw,0.666666666666667,1,do disable interrupts debugging,rtw disable interrupts
+consinit,bios,0.666666666666667,1,consinit init console,bios init console
+dlc,acpilid,0.666666666666667,1,DLC status changed,acpilid status changed
+remov,iwi,0.666666666666667,1,remov media status notif,iwi media status
+near,db,0.666666666666667,1,near end line loopback,db end line
+cpu-independent,srmmu,0.666666666666667,1,CPU-independent cache flush,srmmu cache flush all
+analog,vsc8211,0.666666666666667,1,Analog power down,vsc8211 power down
+both,mv88e1xxx,0.666666666666667,1,both power down,mv88e1xxx power down
+io,drnngo,0.666666666666667,1,IO write timeout reg,drnngo write reg
+map,ntwoc,0.666666666666667,1,map isa memory,ntwoc isa setup memory
+so,bge,0.666666666666667,1,so release debugging resources,bge release resources
+do,iha,0.666666666666667,1,do reset chip,iha reset chip
+handle,ath,0.666666666666667,1,Handle media change request,ath media change
+dl,capi,0.666666666666667,1,dl data req,capi data b3 req
+setup,agr,0.666666666666667,1,Setup xmit fragmented frame,agr xmit frame
+update,cxgb,0.666666666666667,1,Update media status,cxgb media status
+access,pmap,0.666666666666667,1,access page protect,pmap page protect
+pt,update,0.666666666666667,1,pmap PT page,pmap update page
+data,cpu,0.666666666666667,3,data cache flush line,cpu cache flush,data cache flush page,cpu cache flush,Data cache flush assist,cpu cache flush
+show,sea,0.666666666666667,1,Show information transfer process,sea information transfer
+ams,awi,0.666666666666667,1,AMS media change,awi media change
+remov,ieee80211,0.666666666666667,1,remov media status notif,ieee80211 media status
+copyzero,free,0.666666666666667,1,pmap copyzero page,pmap free page
+b,xb,0.666666666666667,1,b fifo empty,xb fifo empty
+read,sh4,0.666666666666667,1,Read clock intr reg,sh4 clock intr
+kernel,reserved,0.666666666666667,1,skip kernel area,riebl skip reserved area
+first,distopic,0.666666666666667,1,first disable status irq,distopic disable irq
+otherwise,motoi2c,0.666666666666667,1,otherwise release bus,motoi2c release bus
+new,iop,0.666666666666667,1,new message sent,iop message sent
+wait,gfe,0.666666666666667,1,wait tx to stop,gfe tx stop
+ams,rt2661,0.666666666666667,1,AMS media change,rt2661 media change
+ignore,rum,0.666666666666667,1,ignore media change,rum media change
+do,xi,0.666666666666667,2,Do full bus reset,xi full reset,Do full reset,xi full reset
+otherwise,nfsmb,0.666666666666667,1,otherwise release bus,nfsmb release bus
+on,attach,0.666666666666667,1, zs on mainbus,zs attach mainbus
+hscx,sunscpal,0.666666666666667,1,HSCX data xfer error,sunscpal data xfer
+ignore,ieee80211,0.666666666666667,1,ignore media change,ieee80211 media change
+now,iha,0.666666666666667,1,now reset chip reinitialise,iha reset chip
+cpu-independent,sa1,0.666666666666667,3,CPU-independent cache flush,sa1 cache flush D,CPU-independent cache flush,sa1 cache flush ID,CPU-independent cache flush,sa1 cache flush I
+at,cs,0.666666666666667,1,at start output,cs start output
+writeback,i915,0.666666666666667,1,writeback invalidate caches,i915 invalidate caches
+update,ipw,0.666666666666667,1,Update media status,ipw media status
+zero,ds1687,0.666666666666667,1,zero bank select register,ds1687 bank select
+now,fr,0.666666666666667,1,Now send reset string,fr send reset
+readdir,sifbios,0.666666666666667,1,Readdir rpc call,sifbios rpc call
+phy,vrled,0.666666666666667,1,PHY change state,vrled change state
+use,vn,0.666666666666667,1,Use default error handler,vn default error
+override,cpu,0.666666666666667,1,Override cache flush functions,cpu cache flush
+literallength,bl,0.666666666666667,1,build literallength tree,build bl tree
+setup,atw,0.666666666666667,1,Setup filter setup function,atw filter setup
+initialize,init,0.666666666666667,2,Initialize bootstrap console,init bootstrap console,Initialize interrupt priority masks,init interrupt masks
+wait,hd64461pcmcia,0.666666666666667,2,wait power off,hd64461pcmcia power off,wait power on,hd64461pcmcia power on
+transmit,idma,0.666666666666667,1,transmit desc list,idma desc list free
+clear,mach64,0.666666666666667,1,Clear dma buffers,mach64 dma buffers
+buffer,bus,0.666666666666667,2,Buffer space handle,bus space compose handle,buffer space handle,bus space compose handle
+mask,srom,0.666666666666667,1,Mask shift flag bits,srom shift bits
+handle,iwn,0.666666666666667,1,Handle media change request,iwn media change
+common,mp,0.666666666666667,1,cpu common startup,cpu mp startup
+needs,arm67,0.666666666666667,1,needs cache flush,arm67 cache flush
+lcd,p9100,0.666666666666667,1,LCD power hook,p9100 power hook
+notify,ray,0.666666666666667,1,Notify cmd done,ray cmd done
+enable,tl,0.666666666666667,1,enable multicast hash,tl multicast hash
+cdrom,hfslib,0.666666666666667,1,cdrom read header,hfslib read volume header
+acknowledge,wpi,0.666666666666667,1,acknowledge media change,wpi media change
+playback,cxgb,0.666666666666667,1,Playback ext intr,cxgb ext intr handler
+acknowledge,ath,0.666666666666667,1,acknowledge media change,ath media change
+cs,hscx,0.666666666666667,1,cs write fifo,hscx write fifo
+handle,iwi,0.666666666666667,1,Handle media change request,iwi media change
+dhcp,event,0.666666666666667,1,send DHCP request,mpt send event request
+reserve,pmap,0.666666666666667,1,reserve virtual space,pmap virtual space
+hardware,hw,0.666666666666667,1,setup hardware type,adb setup hw type
+disk,netbsd,0.666666666666667,1,write disk label,write netbsd label
+slock,pmap,0.666666666666667,1,slock next page,pmap next page
+driver,wi,0.666666666666667,1,driver key delete failed,wi key delete
+issue,gemini,0.666666666666667,1,Issue global reset,gemini global reset
+handle,ray,0.666666666666667,1,Handle media change request,ray media change
+id,socket,0.666666666666667,3,chip ID enable,hd64465pcmcia chip socket enable,chip ID enable,plumpcmcia chip socket enable,chip ID enable,hd64461pcmcia chip socket enable
+queue,sparse,0.6,1,Message queue bus space handle,arc sparse bus space dispose handle
+frame,vblank,0.666666666666667,1,update frame count,drm update vblank count
+install,ael1006,0.666666666666667,1,install intr handler,ael1006 intr handler
+free,xengnt,0.666666666666667,1,uvm_mapent_free free map entry,xengnt free entry
+to,machdep,0.666666666666667,1,process to read,process machdep read regs40
+handle,lii,0.666666666666667,1,Handle media change request,lii media change
+initiate,softdep,0.666666666666667,1,Initiate disk write,softdep disk write complete
+nesting,init,0.666666666666667,1,nesting interrupt masks,init interrupt masks
+call,topcat,0.666666666666667,2,Call common attach routines,topcat common attach,call common attach code,topcat common attach
+port,dbau1550,0.666666666666667,1,port slot status,dbau1550 slot status
+so,rbus,0.666666666666667,1,so round up,rbus round up
+execute,setup,0.666666666666667,1,Execute simple command parameters,setup simple command
+update,ep,0.666666666666667,1,Update media status,ep media status
+nb,pxa2x0,0.666666666666667,1,NB turbo mode,pxa2x0 turbo mode
+current,image,0.666666666666667,1,load current data word,load image data
+copyzero,syncicache,0.666666666666667,1,pmap copyzero page,pmap syncicache page
+which,iha,0.666666666666667,1,which reset chip,iha reset chip
+create,uvm,0.666666666666667,1,Create map entry,uvm map entry unwire
+memory,upc2,0.666666666666667,1,memory read config,upc2 read config
+ons,isa,0.666666666666667,1,$NetBSD cons c,c isa cons init
+setup,ae,0.666666666666667,1,Setup filter setup function,ae filter setup
+analog,ael1002,0.666666666666667,1,Analog power down,ael1002 power down
+device,mux,0.666666666666667,1,mux device open,wsmux mux open
+install,mc7,0.666666666666667,1,install intr handler,mc7 intr handler
+configuration,driver,0.666666666666667,2,print configuration info,print driver info,print configuration info children,print driver info
+l,arm67,0.666666666666667,1,l cache flush,arm67 cache flush
+bsd,os,0.666666666666667,1,bsd new line discipline,os new line
+dl,db,0.666666666666667,1,DL delete line,db delete line
+to,round,0.666666666666667,1,pad to blocksize,pad round blocksize
+mask,mii,0.666666666666667,1,Mask shift flag bits,mii shift bits
+first,pmap,0.666666666666667,1,First remove pv entry,pmap remove pv
+nd,via,0.666666666666667,1,nd mem alloc required,via mem alloc
+consistency,kstack,0.666666666666667,1,consistency check magic number,kstack check magic
+make,sifbios,0.666666666666667,1,Make rpc call,sifbios rpc call
+reset,print,0.666666666666667,1,Reset stack pointer,print stack pointer
+first,heathrow,0.666666666666667,1,first disable status irq,heathrow disable irq
+io,zs,0.666666666666667,1,IO write timeout reg,zs write reg
+install,sk,0.666666666666667,1,Install sysctl handler,sk sysctl handler
+signalling,tslot,0.666666666666667,1,signalling event thread,tslot event thread
+rx,tx,0.666666666666667,5,reset Rx ring,iwn reset tx ring,reset Rx ring,iwi reset tx ring,reset Rx ring,wpi reset tx ring,init Rx ring,ti init tx ring,init Rx ring,bge init tx ring
+install,tp,0.666666666666667,1,install intr handler,tp intr handler
+configure,bebox,0.666666666666667,1,configure enable irq,bebox enable irq
+copyzero,zero,0.666666666666667,1,pmap copyzero page,pmap zero page
+external,aqm,0.666666666666667,1,External int enable mask,aqm int enable
+read,mips3,0.666666666666667,1,Read clock intr reg,mips3 clock intr
+configure,heathrow,0.666666666666667,1,configure enable irq,heathrow enable irq
+layer,news,0.666666666666667,1,netif layer open,netif news open
+ignore,ipw,0.666666666666667,1,ignore media change,ipw media change
+install,pci,0.666666666666667,1,install intr handler,pci intr handler
+gigabit,ndis,0.666666666666667,1,Gigabit media status only,ndis media status
+remov,ndis,0.666666666666667,1,remov media status notif,ndis media status
+chipset,make,0.666666666666667,1,pci chipset tag,pci make tag
+first,cpc700,0.666666666666667,1,first disable status irq,cpc700 disable irq
+wide,sunscpal,0.666666666666667,1, Wide data xfer,sunscpal data xfer
+load,seq,0.666666666666667,1,load input event queue,seq input event
+needs,xscale,0.666666666666667,3,needs cache flush,xscale cache flush I,needs cache flush,xscale cache flush D,needs cache flush,xscale cache flush ID
+actually,cue,0.666666666666667,1,Actually open pipes,cue open pipes
+l,hypersparc,0.666666666666667,1,l cache flush,hypersparc cache flush all
+sent,daic,0.666666666666667,1, sent disconnect request,daic disconnect request
+warm,neo,0.666666666666667,1,warm reset AC' codec,neo reset codec
+enable,sbmac,0.666666666666667,2,enable promiscuous mode,sbmac promiscuous mode,Enable promiscuous mode,sbmac promiscuous mode
+disable,hd64461pcmcia,0.666666666666667,1,Disable power on interface,hd64461pcmcia power on
+signalling,hd64461pcmcia,0.666666666666667,1,signalling event thread,hd64461pcmcia event thread
+first,iocc,0.666666666666667,1,first disable status irq,iocc disable irq
+page,curscb,0.6,1,add page to free pool,ahc add curscb to free list
+interface,ress,0.666666666666667,1,add interface address,pfi address add
+that,init,0.666666666666667,1,cpu that first paniced,cpu init first
+acknowledge,rum,0.666666666666667,1,acknowledge media change,rum media change
+sent,n,0.666666666666667,1, sent disconnect request,n disconnect request
+mb,clear,0.666666666666667,1,MB video memory,clear video memory
+just,rf,0.666666666666667,1,Just print message,rf print panic message
+io,sws,0.666666666666667,1,IO write timeout reg,sws write reg
+rx,tmpfs,0.666666666666667,1,rx fifo write cycles,tmpfs fifo write
+new,print,0.666666666666667,1, new stack pointer,print stack pointer
+return,kmkbd,0.666666666666667,2,Return new state,kmkbd new state,RETURN new state object,kmkbd new state
+next,pll,0.666666666666667,1,load next block ,rb load pll block
+use,dead,0.666666666666667,1,Use default error handler,dead default error
+syscall,map,0.666666666666667,1,syscall gateway page,map gateway page
+restore,kill,0.666666666666667,1, restore user windows,kill user windows
+reset,vrpiu,0.666666666666667,1,reset tp scan timeout,vrpiu tp timeout
+first,softpic,0.666666666666667,1,first disable status irq,softpic disable irq
+ams,wi,0.666666666666667,1,AMS media change,wi media change
+print,os,0.666666666666667,1,print new line,os new line
+want,ae,0.666666666666667,2,want filter setup,ae filter setup, want filter setup,ae filter setup
+-,xpq,0.666666666666667,1,- flush L cache,xpq flush cache
+endisable,netbsd,0.666666666666667,1,write endisable label,write netbsd label
+rx,atppc,0.666666666666667,1,rx fifo write cycles,atppc fifo write
+current,fr,0.666666666666667,1,current state entry,fr state flush entry
+just,auixp,0.666666666666667,1,Just enable interrupts,auixp enable interrupts
+soft,ubsec,0.666666666666667,1,soft reset board,ubsec reset board
+'fixup',er,0.666666666666667,1,load 'fixup' data segment,kloader load segment
+pt,free,0.666666666666667,1,pmap PT page,pmap free page
+advance,seq,0.666666666666667,1,advance to new extension,seq to new
+io,tels0163,0.666666666666667,1,IO write timeout reg,tels0163 write reg
+just,ie,0.666666666666667,1,just drop packet,ie drop packet buffer
+warm,eap1371,0.666666666666667,1,warm reset AC' codec,eap1371 reset codec
+so,zyd,0.666666666666667,1,so complete attach,zyd complete attach
+receive,tmpfs,0.666666666666667,1,receive fifo read enable,tmpfs fifo read
+capture,cxgb,0.666666666666667,1,Capture ext intr,cxgb ext intr handler
+global,acpilid,0.666666666666667,1,Global notify handler installed,acpilid notify handler
+read,sh3,0.666666666666667,1,Read clock intr reg,sh3 clock intr
+r,bios,0.666666666666667,1,R save info,bios save info
+distance,bl,0.666666666666667,1,build distance tree,build bl tree
+setup,ar531x,0.666666666666667,1,setup early console,ar531x early console
+update,ieee80211,0.666666666666667,1,Update media status,ieee80211 media status
+serr,aqm,0.666666666666667,1,serr int enable,aqm int enable
+first,opic,0.666666666666667,1,first disable status irq,opic disable irq
+before,atapi,0.666666666666667,1,Before probe MII bus,atapi probe bus
+chip,videochip,0.666666666666667,1,update chip status,hd64461video update videochip status
+main,avic,0.666666666666667,1,main source file name,avic source name
+enable,rtw,0.666666666666667,1,enable disable interrupts,rtw disable interrupts
+request,bpf,0.666666666666667,1,Request timed out,bpf timed out
+handle,wi,0.666666666666667,1,Handle media change request,wi media change
+total,pmap,0.666666666666667,1,total real memory use,pmap real memory
+otherwise,iopiic,0.666666666666667,1,otherwise release bus,iopiic release bus
+ams,ep,0.666666666666667,1,AMS media change,ep media change
+fetch,zapm,0.666666666666667,1,fetch battery state,zapm battery state
+setclear,init,0.666666666666667,1,Setclear interrupt masks,init interrupt masks
+mode,statvfs,0.666666666666667,1,saved copy mode info,copy statvfs info
+cold,cs4281,0.666666666666667,1,cold reset AC' codec,cs4281 reset codec
+remov,lii,0.666666666666667,1,remov media status notif,lii media status
+rs-like,clmpcc,0.666666666666667,1,RS-like modem control sigs,clmpcc modem control
+storing,ofinstance,0.666666666666667,1,Storing to package element,OFinstance to package
+gp,hci,0.666666666666667,1,GP event status,hci event command status
+flags,kloader,0.666666666666667,1,flags from config file,kloader from file
+sleep,bpf,0.666666666666667,1, sleep timed out,bpf timed out
+cpu-independent,ms1,0.666666666666667,1,CPU-independent cache flush,ms1 cache flush all
+data,arm3,0.666666666666667,3,data cache flush line,arm3 cache flush,data cache flush page,arm3 cache flush,Data cache flush assist,arm3 cache flush
+register,ieee8023ad,0.666666666666667,2,register select port,ieee8023ad select tx port,Register select port,ieee8023ad select tx port
+acknowledge,ieee80211,0.666666666666667,1,acknowledge media change,ieee80211 media change
+media,dp83905,0.666666666666667,1,media init card,dp83905 init card
+active,pmap,0.666666666666667,1,active real memory,pmap real memory
+transmit,xb,0.666666666666667,2,Transmit fifo empty,xb fifo empty,transmit fifo empty,xb fifo empty
+try,ray,0.75,1,try update error counters,ray update error counters
+enable,expire,0.666666666666667,1,enable bw upcalls,expire bw upcalls send
+install,vsc8211,0.666666666666667,1,install intr handler,vsc8211 intr handler
+io,rs5c313,0.666666666666667,1,IO write timeout reg,rs5c313 write reg
+warm,auacer,0.666666666666667,1,warm reset AC' codec,auacer reset codec
+size,fetch,0.666666666666667,1,Extract module size info,module fetch info
+attached,linux,0.666666666666667,1,attached to domain,linux to bsd domain
+sense,driver,0.666666666666667,1, print sense info,print driver info
+ignore,awi,0.666666666666667,1,ignore media change,awi media change
+pv,proc,0.666666666666667,1,First remove pv entry,remove proc entry
+probe,pxapcic,0.666666666666667,1,Probe attach card,pxapcic attach card
+check,ural,0.666666666666667,1,check media change,ural media change
+handle,ar531x,0.666666666666667,1,Handle early console stuff,ar531x early console
+wol,hci,0.666666666666667,1,WOL event status,hci event command status
+cpu-independent,arm67,0.666666666666667,1,CPU-independent cache flush,arm67 cache flush
+wapbl,open,0.666666666666667,1,WAPBL log file inode,open log file
+tx,snap,0.666666666666667,1,init TX ring,esh init snap ring
+receive,xb,0.666666666666667,1,Receive fifo empty,xb fifo empty
+xxx,nouveau,0.666666666666667,1,XXX fifo size,nouveau fifo ctx size
+ams,ray,0.666666666666667,1,AMS media change,ray media change
+sanity,nfsmb,0.666666666666667,1,sanity check done caller,nfsmb check done
+data,load,0.666666666666667,1,load 'fixup' data segment,kloader load segment
+broadcast,emac3,0.666666666666667,1,Broadcast tx done,emac3 tx done
+auto,os,0.666666666666667,1,auto new line,os new line
+override,arm67,0.666666666666667,1,Override cache flush functions,arm67 cache flush
+install,pmtx,0.666666666666667,1,install intr handler,pmtx intr handler
+update,ndis,0.666666666666667,1,Update media status,ndis media status
+now,hpibbus,0.666666666666667,1,now attach children,hpibbus attach children
+warm,auich,0.666666666666667,1,warm reset AC' codec,auich reset codec
+kernel,print,0.666666666666667,2,kernel stack pointer valid,print stack pointer,kernel stack pointer,print stack pointer
+signalling,psm,0.666666666666667,1,signalling event thread,psm event thread
+signalling,tctrl,0.666666666666667,1,signalling event thread,tctrl event thread
+warm,auixp,0.666666666666667,1,warm reset AC' codec,auixp reset codec
+handle,rt2560,0.666666666666667,1,Handle media change request,rt2560 media change
+rw,ds1687,0.666666666666667,1,RW bank select,ds1687 bank select
+issue,ray,0.666666666666667,2,issue report params,ray report params,issue update params,ray update params
+gigabit,wi,0.666666666666667,1,Gigabit media status only,wi media status
+enable,at91rm9200bus,0.666666666666667,1,enable peripheral clock,at91rm9200bus peripheral clock
+switch,seq,0.666666666666667,4,Switch to new LWP,seq to new,switch to new vmspace,seq to new,switch to new level,seq to new,Switch to new tables,seq to new
+needs,sa1,0.666666666666667,3,needs cache flush,sa1 cache flush D,needs cache flush,sa1 cache flush ID,needs cache flush,sa1 cache flush I
+device,mv88e1xxx,0.666666666666667,1, device power down,mv88e1xxx power down
+fdc,vsc8211,0.666666666666667,1,FDC power down,vsc8211 power down
+clean,xennet,0.666666666666667,1,clean rx mbuf,xennet rx mbuf free
+look,twa,0.666666666666667,1,look soft reset AEN,twa soft reset
+otherwise,iomdiic,0.666666666666667,1,otherwise release bus,iomdiic release bus
+cold,auich,0.666666666666667,1,cold reset AC' codec,auich reset codec
+acknowledge,hppa,0.666666666666667,1,Acknowledge machine check,hppa machine check
+echo,event,0.666666666666667,1,send echo request,mpt send event request
+ams,atu,0.666666666666667,1,AMS media change,atu media change
+playback,pic,0.666666666666667,1,Playback ext intr,pic ext intr
+cf,emac3,0.666666666666667,1,CF tx done,emac3 tx done
+initialize,ofwoea,0.666666666666667,1,Initialize bootstrap console,ofwoea bootstrap console
+xfer,scsipi,0.666666666666667,1,xfer request sense,scsipi request sense
+encryption,acpilid,0.666666666666667,1, encryption status changed,acpilid status changed
+install,asus,0.666666666666667,2,Install notify handler,asus notify handler,Install notify handler events,asus notify handler
+uvm_pagermapout,pmap,0.666666666666667,1,uvm_pagermapout remove pager_map mapping,pmap remove mapping
+adaptor,vsc8211,0.666666666666667,1,adaptor power down,vsc8211 power down
+port,omsal400,0.666666666666667,1,port slot status,omsal400 slot status
+adapter,trm,0.666666666666667,1,adapter scsi reset,trm scsi reset detect
+ignore,lii,0.666666666666667,1,ignore media change,lii media change
+wait,bpf,0.666666666666667,1,Wait timed out,bpf timed out
+safely,esa,0.666666666666667,1, safely enable interrupts,esa enable interrupts
+mouse,radeonfb,0.666666666666667,1,mouse cursor position,radeonfb cursor position
+adapter,twa,0.666666666666667,1,adapter soft reset,twa soft reset
+finally,psycho,0.75,1,finally register power button,psycho register power button
+common,agten,0.666666666666667,1,Common fb ioctl function,agten fb ioctl
+find,count,0.666666666666667,1,Find lock sleep queue,count lock queue
+use,cuda,0.666666666666667,1,use error handler first,cuda error handler
+scsi,dbri,0.666666666666667,1,SCSI command send routine,dbri command send
+both,ael1006,0.666666666666667,1,both power down,ael1006 power down
+prevents,ym,0.666666666666667,1,prevents chip powerdown,ym chip powerdown
+io,ims332,0.666666666666667,1,IO write timeout reg,ims332 write reg
+pt,zero,0.666666666666667,1,pmap PT page,pmap zero page
+shared,log,0.666666666666667,1,open shared file lock,open log file
+check,rt2560,0.666666666666667,1,check media change,rt2560 media change
+configuration,bus,0.666666666666667,1,Configuration space access,bus space invalid access
+mouse,seq,0.666666666666667,1,mouse input event structures,seq input event
+ams,iwn,0.666666666666667,1,AMS media change,iwn media change
+check,wi,0.666666666666667,1,check media change,wi media change
+sysctl,global,0.666666666666667,1,release sysctl lock,acpi release global lock
+mask,hypervisor,0.666666666666667,1,mask clear event,hypervisor clear event
+wait,rumpuser,0.666666666666667,1,wait thread exit,rumpuser thread exit
+but,radeon,0.666666666666667,1,but do release ,radeon do release
+completed,ncr5380,0.666666666666667,1, completed data xfer,ncr5380 data xfer
+segment,image,0.666666666666667,1,load segment data,load image data
+check,lii,0.666666666666667,1,check media change,lii media change
+install,acpiacad,0.666666666666667,2,Install notify handler,acpiacad notify handler,Install notify handler events,acpiacad notify handler
+override,arm3,0.666666666666667,1,Override cache flush functions,arm3 cache flush
+check,ieee80211,0.666666666666667,1,check media change,ieee80211 media change
+eat,sppp,0.666666666666667,1,Eat up event,sppp up event
+turn,hd64461pcmcia,0.666666666666667,1,Turn power on,hd64461pcmcia power on
+isa,pci,0.666666666666667,1,ISA chipset tag,pci chipset tag type
+just,ndis,0.666666666666667,1,just send packet,ndis send packet
+autonegotiation,pmap,0.666666666666667,1,Autonegotiation next page,pmap next page
+console,hpckbd,0.666666666666667,1,Console input hook,hpckbd input hook
+allocate,wpi,0.666666666666667,1,Allocate setup beacon frame,wpi setup beacon
+locate,iop,0.666666666666667,1,Locate configure ``early'' devices,iop configure devices
+quick,sys,0.666666666666667,1,do quick wait COMMAND_COMPLETE,do sys wait
+keep,fd,0.666666666666667,1,keep motor on,fd motor on
+update,lii,0.666666666666667,1,Update media status,lii media status
+device,ael1002,0.666666666666667,1, device power down,ael1002 power down
+enable,auixp,0.666666666666667,1,enable disable interrupts,auixp disable interrupts
+operation,bpf,0.666666666666667,3,operation timed out,bpf timed out,Operation timed out,bpf timed out, operation timed out,bpf timed out
+acknowledge,awi,0.666666666666667,1,acknowledge media change,awi media change
+which,ohci,0.666666666666667,4,which device done,ohci device intr done,which device done,ohci device isoc done,which device done,ohci device bulk done,which device done,ohci device ctrl done
+pt,clean,0.666666666666667,1,pmap PT page,pmap clean page
+io,avma1pp,0.666666666666667,1,IO write timeout reg,avma1pp write reg
+reset,bpf,0.666666666666667,1,Reset timed out,bpf timed out
+configure,ohare,0.666666666666667,1,configure enable irq,ohare enable irq
+ring,emerg,0.666666666666667,1,Free Ring Buffers,rf Free Emerg Buffers
+handle,ipw,0.666666666666667,1,Handle media change request,ipw media change
+xxx,fr,0.666666666666667,1,XXX send GM reset,fr send reset
+fdc,mv88e1xxx,0.666666666666667,1,FDC power down,mv88e1xxx power down
+index,cg14,0.666666666666667,1,index move cursor down,cg14 move cursor
+modify,clmpcc,0.666666666666667,1,modify modem control state,clmpcc modem control
+want,sbmac,0.666666666666667,1, want promiscuous mode,sbmac promiscuous mode
+check,video,0.666666666666667,1,check reverse color,video reverse color
+input,xb,0.666666666666667,1,input fifo empty,xb fifo empty
+process,address,0.666666666666667,1,Process exception handler lock,address exception handler
+indicate,pppoe,0.666666666666667,1,indicate data input buffer,pppoe data input
+initiate,ray,0.666666666666667,1,initiate read region parity,ray read region
+pnp,vsc8211,0.666666666666667,1,PnP power down,vsc8211 power down
+now,auixp,0.666666666666667,2,Now disable interrupts,auixp disable interrupts,Now enable interrupts,auixp enable interrupts
+notify,awi,0.666666666666667,1,Notify cmd done,awi cmd done
+global,ioc,0.666666666666667,1, global irq status,ioc irq status
+flags,scsipi,0.666666666666667,1,flags completion thread,scsipi completion thread
+io,hscx,0.666666666666667,1,IO write timeout reg,hscx write reg
+adap,hppa,0.666666666666667,1,Adap machine check,hppa machine check
+check,ep,0.666666666666667,1,check media change,ep media change
+clear,auixp,0.666666666666667,2,Clear enable interrupts,auixp enable interrupts, clear enable interrupts,auixp enable interrupts
+slight,frame,0.666666666666667,1,slight sanity check,frame sanity check
+ed,hci,0.666666666666667,1,ED event status,hci event command status
+included,omap2icu,0.666666666666667,1,included source file name,omap2icu source name
+kernel,event,0.666666666666667,4,create kernel thread,at91cf create event thread,create kernel thread,pxapcic create event thread,create kernel thread,tcic create event thread,create kernel thread,usb create event thread
+system,s3c24x0,0.666666666666667,1,System clock freq fs,s3c24x0 clock freq
+adapter,emac3,0.666666666666667,1,adapter soft reset,emac3 soft reset
+media,eh,0.666666666666667,1,media init card,eh init card
+did,arm67,0.666666666666667,1,Did cache flush above,arm67 cache flush
+pci,db,0.666666666666667,1,PCI read line,db read line
+ams,rum,0.666666666666667,1,AMS media change,rum media change
+cache,cuda,0.666666666666667,1,Cache error handler,cuda error handler
+pnp,ael1002,0.666666666666667,1,PnP power down,ael1002 power down
+adapter,tcds,0.666666666666667,1,adapter scsi reset,tcds scsi reset
+cs,avma1,0.666666666666667,1,cs write fifo,avma1 write fifo
+tx,xb,0.666666666666667,1,tx fifo empty,xb fifo empty
+auto,scsipi,0.666666666666667,1,auto request sense err,scsipi request sense
+_,lev1map,0.666666666666667,1,pmap_create create pmap,pmap lev1map create
+watchdog,bcsp,0.666666666666667,1,watchdog timer timeout,bcsp timer timeout
+[],xpq,0.666666666666667,1,[] flush data cache,xpq flush cache
+determine,bfs,0.666666666666667,1,Determine superblock valid,bfs superblock valid
+initialise,clear,0.666666666666667,1,Initialise video memory descriptor,clear video memory
+dma,upc1,0.666666666666667,2,dma read config,upc1 read config,dma write config,upc1 write config
+hscx,ncr5380,0.666666666666667,1,HSCX data xfer error,ncr5380 data xfer
+try,emac3,0.666666666666667,1,Try soft reset,emac3 soft reset
+scsipi_free_xs,sif,0.666666666666667,1,scsipi_free_xs call start,sif call start
+ignore,cxgb,0.666666666666667,1,ignore media change,cxgb media change

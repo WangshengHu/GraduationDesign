@@ -1,0 +1,25 @@
+PROJECT : javaHMO  QUERY : extract network domain information
+****************************SWordNet****************************
+
+----------expansion num : 2 ----------
+----------expansion----------
+domain : alerts query
+----------search hits----------
+----------total 0 hits----------
+
+****************************word2vec****************************
+
+----------expansion num : 160 ----------
+----------expansion----------
+extract : extracting extracts retrieve grab extracted parse obtain convert manipulate retreive pull retrive store replace tokenize generate concatenate scrape fetch retreiving containing identify covert gather read parsed reconstruct parses append converts exclude combine contains represent grabbing contain excluding separates pass extraction
+domain : domain2 domains mydomain domainname company anemic subdomain business somedomain organization testdomain models serviceimpl sharer dto mycompany thumbqoo model somesite gisgraphy mysite myproject intermedix noreply myapp upn gserviceaccount appspot gid entry2 coderpro wwww tacs 000webhost dyndns htp gorm serice bhoomi rit
+information : informations details infos data info infomation statistics detail credentials infromation stats links titles materials cookies metadata specifics cna securely testimonials feedback usernames informaiton messages descriptions emails tweets statuses advertisements suggetion datas attributes contacts artists tidbits results playlists products username explenation
+network : networks lan ethernet wifi wlan vpn routers gigabit p2p wireless eth1 tcp gprs loopback firewalls sniffed 3g broadband udp networked isp bluetooth internet dhcp ip pc eth0 cellular wi samba hardware broadcasting sockets wlan0 82567 device router p3p1 nat nas
+----------search hits----------
+NetworkInfo.parseDomain()  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\util\NetworkInfo.java 24 28
+NetworkInfo.parseDomain(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\util\NetworkInfo.java 55 92
+LinuxNetworkInfo.parseDomain(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\util\LinuxNetworkInfo.java 60 62
+MacNetworkInfo.parseDomain(String)  @D:\Code\Repos\swordnet_java\projects\javaHMO\src\org\lnicholls\javahmo\util\MacNetworkInfo.java 60 62
+----------total 4 hits----------
+
+
